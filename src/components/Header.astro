@@ -1,0 +1,46 @@
+---
+import { business, hq } from '@/data/business';
+import { nav } from '@/data/nav';
+import { byPath } from '@/lib/pages';
+// A menu link to a page that hasn't been copied yet goes to the live site for now.
+const href = (p: string) => (byPath.has(p) ? p : `https://trustbugsy.com${p}`);
+---
+<div class="topbar"><div class="wrap">
+  <span>Serving Communities Across Florida</span>
+  <span class="topbar-phones">
+    {business.locations.map((l) => <a href={`tel:${l.phoneE164}`}>{l.label}: {l.phone}</a>)}
+  </span>
+</div></div>
+<header class="site-header">
+  <div class="wrap hdr">
+    <a href="/" class="brand" aria-label={`${business.name} home`}>
+      <img src={business.logo} alt={`${business.name} logo`} width="180" height="56" />
+    </a>
+    <nav aria-label="Main">
+      <button class="mtoggle" type="button" aria-expanded="false" aria-controls="menu">Menu</button>
+        <ul class="menu" id="menu">
+          {nav.map((item) => (
+            <li class={'children' in item ? 'has-sub' : ''}>
+              <a href={href(item.href)}>{item.label}</a>
+              {'children' in item && (
+                <ul class="sub">
+                  {item.children.map(([label, h]) => <li><a href={href(h)}>{label}</a></li>)}
+                </ul>
+              )}
+            </li>
+          ))}
+        </ul>
+    </nav>
+    <a class="btn btn-cta hdr-cta" href={`tel:${hq.phoneE164}`}>Call {hq.phone}</a>
+  </div>
+</header>
+<script is:inline>
+  (function () {
+    var b = document.querySelector('.mtoggle'), m = document.getElementById('menu');
+    if (!b || !m) return;
+    b.addEventListener('click', function () {
+      var open = b.getAttribute('aria-expanded') === 'true';
+      b.setAttribute('aria-expanded', String(!open)); m.classList.toggle('open', !open);
+    });
+  })();
+</script>

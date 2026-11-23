@@ -1,0 +1,18 @@
+{
+  "framework": "astro",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/rat-rodent-control/",
+      "destination": "/rodent-control/",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-pest-control/",
+      "destination": "/commercial/",
+      "permanent": true
+    }
+  ]
+}

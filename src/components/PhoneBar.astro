@@ -1,0 +1,7 @@
+---
+import { business } from '@/data/business';
+---
+<div class="phonebar" aria-label="Call us">
+  {business.locations.map((l) => <a href={`tel:${l.phoneE164}`}>Call {l.label}</a>)}
+  <a href="/contact/" class="pb-est">Free Estimate</a>
+</div>

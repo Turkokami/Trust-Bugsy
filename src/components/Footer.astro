@@ -1,0 +1,41 @@
+---
+import { business } from '@/data/business';
+const year = new Date().getFullYear();
+---
+<footer class="site-footer">
+  <div class="wrap fgrid">
+    <div>
+      <img src={business.logo} alt={`${business.name} logo`} width="180" height="56" loading="lazy" />
+      <p>{business.tagline}</p>
+      <p>{business.license}</p>
+      <p><a href={`mailto:${business.email}`}>{business.email}</a></p>
+      <p class="social">
+        <a href={business.social.facebook} rel="noopener">Facebook</a> ·
+        <a href={business.social.instagram} rel="noopener">Instagram</a> ·
+        <a href={business.social.google} rel="noopener">Google</a> ·
+        <a href={business.social.youtube} rel="noopener">YouTube</a>
+      </p>
+    </div>
+    {business.locations.map((l) => (
+      <div>
+        <h2 class="fh">{l.label}</h2>
+        <p>{l.street}<br />{l.city}, {l.state} {l.zip}</p>
+        <p><a href={`tel:${l.phoneE164}`}>{l.phone}</a></p>
+        <p><a href={l.maps} rel="noopener">Get directions</a></p>
+      </div>
+    ))}
+    <div>
+      <h2 class="fh">Company</h2>
+      <ul class="flinks">
+        <li><a href="/about/">About</a></li>
+        <li><a href="/reviews/">Reviews</a></li>
+        <li><a href="/blogs/">Blog</a></li>
+        <li><a href="/service-area/">Service Area</a></li>
+        <li><a href="/packages/">Our Plans</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/privacy-policy/">Privacy Policy</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap fbase">© {year} {business.name}. All rights reserved.</div>
+</footer>

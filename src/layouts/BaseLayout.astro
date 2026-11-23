@@ -1,0 +1,65 @@
+---
+import '@/styles/global.css';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import PhoneBar from '@/components/PhoneBar.astro';
+import { business } from '@/data/business';
+import { buildGraph, type Crumb, type Faq } from '@/lib/schema';
+
+interface Props {
+  title: string;
+  description: string;
+  path: string;
+  crumbs?: Crumb[];
+  service?: string;
+  faqs?: Faq[];
+  image?: string;
+  noindex?: boolean;
+}
+const { title, description, path, crumbs = [{ name: 'Home', path: '/' }], service, faqs, image, noindex = false } = Astro.props;
+const canonical = new URL(path, business.url).href;
+const TITLE_MAX = 60;
+const suffixed = `${title} | ${business.shortName}`;
+const fullTitle = /bugsy/i.test(title) || suffixed.length > TITLE_MAX ? title : suffixed;
+const share = image ?? business.heroImage;
+const graph = buildGraph({ path, title: fullTitle, description, crumbs, service, faqs, image });
+---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex,follow" />}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={business.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content={share} />
+    <meta property="og:locale" content="en_US" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={share} />
+    <meta name="geo.region" content="US-FL" />
+    <meta name="geo.placename" content="Lake Worth Beach, Florida" />
+    <link rel="icon" href={business.logo} type="image/webp" />
+    <link rel="preconnect" href="https://trustbugsy.com" />
+    <script type="application/ld+json" set:html={JSON.stringify(graph)} />
+  </head>
+  <body>
+    <a href="#main" class="skip">Skip to content</a>
+    <Header />
+    <main id="main"><slot /></main>
+    <Footer />
+    <PhoneBar />
+    <script is:inline>
+      document.querySelectorAll('[data-preview-form]').forEach(function (f) {
+        f.addEventListener('submit', function (e) { e.preventDefault(); var n = f.querySelector('.form-note'); if (n) n.hidden = false; });
+      });
+    </script>
+  </body>
+</html>
