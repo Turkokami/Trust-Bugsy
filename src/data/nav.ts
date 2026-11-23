@@ -37,7 +37,7 @@ export const nav = [
     label: 'Service Area', href: '/service-area/',
     children: [
       ['Boca Raton', '/boca-raton-fl-pest-control/'],
-      ['Pompano Beach', '/service-area/pompano-beach/'],
+      ['Pompano Beach', '/pompano-beach-fl-pest-control/'],
       ['Palm Beach County', '/palm-beach-county-pest-control/'],
       ['Broward County', '/broward-county-fl-pest-control/'],
       ['All service areas', '/service-area/'],

@@ -1,5 +1,5 @@
 ---
-path: "/service-area/pompano-beach/"
+path: "/pompano-beach-fl-pest-control/"
 title: "Pest Control & Exterminator in Pompano Beach, FL | Bugsy's"
 description: "Pompano Beach’s coastal location, year-round warmth, and mix of residential and commercial areas create ideal conditions for pests."
 type: "area"
@@ -80,9 +80,9 @@ Pompano Beach’s coastal humidity makes it highly active for palmetto bugs year
 
 ## Areas Near Pompano Beach We Also Serve
 
-- [Coral Springs](https://trustbugsy.com/coral-springs-fl-pest-control/)
-- [Deerfield Beach](https://trustbugsy.com/service-area/deerfield-beach/)
-- [Fort Lauderdale](https://trustbugsy.com/service-area/hollywood/)
+- [Coral Springs](/coral-springs-fl-pest-control/)
+- [Deerfield Beach](/deerfield-beach-fl-pest-control/)
+- [Fort Lauderdale](/hollywood-fl-pest-control/)
 - [Boca Raton](/boca-raton-fl-pest-control/)
 
 ## Pompano Beach Pest Control — Frequently Asked Questions

@@ -13,6 +13,51 @@
       "source": "/commercial-pest-control/",
       "destination": "/commercial/",
       "permanent": true
+    },
+    {
+      "source": "/service-area/coral-springs/",
+      "destination": "/coral-springs-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/davie/",
+      "destination": "/davie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/deerfield-beach/",
+      "destination": "/deerfield-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/hollywood/",
+      "destination": "/hollywood-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/miramar/",
+      "destination": "/miramar-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pembroke-pines/",
+      "destination": "/pembroke-pines-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/plantation/",
+      "destination": "/plantation-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pompano-beach/",
+      "destination": "/pompano-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/sunrise/",
+      "destination": "/sunrise-fl-pest-control/",
+      "permanent": true
     }
   ],
   "headers": [

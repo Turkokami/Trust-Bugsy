@@ -78,7 +78,7 @@ American cockroaches (palmetto bugs) and German cockroaches both thrive in West 
 
 ## Areas Near West Palm Beach We Also Serve
 
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
 - [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
 - [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
 - [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)

@@ -85,9 +85,9 @@ Palmetto bugs are a fact of life in Delray Beach — but they don’t have to be
 ## Areas Near Delray Beach We Also Serve
 
 - [Boca Raton](/boca-raton-fl-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
 - [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Deerfield Beach](https://trustbugsy.com/service-area/deerfield-beach/)
+- [Deerfield Beach](/deerfield-beach-fl-pest-control/)
 
 ## Delray Beach Pest Control — Frequently Asked Questions
 

@@ -94,7 +94,7 @@ You may see live fleas for up to 2 weeks after treatment — these are newly eme
 
 ## Get a Free Flea Control Estimate
 
-Don’t wait for a pest problem to get worse. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](https://trustbugsy.com/service-area/coral-springs/), [Pompano Beach](/service-area/pompano-beach/), and surrounding areas.
+Don’t wait for a pest problem to get worse. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](/coral-springs-fl-pest-control/), [Pompano Beach](/pompano-beach-fl-pest-control/), and surrounding areas.
 
 Get A Free Quote
 
@@ -312,12 +312,12 @@ When pests invade, you need a reliable and experienced team to restore peace to 
 
 - [broward county](#)
 
-- [Hollywood](https://trustbugsy.com/service-area/hollywood/)
-- [Pompano Beach](/service-area/pompano-beach/)
-- [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)
-- [Miramar](https://trustbugsy.com/service-area/miramar/)
-- [Coral Springs](https://trustbugsy.com/service-area/coral-springs/)
-- [Davie](https://trustbugsy.com/service-area/davie/)
-- [Plantation](https://trustbugsy.com/service-area/plantation/)
-- [Sunrise](https://trustbugsy.com/service-area/sunrise/)
-- [Deerfield Beach](https://trustbugsy.com/service-area/deerfield-beach/)
+- [Hollywood](/hollywood-fl-pest-control/)
+- [Pompano Beach](/pompano-beach-fl-pest-control/)
+- [Pembroke Pines](/pembroke-pines-fl-pest-control/)
+- [Miramar](/miramar-fl-pest-control/)
+- [Coral Springs](/coral-springs-fl-pest-control/)
+- [Davie](/davie-fl-pest-control/)
+- [Plantation](/plantation-fl-pest-control/)
+- [Sunrise](/sunrise-fl-pest-control/)
+- [Deerfield Beach](/deerfield-beach-fl-pest-control/)

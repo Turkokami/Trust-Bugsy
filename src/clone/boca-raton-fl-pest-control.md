@@ -81,9 +81,9 @@ Both palmetto bugs and German cockroaches are active in Boca Raton kitchens and 
 ## Areas Near Boca Raton We Also Serve
 
 - [Delray Beach](/delray-beach-fl-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-fl-pest-control/)
-- [Deerfield Beach](https://trustbugsy.com/service-area/deerfield-beach/)
-- [Pompano Beach](/service-area/pompano-beach/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Deerfield Beach](/deerfield-beach-fl-pest-control/)
+- [Pompano Beach](/pompano-beach-fl-pest-control/)
 
 ## Boca Raton Pest Control — Frequently Asked Questions
 

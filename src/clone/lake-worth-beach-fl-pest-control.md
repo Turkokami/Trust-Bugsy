@@ -165,7 +165,7 @@ Bugsy’s Pest Solutions is based in Lake Worth Beach and serves the entire Palm
 
 ### Nearby Palm Beach County Communities We Serve
 
-- **[→ Boynton Beach](https://trustbugsy.com/boynton-beach-fl-pest-control/)**
+- **[→ Boynton Beach](/boynton-beach-fl-pest-control/)**
 - **[→ Greenacres](https://trustbugsy.com/service-area/greenacres/)**
 - **[→ Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)**
 - **[→ West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/)**
@@ -173,19 +173,19 @@ Bugsy’s Pest Solutions is based in Lake Worth Beach and serves the entire Palm
 - **[→ Boca Raton](/boca-raton-fl-pest-control/)**
 - **[→ Wellington](https://trustbugsy.com/service-area/wellington/)**
 - **[→ Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)**
-- **[→ Jupiter](https://trustbugsy.com/jupiter-fl-pest-control/)**
+- **[→ Jupiter](/jupiter-fl-pest-control/)**
 
 ### Broward County Communities We Also Serve
 
-- **[→ Hollywood](https://trustbugsy.com/service-area/hollywood/)**
-- **[→ Pompano Beach](/service-area/pompano-beach/)**
-- **[→ Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)**
-- **[→ Miramar](https://trustbugsy.com/miramar-fl-pest-control/)**
-- **[→ Coral Springs](https://trustbugsy.com/coral-springs-fl-pest-control/)**
-- **[→ Davie](https://trustbugsy.com/service-area/davie/)**
-- **[→ Plantation](https://trustbugsy.com/plantation-fl-pest-control/)**
-- **[→ Sunrise](https://trustbugsy.com/sunrise-fl-pest-control/)**
-- **[→ Deerfield Beach](https://trustbugsy.com/service-area/deerfield-beach/)**
+- **[→ Hollywood](/hollywood-fl-pest-control/)**
+- **[→ Pompano Beach](/pompano-beach-fl-pest-control/)**
+- **[→ Pembroke Pines](/pembroke-pines-fl-pest-control/)**
+- **[→ Miramar](/miramar-fl-pest-control/)**
+- **[→ Coral Springs](/coral-springs-fl-pest-control/)**
+- **[→ Davie](/davie-fl-pest-control/)**
+- **[→ Plantation](/plantation-fl-pest-control/)**
+- **[→ Sunrise](/sunrise-fl-pest-control/)**
+- **[→ Deerfield Beach](/deerfield-beach-fl-pest-control/)**
 
 Additionally, we serve [Port Saint Lucie and all of St. Lucie County](https://trustbugsy.com/service-area/st-lucie-county/). View our complete
 

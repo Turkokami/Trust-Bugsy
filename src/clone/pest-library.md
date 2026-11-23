@@ -107,15 +107,15 @@ When pests invade, you need a reliable and experienced team to restore peace to 
 
 - [broward county](#)
 
-- [Hollywood](https://trustbugsy.com/service-area/hollywood/)
-- [Pompano Beach](/service-area/pompano-beach/)
-- [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)
-- [Miramar](https://trustbugsy.com/service-area/miramar/)
-- [Coral Springs](https://trustbugsy.com/service-area/coral-springs/)
-- [Davie](https://trustbugsy.com/service-area/davie/)
-- [Plantation](https://trustbugsy.com/service-area/plantation/)
-- [Sunrise](https://trustbugsy.com/service-area/sunrise/)
-- [Deerfield Beach](https://trustbugsy.com/service-area/deerfield-beach/)
+- [Hollywood](/hollywood-fl-pest-control/)
+- [Pompano Beach](/pompano-beach-fl-pest-control/)
+- [Pembroke Pines](/pembroke-pines-fl-pest-control/)
+- [Miramar](/miramar-fl-pest-control/)
+- [Coral Springs](/coral-springs-fl-pest-control/)
+- [Davie](/davie-fl-pest-control/)
+- [Plantation](/plantation-fl-pest-control/)
+- [Sunrise](/sunrise-fl-pest-control/)
+- [Deerfield Beach](/deerfield-beach-fl-pest-control/)
 
 Any Questions?
 
