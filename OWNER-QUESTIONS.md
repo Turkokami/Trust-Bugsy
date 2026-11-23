@@ -41,3 +41,7 @@ on the new site until the owner confirms it, because the build invents no facts.
       the drywood and subterranean pages.
 15. **Software:** the HOA page mentions FieldRoutes. Should the estimate form send leads
     straight into FieldRoutes?
+16. **Third phone number.** Some older pages show (844) 544-7546. Is it still in use, and should it appear anywhere?
+17. **Which office is headquarters?** Most pages say "family-owned and operated in Lake Worth Beach"; the Broward city pages say "we are based in Pompano Beach". Which should the new site say?
+18. **Copy errors on the live city pages (copied as-is for now).** The Oakland Park page says Pompano Beach is "directly south" of Oakland Park (it's north); the Sunrise page still says "BB&T Center". OK to correct these?
+19. **Treasure Coast neighborhood pages.** The Stuart and Fort Pierce pages link to Sewall's Point, North River Shores, Hutchinson Island and Indian River Estates pages. Are those areas served and should they come over too?
