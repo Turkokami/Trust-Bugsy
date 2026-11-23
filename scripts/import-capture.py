@@ -85,6 +85,10 @@ for fn in sorted(os.listdir(cap)):
     body = re.sub(r'^\(All Google reviews[^\n]*\)\s*$', '', body, flags=re.M)
     body = re.sub(r'^\[FORM: ?([^,\]]+)[^\n]*$', lambda f: FORM_CONTACT if 'contact' in f.group(1).lower() else FORM_CTA, body, flags=re.M)
     body = re.sub(r'\]\(tel:\)', '](tel:+15616548998)', body)
+    body = re.sub(r'^(Trust logos:|Scrolling ticker \(repeated\):.*|Before/After image comparison slider:.*)\s*$', '', body, flags=re.M)
+    body = re.sub(r'\]\(#(?:elementor-action|popup)[^)]*\)', '](/contact/)', body)   # live popups -> contact page
+    body = re.sub(r'(?<!!)\[\]\([^)]*\)', '', body)                                 # empty-text links (icon buttons)
+    body = re.sub(r'^\s*-\s*$', '', body, flags=re.M)                               # list items left empty
     body = re.sub(r'\n{3,}', '\n\n', body).strip() + '\n'
     url = meta.get('url', '').strip()
     path = re.sub(r'^https?://[^/]+', '', url) or '/'
@@ -97,6 +101,7 @@ for fn in sorted(os.listdir(cap)):
     title = re.sub(r'\s*[-|–]\s*Bugsy.*$', '', title) if len(title) > 60 else title
     h1m = re.search(r'^# (.+)$', body, re.M)
     h1 = h1m.group(1).strip() if h1m else title
+    h1 = re.sub(r'[*_`]', '', h1).strip()
     typ = classify(path)
     if typ == 'home' and h1m:
         body = body.replace(h1m.group(0), '', 1)

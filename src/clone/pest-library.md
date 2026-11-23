@@ -15,7 +15,7 @@ image: "https://trustbugsy.com/wp-content/uploads/2025/03/Group-279.webp"
 
 ![Eco-friendly service icon](https://trustbugsy.com/wp-content/uploads/2025/03/3.webp) Safe & Effective Solutions
 
-[Get Your Free Estimate](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIwMjUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
+[Get Your Free Estimate](/contact/)
 
 ![AI Generated Image 2026 03 27 1 Photoroom](https://trustbugsy.com/wp-content/uploads/2026/03/AI_Generated_Image_2026-03-27-1-Photoroom.webp)
 
@@ -83,7 +83,7 @@ Why Smart Homeowners Trust Bugsy’s Pest for Lasting Results
 
 We understand that protecting your family, pets, and home is your top priority. That’s why at **Bugsy’s Pest Solutions**, we are fully dedicated to providing you with a safe, secure, and pest-free environment. Our team takes every step to ensure the well-being of your loved ones, utilizing **eco-friendly, family-friendly, and pet-safe** methods to eliminate pests and prevent future infestations.
 
-[Get Your Free Estimate](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjIwMjUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
+[Get Your Free Estimate](/contact/)
 
 ![Bugsy's Pest Solutions van parked in front of a home](https://trustbugsy.com/wp-content/uploads/2025/04/Group-333-min.webp)
 
@@ -108,7 +108,7 @@ When pests invade, you need a reliable and experienced team to restore peace to 
 - [broward county](#)
 
 - [Hollywood](https://trustbugsy.com/service-area/hollywood/)
-- [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach/)
+- [Pompano Beach](/service-area/pompano-beach/)
 - [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)
 - [Miramar](https://trustbugsy.com/service-area/miramar/)
 - [Coral Springs](https://trustbugsy.com/service-area/coral-springs/)

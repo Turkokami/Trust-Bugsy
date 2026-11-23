@@ -3,7 +3,7 @@ path: "/platinum-package/"
 title: "Bugsy's Pest Solutions: Platinum Package for Pest Control"
 description: "The Platinum Package goes a step beyond. Not only does it include everything from the Gold Package—tackling ants, spiders, roaches, and other common pests—it…"
 type: "plan"
-h1: "**Platinum Package** – Indoor + Outdoor Coverage"
+h1: "Platinum Package – Indoor + Outdoor Coverage"
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-327-1-1.webp"
 ---
 
@@ -21,7 +21,7 @@ Enjoy your home and outdoor spaces without the worry of buzzing pests or itchy b
 
 Comprehensive pest protection that lets you enjoy every corner of your property.
 
-[Get Your Free Estimate](#popup-2025)
+[Get Your Free Estimate](/contact/)
 
 
 ![Bugsy's Platinum service package badge](https://trustbugsy.com/wp-content/uploads/2025/04/Group-327-1-1.webp)

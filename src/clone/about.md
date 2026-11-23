@@ -41,7 +41,6 @@ Get your Free Estimate
 
 [](https://youtu.be/W0DOiFogFC0?si=ZYtbBsID_u4Gt4SC)
 
-Trust logos:
 - [![National Pest Management Association (NPMA) logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-170.webp)](https://www.npmapestworld.org/)
 - [![Google Reviews five-star rating logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-230.webp)](https://www.google.com/maps?cid=10013404548453642549)
 - ![466389806 1126925649440587 8786967810045304411 n Photoroom](https://trustbugsy.com/wp-content/uploads/2025/03/466389806_1126925649440587_8786967810045304411_n-Photoroom-2.webp)
@@ -50,7 +49,7 @@ Trust logos:
 
 ![Bugsy's Pest Solutions owner beside a branded service truck](https://trustbugsy.com/wp-content/uploads/2025/04/Group-285-2.webp)
 
-Schedule Call Today! [Let’s Get Started](#popup-free-estimate)
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 ### Bugsy’s Pest Solutions – Your
 
@@ -69,8 +68,6 @@ Why Homeowners Trust Bugsy’s Our team of trained pest professionals is equippe
 - We Prioritize the Safety of Your Family & Pets
 
 As a veteran-owned business, Bugsy’s Pest Solutions upholds the values of discipline, reliability, and service excellence. Zach and his team take a meticulous, science-backed approach to pest control, offering customized treatments that prioritize safety and sustainability.
-
-Scrolling ticker (repeated): Trusted Pest Control, Guaranteed Results
 
 From Service to Solutions
 
@@ -92,9 +89,7 @@ The Pursuit of Excellence
 
 
 
-Schedule Call Today! [Let’s Get Started](#popup-free-estimate)
-
-Scrolling ticker (repeated): Trusted Pest Control, Guaranteed Results
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 Bugsy Pest Portfolio
 
@@ -153,7 +148,7 @@ When pests invade, you need a reliable and experienced team to restore peace to 
   - [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
 - broward county
   - [Hollywood](https://trustbugsy.com/service-area/hollywood/)
-  - [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach/)
+  - [Pompano Beach](/service-area/pompano-beach/)
   - [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)
   - [Miramar](https://trustbugsy.com/service-area/miramar/)
   - [Coral Springs](https://trustbugsy.com/service-area/coral-springs/)

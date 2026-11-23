@@ -24,7 +24,7 @@ When pests invade, you need a reliable and experienced team to restore peace to 
   - [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
 - broward county
   - [Hollywood](https://trustbugsy.com/service-area/hollywood/)
-  - [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach/)
+  - [Pompano Beach](/service-area/pompano-beach/)
   - [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)
   - [Miramar](https://trustbugsy.com/service-area/miramar/)
   - [Coral Springs](https://trustbugsy.com/service-area/coral-springs/)

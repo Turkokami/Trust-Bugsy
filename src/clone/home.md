@@ -38,7 +38,6 @@ Get Your Free Estimate
 
 [](https://youtu.be/W0DOiFogFC0?si=ZYtbBsID_u4Gt4SC)
 
-Trust logos:
 - [![National Pest Management Association (NPMA) logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-170.webp)](https://www.npmapestworld.org/)
 - [![Google Reviews five-star rating logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-230.webp)](https://www.google.com/maps?cid=10013404548453642549)
 - ![466389806 1126925649440587 8786967810045304411 n Photoroom](https://trustbugsy.com/wp-content/uploads/2025/03/466389806_1126925649440587_8786967810045304411_n-Photoroom-2.webp)
@@ -67,7 +66,7 @@ What Florida Homeowners Says About Bugsy’s Pest
 
 ![Bugsy's Pest Solutions owner beside a branded service truck](https://trustbugsy.com/wp-content/uploads/2025/04/Group-285-2.webp)
 
-Schedule Call Today! [Let’s Get Started](#popup-free-estimate)
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 ### Bugsy’s Pest Solutions – Your
 
@@ -110,7 +109,7 @@ Join your neighbors in trusting Bugsy’s Pest Solutions to protect your Florida
 
 --
 
-[Get Your Free Estimate](#popup-free-estimate)
+[Get Your Free Estimate](/contact/)
 
 Our Services
 
@@ -123,7 +122,7 @@ Bugsy’s Expert Pest Control Solutions for Every Home & Business
 
 ![Well-maintained South Florida home serviced by Bugsy's Pest Solutions](https://trustbugsy.com/wp-content/uploads/2025/04/Group-330-min.webp)
 
-Schedule Call Today! [Let’s Get Started](#popup-free-estimate)
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 ### [Ant Control](https://trustbugsy.com/service/ant-control/)
 [![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](https://trustbugsy.com/service/ant-control/)
@@ -165,8 +164,6 @@ Many pest control companies in Florida stop at a simple spray around your home�
 
 The result? Temporary relief that doesn’t address the root cause.
 
-Before/After image comparison slider:  /  — labels "Before" and "After"
-
 The Bugsy’s Difference
 
 **Our Comprehensive Protection Process**
@@ -197,7 +194,7 @@ Why Smart Homeowners Trust Bugsy’s Pest for Lasting Results
 
 We understand that protecting your family, pets, and home is your top priority. That’s why at **Bugsy’s Pest Solutions**, we are fully dedicated to providing you with a safe, secure, and pest-free environment. Our team takes every step to ensure the well-being of your loved ones, utilizing **eco-friendly, family-friendly, and pet-safe** methods to eliminate pests and prevent future infestations.
 
-[Get Your Free Estimate](#popup-free-estimate)
+[Get Your Free Estimate](/contact/)
 
 ![Bugsy's Pest Solutions truck parked in front of a home](https://trustbugsy.com/wp-content/uploads/2025/04/Group-335-min.webp)
 
@@ -220,7 +217,7 @@ Showcasing Excellence in Every Job
 
 ## Bugsy’s Proven Pest Control Process
 
-Schedule Call Today! [Let’s Get Started](#popup-free-estimate)
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 Our Process
 
@@ -238,9 +235,6 @@ We create a custom, eco-friendly plan for effective, long-term pest control.
 ### *Precision* **Treatment**
 Our team applies advanced methods to eliminate pests while keeping your home safe and comfortable.
 
-Scrolling ticker (repeated): Trusted Pest Control, Guaranteed Results
-
-Trust logos:
 - [![National Pest Management Association (NPMA) logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-170.webp)](https://www.npmapestworld.org/)
 - [![Google Reviews five-star rating logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-230.webp)](https://www.google.com/maps?cid=10013404548453642549)
 - ![466389806 1126925649440587 8786967810045304411 n Photoroom](https://trustbugsy.com/wp-content/uploads/2025/03/466389806_1126925649440587_8786967810045304411_n-Photoroom-2.webp)
@@ -281,19 +275,19 @@ The Bugsy’s Pest Solutions Service Areas
 When pests invade, you need a reliable and experienced team to restore peace to your home. Our expert exterminators specialize in eliminating ants, spiders, cockroaches, mosquitoes, termites, rodents, and even weeds.
 
 - palm beach county
-  - [Pest control in Boca Raton](https://trustbugsy.com/boca-raton-fl-pest-control/)
+  - [Pest control in Boca Raton](/boca-raton-fl-pest-control/)
   - [Pest control in Boynton Beach](https://trustbugsy.com/boynton-beach-fl-pest-control/)
   - [Pest control in Greenacres](https://trustbugsy.com/greenacres-fl-pest-control/)
   - [Pest control in Wellington](https://trustbugsy.com/wellington-fl-pest-control/)
   - [Pest control in Jupiter](https://trustbugsy.com/jupiter-fl-pest-control/)
-  - [Pest control in Delray Beach](https://trustbugsy.com/delray-beach-fl-pest-control/)
+  - [Pest control in Delray Beach](/delray-beach-fl-pest-control/)
   - [Pest control in Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-fl-pest-control/)
   - [Pest control in Royal Palm Beach](https://trustbugsy.com/royal-palm-beach-fl-pest-control/)
-  - [Pest control in Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/)
-  - [Pest control in West Palm Beach](https://trustbugsy.com/west-palm-beach-fl-pest-control/)
+  - [Pest control in Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+  - [Pest control in West Palm Beach](/west-palm-beach-fl-pest-control/)
 - broward county
   - [Hollywood](https://trustbugsy.com/service-area/hollywood/)
-  - [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach/)
+  - [Pompano Beach](/service-area/pompano-beach/)
   - [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)
   - [Miramar](https://trustbugsy.com/service-area/miramar/)
   - [Coral Springs](https://trustbugsy.com/service-area/coral-springs/)

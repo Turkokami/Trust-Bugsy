@@ -38,7 +38,6 @@ Get your Free Estimate
 
 [](https://youtu.be/W0DOiFogFC0?si=ZYtbBsID_u4Gt4SC)
 
-Trust logos:
 - [![National Pest Management Association (NPMA) logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-170.webp)](https://www.npmapestworld.org/)
 - [![Google Reviews five-star rating logo](https://trustbugsy.com/wp-content/uploads/2025/03/Group-230.webp)](https://www.google.com/maps?cid=10013404548453642549)
 - ![466389806 1126925649440587 8786967810045304411 n Photoroom](https://trustbugsy.com/wp-content/uploads/2025/03/466389806_1126925649440587_8786967810045304411_n-Photoroom-2.webp)
@@ -107,7 +106,7 @@ All plans include our pest-free guarantee and free retreatments if pests return 
 
 ## ![Technician treating the eaves of a home's exterior with an extension pole](https://trustbugsy.com/wp-content/uploads/2026/03/2-1.webp) Service Areas
 
-We provide residential pest control throughout Palm Beach and Broward counties, including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](https://trustbugsy.com/service-area/coral-springs/), [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach/), and surrounding communities. View our full [service area](/service-area/).
+We provide residential pest control throughout Palm Beach and Broward counties, including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](https://trustbugsy.com/service-area/coral-springs/), [Pompano Beach](/service-area/pompano-beach/), and surrounding communities. View our full [service area](/service-area/).
 
 ## Frequently Asked Questions
 
@@ -125,9 +124,9 @@ Every Bugsy’s service plan includes our pest-free guarantee. If pests return b
 
 ## Get a Free Residential Pest Control Estimate
 
-Don’t wait for a pest problem to get worse. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](https://trustbugsy.com/service-area/coral-springs/), [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach/), and surrounding areas.
+Don’t wait for a pest problem to get worse. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](https://trustbugsy.com/service-area/coral-springs/), [Pompano Beach](/service-area/pompano-beach/), and surrounding areas.
 
-We serve homes and businesses across Palm Beach and Broward counties, including pest control in [Boca Raton](https://trustbugsy.com/boca-raton-fl-pest-control/), [Delray Beach](https://trustbugsy.com/delray-beach-fl-pest-control/), [Boynton Beach](https://trustbugsy.com/boynton-beach-fl-pest-control/), [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/), [Royal Palm Beach](https://trustbugsy.com/royal-palm-beach-fl-pest-control/) and [Wellington](https://trustbugsy.com/wellington-fl-pest-control/).
+We serve homes and businesses across Palm Beach and Broward counties, including pest control in [Boca Raton](/boca-raton-fl-pest-control/), [Delray Beach](/delray-beach-fl-pest-control/), [Boynton Beach](https://trustbugsy.com/boynton-beach-fl-pest-control/), [Lake Worth Beach](/lake-worth-beach-fl-pest-control/), [Royal Palm Beach](https://trustbugsy.com/royal-palm-beach-fl-pest-control/) and [Wellington](https://trustbugsy.com/wellington-fl-pest-control/).
 
 Get A Free Quote
 
@@ -138,7 +137,7 @@ Get A Free Quote
 
 ## Bugsy’s Proven Pest Control Process
 
-Schedule Call Today! [Let’s Get Started](#popup-2025)
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 Our Process
 
@@ -201,7 +200,7 @@ Bugsy’s Expert Pest Control Solutions for Every Home & Business
 
 ![Well-maintained South Florida home serviced by Bugsy's Pest Solutions](https://trustbugsy.com/wp-content/uploads/2025/04/Group-330-min.webp)
 
-Schedule Call Today! [Let’s Get Started](#popup-2025)
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 - [![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](https://trustbugsy.com/service/ant-control/) ### [Ant Control](https://trustbugsy.com/service/ant-control/)
 - [![Bed bug control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-40.webp)](https://trustbugsy.com/service/bed-bug-extermination/) ### [Bed Bug Control](https://trustbugsy.com/service/bed-bug-extermination/)
@@ -226,11 +225,11 @@ Join your neighbors in trusting Bugsy’s Pest Solutions to protect your Florida
 - [](https://trustbugsy.com/service/mosquito-control/) ### [mosquito control](https://trustbugsy.com/service/mosquito-control/)
 - [](https://trustbugsy.com/service/insulation-removal/) ### [insulation and rats](https://trustbugsy.com/service/insulation-removal/) --
 
-[Get Your Free Estimate](#popup-2025)
+[Get Your Free Estimate](/contact/)
 
 ![Bugsy's Pest Solutions owner beside a branded service truck](https://trustbugsy.com/wp-content/uploads/2025/04/Group-285-2.webp)
 
-Schedule Call Today! [Let’s Get Started](#popup-2025)
+Schedule Call Today! [Let’s Get Started](/contact/)
 
 ### Bugsy’s Pest Solutions – Your
 
@@ -272,7 +271,7 @@ When pests invade, you need a reliable and experienced team to restore peace to 
   - [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
 - broward county
   - [Hollywood](https://trustbugsy.com/service-area/hollywood/)
-  - [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach/)
+  - [Pompano Beach](/service-area/pompano-beach/)
   - [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines/)
   - [Miramar](https://trustbugsy.com/service-area/miramar/)
   - [Coral Springs](https://trustbugsy.com/service-area/coral-springs/)

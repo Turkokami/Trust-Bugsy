@@ -3,7 +3,7 @@ path: "/gold-package/"
 title: "Gold Package Pest Control: Year-Round Protection by Bugsy's"
 description: "The Gold Package is designed to give you reliable, year-round protection against the most common household pests."
 type: "plan"
-h1: "**Gold Package** – Essential Home Protection"
+h1: "Gold Package – Essential Home Protection"
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-325-1-1.webp"
 ---
 
@@ -21,7 +21,7 @@ Whether you’re dealing with a current infestation or want to prevent future on
 
 Perfect for homeowners who want to protect their home with a strong, affordable pest control plan.
 
-[Get Your Free Estimate](#popup-2025)
+[Get Your Free Estimate](/contact/)
 
 
 ![Bugsy's Gold service package badge](https://trustbugsy.com/wp-content/uploads/2025/04/Group-325-1-1.webp)
