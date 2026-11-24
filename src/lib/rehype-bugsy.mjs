@@ -123,7 +123,8 @@ function reviewCard(name, body) {
   return el('div', { className: ['review'] }, [
     el('div', { className: ['review-head'] }, [el('span', { className: ['g-mark'], ariaHidden: 'true' }, ['G']), el('strong', {}, [name])]),
     el('div', { className: ['stars'], role: 'img', ariaLabel: '5 out of 5 stars on Google' }, ['★★★★★']),
-    body && !NO_TEXT.test(body) ? el('p', {}, [body]) : null,
+    // Live shows "This user only left a rating." on cards with no text.
+    el('p', {}, [body && !NO_TEXT.test(body) ? body : 'This user only left a rating.']),
   ]);
 }
 // <p><strong>Name</strong>\nText</p>
