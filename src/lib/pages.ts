@@ -27,7 +27,7 @@ const LABEL: Record<string, string> = {
 };
 const HUB: Record<string, string> = {
   service: '/residential-pest-control/', commercial: '/commercial/', plan: '/packages/',
-  area: '/service-area/', library: '/pest-library/', blog: '/blogs/',
+  area: '/service-area/', library: '/pest-library/', blog: '/blog/',
 };
 export function crumbsFor(fm: ClonePage) {
   const c = [{ name: 'Home', path: '/' }];

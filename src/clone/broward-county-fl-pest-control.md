@@ -18,15 +18,15 @@ Broward County is home to over 1.9 million residents spread across 31 municipali
 
 Bugsy’s provides pest control throughout Broward County, including:
 
-- [Hollywood](https://trustbugsy.com/service-area/hollywood-fl-pest-control)
-- [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach-fl-pest-control)
-- [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines-fl-pest-control)
-- [Miramar](https://trustbugsy.com/service-area/miramar-fl-pest-control)
-- [Coral Springs](https://trustbugsy.com/service-area/coral-springs-fl-pest-control)
-- [Davie](https://trustbugsy.com/service-area/davie-fl-pest-control)
-- [Plantation](https://trustbugsy.com/service-area/plantation-fl-pest-control)
-- [Sunrise](https://trustbugsy.com/service-area/sunrise-fl-pest-control)
-- [Deerfield Beach](https://trustbugsy.com/service-area/deerfield-beach-fl-pest-control)
+- [Hollywood](/hollywood-fl-pest-control/)
+- [Pompano Beach](/pompano-beach-fl-pest-control/)
+- [Pembroke Pines](/pembroke-pines-fl-pest-control/)
+- [Miramar](/miramar-fl-pest-control/)
+- [Coral Springs](/coral-springs-fl-pest-control/)
+- [Davie](/davie-fl-pest-control/)
+- [Plantation](/plantation-fl-pest-control/)
+- [Sunrise](/sunrise-fl-pest-control/)
+- [Deerfield Beach](/deerfield-beach-fl-pest-control/)
 
 📞 (561) 654-8998 | ✉ contact@trustbugsy.com
 
@@ -82,7 +82,7 @@ Bugsy’s offers flexible plans to fit every home and budget. View our [Gold Pac
 
 ## Also Serving Palm Beach County & St. Lucie County
 
-Bugsy’s service area extends north through Palm Beach County and St. Lucie County. View our full [pest control service areas](https://trustbugsy.com/pest-control-service-areas/) or [contact us](/contact/) to confirm coverage for your address.
+Bugsy’s service area extends north through Palm Beach County and St. Lucie County. View our full [pest control service areas](/service-area/) or [contact us](/contact/) to confirm coverage for your address.
 
 ## Broward County Pest Control — Frequently Asked Questions
 
@@ -97,7 +97,7 @@ Broward County, particularly older coastal communities, has historically higher 
 
 ## Get Your Free Pest Control Estimate in Broward County
 
-Don’t let pests take over your Broward County home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](https://trustbugsy.com/pest-control-service-areas/).
+Don’t let pests take over your Broward County home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](/service-area/).
 
 ## More pest control services from Bugsy’s
 

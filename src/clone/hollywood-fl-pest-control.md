@@ -76,11 +76,11 @@ Bugsy’s offers flexible plans to fit every home and budget. View our [Gold Pac
 
 ## Areas Near Hollywood We Also Serve
 
-- [Miramar](https://trustbugsy.com/service-area/miramar-fl-pest-control)
-- [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines-fl-pest-control)
-- [Davie](https://trustbugsy.com/service-area/davie-fl-pest-control)
-- [Pompano Beach](https://trustbugsy.com/service-area/pompano-beach-fl-pest-control)
-- [Broward County](https://trustbugsy.com/service-area/broward-county-fl-pest-control)
+- [Miramar](/miramar-fl-pest-control/)
+- [Pembroke Pines](/pembroke-pines-fl-pest-control/)
+- [Davie](/davie-fl-pest-control/)
+- [Pompano Beach](/pompano-beach-fl-pest-control/)
+- [Broward County](/broward-county-fl-pest-control/)
 
 ## Hollywood Pest Control — Frequently Asked Questions
 
@@ -95,7 +95,7 @@ Yes. We offer flexible scheduling for short-term rental properties, including ra
 
 ## Get Your Free Pest Control Estimate in Hollywood
 
-Don’t let pests take over your Hollywood home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](https://trustbugsy.com/pest-control-service-areas/).
+Don’t let pests take over your Hollywood home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](/service-area/).
 
 ## More pest control services from Bugsy’s
 

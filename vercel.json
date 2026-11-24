@@ -58,6 +58,711 @@
       "source": "/service-area/sunrise/",
       "destination": "/sunrise-fl-pest-control/",
       "permanent": true
+    },
+    {
+      "source": "/blogs/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blogs",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/commercial-pest-control",
+      "destination": "/commercial/",
+      "permanent": true
+    },
+    {
+      "source": "/government-buildings/",
+      "destination": "/commercial/government-buildings/",
+      "permanent": true
+    },
+    {
+      "source": "/government-buildings",
+      "destination": "/commercial/government-buildings/",
+      "permanent": true
+    },
+    {
+      "source": "/healthcare-facilities/",
+      "destination": "/commercial/healthcare-facilities/",
+      "permanent": true
+    },
+    {
+      "source": "/healthcare-facilities",
+      "destination": "/commercial/healthcare-facilities/",
+      "permanent": true
+    },
+    {
+      "source": "/hotels-hospitality/",
+      "destination": "/commercial/hotels-hospitality/",
+      "permanent": true
+    },
+    {
+      "source": "/hotels-hospitality",
+      "destination": "/commercial/hotels-hospitality/",
+      "permanent": true
+    },
+    {
+      "source": "/multi-family-properties-hoas/",
+      "destination": "/commercial/multi-family-properties-hoas/",
+      "permanent": true
+    },
+    {
+      "source": "/multi-family-properties-hoas",
+      "destination": "/commercial/multi-family-properties-hoas/",
+      "permanent": true
+    },
+    {
+      "source": "/office-buildings/",
+      "destination": "/commercial/office-buildings/",
+      "permanent": true
+    },
+    {
+      "source": "/office-buildings",
+      "destination": "/commercial/office-buildings/",
+      "permanent": true
+    },
+    {
+      "source": "/pest-control-service-areas/",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/pest-control-service-areas",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/property-management/",
+      "destination": "/commercial/property-management/",
+      "permanent": true
+    },
+    {
+      "source": "/property-management",
+      "destination": "/commercial/property-management/",
+      "permanent": true
+    },
+    {
+      "source": "/rat-rodent-control",
+      "destination": "/rodent-control/",
+      "permanent": true
+    },
+    {
+      "source": "/restaurants-food-service/",
+      "destination": "/commercial/restaurants-food-service/",
+      "permanent": true
+    },
+    {
+      "source": "/restaurants-food-service",
+      "destination": "/commercial/restaurants-food-service/",
+      "permanent": true
+    },
+    {
+      "source": "/retail-stores-shopping-centers/",
+      "destination": "/commercial/retail-stores-shopping-centers/",
+      "permanent": true
+    },
+    {
+      "source": "/retail-stores-shopping-centers",
+      "destination": "/commercial/retail-stores-shopping-centers/",
+      "permanent": true
+    },
+    {
+      "source": "/schools-childcare/",
+      "destination": "/commercial/schools-childcare/",
+      "permanent": true
+    },
+    {
+      "source": "/schools-childcare",
+      "destination": "/commercial/schools-childcare/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boca-raton-fl-pest-control/",
+      "destination": "/boca-raton-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boca-raton-fl-pest-control",
+      "destination": "/boca-raton-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boca-raton/",
+      "destination": "/boca-raton-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boca-raton",
+      "destination": "/boca-raton-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boynton-beach-fl-pest-control/",
+      "destination": "/boynton-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boynton-beach-fl-pest-control",
+      "destination": "/boynton-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boynton-beach/",
+      "destination": "/boynton-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/boynton-beach",
+      "destination": "/boynton-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/broward-county-fl-pest-control/",
+      "destination": "/broward-county-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/broward-county-fl-pest-control",
+      "destination": "/broward-county-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/broward-county/",
+      "destination": "/broward-county-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/broward-county",
+      "destination": "/broward-county-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/coral-springs-fl-pest-control/",
+      "destination": "/coral-springs-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/coral-springs-fl-pest-control",
+      "destination": "/coral-springs-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/coral-springs",
+      "destination": "/coral-springs-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/davie-fl-pest-control/",
+      "destination": "/davie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/davie-fl-pest-control",
+      "destination": "/davie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/davie",
+      "destination": "/davie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/deerfield-beach-fl-pest-control/",
+      "destination": "/deerfield-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/deerfield-beach-fl-pest-control",
+      "destination": "/deerfield-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/deerfield-beach",
+      "destination": "/deerfield-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/delray-beach-fl-pest-control/",
+      "destination": "/delray-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/delray-beach-fl-pest-control",
+      "destination": "/delray-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/delray-beach/",
+      "destination": "/delray-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/delray-beach",
+      "destination": "/delray-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fort-lauderdale-fl-pest-control/",
+      "destination": "/fort-lauderdale-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fort-lauderdale-fl-pest-control",
+      "destination": "/fort-lauderdale-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fort-lauderdale/",
+      "destination": "/fort-lauderdale-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/fort-lauderdale",
+      "destination": "/fort-lauderdale-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/greenacres-fl-pest-control/",
+      "destination": "/greenacres-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/greenacres-fl-pest-control",
+      "destination": "/greenacres-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/greenacres/",
+      "destination": "/greenacres-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/greenacres",
+      "destination": "/greenacres-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/hollywood-fl-pest-control/",
+      "destination": "/hollywood-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/hollywood-fl-pest-control",
+      "destination": "/hollywood-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/hollywood",
+      "destination": "/hollywood-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/jupiter-fl-pest-control/",
+      "destination": "/jupiter-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/jupiter-fl-pest-control",
+      "destination": "/jupiter-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/jupiter/",
+      "destination": "/jupiter-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/jupiter",
+      "destination": "/jupiter-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/lake-worth-beach-fl-pest-control/",
+      "destination": "/lake-worth-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/lake-worth-beach-fl-pest-control",
+      "destination": "/lake-worth-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/lake-worth-beach/",
+      "destination": "/lake-worth-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/lake-worth-beach",
+      "destination": "/lake-worth-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/miramar-fl-pest-control/",
+      "destination": "/miramar-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/miramar-fl-pest-control",
+      "destination": "/miramar-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/miramar",
+      "destination": "/miramar-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/palm-beach-gardens-fl-pest-control/",
+      "destination": "/palm-beach-gardens-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/palm-beach-gardens-fl-pest-control",
+      "destination": "/palm-beach-gardens-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/palm-beach-gardens/",
+      "destination": "/palm-beach-gardens-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/palm-beach-gardens",
+      "destination": "/palm-beach-gardens-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pembroke-pines-fl-pest-control/",
+      "destination": "/pembroke-pines-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pembroke-pines-fl-pest-control",
+      "destination": "/pembroke-pines-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pembroke-pines",
+      "destination": "/pembroke-pines-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/plantation-fl-pest-control/",
+      "destination": "/plantation-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/plantation-fl-pest-control",
+      "destination": "/plantation-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/plantation",
+      "destination": "/plantation-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pompano-beach-fl-pest-control/",
+      "destination": "/pompano-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pompano-beach-fl-pest-control",
+      "destination": "/pompano-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/pompano-beach",
+      "destination": "/pompano-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/port-st-lucie-fl-pest-control/",
+      "destination": "/port-st-lucie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/port-st-lucie-fl-pest-control",
+      "destination": "/port-st-lucie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/port-st-lucie/",
+      "destination": "/port-st-lucie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/port-st-lucie",
+      "destination": "/port-st-lucie-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/royal-palm-beach-fl-pest-control/",
+      "destination": "/royal-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/royal-palm-beach-fl-pest-control",
+      "destination": "/royal-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/royal-palm-beach/",
+      "destination": "/royal-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/royal-palm-beach",
+      "destination": "/royal-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/sunrise-fl-pest-control/",
+      "destination": "/sunrise-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/sunrise-fl-pest-control",
+      "destination": "/sunrise-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/sunrise",
+      "destination": "/sunrise-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/wellington-fl-pest-control/",
+      "destination": "/wellington-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/wellington-fl-pest-control",
+      "destination": "/wellington-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/wellington/",
+      "destination": "/wellington-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/wellington",
+      "destination": "/wellington-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/west-palm-beach-fl-pest-control/",
+      "destination": "/west-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/west-palm-beach-fl-pest-control",
+      "destination": "/west-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/west-palm-beach/",
+      "destination": "/west-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area/west-palm-beach",
+      "destination": "/west-palm-beach-fl-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/ant-control/",
+      "destination": "/ant-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/ant-control",
+      "destination": "/ant-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/attic-sanitation/",
+      "destination": "/attic-sanitation-insulation-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/attic-sanitation",
+      "destination": "/attic-sanitation-insulation-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/bed-bug-extermination/",
+      "destination": "/bed-bug-extermination/",
+      "permanent": true
+    },
+    {
+      "source": "/service/bed-bug-extermination",
+      "destination": "/bed-bug-extermination/",
+      "permanent": true
+    },
+    {
+      "source": "/service/bee-removal-control/",
+      "destination": "/bee-hive-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/bee-removal-control",
+      "destination": "/bee-hive-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/bee-removal/",
+      "destination": "/bee-hive-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/bee-removal",
+      "destination": "/bee-hive-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/cockroach-control-extermination/",
+      "destination": "/cockroach-control-extermination/",
+      "permanent": true
+    },
+    {
+      "source": "/service/cockroach-control-extermination",
+      "destination": "/cockroach-control-extermination/",
+      "permanent": true
+    },
+    {
+      "source": "/service/commercial-pest-control/",
+      "destination": "/commercial/",
+      "permanent": true
+    },
+    {
+      "source": "/service/commercial-pest-control",
+      "destination": "/commercial/",
+      "permanent": true
+    },
+    {
+      "source": "/service/flea-control-extermination/",
+      "destination": "/flea-control-extermination/",
+      "permanent": true
+    },
+    {
+      "source": "/service/flea-control-extermination",
+      "destination": "/flea-control-extermination/",
+      "permanent": true
+    },
+    {
+      "source": "/service/insulation-removal/",
+      "destination": "/attic-sanitation-insulation-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/insulation-removal",
+      "destination": "/attic-sanitation-insulation-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/insulation-replacement/",
+      "destination": "/insulation-replacement/",
+      "permanent": true
+    },
+    {
+      "source": "/service/insulation-replacement",
+      "destination": "/insulation-replacement/",
+      "permanent": true
+    },
+    {
+      "source": "/service/mosquito-control/",
+      "destination": "/mosquito-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/mosquito-control",
+      "destination": "/mosquito-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/no-tent-termite-treatment/",
+      "destination": "/no-tent-termite-treatment/",
+      "permanent": true
+    },
+    {
+      "source": "/service/no-tent-termite-treatment",
+      "destination": "/no-tent-termite-treatment/",
+      "permanent": true
+    },
+    {
+      "source": "/service/rat-control-extermination/",
+      "destination": "/rodent-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/rat-control-extermination",
+      "destination": "/rodent-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/residential-pest-control/",
+      "destination": "/residential-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/residential-pest-control",
+      "destination": "/residential-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/rodent-control/",
+      "destination": "/rodent-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/rodent-control",
+      "destination": "/rodent-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/spider-control-removal-services/",
+      "destination": "/spider-control-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/spider-control-removal-services",
+      "destination": "/spider-control-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/termite-control/",
+      "destination": "/termite-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/termite-control",
+      "destination": "/termite-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service/wasp-control-removal/",
+      "destination": "/wasp-bee-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/service/wasp-control-removal",
+      "destination": "/wasp-bee-removal/",
+      "permanent": true
+    },
+    {
+      "source": "/warehouses-distribution-centers/",
+      "destination": "/commercial/warehouses-distribution-centers/",
+      "permanent": true
+    },
+    {
+      "source": "/warehouses-distribution-centers",
+      "destination": "/commercial/warehouses-distribution-centers/",
+      "permanent": true
     }
   ],
   "headers": [

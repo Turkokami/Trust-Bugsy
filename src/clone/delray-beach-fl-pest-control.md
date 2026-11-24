@@ -39,13 +39,13 @@ If you’re searching for pest control near me in Delray Beach, you’ve found t
 
 ## Commercial Pest Control in Delray Beach
 
-Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](https://trustbugsy.com/service/commercial-pest-control/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Delray Beach. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
+Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](/commercial/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Delray Beach. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
 
 ![Side-by-side collage of Bugsy's Pest Solutions team in action: on the left, a technician kneels outside a building using power tools for a pest control procedure, with a branded trailer and service truck in the background; on the right, another technician in a respirator mask and gloves holds up pest control equipment inside a workshop filled with tools and supplies. The Bugsy’s Pest Solutions logo is centered at the bottom.](https://trustbugsy.com/wp-content/uploads/2025/06/bugsys-indoor-outdoor-pest-control-collage-e1774427329390.webp)
 
 ## Ant Control in Delray Beach
 
-Ghost ants are relentless in Delray Beach, particularly after heavy rain when they move from outdoor nests into kitchens seeking food and moisture. Carpenter ants are also found near older wood structures with moisture damage. [UF IFAS Extension](https://edis.ifas.ufl.edu/) research confirms that non-repellent baiting — not contact sprays — is the most effective control method. Bugsy’s [ant control](https://trustbugsy.com/service/ant-control/) uses this approach to wipe out the full colony, not just the visible workers.
+Ghost ants are relentless in Delray Beach, particularly after heavy rain when they move from outdoor nests into kitchens seeking food and moisture. Carpenter ants are also found near older wood structures with moisture damage. [UF IFAS Extension](https://edis.ifas.ufl.edu/) research confirms that non-repellent baiting — not contact sprays — is the most effective control method. Bugsy’s [ant control](/ant-control/) uses this approach to wipe out the full colony, not just the visible workers.
 
 ## Termite Control in Delray Beach
 
@@ -53,11 +53,11 @@ Delray Beach’s older housing stock is particularly vulnerable to termite damag
 
 ## Mosquito Control in Delray Beach
 
-With the Atlantic to the east and numerous drainage canals running through the city, mosquito pressure in Delray Beach is effectively year-round. The [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) advises regular professional barrier applications for properties near water. Our monthly [mosquito control](https://trustbugsy.com/service/mosquito-control/) service includes backpack fogging and biological larvicide for standing water — guaranteed to significantly reduce populations, with free retreatments if needed.
+With the Atlantic to the east and numerous drainage canals running through the city, mosquito pressure in Delray Beach is effectively year-round. The [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) advises regular professional barrier applications for properties near water. Our monthly [mosquito control](/mosquito-control/) service includes backpack fogging and biological larvicide for standing water — guaranteed to significantly reduce populations, with free retreatments if needed.
 
 ## Rodent Control in Delray Beach
 
-Roof rats dominate in Delray Beach’s older neighborhoods near the Intracoastal. They’re agile climbers that access homes through soffits, roof vents, and gaps near utility lines. Per [CDC]() guidance, rodent exclusion is essential to long-term control. Bugsy’s [rodent control](https://trustbugsy.com/service/rat-control-extermination/) includes inspection, sealing of all entry points, professional trapping, and [attic insulation removal](/attic-sanitation-insulation-removal/) when contamination is present.
+Roof rats dominate in Delray Beach’s older neighborhoods near the Intracoastal. They’re agile climbers that access homes through soffits, roof vents, and gaps near utility lines. Per [CDC]() guidance, rodent exclusion is essential to long-term control. Bugsy’s [rodent control](/rodent-control/) includes inspection, sealing of all entry points, professional trapping, and [attic insulation removal](/attic-sanitation-insulation-removal/) when contamination is present.
 
 ## Cockroach Control in Delray Beach
 
@@ -65,11 +65,11 @@ Palmetto bugs are a fact of life in Delray Beach — but they don’t have to be
 
 ## Additional Services
 
-- [Bed Bug Extermination](https://trustbugsy.com/service/bed-bug-extermination/)
-- [Wasp & Bee Removal](https://trustbugsy.com/service/wasp-control-removal/)
+- [Bed Bug Extermination](/bed-bug-extermination/)
+- [Wasp & Bee Removal](/wasp-bee-removal/)
 - [Spider Control](/spider-control-removal/)
-- [Flea Control](https://trustbugsy.com/service/flea-control-extermination/)
-- [Attic Sanitation](https://trustbugsy.com/service/attic-sanitation/)
+- [Flea Control](/flea-control-extermination/)
+- [Attic Sanitation](/attic-sanitation-insulation-removal/)
 - [Insulation Removal & Replacement](/attic-sanitation-insulation-removal/)
 
 ## Why Choose Bugsy’s Pest Solutions in Delray Beach?
@@ -86,7 +86,7 @@ Palmetto bugs are a fact of life in Delray Beach — but they don’t have to be
 
 - [Boca Raton](/boca-raton-fl-pest-control/)
 - [Boynton Beach](/boynton-beach-fl-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
 - [Deerfield Beach](/deerfield-beach-fl-pest-control/)
 
 ## Delray Beach Pest Control — Frequently Asked Questions

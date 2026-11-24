@@ -94,7 +94,7 @@ You may see live fleas for up to 2 weeks after treatment — these are newly eme
 
 ## Get a Free Flea Control Estimate
 
-Don’t wait for a pest problem to get worse. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](/coral-springs-fl-pest-control/), [Pompano Beach](/pompano-beach-fl-pest-control/), and surrounding areas.
+Don’t wait for a pest problem to get worse. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](/lake-worth-beach-fl-pest-control/), [West Palm Beach](/west-palm-beach-fl-pest-control/), [Boca Raton](/boca-raton-fl-pest-control/), [Boynton Beach](/boynton-beach-fl-pest-control/), [Delray Beach](/delray-beach-fl-pest-control/), [Coral Springs](/coral-springs-fl-pest-control/), [Pompano Beach](/pompano-beach-fl-pest-control/), and surrounding areas.
 
 Get A Free Quote
 
@@ -198,37 +198,37 @@ Schedule Call Today!
 
 [Let’s Get Started](/contact/)
 
-[![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](https://trustbugsy.com/service/ant-control/)
+[![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](/ant-control/)
 
-### [Ant Control](https://trustbugsy.com/service/ant-control/)
+### [Ant Control](/ant-control/)
 
-[![Bed bug control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-40.webp)](https://trustbugsy.com/service/bed-bug-extermination/)
+[![Bed bug control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-40.webp)](/bed-bug-extermination/)
 
-### [Bed Bug Control](https://trustbugsy.com/service/bed-bug-extermination/)
+### [Bed Bug Control](/bed-bug-extermination/)
 
-[![Beetle pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-01.webp)](https://trustbugsy.com/service/cockroach-control-extermination/)
+[![Beetle pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-01.webp)](/cockroach-control-extermination/)
 
-### [Cockroach Control](https://trustbugsy.com/service/cockroach-control-extermination/)
+### [Cockroach Control](/cockroach-control-extermination/)
 
-[![Rodent control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-02.webp)](https://trustbugsy.com/service/rat-control-extermination/)
+[![Rodent control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-02.webp)](/rodent-control/)
 
-### [Rodent Control](https://trustbugsy.com/service/rat-control-extermination/)
+### [Rodent Control](/rodent-control/)
 
-[![Skull and crossbones pest hazard icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group51.webp)](https://trustbugsy.com/service/flea-control-extermination/)
+[![Skull and crossbones pest hazard icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group51.webp)](/flea-control-extermination/)
 
-### [Flea & Mite Treatment](https://trustbugsy.com/service/flea-control-extermination/)
+### [Flea & Mite Treatment](/flea-control-extermination/)
 
-[![Fly pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group5-1.webp)](https://trustbugsy.com/service/mosquito-control/)
+[![Fly pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group5-1.webp)](/mosquito-control/)
 
-### [Mosquito Control](https://trustbugsy.com/service/mosquito-control/)
+### [Mosquito Control](/mosquito-control/)
 
-[![Pest elimination icon showing an insect in a no symbol](https://trustbugsy.com/wp-content/uploads/2025/03/Group6.webp)](https://trustbugsy.com/service/wasp-control-removal/)
+[![Pest elimination icon showing an insect in a no symbol](https://trustbugsy.com/wp-content/uploads/2025/03/Group6.webp)](/wasp-bee-removal/)
 
-### [Wasp Control & Removal](https://trustbugsy.com/service/wasp-control-removal/)
+### [Wasp Control & Removal](/wasp-bee-removal/)
 
-[![Pest control spray treatment icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group8.webp)](https://trustbugsy.com/service/attic-sanitation/)
+[![Pest control spray treatment icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group8.webp)](/attic-sanitation-insulation-removal/)
 
-### [attic sanitation](https://trustbugsy.com/service/attic-sanitation/)
+### [attic sanitation](/attic-sanitation-insulation-removal/)
 
 Trusted **Pest Control Solutions**
 
@@ -236,27 +236,27 @@ for Homes and Businesses
 
 Join your neighbors in trusting Bugsy’s Pest Solutions to protect your Florida home from pesky critters. Say goodbye to pests today!
 
-[![Commercial building pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-281-2.webp)](https://trustbugsy.com/service/residential-pest-control/)
+[![Commercial building pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-281-2.webp)](/residential-pest-control/)
 
-### [Residential Pest Control](https://trustbugsy.com/service/residential-pest-control/)
+### [Residential Pest Control](/residential-pest-control/)
 
-[![Insect pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-282.webp)](https://trustbugsy.com/service/termite-control/)
+[![Insect pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-282.webp)](/termite-control/)
 
-### [termite control](https://trustbugsy.com/service/termite-control/)
+### [termite control](/termite-control/)
 
 --
 
-[![Storefront commercial pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-283.webp)](https://trustbugsy.com/service/commercial-pest-control/)
+[![Storefront commercial pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-283.webp)](/commercial/)
 
-### [Commercial Pest Control](https://trustbugsy.com/service/commercial-pest-control/)
+### [Commercial Pest Control](/commercial/)
 
-[](https://trustbugsy.com/service/mosquito-control/)
+[](/mosquito-control/)
 
-### [mosquito control](https://trustbugsy.com/service/mosquito-control/)
+### [mosquito control](/mosquito-control/)
 
-[](https://trustbugsy.com/service/insulation-removal/)
+[](/attic-sanitation-insulation-removal/)
 
-### [insulation and rats](https://trustbugsy.com/service/insulation-removal/)
+### [insulation and rats](/attic-sanitation-insulation-removal/)
 
 --
 
@@ -300,15 +300,15 @@ When pests invade, you need a reliable and experienced team to restore peace to 
 
 - [palm beach county](#)
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
 
 - [broward county](#)
 

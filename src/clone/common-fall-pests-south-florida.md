@@ -57,7 +57,7 @@ Ghost ants and white-footed ants also become more problematic during fall months
 
 #### **Integrated Ant Management**
 
-Professional [ant control](https://trustbugsy.com/service/ant-control/) during fall months requires understanding the specific species involved and their seasonal behavior patterns. Baiting strategies become particularly effective during fall months when ant colonies are actively foraging and readily accept bait materials.
+Professional [ant control](/ant-control/) during fall months requires understanding the specific species involved and their seasonal behavior patterns. Baiting strategies become particularly effective during fall months when ant colonies are actively foraging and readily accept bait materials.
 
 Successful ant control combines exterior treatments that eliminate outdoor colonies with interior measures that prevent ant entry and establishment. Sealing entry points becomes crucial during fall months when ant colonies are actively expanding their territories and seeking new nesting sites.
 
@@ -79,7 +79,7 @@ House mice remain active year-round in South Florida but often increase their re
 
 #### **Comprehensive Rodent Prevention**
 
-Effective [rat control and extermination](https://trustbugsy.com/service/rat-control-extermination/) requires addressing both current populations and preventing future infestations. Fall represents an ideal time for implementing comprehensive rodent exclusion measures before animals establish overwintering sites.
+Effective [rat control and extermination](/rodent-control/) requires addressing both current populations and preventing future infestations. Fall represents an ideal time for implementing comprehensive rodent exclusion measures before animals establish overwintering sites.
 
 Professional rodent control begins with thorough property inspections to identify entry points, harborage areas, and attractant sources. Many homeowners underestimate the small size of openings that rodents can exploit – mice can squeeze through openings as small as a dime, while rats can enter through holes the size of a quarter.
 
@@ -103,7 +103,7 @@ Oriental cockroaches, sometimes called water bugs, often increase their activity
 
 #### **Professional Cockroach Management**
 
-[Cockroach control and extermination](https://trustbugsy.com/service/cockroach-control-extermination/) during fall months requires comprehensive approaches that address both current infestations and prevent future establishment. Cockroaches are notoriously difficult to eliminate once established, making prevention and early intervention crucial for long-term success.
+[Cockroach control and extermination](/cockroach-control-extermination/) during fall months requires comprehensive approaches that address both current infestations and prevent future establishment. Cockroaches are notoriously difficult to eliminate once established, making prevention and early intervention crucial for long-term success.
 
 Professional cockroach control combines targeted treatments with environmental modifications that make properties less attractive to these persistent pests. Fall treatments can be particularly effective as cockroach populations are often concentrated in specific areas while seeking overwintering sites.
 
@@ -125,9 +125,9 @@ Yellow jackets become increasingly aggressive during fall months as their natura
 
 #### **Safe Stinging Insect Management**
 
-Professional [wasp control and removal](https://trustbugsy.com/service/wasp-control-removal/) becomes particularly important during fall months when stinging insect colonies are at their largest and most defensive. Attempting to remove wasp nests without proper equipment and expertise can result in serious injuries from multiple stings.
+Professional [wasp control and removal](/wasp-bee-removal/) becomes particularly important during fall months when stinging insect colonies are at their largest and most defensive. Attempting to remove wasp nests without proper equipment and expertise can result in serious injuries from multiple stings.
 
-[Bee removal and control](https://trustbugsy.com/service/bee-removal-control/) requires specialized knowledge to distinguish between beneficial species that should be relocated and problematic species that require elimination. Professional services can provide species identification and appropriate management strategies that protect both homeowners and beneficial insect populations.
+[Bee removal and control](/bee-hive-removal/) requires specialized knowledge to distinguish between beneficial species that should be relocated and problematic species that require elimination. Professional services can provide species identification and appropriate management strategies that protect both homeowners and beneficial insect populations.
 
 Fall stinging insect control often involves treating current nests while implementing preventive measures to discourage establishment in the following year. Many stinging insect species return to previously successful nesting areas, making fall prevention work crucial for long-term control.
 
@@ -183,15 +183,15 @@ Don’t let fall’s deceptive calm lead to pest problems that persist throughou
 
 - palm beach county
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
 
 - broward county
 
@@ -207,7 +207,7 @@ Don’t let fall’s deceptive calm lead to pest problems that persist throughou
 
 - St. Lucie county
 
-- [Port St. Lucie](https://trustbugsy.com/service-area/port-st-lucie/)
+- [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 - Fort Pierce
 - St. Lucie West
 - PGA Village

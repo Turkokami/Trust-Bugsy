@@ -39,7 +39,7 @@ Lake Worth Beach is a vibrant, close-knit coastal community — and our business
 
 Consequently, when Lake Worth Beach residents search for “pest control near me” or “exterminator in Lake Worth Beach”, Bugsy’s is the name that consistently earns 5-star reviews. Our military-trained discipline means we show up on time, communicate clearly, and never cut corners. In fact, we stand behind every single job with a satisfaction guarantee — if pests return between scheduled visits, we return at no extra charge.
 
-Similarly, local businesses across Lake Worth Beach — from the restaurants on Lake Avenue to the hotels and shops near the beach — trust Bugsy’s Pest Solutions to keep their premises pest-free, compliant, and safe for staff and customers alike. Visit our [Commercial Pest Control page](https://trustbugsy.com/service/commercial-pest-control/) to learn how we protect South Florida businesses.
+Similarly, local businesses across Lake Worth Beach — from the restaurants on Lake Avenue to the hotels and shops near the beach — trust Bugsy’s Pest Solutions to keep their premises pest-free, compliant, and safe for staff and customers alike. Visit our [Commercial Pest Control page](/commercial/) to learn how we protect South Florida businesses.
 
 ## Why Lake Worth Beach Homes Need Year-Round Pest Protection
 
@@ -55,7 +55,7 @@ The bottom line: Lake Worth Beach residents and business owners benefit from con
 
 Bugsy’s Pest Solutions offers a full range of pest management services for Lake Worth Beach residents and businesses. Each service is delivered by licensed, trained technicians using the most effective and safest methods available. Below is a complete overview of what we offer — all backed by our satisfaction guarantee.
 
-[🐜 Ant Control](https://trustbugsy.com/service/ant-control/)
+[🐜 Ant Control](/ant-control/)
 
 Fire ants, ghost ants, carpenter ants — Lake Worth Beach properties deal with them all. We target colonies at the source and seal entry points.
 
@@ -67,15 +67,15 @@ Florida’s American and German cockroaches thrive in Lake Worth Beach’s heat 
 
 Subterranean and drywood termites cause serious structural damage. Our termite control includes thorough inspections, soil treatment, and bait systems.
 
-[**🛏 Bed Bug Extermination**](https://trustbugsy.com/service/bed-bug-extermination/)
+[**🛏 Bed Bug Extermination**](/bed-bug-extermination/)
 
 Bed bugs are a growing problem in South Florida’s coastal cities. Our heat and chemical treatments eliminate every life stage — guaranteed.
 
-[🐀 Rat & Rodent Control](https://trustbugsy.com/service/rat-control-extermination/)
+[🐀 Rat & Rodent Control](/rodent-control/)
 
 Rats and mice contaminate food, chew wiring, and spread disease. We trap, bait, and seal entry points to keep rodents out for good.
 
-[🦟 Mosquito Control](https://trustbugsy.com/service/mosquito-control/)
+[🦟 Mosquito Control](/mosquito-control/)
 
 The lagoon and waterways near Lake Worth Beach create ideal mosquito habitat. Our barrier sprays and breeding-site treatments protect your outdoor spaces.
 
@@ -83,11 +83,11 @@ The lagoon and waterways near Lake Worth Beach create ideal mosquito habitat. Ou
 
 Most spiders are harmless, but widow and recluse species are real hazards. We remove webs, apply residual treatments, and address the prey that attracts them.
 
-[🐝 Bee & Wasp Removal](https://trustbugsy.com/service/bee-removal-control/)
+[🐝 Bee & Wasp Removal](/bee-hive-removal/)
 
 Hive removal from walls, attics, and eaves — done safely and humanely. We relocate honeybee colonies where possible and protect against re-nesting.
 
-[🐾 Flea Control](https://trustbugsy.com/service/flea-control-extermination/)
+[🐾 Flea Control](/flea-control-extermination/)
 
 Fleas infest carpets, furniture, and bedding quickly. Our multi-stage treatment targets every life cycle phase to break the infestation completely.
 
@@ -95,17 +95,17 @@ Fleas infest carpets, furniture, and bedding quickly. Our multi-stage treatment 
 
 Protect your Lake Worth Beach home year-round with a customised maintenance plan. Monthly, bi-monthly, or quarterly — your choice.
 
-[🏢 Commercial Pest Control](https://trustbugsy.com/service/commercial-pest-control/)
+[🏢 Commercial Pest Control](/commercial/)
 
 From restaurants on Lake Avenue to offices and hotels near the beach, we keep Lake Worth Beach businesses pest-free and code-compliant.
 
-[🏚 Attic Sanitation & Insulation](https://trustbugsy.com/service/attic-sanitation/)
+[🏚 Attic Sanitation & Insulation](/attic-sanitation-insulation-removal/)
 
 Rodent damage to your attic insulation? We sanitise, remove, and replace it — restoring your home’s energy efficiency and safety.
 
 ### Ant Control in Lake Worth Beach
 
-Ants are the number-one pest complaint in Lake Worth Beach. Fire ants colonise lawns and outdoor areas near the Intracoastal, while ghost ants and white-footed ants invade kitchens and bathrooms inside the home. Additionally, carpenter ants can cause structural damage in older wood-frame properties in the historic downtown area. Bugsy’s ant control treatments target the queen and colony — not just the visible trail — for lasting results. See our dedicated [ant control service page](https://trustbugsy.com/service/ant-control/) for full details.
+Ants are the number-one pest complaint in Lake Worth Beach. Fire ants colonise lawns and outdoor areas near the Intracoastal, while ghost ants and white-footed ants invade kitchens and bathrooms inside the home. Additionally, carpenter ants can cause structural damage in older wood-frame properties in the historic downtown area. Bugsy’s ant control treatments target the queen and colony — not just the visible trail — for lasting results. See our dedicated [ant control service page](/ant-control/) for full details.
 
 ### Termite Control in Lake Worth Beach
 
@@ -113,7 +113,7 @@ Termites are particularly destructive in coastal Palm Beach County. The combinat
 
 ### Mosquito Control in Lake Worth Beach
 
-Lake Worth Beach’s proximity to Lake Worth Lagoon, the Intracoastal Waterway, and the Atlantic coastline means mosquito populations can be intense from March through November — and active even in winter during warm spells. Standing water in drainage ditches, garden planters, and low-lying yards provides constant breeding habitat. Our mosquito control program treats breeding sites directly and applies long-lasting barrier sprays around your property perimeter. As a result, your backyard and outdoor areas remain usable all season. Visit our [mosquito control page](https://trustbugsy.com/service/mosquito-control/) for details.
+Lake Worth Beach’s proximity to Lake Worth Lagoon, the Intracoastal Waterway, and the Atlantic coastline means mosquito populations can be intense from March through November — and active even in winter during warm spells. Standing water in drainage ditches, garden planters, and low-lying yards provides constant breeding habitat. Our mosquito control program treats breeding sites directly and applies long-lasting barrier sprays around your property perimeter. As a result, your backyard and outdoor areas remain usable all season. Visit our [mosquito control page](/mosquito-control/) for details.
 
 ### Cockroach Control in Lake Worth Beach
 
@@ -121,7 +121,7 @@ American cockroaches — locally known as palmetto bugs — are common in Lake W
 
 ### Attic Sanitation, Insulation Removal & Replacement
 
-Rats and roof rats are active throughout Lake Worth Beach, particularly in properties near the lake, the lagoon, and older neighborhoods with mature tree canopies. When rodents nest in your attic, they leave behind droppings, urine, and nesting material that pose serious health risks and destroy insulation. Bugsy’s attic sanitation service deep-cleans affected attic spaces and removes contaminated insulation safely. Subsequently, we replace it with fresh, pest-deterrent insulation that restores your home’s energy efficiency. Learn about our [attic sanitation](https://trustbugsy.com/service/attic-sanitation/), [insulation removal](/attic-sanitation-insulation-removal/), and [insulation replacement](/insulation-replacement/) services.
+Rats and roof rats are active throughout Lake Worth Beach, particularly in properties near the lake, the lagoon, and older neighborhoods with mature tree canopies. When rodents nest in your attic, they leave behind droppings, urine, and nesting material that pose serious health risks and destroy insulation. Bugsy’s attic sanitation service deep-cleans affected attic spaces and removes contaminated insulation safely. Subsequently, we replace it with fresh, pest-deterrent insulation that restores your home’s energy efficiency. Learn about our [attic sanitation](/attic-sanitation-insulation-removal/), [insulation removal](/attic-sanitation-insulation-removal/), and [insulation replacement](/insulation-replacement/) services.
 
 ## Pest Control Plans & Packages for Lake Worth Beach
 
@@ -157,7 +157,7 @@ Subsequently, our licensed technician applies targeted treatments using EPA-regi
 
 Lake Worth Beach’s thriving business district — centred on Lake Avenue and the beach area — includes restaurants, cafes, retail shops, boutique hotels, art galleries, and professional offices. For any business in this community, a pest sighting can be devastating to reputation and revenue. Moreover, restaurants and food-service operations face strict health code requirements that make professional pest control non-negotiable.
 
-Bugsy’s commercial pest control program is designed around the specific needs of Lake Worth Beach businesses. We work around your operating hours to minimize disruption. Additionally, all of our commercial treatments are discreet, thoroughly documented, and tailored to your industry’s regulatory requirements. Whether you operate a single restaurant on Lake Avenue or manage a multi-unit commercial property, we have the experience and tools to protect your business effectively. Visit our [commercial pest control page](https://trustbugsy.com/service/commercial-pest-control/) to get started.
+Bugsy’s commercial pest control program is designed around the specific needs of Lake Worth Beach businesses. We work around your operating hours to minimize disruption. Additionally, all of our commercial treatments are discreet, thoroughly documented, and tailored to your industry’s regulatory requirements. Whether you operate a single restaurant on Lake Avenue or manage a multi-unit commercial property, we have the experience and tools to protect your business effectively. Visit our [commercial pest control page](/commercial/) to get started.
 
 ## Serving Lake Worth Beach and All Surrounding Communities
 
@@ -166,13 +166,13 @@ Bugsy’s Pest Solutions is based in Lake Worth Beach and serves the entire Palm
 ### Nearby Palm Beach County Communities We Serve
 
 - **[→ Boynton Beach](/boynton-beach-fl-pest-control/)**
-- **[→ Greenacres](https://trustbugsy.com/service-area/greenacres/)**
-- **[→ Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)**
-- **[→ West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/)**
+- **[→ Greenacres](/greenacres-fl-pest-control/)**
+- **[→ Royal Palm Beach](/royal-palm-beach-fl-pest-control/)**
+- **[→ West Palm Beach](/west-palm-beach-fl-pest-control/)**
 - **[→ Delray Beach](/delray-beach-fl-pest-control/)**
 - **[→ Boca Raton](/boca-raton-fl-pest-control/)**
-- **[→ Wellington](https://trustbugsy.com/service-area/wellington/)**
-- **[→ Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)**
+- **[→ Wellington](/wellington-fl-pest-control/)**
+- **[→ Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)**
 - **[→ Jupiter](/jupiter-fl-pest-control/)**
 
 ### Broward County Communities We Also Serve

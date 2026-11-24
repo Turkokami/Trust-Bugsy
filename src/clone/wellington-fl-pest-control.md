@@ -74,10 +74,10 @@ Bugsy’s offers flexible plans to fit every home and budget. View our [Gold Pac
 ## Areas Near Wellington We Also Serve
 
 - [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres-fl-pest-control)
-- [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach-fl-pest-control)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens-fl-pest-control)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach-fl-pest-control)
+- [Greenacres](/greenacres-fl-pest-control/)
+- [West Palm Beach](/west-palm-beach-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
 
 ## Wellington Pest Control — Frequently Asked Questions
 
@@ -92,7 +92,7 @@ We recommend scheduling a preventive barrier treatment before the season begins,
 
 ## Get Your Free Pest Control Estimate in Wellington
 
-Don’t let pests take over your Wellington home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](https://trustbugsy.com/pest-control-service-areas/).
+Don’t let pests take over your Wellington home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](/service-area/).
 
 ## More pest control services from Bugsy’s
 

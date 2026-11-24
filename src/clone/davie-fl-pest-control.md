@@ -79,11 +79,11 @@ Bugsy’s offers flexible plans to fit every home and budget. View our [Gold Pac
 
 ## Areas Near Davie We Also Serve
 
-- [Plantation](https://trustbugsy.com/service-area/plantation-fl-pest-control)
-- [Pembroke Pines](https://trustbugsy.com/service-area/pembroke-pines-fl-pest-control)
-- [Miramar](https://trustbugsy.com/service-area/miramar-fl-pest-control)
-- [Hollywood](https://trustbugsy.com/service-area/hollywood-fl-pest-control)
-- [Broward County](https://trustbugsy.com/service-area/broward-county-fl-pest-control)
+- [Plantation](/plantation-fl-pest-control/)
+- [Pembroke Pines](/pembroke-pines-fl-pest-control/)
+- [Miramar](/miramar-fl-pest-control/)
+- [Hollywood](/hollywood-fl-pest-control/)
+- [Broward County](/broward-county-fl-pest-control/)
 
 ## Davie Pest Control — Frequently Asked Questions
 
@@ -98,7 +98,7 @@ Look for discarded wings near windows or doors, mud tubes along your foundation,
 
 ## Get Your Free Pest Control Estimate in Davie
 
-Don’t let pests take over your Davie home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](https://trustbugsy.com/pest-control-service-areas/).
+Don’t let pests take over your Davie home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](/service-area/).
 
 ## More pest control services from Bugsy’s
 

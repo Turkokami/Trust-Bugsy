@@ -35,13 +35,13 @@ If you’re searching for pest control near me in Jupiter, you’ve found the ri
 
 ## Commercial Pest Control in Jupiter
 
-Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](https://trustbugsy.com/service/commercial-pest-control/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Jupiter. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
+Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](/commercial/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Jupiter. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
 
 ![Side-by-side collage showing Bugsy's Pest Solutions at work: on the left, two team members are inside a partially renovated residential space discussing pest control measures; on the right, a technician in a white protective suit is standing outdoors in a commercial setting, holding pest control products and surrounded by tropical plants. The Bugsy’s Pest Solutions logo is visible at the bottom center of the image.](https://trustbugsy.com/wp-content/uploads/2025/06/bugsys-pest-solutions-residential-commercial-pest-control-collage-e1774427368369.webp)
 
 ## Ant Control in Jupiter
 
-Jupiter’s proximity to natural areas means heavy ant pressure from ghost ants, carpenter ants, and fire ants. [UF IFAS Extension](https://edis.ifas.ufl.edu/) research identifies ghost ants as the dominant structural ant pest throughout South Florida. Bugsy’s [ant control](https://trustbugsy.com/service/ant-control/) uses non-repellent baiting technology to eliminate the entire colony — not just the workers you can see. For outdoor fire ant pressure near Jupiter’s parks and greenways, we apply broadcast granular bait treatments.
+Jupiter’s proximity to natural areas means heavy ant pressure from ghost ants, carpenter ants, and fire ants. [UF IFAS Extension](https://edis.ifas.ufl.edu/) research identifies ghost ants as the dominant structural ant pest throughout South Florida. Bugsy’s [ant control](/ant-control/) uses non-repellent baiting technology to eliminate the entire colony — not just the workers you can see. For outdoor fire ant pressure near Jupiter’s parks and greenways, we apply broadcast granular bait treatments.
 
 ## Termite Control in Jupiter
 
@@ -49,11 +49,11 @@ Jupiter’s wooden structures and lush landscaping create ideal conditions for b
 
 ## Mosquito Control in Jupiter
 
-With the Loxahatchee River, multiple lakes, and Jupiter’s abundant tropical vegetation, mosquitoes and ticks are serious concerns for outdoor living. [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) recommends combining barrier treatments with larval source elimination. Our monthly [mosquito control](https://trustbugsy.com/service/mosquito-control/) service uses targeted fogging and biological larvicide to dramatically reduce populations — and we also offer [flea and tick control](https://trustbugsy.com/service/flea-control-extermination/) for properties near natural areas.
+With the Loxahatchee River, multiple lakes, and Jupiter’s abundant tropical vegetation, mosquitoes and ticks are serious concerns for outdoor living. [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) recommends combining barrier treatments with larval source elimination. Our monthly [mosquito control](/mosquito-control/) service uses targeted fogging and biological larvicide to dramatically reduce populations — and we also offer [flea and tick control](/flea-control-extermination/) for properties near natural areas.
 
 ## Rodent Control in Jupiter
 
-Jupiter’s tree canopy and green corridors make it a prime area for roof rat activity — especially in neighborhoods near Abacoa and the golf communities. [CDC]() confirms roof rats are excellent climbers that access homes via tree branches and rooflines. Bugsy’s [rodent control](https://trustbugsy.com/service/rat-control-extermination/) includes a full inspection, exclusion of all entry points, professional trapping, and attic remediation when needed.
+Jupiter’s tree canopy and green corridors make it a prime area for roof rat activity — especially in neighborhoods near Abacoa and the golf communities. [CDC]() confirms roof rats are excellent climbers that access homes via tree branches and rooflines. Bugsy’s [rodent control](/rodent-control/) includes a full inspection, exclusion of all entry points, professional trapping, and attic remediation when needed.
 
 ## Cockroach Control in Jupiter
 
@@ -61,11 +61,11 @@ American cockroaches (palmetto bugs) thrive in Jupiter’s warm, humid condition
 
 ## Additional Services
 
-- [Bed Bug Extermination](https://trustbugsy.com/service/bed-bug-extermination/)
-- [Wasp & Bee Removal](https://trustbugsy.com/service/wasp-control-removal/)
+- [Bed Bug Extermination](/bed-bug-extermination/)
+- [Wasp & Bee Removal](/wasp-bee-removal/)
 - [Spider Control](/spider-control-removal/)
-- [Flea Control](https://trustbugsy.com/service/flea-control-extermination/)
-- [Attic Sanitation](https://trustbugsy.com/service/attic-sanitation/)
+- [Flea Control](/flea-control-extermination/)
+- [Attic Sanitation](/attic-sanitation-insulation-removal/)
 - [Insulation Removal & Replacement](/attic-sanitation-insulation-removal/)
 
 ## Why Choose Bugsy’s Pest Solutions in Jupiter?
@@ -80,10 +80,10 @@ American cockroaches (palmetto bugs) thrive in Jupiter’s warm, humid condition
 
 ## Areas Near Jupiter We Also Serve
 
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
 - [Tequesta](/jupiter-fl-pest-control/)
-- [Hobe Sound](https://trustbugsy.com/service-area/port-st-lucie/)
-- [Port St. Lucie](https://trustbugsy.com/service-area/port-st-lucie/)
+- [Hobe Sound](/port-st-lucie-fl-pest-control/)
+- [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 
 ## Jupiter Pest Control — Frequently Asked Questions
 

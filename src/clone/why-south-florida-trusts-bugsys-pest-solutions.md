@@ -57,7 +57,7 @@ South Florida’s subtropical climate creates steady pest pressure year-round, s
 
 
 
-We offer a full range of [residential pest control](https://trustbugsy.com/service/residential-pest-control/) options designed for Boca Raton homeowners. Our goal is to protect your family and property with solutions that are both effective and safe.
+We offer a full range of [residential pest control](/residential-pest-control/) options designed for Boca Raton homeowners. Our goal is to protect your family and property with solutions that are both effective and safe.
 
 ### How does Bugsy’s protect homes from ants, rodents, and termites?
 

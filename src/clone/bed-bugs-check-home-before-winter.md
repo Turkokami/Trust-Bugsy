@@ -17,7 +17,7 @@ As fall transitions into winter across South Florida, many homeowners focus on p
 
 Understanding when and how bed bugs enter homes, combined with systematic inspection techniques and early detection strategies, can prevent minor introductions from developing into major infestations that require extensive professional treatment. The cryptic nature of bed bug behavior means that early detection often represents the difference between simple elimination procedures and costly, disruptive treatment programs that can take months to complete successfully.
 
-Fall’s increased travel activities, holiday shopping for second-hand items, college student transitions, and the onset of heating season create multiple opportunities for bed bug introduction while providing ideal conditions for rapid population establishment. Professional [bed bug extermination](https://trustbugsy.com/service/bed-bug-extermination/) becomes significantly more complex and expensive once infestations become established, making prevention and early detection critical components of effective bed bug management.
+Fall’s increased travel activities, holiday shopping for second-hand items, college student transitions, and the onset of heating season create multiple opportunities for bed bug introduction while providing ideal conditions for rapid population establishment. Professional [bed bug extermination](/bed-bug-extermination/) becomes significantly more complex and expensive once infestations become established, making prevention and early detection critical components of effective bed bug management.
 
 ![Bed bug inspection home](https://trustbugsy.com/wp-content/uploads/2025/09/bed-bug-inspection-home.webp)
 
@@ -247,15 +247,15 @@ Don’t let fall travel and shopping activities introduce bed bugs into your hom
 
 - palm beach county
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
 
 - broward county
 
@@ -271,7 +271,7 @@ Don’t let fall travel and shopping activities introduce bed bugs into your hom
 
 - St. Lucie county
 
-- [Port St. Lucie](https://trustbugsy.com/service-area/port-st-lucie/)
+- [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 - Fort Pierce
 - St. Lucie West
 - PGA Village

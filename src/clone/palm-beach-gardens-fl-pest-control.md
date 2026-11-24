@@ -71,11 +71,11 @@ Bugsy’s offers flexible plans to fit every home and budget. View our [Gold Pac
 
 ## Areas Near Palm Beach Gardens We Also Serve
 
-- [Jupiter](https://trustbugsy.com/service-area/jupiter-fl-pest-control)
-- [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach-fl-pest-control)
-- [Wellington](https://trustbugsy.com/service-area/wellington-fl-pest-control)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [West Palm Beach](/west-palm-beach-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
 - [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
-- [Port St. Lucie](https://trustbugsy.com/service-area/port-st-lucie-fl-pest-control)
+- [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 
 ## Palm Beach Gardens Pest Control — Frequently Asked Questions
 
@@ -90,7 +90,7 @@ We begin with a full property inspection, then recommend the most appropriate tr
 
 ## Get Your Free Pest Control Estimate in Palm Beach Gardens
 
-Don’t let pests take over your Palm Beach Gardens home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](https://trustbugsy.com/pest-control-service-areas/).
+Don’t let pests take over your Palm Beach Gardens home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](/service-area/).
 
 ## More pest control services from Bugsy’s
 

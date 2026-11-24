@@ -37,13 +37,13 @@ If you’re searching for pest control near me in Boynton Beach, you’ve found 
 
 ## Commercial Pest Control in Boynton Beach
 
-Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](https://trustbugsy.com/service/commercial-pest-control/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Boynton Beach. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
+Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](/commercial/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Boynton Beach. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
 
 ![Side-by-side image of Bugsy’s Pest Solutions performing residential (left) and commercial (right) pest control. On the left, a technician on a ladder uses a power drill near the roofline of a home. On the right, a technician in a mask collects debris inside a hotel or commercial room setting. The Bugsy’s Pest Solutions logo is centered at the bottom of the image.](https://trustbugsy.com/wp-content/uploads/2025/06/bugsys-residential-commercial-indoor-outdoor-pest-control-e1774427303826.webp)
 
 ## Ant Control in Boynton Beach
 
-Ghost ants are the top ant complaint in Boynton Beach. They invade kitchens and bathrooms in large numbers during rainy season and split into multiple colonies when disturbed by repellent sprays. Fire ants are also highly active in Boynton Beach lawns. According to [Florida Department of Agriculture](https://www.fdacs.gov/Divisions-Offices/Agricultural-Environmental-Services/Bureau-of-Entomology-Nematology-Plant-Pathology/Pest-Alerts) pest alerts, fire ant pressure in Palm Beach County remains high year-round. Bugsy’s [ant control](https://trustbugsy.com/service/ant-control/) uses non-repellent treatment technology for ghost ants and broadcast bait programs for fire ant lawn control.
+Ghost ants are the top ant complaint in Boynton Beach. They invade kitchens and bathrooms in large numbers during rainy season and split into multiple colonies when disturbed by repellent sprays. Fire ants are also highly active in Boynton Beach lawns. According to [Florida Department of Agriculture](https://www.fdacs.gov/Divisions-Offices/Agricultural-Environmental-Services/Bureau-of-Entomology-Nematology-Plant-Pathology/Pest-Alerts) pest alerts, fire ant pressure in Palm Beach County remains high year-round. Bugsy’s [ant control](/ant-control/) uses non-repellent treatment technology for ghost ants and broadcast bait programs for fire ant lawn control.
 
 ## Termite Control in Boynton Beach
 
@@ -51,11 +51,11 @@ New developments in Boynton Beach aren’t immune to termites — disturbed soil
 
 ## Mosquito Control in Boynton Beach
 
-Canals and retention ponds throughout Boynton Beach create year-round mosquito breeding habitat. Residents near the Intracoastal experience the worst pressure. Per [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) guidance, combining larval control with adult barrier treatments delivers the best results. Our monthly [mosquito control](https://trustbugsy.com/service/mosquito-control/) service uses backpack fogging plus biological larvicide safe for fish, pets, and wildlife. Guaranteed — if mosquitoes return, we come back free of charge.
+Canals and retention ponds throughout Boynton Beach create year-round mosquito breeding habitat. Residents near the Intracoastal experience the worst pressure. Per [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) guidance, combining larval control with adult barrier treatments delivers the best results. Our monthly [mosquito control](/mosquito-control/) service uses backpack fogging plus biological larvicide safe for fish, pets, and wildlife. Guaranteed — if mosquitoes return, we come back free of charge.
 
 ## Rodent Control in Boynton Beach
 
-Roof rats and house mice are widespread in Boynton Beach, particularly near the Intracoastal and in communities with mature landscaping. [CDC]() confirms rodents can enter through gaps the size of a nickel. Bugsy’s [rodent control](https://trustbugsy.com/service/rat-control-extermination/) includes a full property inspection, exclusion of all entry points, professional trapping, and [insulation removal and replacement](/attic-sanitation-insulation-removal/) for contaminated attics.
+Roof rats and house mice are widespread in Boynton Beach, particularly near the Intracoastal and in communities with mature landscaping. [CDC]() confirms rodents can enter through gaps the size of a nickel. Bugsy’s [rodent control](/rodent-control/) includes a full property inspection, exclusion of all entry points, professional trapping, and [insulation removal and replacement](/attic-sanitation-insulation-removal/) for contaminated attics.
 
 ## Cockroach Control in Boynton Beach
 
@@ -63,11 +63,11 @@ German cockroaches spread rapidly in Boynton Beach kitchens and develop resistan
 
 ## Additional Services
 
-- [Bed Bug Extermination](https://trustbugsy.com/service/bed-bug-extermination/)
-- [Wasp & Bee Removal](https://trustbugsy.com/service/wasp-control-removal/)
+- [Bed Bug Extermination](/bed-bug-extermination/)
+- [Wasp & Bee Removal](/wasp-bee-removal/)
 - [Spider Control](/spider-control-removal/)
-- [Flea Control](https://trustbugsy.com/service/flea-control-extermination/)
-- [Attic Sanitation](https://trustbugsy.com/service/attic-sanitation/)
+- [Flea Control](/flea-control-extermination/)
+- [Attic Sanitation](/attic-sanitation-insulation-removal/)
 - [Insulation Removal & Replacement](/attic-sanitation-insulation-removal/)
 
 ## Why Choose Bugsy’s Pest Solutions in Boynton Beach?
@@ -83,9 +83,9 @@ German cockroaches spread rapidly in Boynton Beach kitchens and develop resistan
 ## Areas Near Boynton Beach We Also Serve
 
 - [Delray Beach](/delray-beach-fl-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
-- [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
+- [West Palm Beach](/west-palm-beach-fl-pest-control/)
 
 ## Boynton Beach Pest Control — Frequently Asked Questions
 

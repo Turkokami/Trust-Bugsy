@@ -17,7 +17,7 @@ By Zach Bernstein
 
 ![Standing water in a garden creating mosquito breeding site](https://trustbugsy.com/wp-content/uploads/2025/09/fall-mosquito-breeding-sites-e1774426647932.webp)
 
-As the leaves begin to change and temperatures start to cool across South Florida, many homeowners breathe a sigh of relief, thinking mosquito season is finally winding down. However, this assumption couldn’t be further from the truth. Fall actually presents some unique challenges and opportunities when it comes to [mosquito control](https://trustbugsy.com/service/mosquito-control/), making it one of the most critical times of year to maintain your pest management strategy.
+As the leaves begin to change and temperatures start to cool across South Florida, many homeowners breathe a sigh of relief, thinking mosquito season is finally winding down. However, this assumption couldn’t be further from the truth. Fall actually presents some unique challenges and opportunities when it comes to [mosquito control](/mosquito-control/), making it one of the most critical times of year to maintain your pest management strategy.
 
 ### The Fall Mosquito Surge: A South Florida Reality
 
@@ -125,15 +125,15 @@ Don’t let fall’s deceptive calm lull you into a false sense of security rega
 
 - palm beach county
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
 
 - broward county
 
@@ -149,7 +149,7 @@ Don’t let fall’s deceptive calm lull you into a false sense of security rega
 
 - St. Lucie county
 
-- [Port St. Lucie](https://trustbugsy.com/service-area/port-st-lucie/)
+- [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 - Fort Pierce
 - St. Lucie West
 - PGA Village

@@ -23,7 +23,7 @@ Contrary to popular belief, termites don’t simply disappear when temperatures 
 
 Subterranean termites, the most common species in Palm Beach and Broward Counties, maintain their activity levels well into fall. The soil temperature remains warm enough to support their movement, and the increased moisture from fall rains creates ideal conditions for termite tunneling. Meanwhile, drywood termites, which live entirely within the wood they consume, are completely unaffected by minor temperature fluctuations and continue their destructive work year-round.
 
-The danger lies in the false sense of security that cooler weather provides. While you may notice fewer ants or mosquitoes around your property, termites continue their hidden assault on your home’s structural integrity. This makes fall an ideal time for comprehensive [termite control](https://trustbugsy.com/service/termite-control/) measures, as early detection and treatment can prevent extensive damage.
+The danger lies in the false sense of security that cooler weather provides. While you may notice fewer ants or mosquitoes around your property, termites continue their hidden assault on your home’s structural integrity. This makes fall an ideal time for comprehensive [termite control](/termite-control/) measures, as early detection and treatment can prevent extensive damage.
 
 ## Why Fall Inspections Reveal Critical Information
 
@@ -77,7 +77,7 @@ Interior inspections target areas where termite activity is most likely to be de
 
 Attic inspections are often overlooked by homeowners but are crucial for comprehensive termite assessment. Drywood termites frequently establish colonies in attic areas, where they can remain undetected for extended periods. Professional inspectors check wooden support beams, roof decking, and other structural elements for evidence of termite activity.
 
-Additional services like [attic sanitation](https://trustbugsy.com/service/attic-sanitation/) may be recommended if termite activity is discovered, as contaminated insulation can harbor pests and reduce the effectiveness of treatment efforts.
+Additional services like [attic sanitation](/attic-sanitation-insulation-removal/) may be recommended if termite activity is discovered, as contaminated insulation can harbor pests and reduce the effectiveness of treatment efforts.
 
 ## Timing Your Fall Inspection for Maximum Effectiveness
 

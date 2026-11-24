@@ -31,13 +31,13 @@ If you’re searching for pest control near me in Coral Springs, you’ve found 
 
 ## Commercial Pest Control in Coral Springs
 
-Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](https://trustbugsy.com/service/commercial-pest-control/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Coral Springs. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
+Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](/commercial/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Coral Springs. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
 
 ![Bugsy's Pest Solutions technician performing residential pest control using a vacuum tool outside a home, alongside another technician applying commercial pest treatment indoors with protective gear and a sprayer.](https://trustbugsy.com/wp-content/uploads/2025/03/bugsys-pest-solutions-garage-residential-vs-commercial.webp)
 
 ## Ant Control in Coral Springs
 
-Ghost ants are the most commonly reported pest in Coral Springs homes — they’re small, fast, and form extensive trails through kitchens and bathrooms. Repellent sprays cause colonies to split and expand, making infestations worse. [UF IFAS Extension](https://edis.ifas.ufl.edu/) recommends non-repellent baiting as the standard of care for ghost ant control. Bugsy’s [ant control](https://trustbugsy.com/service/ant-control/) uses this technology to eliminate entire colonies including the queen. Fire ant broadcast bait treats your full lawn rather than individual mounds.
+Ghost ants are the most commonly reported pest in Coral Springs homes — they’re small, fast, and form extensive trails through kitchens and bathrooms. Repellent sprays cause colonies to split and expand, making infestations worse. [UF IFAS Extension](https://edis.ifas.ufl.edu/) recommends non-repellent baiting as the standard of care for ghost ant control. Bugsy’s [ant control](/ant-control/) uses this technology to eliminate entire colonies including the queen. Fire ant broadcast bait treats your full lawn rather than individual mounds.
 
 ## Termite Control in Coral Springs
 
@@ -45,11 +45,11 @@ Coral Springs has a mix of home ages, and older neighborhoods are particularly v
 
 ## Mosquito Control in Coral Springs
 
-Coral Springs’ retention ponds and waterways create ideal mosquito breeding sites throughout the city. [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) recommends combining adult barrier treatments with larval source control for maximum effectiveness. Our monthly [mosquito control](https://trustbugsy.com/service/mosquito-control/) service treats both adult mosquitoes (backpack fogging) and breeding sites (biological larvicide), and is safe for pets and pond fish. Guaranteed results — free retreatments if needed.
+Coral Springs’ retention ponds and waterways create ideal mosquito breeding sites throughout the city. [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) recommends combining adult barrier treatments with larval source control for maximum effectiveness. Our monthly [mosquito control](/mosquito-control/) service treats both adult mosquitoes (backpack fogging) and breeding sites (biological larvicide), and is safe for pets and pond fish. Guaranteed results — free retreatments if needed.
 
 ## Rodent Control in Coral Springs
 
-Roof rats are common in Coral Springs neighborhoods with mature tree canopy. House mice are also increasingly frequent. [CDC]() notes that rodents spread serious diseases and cause significant property damage. Bugsy’s [rodent control](https://trustbugsy.com/service/rat-control-extermination/) identifies every entry point, seals them with professional exclusion materials, and removes existing populations through targeted trapping.
+Roof rats are common in Coral Springs neighborhoods with mature tree canopy. House mice are also increasingly frequent. [CDC]() notes that rodents spread serious diseases and cause significant property damage. Bugsy’s [rodent control](/rodent-control/) identifies every entry point, seals them with professional exclusion materials, and removes existing populations through targeted trapping.
 
 ## Cockroach Control in Coral Springs
 
@@ -57,11 +57,11 @@ German cockroaches spread rapidly in Coral Springs kitchens and are resistant to
 
 ## Additional Services
 
-- [Bed Bug Extermination](https://trustbugsy.com/service/bed-bug-extermination/)
-- [Wasp & Bee Removal](https://trustbugsy.com/service/wasp-control-removal/)
+- [Bed Bug Extermination](/bed-bug-extermination/)
+- [Wasp & Bee Removal](/wasp-bee-removal/)
 - [Spider Control](/spider-control-removal/)
-- [Flea Control](https://trustbugsy.com/service/flea-control-extermination/)
-- [Attic Sanitation](https://trustbugsy.com/service/attic-sanitation/)
+- [Flea Control](/flea-control-extermination/)
+- [Attic Sanitation](/attic-sanitation-insulation-removal/)
 - [Insulation Removal & Replacement](/attic-sanitation-insulation-removal/)
 
 ## Why Choose Bugsy’s Pest Solutions in Coral Springs?

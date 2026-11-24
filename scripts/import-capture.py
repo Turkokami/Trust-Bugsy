@@ -84,6 +84,27 @@ REDIR = {'/rat-rodent-control/': '/rodent-control/', '/commercial-pest-control/'
 # /service-area/<city>/ -> /<city>-fl-pest-control/ (seen by the capture agent, 23 Nov 2026)
 for _c in ['coral-springs','davie','deerfield-beach','hollywood','miramar','pembroke-pines','plantation','pompano-beach','sunrise']:
     REDIR[f'/service-area/{_c}/'] = f'/{_c}-fl-pest-control/'
+# Old WordPress addresses that live content still links to -> the local page
+# for the same service or city (matched by name, Nov 24 2026).
+SVC_MAP = {'mosquito-control': '/mosquito-control/', 'residential-pest-control': '/residential-pest-control/',
+    'attic-sanitation': '/attic-sanitation-insulation-removal/', 'insulation-removal': '/attic-sanitation-insulation-removal/',
+    'insulation-replacement': '/insulation-replacement/', 'rat-control-extermination': '/rodent-control/', 'rodent-control': '/rodent-control/',
+    'ant-control': '/ant-control/', 'termite-control': '/termite-control/', 'cockroach-control-extermination': '/cockroach-control-extermination/',
+    'wasp-control-removal': '/wasp-bee-removal/', 'commercial-pest-control': '/commercial/', 'flea-control-extermination': '/flea-control-extermination/',
+    'bed-bug-extermination': '/bed-bug-extermination/', 'bee-removal-control': '/bee-hive-removal/', 'bee-removal': '/bee-hive-removal/',
+    'spider-control-removal-services': '/spider-control-removal/', 'no-tent-termite-treatment': '/no-tent-termite-treatment/'}
+for _k, _v in SVC_MAP.items(): REDIR[f'/service/{_k}/'] = _v
+for _c in ['boca-raton','lake-worth-beach','delray-beach','boynton-beach','palm-beach-gardens','jupiter','wellington','royal-palm-beach',
+           'greenacres','west-palm-beach','port-st-lucie','broward-county','fort-lauderdale','sunrise','coral-springs','deerfield-beach',
+           'pembroke-pines','plantation','miramar','davie','hollywood','pompano-beach']:
+    REDIR.setdefault(f'/service-area/{_c}/', f'/{_c}-fl-pest-control/')
+    REDIR[f'/service-area/{_c}-fl-pest-control/'] = f'/{_c}-fl-pest-control/'
+REDIR['/service-area/fort-lauderdale/'] = '/fort-lauderdale-pest-control/'
+REDIR['/blogs/'] = '/blog/'
+REDIR['/pest-control-service-areas/'] = '/service-area/'
+for _c in ['schools-childcare','retail-stores-shopping-centers','restaurants-food-service','property-management','office-buildings',
+           'multi-family-properties-hoas','hotels-hospitality','healthcare-facilities','government-buildings','warehouses-distribution-centers']:
+    REDIR[f'/{_c}/'] = f'/commercial/{_c}/'
 done_paths = set()
 missing = set()
 known = set()

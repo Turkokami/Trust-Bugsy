@@ -37,11 +37,11 @@ If you’re searching for pest control near me in Boca Raton, you’ve found the
 
 ## Commercial Pest Control in Boca Raton
 
-Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](https://trustbugsy.com/service/commercial-pest-control/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Boca Raton. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
+Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](/commercial/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout Boca Raton. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
 
 ## Ant Control in Boca Raton
 
-Ghost ants and big-headed ants are the two dominant species in Boca Raton. Ghost ants thrive in landscaped communities and surge indoors during rain. Big-headed ants produce colonies with millions of workers — one-time treatments are almost never sufficient. Per [UF IFAS Extension](https://edis.ifas.ufl.edu/) research, non-repellent baiting is the most effective approach for ghost ant control. Bugsy’s applies this method to eliminate entire colonies, not just visible workers. See our [ant control](https://trustbugsy.com/service/ant-control/) page.
+Ghost ants and big-headed ants are the two dominant species in Boca Raton. Ghost ants thrive in landscaped communities and surge indoors during rain. Big-headed ants produce colonies with millions of workers — one-time treatments are almost never sufficient. Per [UF IFAS Extension](https://edis.ifas.ufl.edu/) research, non-repellent baiting is the most effective approach for ghost ant control. Bugsy’s applies this method to eliminate entire colonies, not just visible workers. See our [ant control](/ant-control/) page.
 
 ## Termite Control in Boca Raton
 
@@ -49,7 +49,7 @@ Formosan termites — known as “super termites” — have become increasingly
 
 ## Mosquito Control in Boca Raton
 
-Boca Raton’s golf course ponds and frequent rainfall create year-round mosquito breeding habitat. Since frosts are rare here, mosquitoes remain active throughout the year. The [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) page recommends professional barrier treatments alongside source elimination. Our monthly service applies micro-encapsulated insecticide with a backpack fogger and treats standing water with biological larvicide safe for pets and wildlife. Guaranteed results — free retreatments if needed. See [mosquito control](https://trustbugsy.com/service/mosquito-control/) details.
+Boca Raton’s golf course ponds and frequent rainfall create year-round mosquito breeding habitat. Since frosts are rare here, mosquitoes remain active throughout the year. The [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) page recommends professional barrier treatments alongside source elimination. Our monthly service applies micro-encapsulated insecticide with a backpack fogger and treats standing water with biological larvicide safe for pets and wildlife. Guaranteed results — free retreatments if needed. See [mosquito control](/mosquito-control/) details.
 
 ## Rodent Control in Boca Raton
 
@@ -61,11 +61,11 @@ Both palmetto bugs and German cockroaches are active in Boca Raton kitchens and 
 
 ## Additional Services
 
-- [Bed Bug Extermination](https://trustbugsy.com/service/bed-bug-extermination/)
-- [Wasp & Bee Removal](https://trustbugsy.com/service/wasp-control-removal/)
+- [Bed Bug Extermination](/bed-bug-extermination/)
+- [Wasp & Bee Removal](/wasp-bee-removal/)
 - [Spider Control](/spider-control-removal/)
-- [Flea Control](https://trustbugsy.com/service/flea-control-extermination/)
-- [Attic Sanitation](https://trustbugsy.com/service/attic-sanitation/)
+- [Flea Control](/flea-control-extermination/)
+- [Attic Sanitation](/attic-sanitation-insulation-removal/)
 - [Insulation Removal & Replacement](/attic-sanitation-insulation-removal/)
 
 ## Why Choose Bugsy’s Pest Solutions in Boca Raton?

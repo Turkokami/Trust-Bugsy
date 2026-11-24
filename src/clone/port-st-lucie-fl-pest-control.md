@@ -10,7 +10,7 @@ faqs: [{"q": "Is pest pressure worse in new construction communities like Tradit
 
 # Pest Control in Port St. Lucie, Florida
 
-Port St. Lucie’s rapid growth, freshwater canals, and humid subtropical climate make it one of the most pest-active cities on Florida’s Treasure Coast. Whether you’re in a new construction home in Tradition, a waterfront property along the North Fork, or a commercial space in the St. Lucie West corridor, Bugsy’s delivers reliable [pest control](/) you can count on. Bugsy’s Pest Solutions is a veteran-owned pest control company serving Port St. Lucie, Fort Pierce, and surrounding communities throughout St. Lucie County. We offer eco-friendly, pet-safe treatments backed by a genuine pest-free guarantee. Call (561) 654-8998 for a free estimate, or visit our full [service area](https://trustbugsy.com/pest-control-service-areas/).
+Port St. Lucie’s rapid growth, freshwater canals, and humid subtropical climate make it one of the most pest-active cities on Florida’s Treasure Coast. Whether you’re in a new construction home in Tradition, a waterfront property along the North Fork, or a commercial space in the St. Lucie West corridor, Bugsy’s delivers reliable [pest control](/) you can count on. Bugsy’s Pest Solutions is a veteran-owned pest control company serving Port St. Lucie, Fort Pierce, and surrounding communities throughout St. Lucie County. We offer eco-friendly, pet-safe treatments backed by a genuine pest-free guarantee. Call (561) 654-8998 for a free estimate, or visit our full [service area](/service-area/).
 
 ## Pests We Treat in Port St. Lucie
 
@@ -80,8 +80,8 @@ Palmetto bugs are a fixture in Port St. Lucie, especially near wooded preserves,
 ## Areas Near Port St. Lucie We Also Serve
 
 - [Jupiter](/jupiter-fl-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [West Palm Beach](/west-palm-beach-fl-pest-control/)
 - [Boynton Beach](/boynton-beach-fl-pest-control/)
 
 ## Port St. Lucie Pest Control — Frequently Asked Questions
@@ -100,7 +100,7 @@ Subterranean termites build mud tubes and typically enter from the soil. Drywood
 
 ## Get Your Free Pest Control Estimate in Port St. Lucie
 
-Don’t let pests take over your Port St. Lucie home or business. Bugsy’s Pest Solutions is ready to help. Call (561) 654-8998 or [request your free estimate online](/contact/). View our [Gold](/gold-package/), [Platinum](/platinum-package/), and [Diamond packages](/diamond-package/), or [explore all service areas](https://trustbugsy.com/pest-control-service-areas/) we cover across St. Lucie County and the Treasure Coast.
+Don’t let pests take over your Port St. Lucie home or business. Bugsy’s Pest Solutions is ready to help. Call (561) 654-8998 or [request your free estimate online](/contact/). View our [Gold](/gold-package/), [Platinum](/platinum-package/), and [Diamond packages](/diamond-package/), or [explore all service areas](/service-area/) we cover across St. Lucie County and the Treasure Coast.
 
 ## More pest control services from Bugsy’s
 

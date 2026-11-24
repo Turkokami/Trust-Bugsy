@@ -78,7 +78,7 @@ Wolf spiders are not considered medically dangerous. Their bite may cause minor 
 
 ## Professional Spider Control in South Florida
 
-Don’t let spider take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate spider with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [spider control](https://trustbugsy.com/service/spider-control-removal-services/) service page for treatment details.
+Don’t let spider take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate spider with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [spider control](/spider-control-removal/) service page for treatment details.
 
 Get A Free Quote
 
@@ -110,15 +110,15 @@ When pests invade, you need a reliable and experienced team to restore peace to 
 
 - palm beach county
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
 
 - broward county
 

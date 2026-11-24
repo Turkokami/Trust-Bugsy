@@ -19,7 +19,7 @@ By Zach Bernstein
 
 ## What Are Sugar Ants and Which Species Are Common in Florida?
 
-“Sugar ants” isn’t a scientific term — it groups several small ant species that seek sweets and moisture. These ants forage broadly, follow pheromone trails to recruit nestmates, and often nest outdoors in soil or inside wall voids where food and humidity meet. Knowing the common species and how to spot them helps you choose the right bait and sanitation steps, which improves [control results](https://trustbugsy.com/service/ant-control/). The quick reference table below summarizes the species most often called sugar ants in Florida and notes easy ID cues and typical nesting spots so you can decide on your first action.
+“Sugar ants” isn’t a scientific term — it groups several small ant species that seek sweets and moisture. These ants forage broadly, follow pheromone trails to recruit nestmates, and often nest outdoors in soil or inside wall voids where food and humidity meet. Knowing the common species and how to spot them helps you choose the right bait and sanitation steps, which improves [control results](/ant-control/). The quick reference table below summarizes the species most often called sugar ants in Florida and notes easy ID cues and typical nesting spots so you can decide on your first action.
 
 The table below helps you match a sighting to the likely species and the best first response.
 
@@ -120,7 +120,7 @@ Carpenter ant damage usually shows as piles of frass (wood shavings mixed with i
 
 
 
-Preventing sugar ant problems works best as a layered strategy: reduce attractants, remove moisture‑rich microhabitats, and seal access points. This Integrated Pest Management (IPM) approach removes the resources colonies rely on, favors targeted baits over broad sprays, and keeps the building envelope and surrounding landscape maintained to lower pressure from outdoor nests. Simple daily and seasonal routines dramatically cut the chance of recurring infestations and boost the performance of any [professional treatments](https://trustbugsy.com/service/residential-pest-control/) you may use. Below are specific, actionable routines and sealing priorities so you know what to tackle first.
+Preventing sugar ant problems works best as a layered strategy: reduce attractants, remove moisture‑rich microhabitats, and seal access points. This Integrated Pest Management (IPM) approach removes the resources colonies rely on, favors targeted baits over broad sprays, and keeps the building envelope and surrounding landscape maintained to lower pressure from outdoor nests. Simple daily and seasonal routines dramatically cut the chance of recurring infestations and boost the performance of any [professional treatments](/residential-pest-control/) you may use. Below are specific, actionable routines and sealing priorities so you know what to tackle first.
 
 Start with sanitation and food storage best practices — the most accessible line of defense — described next.
 

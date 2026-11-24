@@ -23,7 +23,7 @@ West Palm Beach residents and businesses face unique pest pressures due to our s
 
 Ghost ants are the #1 pest complaint in West Palm Beach homes. These tiny, pale-legged invaders establish multiple colonies throughout properties, particularly in kitchens and bathrooms. Their small size and multiple nesting locations make DIY treatments ineffective.
 
-Our [West Palm Beach ghost ant control](https://trustbugsy.com/service/ant-control/) includes:
+Our [West Palm Beach ghost ant control](/ant-control/) includes:
 
 - Thorough inspection to locate all colony sites in your property
 - Targeted bait placements that workers carry back to eliminate queens
@@ -45,7 +45,7 @@ Our [West Palm Beach cockroach control](/cockroach-control-extermination/) inclu
 
 Roof rats (palm rats) are West Palm Beach’s primary rodent challenge, especially in neighborhoods with mature landscaping and fruit trees. These excellent climbers access homes via tree branches, power lines, and exterior pipes, nesting in attics and causing significant damage.
 
-Our [West Palm Beach rodent control](https://trustbugsy.com/service/rat-control-extermination/) includes:
+Our [West Palm Beach rodent control](/rodent-control/) includes:
 
 - Comprehensive inspection identifying entry points
 - Humane trapping and removal of existing rats
@@ -57,7 +57,7 @@ Our [West Palm Beach rodent control](https://trustbugsy.com/service/rat-control-
 
 West Palm Beach’s numerous water features, including lakes, canals, and the Intracoastal Waterway, create perfect breeding conditions for mosquitoes. Our targeted mosquito treatments allow residents to enjoy outdoor spaces without constant biting.
 
-Our [West Palm Beach mosquito control](https://trustbugsy.com/service/mosquito-control/) includes:
+Our [West Palm Beach mosquito control](/mosquito-control/) includes:
 
 - Property inspection identifying all breeding sites
 - Treatment of standing water with larvicides

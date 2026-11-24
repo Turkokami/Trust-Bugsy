@@ -63,7 +63,7 @@ These two termite types require completely different treatment approaches. Drywo
 
 ### No-Tent Treatment (Localized Infestations)
 
-For infestations confined to specific areas, [no-tent treatment](https://trustbugsy.com/service/no-tent-termite-treatment/) injects termiticide foam directly into active galleries. No prep, no time away from home. Warranted for one year.
+For infestations confined to specific areas, [no-tent treatment](/no-tent-termite-treatment/) injects termiticide foam directly into active galleries. No prep, no time away from home. Warranted for one year.
 
 ### Tent Fumigation (Whole-Home Infestations)
 
@@ -82,7 +82,7 @@ Very likely. Drywood termites readily infest wooden furniture — especially ant
 
 ## Professional Termite Control in South Florida
 
-Don’t let termite take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate termite with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [termite control](https://trustbugsy.com/service/termite-control/) service page for treatment details.
+Don’t let termite take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate termite with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [termite control](/termite-control/) service page for treatment details.
 
 Get A Free Quote
 
@@ -114,15 +114,15 @@ When pests invade, you need a reliable and experienced team to restore peace to 
 
 - palm beach county
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
 
 - broward county
 

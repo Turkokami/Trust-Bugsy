@@ -82,11 +82,11 @@ We start by measuring your current insulation levels, checking for moisture or p
 
 ### Removal of Contaminated or Degraded Material
 
-If your existing insulation is contaminated by pests, damaged by moisture, or so degraded it’s compacted to almost nothing, we remove it completely before installing new material. Installing new insulation over a compromised base buries the problem — the health hazard from rodent contamination remains, and the new material won’t perform to spec. Learn more about our [insulation removal service](https://trustbugsy.com/service/insulation-removal/) and what the process involves.
+If your existing insulation is contaminated by pests, damaged by moisture, or so degraded it’s compacted to almost nothing, we remove it completely before installing new material. Installing new insulation over a compromised base buries the problem — the health hazard from rodent contamination remains, and the new material won’t perform to spec. Learn more about our [insulation removal service](/attic-sanitation-insulation-removal/) and what the process involves.
 
 ### Attic Sanitation
 
-When rodent activity has contaminated the attic space, removal alone isn’t sufficient. We sanitize attic surfaces — rafters, sheathing, and any structural elements — with professional-grade disinfectant before new insulation goes in. This eliminates the pathogens left behind by rodent urine and droppings, which can become airborne and circulate through your HVAC system if not addressed. Learn more about our [attic sanitation service](https://trustbugsy.com/service/attic-sanitation/).
+When rodent activity has contaminated the attic space, removal alone isn’t sufficient. We sanitize attic surfaces — rafters, sheathing, and any structural elements — with professional-grade disinfectant before new insulation goes in. This eliminates the pathogens left behind by rodent urine and droppings, which can become airborne and circulate through your HVAC system if not addressed. Learn more about our [attic sanitation service](/attic-sanitation-insulation-removal/).
 
 ### Air Sealing
 
@@ -98,18 +98,18 @@ We install your chosen material with complete, even coverage — no compressed a
 
 ### Pest Exclusion (When Applicable)
 
-If a rodent infestation caused or contributed to the need for replacement, we seal the entry points rats used to access the attic as part of the same service. Installing new insulation without exclusion work means the next generation of rats moves right back in. Our [rat control service](https://trustbugsy.com/service/rat-control-extermination/) and insulation replacement work together — you don’t need separate contractors.
+If a rodent infestation caused or contributed to the need for replacement, we seal the entry points rats used to access the attic as part of the same service. Installing new insulation without exclusion work means the next generation of rats moves right back in. Our [rat control service](/rodent-control/) and insulation replacement work together — you don’t need separate contractors.
 
 ## What You Should Do Before Insulation Replacement
 
-- If you’ve had a confirmed rodent infestation, have the rats eliminated before replacement begins — we handle this through our [rat control service](https://trustbugsy.com/service/rat-control-extermination/) as part of a coordinated attic restoration project
+- If you’ve had a confirmed rodent infestation, have the rats eliminated before replacement begins — we handle this through our [rat control service](/rodent-control/) as part of a coordinated attic restoration project
 - Clear the attic access area of any stored items so our crew can move freely during removal and installation
 - Let us know if any HVAC equipment or ductwork in the attic needs to be worked around — we’ll account for it in the plan
 - Note any areas where you’ve seen water intrusion or roof leaks — these need to be addressed before new insulation goes in or the material will be compromised again
 
 ## The Pest Control Connection Most Insulation Companies Don’t Have
 
-Bugsy’s started as a pest control company. That background makes a meaningful difference for attic insulation work that a standard insulation contractor can’t match. We know what rodent-contaminated insulation looks like, what it takes to remediate properly, and how rats are getting in — because we handle [rat control](https://trustbugsy.com/service/rat-control-extermination/) and exclusion as core services, not as something we subcontract out.
+Bugsy’s started as a pest control company. That background makes a meaningful difference for attic insulation work that a standard insulation contractor can’t match. We know what rodent-contaminated insulation looks like, what it takes to remediate properly, and how rats are getting in — because we handle [rat control](/rodent-control/) and exclusion as core services, not as something we subcontract out.
 
 When we seal entry points as part of an insulation replacement job, we’re doing it with the same knowledge and materials we use for a dedicated pest exclusion service. If your insulation problem started with a pest problem, we handle both — one inspection, one coordinated plan, one company responsible for the result.
 
@@ -119,11 +119,11 @@ For more on the connection between rodent activity and attic insulation damage, 
 
 A properly insulated and air-sealed attic is one part of a well-protected South Florida home. Our [Gold, Platinum, and Diamond packages](/packages/) include ongoing pest control that protects your new insulation investment — monitoring for rodent activity, treating the perimeter, and catching entry point breaches before they result in another contamination event.
 
-Insulation replacement pairs naturally with our complete attic service offering: [insulation removal](https://trustbugsy.com/service/insulation-removal/), [attic sanitation](https://trustbugsy.com/service/attic-sanitation/), and [rat control and exclusion](https://trustbugsy.com/service/rat-control-extermination/) — all available under one roof so you’re not coordinating between multiple contractors.
+Insulation replacement pairs naturally with our complete attic service offering: [insulation removal](/attic-sanitation-insulation-removal/), [attic sanitation](/attic-sanitation-insulation-removal/), and [rat control and exclusion](/rodent-control/) — all available under one roof so you’re not coordinating between multiple contractors.
 
 ## Get a Free Insulation Replacement Estimate
 
-Don’t let degraded or contaminated insulation keep driving up your cooling costs and health risk. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), [Coral Springs](/coral-springs-fl-pest-control/), [Pompano Beach](/pompano-beach-fl-pest-control/), [Jupiter](https://trustbugsy.com/service-area/jupiter/), [Hollywood](/hollywood-fl-pest-control/), and surrounding areas.
+Don’t let degraded or contaminated insulation keep driving up your cooling costs and health risk. Bugsy’s Pest Solutions is ready to help. As a veteran-owned, family-operated company, we treat your home like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve Palm Beach and Broward counties including [Lake Worth Beach](/lake-worth-beach-fl-pest-control/), [West Palm Beach](/west-palm-beach-fl-pest-control/), [Boca Raton](/boca-raton-fl-pest-control/), [Boynton Beach](/boynton-beach-fl-pest-control/), [Delray Beach](/delray-beach-fl-pest-control/), [Coral Springs](/coral-springs-fl-pest-control/), [Pompano Beach](/pompano-beach-fl-pest-control/), [Jupiter](/jupiter-fl-pest-control/), [Hollywood](/hollywood-fl-pest-control/), and surrounding areas.
 
 Get A Free Quote
 
@@ -227,37 +227,37 @@ Schedule Call Today!
 
 [Let’s Get Started](/contact/)
 
-[![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](https://trustbugsy.com/service/ant-control/)
+[![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](/ant-control/)
 
-### [Ant Control](https://trustbugsy.com/service/ant-control/)
+### [Ant Control](/ant-control/)
 
-[![Bed bug control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-40.webp)](https://trustbugsy.com/service/bed-bug-extermination/)
+[![Bed bug control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-40.webp)](/bed-bug-extermination/)
 
-### [Bed Bug Control](https://trustbugsy.com/service/bed-bug-extermination/)
+### [Bed Bug Control](/bed-bug-extermination/)
 
-[![Beetle pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-01.webp)](https://trustbugsy.com/service/cockroach-control-extermination/)
+[![Beetle pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-01.webp)](/cockroach-control-extermination/)
 
-### [Cockroach Control](https://trustbugsy.com/service/cockroach-control-extermination/)
+### [Cockroach Control](/cockroach-control-extermination/)
 
-[![Rodent control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-02.webp)](https://trustbugsy.com/service/rat-control-extermination/)
+[![Rodent control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-02.webp)](/rodent-control/)
 
-### [Rodent Control](https://trustbugsy.com/service/rat-control-extermination/)
+### [Rodent Control](/rodent-control/)
 
-[![Skull and crossbones pest hazard icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group51.webp)](https://trustbugsy.com/service/flea-control-extermination/)
+[![Skull and crossbones pest hazard icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group51.webp)](/flea-control-extermination/)
 
-### [Flea & Mite Treatment](https://trustbugsy.com/service/flea-control-extermination/)
+### [Flea & Mite Treatment](/flea-control-extermination/)
 
-[![Fly pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group5-1.webp)](https://trustbugsy.com/service/mosquito-control/)
+[![Fly pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group5-1.webp)](/mosquito-control/)
 
-### [Mosquito Control](https://trustbugsy.com/service/mosquito-control/)
+### [Mosquito Control](/mosquito-control/)
 
-[![Pest elimination icon showing an insect in a no symbol](https://trustbugsy.com/wp-content/uploads/2025/03/Group6.webp)](https://trustbugsy.com/service/wasp-control-removal/)
+[![Pest elimination icon showing an insect in a no symbol](https://trustbugsy.com/wp-content/uploads/2025/03/Group6.webp)](/wasp-bee-removal/)
 
-### [Wasp Control & Removal](https://trustbugsy.com/service/wasp-control-removal/)
+### [Wasp Control & Removal](/wasp-bee-removal/)
 
-[![Pest control spray treatment icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group8.webp)](https://trustbugsy.com/service/attic-sanitation/)
+[![Pest control spray treatment icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group8.webp)](/attic-sanitation-insulation-removal/)
 
-### [attic sanitation](https://trustbugsy.com/service/attic-sanitation/)
+### [attic sanitation](/attic-sanitation-insulation-removal/)
 
 Trusted **Pest Control Solutions**
 
@@ -265,27 +265,27 @@ for Homes and Businesses
 
 Join your neighbors in trusting Bugsy’s Pest Solutions to protect your Florida home from pesky critters. Say goodbye to pests today!
 
-[![Commercial building pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-281-2.webp)](https://trustbugsy.com/service/residential-pest-control/)
+[![Commercial building pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-281-2.webp)](/residential-pest-control/)
 
-### [Residential Pest Control](https://trustbugsy.com/service/residential-pest-control/)
+### [Residential Pest Control](/residential-pest-control/)
 
-[![Insect pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-282.webp)](https://trustbugsy.com/service/termite-control/)
+[![Insect pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-282.webp)](/termite-control/)
 
-### [termite control](https://trustbugsy.com/service/termite-control/)
+### [termite control](/termite-control/)
 
 --
 
-[![Storefront commercial pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-283.webp)](https://trustbugsy.com/service/commercial-pest-control/)
+[![Storefront commercial pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-283.webp)](/commercial/)
 
-### [Commercial Pest Control](https://trustbugsy.com/service/commercial-pest-control/)
+### [Commercial Pest Control](/commercial/)
 
-[](https://trustbugsy.com/service/mosquito-control/)
+[](/mosquito-control/)
 
-### [mosquito control](https://trustbugsy.com/service/mosquito-control/)
+### [mosquito control](/mosquito-control/)
 
-[](https://trustbugsy.com/service/insulation-removal/)
+[](/attic-sanitation-insulation-removal/)
 
-### [insulation and rats](https://trustbugsy.com/service/insulation-removal/)
+### [insulation and rats](/attic-sanitation-insulation-removal/)
 
 --
 
@@ -329,15 +329,15 @@ When pests invade, you need a reliable and experienced team to restore peace to 
 
 - [palm beach county](#)
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
 
 - [broward county](#)
 

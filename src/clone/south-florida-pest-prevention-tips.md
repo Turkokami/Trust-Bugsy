@@ -34,7 +34,7 @@ Outside, ensure that your yard is well-maintained—trim overgrown bushes, remov
 - Install door sweeps on exterior doors to block small pests.
 - Use screens on windows and vents to prevent insect entry.
 - Keep gutters clean and free of debris to avoid water accumulation.
-- Consider professional pest control inspections annually. Learn more about [pest control services in Broward County](https://trustbugsy.com/service-area/broward-county/).
+- Consider professional pest control inspections annually. Learn more about [pest control services in Broward County](/broward-county-fl-pest-control/).
 
 
 
@@ -52,13 +52,13 @@ Beyond the basics, there are several other strategies homeowners can adopt to fu
 - **Store Garbage Properly:** Use sealed trash bins and clean them regularly to prevent odors that attract rodents and insects.
 - **Monitor for Signs of Infestation:** Keep an eye out for droppings, chewed materials, or unusual sounds, and act quickly if you suspect a pest problem.
 
-Implementing these additional measures can enhance your home’s defenses and provide peace of mind throughout the year. For specialized services, consider [termite control](https://trustbugsy.com/service/termite-control/), [rat control](https://trustbugsy.com/service/rat-control-extermination/), or [mosquito control](https://trustbugsy.com/service/mosquito-control/) options.
+Implementing these additional measures can enhance your home’s defenses and provide peace of mind throughout the year. For specialized services, consider [termite control](/termite-control/), [rat control](/rodent-control/), or [mosquito control](/mosquito-control/) options.
 
 ### Frequently Asked Questions
 
 #### What are the most common pests in South Florida homes?
 
-South Florida is home to a variety of pests, including ants, cockroaches, termites, mosquitoes, and rodents like rats and mice. The warm, humid climate creates an ideal breeding ground for these pests, making it essential for homeowners to be vigilant. Termites, in particular, can cause significant structural damage if left unchecked, while mosquitoes can pose health risks due to their ability to transmit diseases. Understanding the common pests in your area can help you take proactive measures for prevention. For more information, visit our [blog](https://trustbugsy.com/blogs/).
+South Florida is home to a variety of pests, including ants, cockroaches, termites, mosquitoes, and rodents like rats and mice. The warm, humid climate creates an ideal breeding ground for these pests, making it essential for homeowners to be vigilant. Termites, in particular, can cause significant structural damage if left unchecked, while mosquitoes can pose health risks due to their ability to transmit diseases. Understanding the common pests in your area can help you take proactive measures for prevention. For more information, visit our [blog](/blog/).
 
 #### How often should I conduct pest inspections in my home?
 
@@ -74,7 +74,7 @@ If you discover signs of a pest infestation, such as droppings, nests, or chewed
 
 #### How can I prevent mosquitoes from breeding in my yard?
 
-To prevent mosquitoes from breeding in your yard, eliminate standing water where they lay eggs. Regularly check birdbaths, plant saucers, and clogged gutters, and empty or treat these areas as needed. Additionally, consider using mosquito-repellent plants like citronella or marigolds in your garden. Installing screens on windows and doors can also help keep mosquitoes out of your home. Maintaining a well-kept yard reduces potential breeding sites and makes your outdoor space more enjoyable. Explore our [mosquito control services](https://trustbugsy.com/service/mosquito-control/) for more options.
+To prevent mosquitoes from breeding in your yard, eliminate standing water where they lay eggs. Regularly check birdbaths, plant saucers, and clogged gutters, and empty or treat these areas as needed. Additionally, consider using mosquito-repellent plants like citronella or marigolds in your garden. Installing screens on windows and doors can also help keep mosquitoes out of your home. Maintaining a well-kept yard reduces potential breeding sites and makes your outdoor space more enjoyable. Explore our [mosquito control services](/mosquito-control/) for more options.
 
 #### What are the benefits of professional pest control services?
 

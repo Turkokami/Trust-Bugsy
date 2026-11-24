@@ -90,19 +90,19 @@ Trusted **Pest Control Solutions for Homes and Businesses**
 
 Join your neighbors in trusting Bugsy’s Pest Solutions to protect your Florida home from pesky critters. Say goodbye to pests today!
 
-### [Residential Pest Control](https://trustbugsy.com/service/residential-pest-control/)
-[![Commercial building pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-281-2.webp)](https://trustbugsy.com/service/residential-pest-control/)
+### [Residential Pest Control](/residential-pest-control/)
+[![Commercial building pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-281-2.webp)](/residential-pest-control/)
 
-### [termite control](https://trustbugsy.com/service/termite-control/)
-[![Insect pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-282.webp)](https://trustbugsy.com/service/termite-control/)
+### [termite control](/termite-control/)
+[![Insect pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-282.webp)](/termite-control/)
 
 --
 
-### [Commercial Pest Control](https://trustbugsy.com/service/commercial-pest-control/)
-[![Storefront commercial pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-283.webp)](https://trustbugsy.com/service/commercial-pest-control/)
+### [Commercial Pest Control](/commercial/)
+[![Storefront commercial pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-283.webp)](/commercial/)
 
-### [mosquito control](https://trustbugsy.com/service/mosquito-control/)
-[![Bugsy's Pest Solutions insect and termite control icon](https://trustbugsy.com/wp-content/uploads/2025/05/Group-339.webp)](https://trustbugsy.com/service/mosquito-control/)
+### [mosquito control](/mosquito-control/)
+[![Bugsy's Pest Solutions insect and termite control icon](https://trustbugsy.com/wp-content/uploads/2025/05/Group-339.webp)](/mosquito-control/)
 
 ### [insulation and rats](/attic-sanitation-insulation-removal/)
 [![Bugsy's Pest Solutions rodent control icon](https://trustbugsy.com/wp-content/uploads/2025/05/Group-341.webp)](/attic-sanitation-insulation-removal/)
@@ -124,29 +124,29 @@ Bugsy’s Expert Pest Control Solutions for Every Home & Business
 
 Schedule Call Today! [Let’s Get Started](/contact/)
 
-### [Ant Control](https://trustbugsy.com/service/ant-control/)
-[![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](https://trustbugsy.com/service/ant-control/)
+### [Ant Control](/ant-control/)
+[![Ant pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-0.webp)](/ant-control/)
 
-### [Bed Bug Control](https://trustbugsy.com/service/bed-bug-extermination/)
-[![Bed bug control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-40.webp)](https://trustbugsy.com/service/bed-bug-extermination/)
+### [Bed Bug Control](/bed-bug-extermination/)
+[![Bed bug control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-40.webp)](/bed-bug-extermination/)
 
-### [Cockroach Control](https://trustbugsy.com/service/cockroach-control-extermination/)
-[![Beetle pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-01.webp)](https://trustbugsy.com/service/cockroach-control-extermination/)
+### [Cockroach Control](/cockroach-control-extermination/)
+[![Beetle pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-01.webp)](/cockroach-control-extermination/)
 
-### [Rodent Control](https://trustbugsy.com/service/rat-control-extermination/)
-[![Rodent control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-02.webp)](https://trustbugsy.com/service/rat-control-extermination/)
+### [Rodent Control](/rodent-control/)
+[![Rodent control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group-02.webp)](/rodent-control/)
 
-### [Flea & Mite Treatment](https://trustbugsy.com/service/flea-control-extermination/)
-[![Skull and crossbones pest hazard icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group51.webp)](https://trustbugsy.com/service/flea-control-extermination/)
+### [Flea & Mite Treatment](/flea-control-extermination/)
+[![Skull and crossbones pest hazard icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group51.webp)](/flea-control-extermination/)
 
-### [Mosquito Control](https://trustbugsy.com/service/mosquito-control/)
-[![Fly pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group5-1.webp)](https://trustbugsy.com/service/mosquito-control/)
+### [Mosquito Control](/mosquito-control/)
+[![Fly pest control icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group5-1.webp)](/mosquito-control/)
 
-### [Wasp Control & Removal](https://trustbugsy.com/service/wasp-control-removal/)
-[![Pest elimination icon showing an insect in a no symbol](https://trustbugsy.com/wp-content/uploads/2025/03/Group6.webp)](https://trustbugsy.com/service/wasp-control-removal/)
+### [Wasp Control & Removal](/wasp-bee-removal/)
+[![Pest elimination icon showing an insect in a no symbol](https://trustbugsy.com/wp-content/uploads/2025/03/Group6.webp)](/wasp-bee-removal/)
 
-### [attic sanitation](https://trustbugsy.com/service/attic-sanitation/)
-[![Pest control spray treatment icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group8.webp)](https://trustbugsy.com/service/attic-sanitation/)
+### [attic sanitation](/attic-sanitation-insulation-removal/)
+[![Pest control spray treatment icon](https://trustbugsy.com/wp-content/uploads/2025/03/Group8.webp)](/attic-sanitation-insulation-removal/)
 
 Problem with Basic Pest Control
 

@@ -71,11 +71,11 @@ Bugsy’s offers flexible plans to fit every home and budget. View our [Gold Pac
 
 ## Areas Near Greenacres We Also Serve
 
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach-fl-pest-control)
-- [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach-fl-pest-control)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [West Palm Beach](/west-palm-beach-fl-pest-control/)
 - [Boynton Beach](/boynton-beach-fl-pest-control/)
 - [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
-- [Wellington](https://trustbugsy.com/service-area/wellington-fl-pest-control)
+- [Wellington](/wellington-fl-pest-control/)
 
 ## Greenacres Pest Control — Frequently Asked Questions
 
@@ -90,7 +90,7 @@ Yes. We offer lawn insect control to address chinch bugs, sod webworms, and mole
 
 ## Get Your Free Pest Control Estimate in Greenacres
 
-Don’t let pests take over your Greenacres home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](https://trustbugsy.com/pest-control-service-areas/).
+Don’t let pests take over your Greenacres home or business. As a veteran-owned, family-operated company, Bugsy’s Pest Solutions treats your property like our own. Call (561) 654-8998 or [request your free estimate online](/contact/). We serve all of [our full service area](/service-area/).
 
 ## More pest control services from Bugsy’s
 

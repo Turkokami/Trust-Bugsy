@@ -35,11 +35,11 @@ If you’re searching for pest control near me in West Palm Beach, you’ve foun
 
 ## Commercial Pest Control in West Palm Beach
 
-Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](https://trustbugsy.com/service/commercial-pest-control/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout West Palm Beach. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
+Pests can damage your reputation before you know there’s a problem. [Bugsy’s commercial pest control](/commercial/) serves restaurants, offices, warehouses, retail stores, and multi-family properties throughout West Palm Beach. We use Integrated Pest Management (IPM) — targeting the root cause of infestations, not just treating surface symptoms. Our commercial clients receive scheduled service, detailed reports, and guaranteed results. [Contact us](/contact/) for a commercial inspection.
 
 ## Ant Control in West Palm Beach
 
-Ghost ants — often called sugar ants — are the most commonly reported pest in West Palm Beach homes. They form large, fast-moving trails along baseboards and countertops, especially after rain. Most over-the-counter sprays make the problem worse by causing colonies to split. Bugsy’s uses non-repellent baiting that worker ants carry back to the colony, eliminating the entire nest including the queen. For fire ants in your lawn, we apply broadcast granular bait that targets the whole property. Learn more about our [ant control](https://trustbugsy.com/service/ant-control/) service.
+Ghost ants — often called sugar ants — are the most commonly reported pest in West Palm Beach homes. They form large, fast-moving trails along baseboards and countertops, especially after rain. Most over-the-counter sprays make the problem worse by causing colonies to split. Bugsy’s uses non-repellent baiting that worker ants carry back to the colony, eliminating the entire nest including the queen. For fire ants in your lawn, we apply broadcast granular bait that targets the whole property. Learn more about our [ant control](/ant-control/) service.
 
 ## Termite Control in West Palm Beach
 
@@ -47,7 +47,7 @@ West Palm Beach’s subtropical climate supports both drywood and subterranean t
 
 ## Mosquito Control in West Palm Beach
 
-With the C-51 Canal and dozens of retention ponds throughout the city, West Palm Beach homeowners deal with mosquitoes nearly every month of the year. The [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) recommends eliminating standing water and professional barrier treatments for the most effective control. Our monthly service includes backpack fogging of resting areas and biological larvicide for any standing water on your property. Guaranteed — if mosquitoes return between visits, we return for free. Visit our [mosquito control](https://trustbugsy.com/service/mosquito-control/) page.
+With the C-51 Canal and dozens of retention ponds throughout the city, West Palm Beach homeowners deal with mosquitoes nearly every month of the year. The [CDC](https://www.cdc.gov/mosquitoes/prevention/index.html) recommends eliminating standing water and professional barrier treatments for the most effective control. Our monthly service includes backpack fogging of resting areas and biological larvicide for any standing water on your property. Guaranteed — if mosquitoes return between visits, we return for free. Visit our [mosquito control](/mosquito-control/) page.
 
 ## Rodent Control in West Palm Beach
 
@@ -59,11 +59,11 @@ American cockroaches (palmetto bugs) and German cockroaches both thrive in West 
 
 ## Additional Services
 
-- [Bed Bug Extermination](https://trustbugsy.com/service/bed-bug-extermination/)
-- [Wasp & Bee Removal](https://trustbugsy.com/service/wasp-control-removal/)
+- [Bed Bug Extermination](/bed-bug-extermination/)
+- [Wasp & Bee Removal](/wasp-bee-removal/)
 - [Spider Control](/spider-control-removal/)
-- [Flea Control](https://trustbugsy.com/service/flea-control-extermination/)
-- [Attic Sanitation](https://trustbugsy.com/service/attic-sanitation/)
+- [Flea Control](/flea-control-extermination/)
+- [Attic Sanitation](/attic-sanitation-insulation-removal/)
 - [Insulation Removal & Replacement](/attic-sanitation-insulation-removal/)
 
 ## Why Choose Bugsy’s Pest Solutions in West Palm Beach?
@@ -79,10 +79,10 @@ American cockroaches (palmetto bugs) and German cockroaches both thrive in West 
 ## Areas Near West Palm Beach We Also Serve
 
 - [Boynton Beach](/boynton-beach-fl-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
 
 ## West Palm Beach Pest Control — Frequently Asked Questions
 

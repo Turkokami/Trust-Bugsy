@@ -49,7 +49,7 @@ These aggressive ground-nesting wasps are notorious in fall. You’ll often find
 
 You’ll spot their umbrella-shaped nests under eaves, porches, and attic vents. Paper wasps aren’t as hostile as yellow jackets, but disturb their nests in fall and you’ll quickly find out how fast they can mobilize.
 
-If you’ve noticed paper wasps hanging around your property, see **[our Florida wasp control and removal guide](https://trustbugsy.com/service/wasp-control-removal/)** for safe solutions.
+If you’ve noticed paper wasps hanging around your property, see **[our Florida wasp control and removal guide](/wasp-bee-removal/)** for safe solutions.
 
 ### Hornets
 
@@ -57,7 +57,7 @@ Hornet nests can grow as large as basketballs and are often built high in trees 
 
 ### Honeybees (and Africanized Bees)
 
-Honeybees are generally helpful and calm, but in South Florida, Africanized “killer” bees are also present — and they’re much more defensive. If you’re unsure which kind you’re dealing with, leave it alone and contact a **[bee removal specialist](https://trustbugsy.com/service/bee-removal-control/)** immediately.
+Honeybees are generally helpful and calm, but in South Florida, Africanized “killer” bees are also present — and they’re much more defensive. If you’re unsure which kind you’re dealing with, leave it alone and contact a **[bee removal specialist](/bee-hive-removal/)** immediately.
 
 ## How to Identify and Prevent Nests
 
@@ -106,7 +106,7 @@ If you or someone nearby gets stung multiple times or shows signs of an allergic
 
 ## Stay Protected This Fall
 
-Fall is beautiful in South Florida — but wasps and bees don’t care about your weekend plans. Protect your family, pets, and property with **[Bugsy’s Wasp and Bee Control Services](https://trustbugsy.com/service/wasp-control-removal/)**.
+Fall is beautiful in South Florida — but wasps and bees don’t care about your weekend plans. Protect your family, pets, and property with **[Bugsy’s Wasp and Bee Control Services](/wasp-bee-removal/)**.
 
 Our local, veteran-owned team knows how to handle the most aggressive colonies safely and efficiently using eco-friendly methods that won’t harm your yard or wildlife.
 
@@ -116,15 +116,15 @@ Our local, veteran-owned team knows how to handle the most aggressive colonies s
 
 - palm beach county
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
 
 - broward county
 
@@ -140,7 +140,7 @@ Our local, veteran-owned team knows how to handle the most aggressive colonies s
 
 - St. Lucie county
 
-- [Port St. Lucie](https://trustbugsy.com/service-area/port-st-lucie/)
+- [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 - Fort Pierce
 - St. Lucie West
 - PGA Village

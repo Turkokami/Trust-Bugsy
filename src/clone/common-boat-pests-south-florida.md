@@ -36,7 +36,7 @@ Along with the damp marine environment, boats also have countless nooks and cran
 - Multiple entry points from docks and marinas
 - Proximity to other infested vessels in crowded harbors
 
-For comprehensive [cockroach control services](https://trustbugsy.com/service/cockroach-control-extermination/) on your vessel, professional marine pest control is essential.
+For comprehensive [cockroach control services](/cockroach-control-extermination/) on your vessel, professional marine pest control is essential.
 
 ### 2. Bed Bugs: Unwelcome Hitchhikers from Port to Port
 
@@ -55,7 +55,7 @@ Many of the rooms on boats have guests coming and going, and this contributes to
 - Cushions and seating areas
 - Curtains and fabric surfaces
 
-Professional [bed bug extermination](https://trustbugsy.com/service/bed-bug-extermination/) is crucial for eliminating these persistent pests from marine environments.
+Professional [bed bug extermination](/bed-bug-extermination/) is crucial for eliminating these persistent pests from marine environments.
 
 ### 3. Termites: Silent Destroyers of Marine Vessels
 
@@ -72,7 +72,7 @@ Boats are often a target of termites because they offer a warm and moist environ
 - Expensive marine repairs and replacements
 - Potential safety hazards from structural damage
 
-Professional [termite control services](https://trustbugsy.com/service/termite-control/) can protect your valuable marine investment.
+Professional [termite control services](/termite-control/) can protect your valuable marine investment.
 
 ### 4. Ants: Scavengers Seeking Marine Resources
 
@@ -89,13 +89,13 @@ Along with the plentiful food and water sources, boats also offer shelter for an
 - Fire ants creating painful bite risks for crew and guests
 - Pharaoh ants spreading bacteria in food areas
 
-Professional [ant control services](https://trustbugsy.com/service/ant-control/) can eliminate colonies and prevent future infestations.
+Professional [ant control services](/ant-control/) can eliminate colonies and prevent future infestations.
 
 ### 5. Rodents: Unwelcome Stowaways in Marine Environments
 
 Like the other pests on this list, rodents are in search of food, water and shelter – all of which boats readily provide. The off-season, when boats are stored for long periods in South Florida marinas, is when rodents tend to be a problem, since they like quiet, undisturbed environments.
 
-When boat owners return to their vessels as boating season kicks back up during Florida’s warmer months, they may discover a rodent problem that has been developing for months. This is particularly common in areas like [Boca Raton](https://trustbugsy.com/service-area/boca-raton/), [Delray Beach](https://trustbugsy.com/service-area/delray-beach/), and other coastal communities where boats are stored year-round.
+When boat owners return to their vessels as boating season kicks back up during Florida’s warmer months, they may discover a rodent problem that has been developing for months. This is particularly common in areas like [Boca Raton](/boca-raton-fl-pest-control/), [Delray Beach](/delray-beach-fl-pest-control/), and other coastal communities where boats are stored year-round.
 
 Boats have no shortage of food sources, usually stored in galleys or in the trash. Even leftovers and spills can become a meal for rodents. As excellent climbers, rodents easily access boats by climbing mooring lines or stowing away through various entry points. Once aboard, they can cause significant damage by chewing on wiring, fuel lines and other materials, as well as contaminate food and spread diseases.
 
@@ -106,7 +106,7 @@ Boats have no shortage of food sources, usually stored in galleys or in the tras
 - Food contamination and health hazards
 - Structural damage to insulation and materials
 
-Professional [rat control and extermination services](https://trustbugsy.com/service/rat-control-extermination/) are essential for protecting your marine investment.
+Professional [rat control and extermination services](/rodent-control/) are essential for protecting your marine investment.
 
 ## Why Choose Professional Marine Pest Control in South Florida?
 
@@ -157,11 +157,11 @@ Bugsy Pest Control provides specialized marine pest control services throughout 
 
 We provide expert marine pest control services throughout South Florida, including major boating communities:
 
-**Palm Beach County:** [West Palm Beach](https://trustbugsy.com/service-area/west-palm-beach/), [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/), [Jupiter](https://trustbugsy.com/service-area/jupiter/), [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/), and surrounding coastal areas
+**Palm Beach County:** [West Palm Beach](/west-palm-beach-fl-pest-control/), [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/), [Jupiter](/jupiter-fl-pest-control/), [Lake Worth Beach](/lake-worth-beach-fl-pest-control/), and surrounding coastal areas
 
 **Broward County:** [Fort Lauderdale area](/pompano-beach-fl-pest-control/), [Hollywood](/hollywood-fl-pest-control/), and other major marina locations
 
-**Additional Marine Services:** We also serve [Port St. Lucie](https://trustbugsy.com/service-area/port-st-lucie/) and other coastal communities throughout South Florida
+**Additional Marine Services:** We also serve [Port St. Lucie](/port-st-lucie-fl-pest-control/) and other coastal communities throughout South Florida
 
 ## Protect Your Marine Investment Today
 
@@ -171,21 +171,21 @@ Our experienced team understands the unique pest challenges facing boat owners i
 
 **Ready to protect your boat from pests?** [Contact Bugsy Pest Control](/contact/) today to schedule your marine pest inspection and treatment consultation. Don’t let pests sink your boating season – trust South Florida’s marine pest control experts to keep your vessel pest-free and ready for adventure.
 
-*Serving boat owners throughout South Florida with specialized [residential pest control](https://trustbugsy.com/service/residential-pest-control/) expertise adapted for marine environments.*
+*Serving boat owners throughout South Florida with specialized [residential pest control](/residential-pest-control/) expertise adapted for marine environments.*
 
 ## Serving West Palm Beach, Broward County & Beyond
 
 - palm beach county
 
-- [Boca Raton](https://trustbugsy.com/service-area/boca-raton/)
-- [Boynton Beach](https://trustbugsy.com/service-area/boynton-beach/)
-- [Delray Beach](https://trustbugsy.com/service-area/delray-beach/)
-- [Jupiter](https://trustbugsy.com/service-area/jupiter/)
-- [Wellington](https://trustbugsy.com/service-area/wellington/)
-- [Palm Beach Gardens](https://trustbugsy.com/service-area/palm-beach-gardens/)
-- [Lake Worth Beach](https://trustbugsy.com/service-area/lake-worth-beach/)
-- [Royal Palm Beach](https://trustbugsy.com/service-area/royal-palm-beach/)
-- [Greenacres](https://trustbugsy.com/service-area/greenacres/)
+- [Boca Raton](/boca-raton-fl-pest-control/)
+- [Boynton Beach](/boynton-beach-fl-pest-control/)
+- [Delray Beach](/delray-beach-fl-pest-control/)
+- [Jupiter](/jupiter-fl-pest-control/)
+- [Wellington](/wellington-fl-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-fl-pest-control/)
+- [Greenacres](/greenacres-fl-pest-control/)
 
 - broward county
 
