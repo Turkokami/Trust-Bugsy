@@ -93,8 +93,8 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 ## Fort Pierce areas & nearby cities we serve
 
-- [Hutchinson Island](https://trustbugsy.com/hutchinson-island-fort-pierce-pest-control/)
-- [Indian River Estates](https://trustbugsy.com/indian-river-estates-fort-pierce-pest-control/)
+- [Hutchinson Island](/hutchinson-island-fort-pierce-pest-control/)
+- [Indian River Estates](/indian-river-estates-fort-pierce-pest-control/)
 - [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 - [Stuart](/stuart-pest-control/)
 

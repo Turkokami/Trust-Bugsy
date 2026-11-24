@@ -92,7 +92,7 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 ## Nearby Coconut Creek areas we serve
 
 - [Coconut Creek (city-wide)](/coconut-creek-fl-pest-control/)
-- [Wynmoor](https://trustbugsy.com/wynmoor-coconut-creek-pest-control/)
+- [Wynmoor](/wynmoor-coconut-creek-pest-control/)
 
 ## Protect your Regency Lakes property
 

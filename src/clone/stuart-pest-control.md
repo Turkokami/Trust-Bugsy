@@ -93,8 +93,8 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 ## Stuart areas & nearby cities we serve
 
-- [Sewall’s Point](https://trustbugsy.com/sewalls-point-stuart-pest-control/)
-- [North River Shores](https://trustbugsy.com/north-river-shores-stuart-pest-control/)
+- [Sewall’s Point](/sewalls-point-stuart-pest-control/)
+- [North River Shores](/north-river-shores-stuart-pest-control/)
 - [Port St. Lucie](/port-st-lucie-fl-pest-control/)
 - [Fort Pierce](/fort-pierce-pest-control/)
 
