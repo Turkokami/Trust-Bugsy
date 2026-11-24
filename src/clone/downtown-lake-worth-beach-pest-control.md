@@ -77,10 +77,10 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and re
 
 ## Pest control services in Downtown & Lake Avenue
 
-- [Cockroach Control](https://trustbugsy.com/lake-worth-beach-cockroach-control/)
-- [Rodent Control](https://trustbugsy.com/lake-worth-beach-rodent-control/)
-- [Commercial Pest Control](https://trustbugsy.com/lake-worth-beach-commercial-pest-control/)
-- [Ant Control](https://trustbugsy.com/lake-worth-beach-ant-control/)
+- [Cockroach Control](/lake-worth-beach-cockroach-control/)
+- [Rodent Control](/lake-worth-beach-rodent-control/)
+- [Commercial Pest Control](/lake-worth-beach-commercial-pest-control/)
+- [Ant Control](/lake-worth-beach-ant-control/)
 - [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve

@@ -124,9 +124,9 @@ Yes. We use EPA-registered products and place baits and treatments in cracks, vo
 
 - [Cockroach control in Delray Beach](https://trustbugsy.com/delray-beach-cockroach-control/)
 - [Cockroach control in Boca Raton](https://trustbugsy.com/boca-raton-cockroach-control/)
-- [Cockroach control in Boynton Beach](https://trustbugsy.com/boynton-beach-cockroach-control/)
-- [Cockroach control in West Palm Beach](https://trustbugsy.com/west-palm-beach-cockroach-control/)
-- [Cockroach control in Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-cockroach-control/)
+- [Cockroach control in Boynton Beach](/boynton-beach-cockroach-control/)
+- [Cockroach control in West Palm Beach](/west-palm-beach-cockroach-control/)
+- [Cockroach control in Lake Worth Beach](/lake-worth-beach-cockroach-control/)
 - [Cockroach control in Wellington](/wellington-cockroach-control/)
 - [Cockroach control in Jupiter](/jupiter-cockroach-control/)
 - [Cockroach control in Palm Beach Gardens](/palm-beach-gardens-cockroach-control/)

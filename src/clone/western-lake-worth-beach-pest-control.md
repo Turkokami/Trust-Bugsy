@@ -79,10 +79,10 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 
 ## Pest control services in Western Lake Worth
 
-- [Mosquito Control](https://trustbugsy.com/lake-worth-beach-mosquito-control/)
-- [Ant Control](https://trustbugsy.com/lake-worth-beach-ant-control/)
-- [Rodent Control](https://trustbugsy.com/lake-worth-beach-rodent-control/)
-- [Termite Control](https://trustbugsy.com/lake-worth-beach-termite-control/)
+- [Mosquito Control](/lake-worth-beach-mosquito-control/)
+- [Ant Control](/lake-worth-beach-ant-control/)
+- [Rodent Control](/lake-worth-beach-rodent-control/)
+- [Termite Control](/lake-worth-beach-termite-control/)
 - [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve

@@ -79,10 +79,10 @@ Yes. We use targeted, low-impact methods chosen with historic finishes and house
 
 ## Pest control services in the Historic Cottage District
 
-- [Termite Control](https://trustbugsy.com/lake-worth-beach-termite-control/)
-- [Rodent Control](https://trustbugsy.com/lake-worth-beach-rodent-control/)
-- [Cockroach Control](https://trustbugsy.com/lake-worth-beach-cockroach-control/)
-- [Ant Control](https://trustbugsy.com/lake-worth-beach-ant-control/)
+- [Termite Control](/lake-worth-beach-termite-control/)
+- [Rodent Control](/lake-worth-beach-rodent-control/)
+- [Cockroach Control](/lake-worth-beach-cockroach-control/)
+- [Ant Control](/lake-worth-beach-ant-control/)
 - [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve

@@ -96,7 +96,7 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 - [Riviera Beach (city-wide)](/riviera-beach-pest-control/)
 - [Palm Beach Shores](/palm-beach-shores-pest-control/)
-- [Northwood, WPB](https://trustbugsy.com/northwood-west-palm-beach-pest-control/)
+- [Northwood, WPB](/northwood-west-palm-beach-pest-control/)
 
 ## Protect your Singer Island home or condo
 

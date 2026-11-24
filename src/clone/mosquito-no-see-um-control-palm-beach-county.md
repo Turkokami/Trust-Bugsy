@@ -135,9 +135,9 @@ Dump or refresh standing water at least weekly — saucers, bird baths, buckets,
 
 - [Mosquito Control in Delray Beach](https://trustbugsy.com/delray-beach-mosquito-control/)
 - [Mosquito Control in Boca Raton](https://trustbugsy.com/boca-raton-mosquito-control/)
-- [Mosquito Control in Boynton Beach](https://trustbugsy.com/boynton-beach-mosquito-control/)
-- [Mosquito Control in West Palm Beach](https://trustbugsy.com/west-palm-beach-mosquito-control/)
-- [Mosquito Control in Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-mosquito-control/)
+- [Mosquito Control in Boynton Beach](/boynton-beach-mosquito-control/)
+- [Mosquito Control in West Palm Beach](/west-palm-beach-mosquito-control/)
+- [Mosquito Control in Lake Worth Beach](/lake-worth-beach-mosquito-control/)
 - [Mosquito Control in Wellington](/wellington-mosquito-control/)
 - [Mosquito Control in Jupiter](/jupiter-mosquito-control/)
 - [Mosquito Control in Palm Beach Gardens](/palm-beach-gardens-mosquito-control/)

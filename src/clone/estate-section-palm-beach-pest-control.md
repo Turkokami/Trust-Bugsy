@@ -95,8 +95,8 @@ Estate properties are quoted individually based on size, grounds, and needs — 
 ## Nearby areas we serve
 
 - [Palm Beach (town-wide)](/palm-beach-pest-control/)
-- [El Cid, WPB](https://trustbugsy.com/el-cid-west-palm-beach-pest-control/)
-- [Downtown WPB](https://trustbugsy.com/downtown-west-palm-beach-pest-control/)
+- [El Cid, WPB](/el-cid-west-palm-beach-pest-control/)
+- [Downtown WPB](/downtown-west-palm-beach-pest-control/)
 
 ## Protect your Estate Section home
 

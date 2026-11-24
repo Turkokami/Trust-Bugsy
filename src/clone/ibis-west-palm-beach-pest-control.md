@@ -94,10 +94,10 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 ## Nearby West Palm Beach areas we serve
 
-- [West Palm Beach (city-wide)](https://trustbugsy.com/western-west-palm-beach-pest-control/)
-- [Northwood](https://trustbugsy.com/northwood-west-palm-beach-pest-control/)
-- [El Cid](https://trustbugsy.com/el-cid-west-palm-beach-pest-control/)
-- [Downtown WPB](https://trustbugsy.com/downtown-west-palm-beach-pest-control/)
+- [West Palm Beach (city-wide)](/western-west-palm-beach-pest-control/)
+- [Northwood](/northwood-west-palm-beach-pest-control/)
+- [El Cid](/el-cid-west-palm-beach-pest-control/)
+- [Downtown WPB](/downtown-west-palm-beach-pest-control/)
 
 ## Protect your Ibis home
 

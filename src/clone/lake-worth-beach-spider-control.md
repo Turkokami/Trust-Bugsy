@@ -107,9 +107,9 @@ It gives strong relief, but South Florida’s insect supply is constant, so recu
 ## Related Lake Worth Beach services & resources
 
 - [Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Bee & Wasp Removal](https://trustbugsy.com/lake-worth-beach-bee-wasp-removal/)
+- [Bee & Wasp Removal](/lake-worth-beach-bee-wasp-removal/)
 - [Brown Widow Spiders (Pest Library)](https://trustbugsy.com/pest-library/brown-widow-spiders/)
-- [Mosquito Control](https://trustbugsy.com/lake-worth-beach-mosquito-control/)
+- [Mosquito Control](/lake-worth-beach-mosquito-control/)
 
 ## Nearby communities we serve
 

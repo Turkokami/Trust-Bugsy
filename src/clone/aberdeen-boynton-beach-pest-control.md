@@ -92,10 +92,10 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 ## Nearby Boynton Beach areas we serve
 
-- [Downtown Boynton Beach](https://trustbugsy.com/downtown-boynton-beach-pest-control/)
-- [Canyon](https://trustbugsy.com/canyon-boynton-beach-pest-control/)
-- [Valencia](https://trustbugsy.com/valencia-boynton-beach-pest-control/)
-- [Boynton Waterfront](https://trustbugsy.com/boynton-beach-waterfront-pest-control/)
+- [Downtown Boynton Beach](/downtown-boynton-beach-pest-control/)
+- [Canyon](/canyon-boynton-beach-pest-control/)
+- [Valencia](/valencia-boynton-beach-pest-control/)
+- [Boynton Waterfront](/boynton-beach-waterfront-pest-control/)
 
 ## Protect your Aberdeen home
 

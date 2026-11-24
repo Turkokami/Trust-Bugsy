@@ -102,7 +102,7 @@ Yes. We use targeted, family-conscious products applied by licensed technicians,
 - [Madison Green](/madison-green-royal-palm-beach-pest-control/)
 - [Counterpoint Estates](/counterpoint-estates-royal-palm-beach-pest-control/)
 - [Wellington](/western-wellington-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/western-west-palm-beach-pest-control/)
+- [West Palm Beach](/western-west-palm-beach-pest-control/)
 
 ## Protect your Royal Palm Beach home
 

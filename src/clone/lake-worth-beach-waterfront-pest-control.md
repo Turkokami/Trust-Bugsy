@@ -79,9 +79,9 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 
 ## Pest control services in Bryant Park, Beachside & the Lagoon
 
-- [Rodent Control](https://trustbugsy.com/lake-worth-beach-rodent-control/)
-- [Mosquito & No-See-Um Control](https://trustbugsy.com/lake-worth-beach-mosquito-control/)
-- [Ant Control](https://trustbugsy.com/lake-worth-beach-ant-control/)
+- [Rodent Control](/lake-worth-beach-rodent-control/)
+- [Mosquito & No-See-Um Control](/lake-worth-beach-mosquito-control/)
+- [Ant Control](/lake-worth-beach-ant-control/)
 - [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve

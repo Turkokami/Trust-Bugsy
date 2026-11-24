@@ -79,10 +79,10 @@ Yes. We use targeted, low-impact, pet- and kid-safe methods and place baits care
 
 ## Pest control services in College Park
 
-- [Termite Control](https://trustbugsy.com/lake-worth-beach-termite-control/)
-- [Rodent Control](https://trustbugsy.com/lake-worth-beach-rodent-control/)
-- [Ant Control](https://trustbugsy.com/lake-worth-beach-ant-control/)
-- [Mosquito Control](https://trustbugsy.com/lake-worth-beach-mosquito-control/)
+- [Termite Control](/lake-worth-beach-termite-control/)
+- [Rodent Control](/lake-worth-beach-rodent-control/)
+- [Ant Control](/lake-worth-beach-ant-control/)
+- [Mosquito Control](/lake-worth-beach-mosquito-control/)
 - [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve

@@ -110,8 +110,8 @@ Yes. We coordinate rodent exclusion, attic sanitation, and insulation replacemen
 
 - [Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/lake-worth-beach-attic-sanitation/)
-- [Rodent Control](https://trustbugsy.com/lake-worth-beach-rodent-control/)
-- [Commercial Pest Control](https://trustbugsy.com/lake-worth-beach-commercial-pest-control/)
+- [Rodent Control](/lake-worth-beach-rodent-control/)
+- [Commercial Pest Control](/lake-worth-beach-commercial-pest-control/)
 
 ## Nearby communities we serve
 

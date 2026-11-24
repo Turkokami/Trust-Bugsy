@@ -104,7 +104,7 @@ Yes. Deodorizing and pheromone decontamination are part of the service, which ad
 ## Related Lake Worth Beach services & resources
 
 - [Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Rodent Control](https://trustbugsy.com/lake-worth-beach-rodent-control/)
+- [Rodent Control](/lake-worth-beach-rodent-control/)
 - [Attic Insulation](/lake-worth-beach-attic-insulation/)
 - [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
 
