@@ -94,7 +94,7 @@ Multiple effective spider control approaches can help eliminate them from your h
 
 Spiders can compress through incredibly small openings. Apply caulk to seal cracks around windows, doors, and foundations to prevent drafts and spider entry. Installing or replacing weather stripping around door frames and covering vents with mesh screens can also help prevent spider infestations at home.
 
-For comprehensive guidance on this topic, check out our detailed guide on [sealing entry points against pests](https://trustbugsy.com/seal-entry-points-against-pests/).
+For comprehensive guidance on this topic, check out our detailed guide on [sealing entry points against pests](/seal-entry-points-against-pests/).
 
 ### Maintain Home Cleanliness
 
@@ -136,7 +136,7 @@ When your home faces significant spider clusters, it’s time to consider profes
 
 ### Professional Spider Control Services
 
-Contact a pest control company for severe spider infestations. At Bugsy’s Pest Solutions, we provide year-round [spider control services](https://trustbugsy.com/spider-control-south-florida/) specifically designed for South Florida’s unique environment.
+Contact a pest control company for severe spider infestations. At Bugsy’s Pest Solutions, we provide year-round [spider control services](/spider-control-south-florida/) specifically designed for South Florida’s unique environment.
 
 Our experienced team understands the specific challenges that Florida’s climate presents and offers customized solutions for your home. Whether you need our [Gold Package](/gold-package/) for comprehensive protection or our [Platinum Package](/platinum-package/) for maximum coverage, we have the right solution for your spider control needs.
 
@@ -158,7 +158,7 @@ Numerous strategies can help you achieve a spider-free home. Effective spider pr
 
 If spiders persist despite your prevention efforts, it’s time to contact professionals. At Bugsy’s Pest Solutions, we’re dedicated to providing safe, effective, and long-lasting pest control solutions. Ready for a spider-free home? [Contact us today](/contact/) to schedule your $99 inspection.
 
-Learn more about our approach to [effective pest control in Florida](https://trustbugsy.com/effective-pest-control-florida/) and discover why professional treatment makes the difference.
+Learn more about our approach to [effective pest control in Florida](/effective-pest-control-florida/) and discover why professional treatment makes the difference.
 
 *For more information about our services or to learn about pest prevention strategies, visit our [blog section](/blog/) for additional helpful resources.*
 

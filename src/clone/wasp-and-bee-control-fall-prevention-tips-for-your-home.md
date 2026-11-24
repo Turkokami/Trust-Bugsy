@@ -93,16 +93,16 @@ Our team uses safe, eco-friendly treatments designed to eliminate colonies compl
 
 Once nests are gone, take steps to keep them that way:
 
-- **Seal entry points:** Gaps in siding, rooflines, and attic vents invite stingers in. Our **[entry point sealing guide](https://trustbugsy.com/seal-entry-points-against-pests/)** breaks down what to look for.
+- **Seal entry points:** Gaps in siding, rooflines, and attic vents invite stingers in. Our **[entry point sealing guide](/seal-entry-points-against-pests/)** breaks down what to look for.
 - **Manage trash:** Keep bins sealed and clean.
 - **Remove attractants:** Harvest ripe fruit, cover sugary drinks, and clean up after outdoor meals.
-- **Schedule inspections:** Regular **[home pest control visits](https://trustbugsy.com/home-pest-control-lake-worth-beach-fl/)** can spot new nests early.
+- **Schedule inspections:** Regular **[home pest control visits](/home-pest-control-lake-worth-beach-fl/)** can spot new nests early.
 
 ## When It’s an Emergency
 
 ![A realistic photo of a Florida home exterior with sealed vents and caulked gaps to prevent insect nests](https://trustbugsy.com/wp-content/uploads/2025/09/sealing-home-entry-points-pest-e1774424045643.webp)
 
-If you or someone nearby gets stung multiple times or shows signs of an allergic reaction (swelling, breathing difficulty, dizziness), call 911 immediately. Then, contact **[Bugsy’s Emergency Pest Control](https://trustbugsy.com/emergency-pest-control-west-palm-beach/)** for same-day service to remove the threat safely.
+If you or someone nearby gets stung multiple times or shows signs of an allergic reaction (swelling, breathing difficulty, dizziness), call 911 immediately. Then, contact **[Bugsy’s Emergency Pest Control](/emergency-pest-control-west-palm-beach/)** for same-day service to remove the threat safely.
 
 ## Stay Protected This Fall
 

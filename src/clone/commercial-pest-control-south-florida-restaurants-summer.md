@@ -85,7 +85,7 @@ Signs that signal it’s time to bring in support include:
 - Increased fly activity near dumpsters or entry points
 - Any pest sighting reported by staff or guests
 
-[Bugsy’s Pest Solutions applies science-backed, eco-friendly treatment](https://trustbugsy.com/effective-pest-control-florida/) with a pest-free guarantee, returning between visits at no extra charge if pests reappear.
+[Bugsy’s Pest Solutions applies science-backed, eco-friendly treatment](/effective-pest-control-florida/) with a pest-free guarantee, returning between visits at no extra charge if pests reappear.
 
 Managing pest control during South Florida’s demanding summer season requires vigilance, strategic planning, and professional expertise. By implementing the preventative measures and integrated pest management strategies outlined throughout this guide, your restaurant protects its reputation, ensures regulatory compliance, and safeguards your customers’ dining experience. Partner with a pest control provider who understands the unique challenges of the region. Combines science-backed methods with a commitment to safety. Your proactive approach today prevents costly infestations and operational disruptions tomorrow.
 

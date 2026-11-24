@@ -80,7 +80,7 @@ We apply EPA-registered residual products to harborage areas, entry points, and 
 
 ### Entry Point Sealing
 
-We seal the gaps spiders are using to enter — around door and window frames, utility penetrations, and weep holes. This is one of the most effective long-term prevention steps available and one most treatments skip entirely. Learn more about how proper exclusion works in our post on [sealing pest entry points in South Florida homes](https://trustbugsy.com/seal-entry-points-against-pests/).
+We seal the gaps spiders are using to enter — around door and window frames, utility penetrations, and weep holes. This is one of the most effective long-term prevention steps available and one most treatments skip entirely. Learn more about how proper exclusion works in our post on [sealing pest entry points in South Florida homes](/seal-entry-points-against-pests/).
 
 ### ![South Florida home surrounded by trees and fallen leaves](https://trustbugsy.com/wp-content/uploads/2025/09/fall-pest-activity-south-florida-e1774426612312.webp) Underlying Pest Treatment (When Applicable)
 
@@ -102,7 +102,7 @@ We return to confirm the treatment has been effective and address any remaining 
 
 Because South Florida spider pressure is year-round, a single treatment is rarely a permanent solution for properties with consistent insect activity. Our [Gold, Platinum, and Diamond packages](/packages/) include spider web removal and perimeter treatment on every scheduled visit — keeping populations suppressed and entry points maintained between services.
 
-For a deep dive into preventing spider infestations between professional visits, read our [spider prevention guide for Florida homeowners](/spider-prevention-guide-florida/) and our broader [spider control guide for South Florida](https://trustbugsy.com/spider-control-south-florida/).
+For a deep dive into preventing spider infestations between professional visits, read our [spider prevention guide for Florida homeowners](/spider-prevention-guide-florida/) and our broader [spider control guide for South Florida](/spider-control-south-florida/).
 
 Spider control pairs well with our [residential pest control plans](/residential-pest-control/) and our [commercial pest control services](/commercial/) for businesses dealing with webs on storefronts, in warehouses, or across outdoor customer areas.
 

@@ -41,7 +41,7 @@ Your home represents your largest financial investment, and termites pose one of
 
 The financial impact of termite damage extends beyond repair costs. Untreated termite infestations can significantly reduce property values and create complications during real estate transactions. Many insurance policies exclude termite damage, making prevention and early detection even more critical for financial protection.
 
-Fall inspections serve as an early warning system, identifying potential problems before they escalate into major structural issues. Professional [pest control specialists](https://trustbugsy.com/effective-pest-control-florida/) can detect termite activity in its earliest stages, when treatment options are most effective and least invasive. This proactive approach can save homeowners thousands of dollars compared to addressing advanced infestations.
+Fall inspections serve as an early warning system, identifying potential problems before they escalate into major structural issues. Professional [pest control specialists](/effective-pest-control-florida/) can detect termite activity in its earliest stages, when treatment options are most effective and least invasive. This proactive approach can save homeowners thousands of dollars compared to addressing advanced infestations.
 
 Beyond financial considerations, termite damage compromises the structural integrity of your home, potentially creating safety hazards for your family. Weakened wooden supports, damaged floor joists, and compromised foundation elements can lead to dangerous structural failures if left untreated.
 

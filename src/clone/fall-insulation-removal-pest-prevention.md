@@ -77,7 +77,7 @@ Various beetle species, including powderpost beetles and old house borers, can e
 
 **Flying Pest Problems**
 
-Bats frequently establish roosting sites within attic insulation, creating contamination problems that require specialized remediation approaches. [Bat removal and attic cleanup](https://trustbugsy.com/florida-bat-removal-attic-cleanup/) becomes necessary when guano accumulation and urine contamination compromise insulation effectiveness while creating health hazards.
+Bats frequently establish roosting sites within attic insulation, creating contamination problems that require specialized remediation approaches. [Bat removal and attic cleanup](/florida-bat-removal-attic-cleanup/) becomes necessary when guano accumulation and urine contamination compromise insulation effectiveness while creating health hazards.
 
 Wasps and bees may build nests within or around insulation materials, particularly in areas where structural gaps allow access to protected spaces. [Wasp control and removal](/wasp-bee-removal/) efforts can be complicated by insulation that conceals nest locations while providing additional nesting material for colony expansion.
 

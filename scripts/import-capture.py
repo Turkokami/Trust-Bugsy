@@ -137,6 +137,7 @@ for fn in sorted(os.listdir(cap)):
     # Cloudflare-protected email links only work on the live server; drop the list item / link.
     body = re.sub(r'^\s*-\s*[^\n]*\]\(/cdn-cgi/l/email-protection[^)]*\)\s*$', '', body, flags=re.M)
     body = re.sub(r'\[[^\]]*\]\(/cdn-cgi/l/email-protection[^)]*\)', '', body)                                 # empty-text links (icon buttons)
+    body = body.replace('](http://mailto:', '](mailto:').replace('](https://mailto:', '](mailto:')
     body = re.sub(r'^\s*-\s*$', '', body, flags=re.M)                               # list items left empty
     body = re.sub(r'\n{3,}', '\n\n', body).strip() + '\n'
     url = meta.get('url', '').strip()

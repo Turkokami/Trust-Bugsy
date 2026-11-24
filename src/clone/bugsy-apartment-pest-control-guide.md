@@ -145,7 +145,7 @@ Parents and pet owners choose Bugsy because our treatments prioritize safety wit
 
 ### Long-Term Environmental Benefits
 
-[Eco-friendly pest control](https://trustbugsy.com/how-eco-friendly-pest-control-solutions-work-for-you/) isn’t just about immediate safety—it’s about sustainable pest management that protects the environment for future generations. Bugsy’s green treatments reduce chemical runoff, protect beneficial insects, and support the overall ecosystem health around your apartment complex.
+[Eco-friendly pest control](/how-eco-friendly-pest-control-solutions-work-for-you/) isn’t just about immediate safety—it’s about sustainable pest management that protects the environment for future generations. Bugsy’s green treatments reduce chemical runoff, protect beneficial insects, and support the overall ecosystem health around your apartment complex.
 
 ### Performance Guarantees
 

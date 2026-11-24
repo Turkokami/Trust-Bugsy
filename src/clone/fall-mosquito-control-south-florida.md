@@ -57,7 +57,7 @@ Fall represents an optimal window for [effective pest control](https://trustbugs
 
 The moderate fall weather allows for more effective application of mosquito control products. Without extreme summer heat, treatments last longer and provide more consistent coverage. Additionally, reduced wind patterns common in fall allow for more precise application of barrier treatments around properties.
 
-Professional mosquito control services can implement [eco-friendly garden insect repellents](https://trustbugsy.com/eco-friendly-garden-insect-repellents-florida/) that work particularly well during fall months. These treatments can establish protective barriers that remain effective well into winter, providing extended protection during the holiday outdoor entertainment season.
+Professional mosquito control services can implement [eco-friendly garden insect repellents](/eco-friendly-garden-insect-repellents-florida/) that work particularly well during fall months. These treatments can establish protective barriers that remain effective well into winter, providing extended protection during the holiday outdoor entertainment season.
 
 ## Integrated Fall Mosquito Management
 
@@ -107,7 +107,7 @@ This forward-thinking approach to mosquito control recognizes that effective pes
 
 Fall weather patterns in South Florida can create emergency mosquito situations that require immediate professional intervention. Post-storm conditions often result in massive mosquito population explosions that overwhelm traditional control methods.
 
-Professional [emergency pest control](https://trustbugsy.com/emergency-pest-control-west-palm-beach/) services become crucial during these situations, as they have the equipment and expertise necessary to quickly address large-scale mosquito problems before they become unmanageable.
+Professional [emergency pest control](/emergency-pest-control-west-palm-beach/) services become crucial during these situations, as they have the equipment and expertise necessary to quickly address large-scale mosquito problems before they become unmanageable.
 
 These emergency situations highlight the importance of maintaining professional mosquito control relationships year-round rather than attempting to address problems only after they become severe. Proactive fall treatments can prevent many emergency situations from developing in the first place.
 

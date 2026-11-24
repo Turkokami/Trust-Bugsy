@@ -73,7 +73,7 @@ Heat treatment uses high temperatures to raise termite body heat beyond survivab
 
 ### What Are Eco-Friendly Termite Treatment Options Available Locally?
 
-As advocates for [eco-friendly pest control solutions](https://trustbugsy.com/how-eco-friendly-pest-control-solutions-work-for-you/), we offer treatments using biological agents like enzymes or microbial pesticides to disrupt termite digestion, leading to colony collapse. Some treatments combine botanical insecticides with physical barriers, ideal for environmentally sensitive areas. These methods support long-term property health while minimizing chemical side effects – perfect for families with children and pets.
+As advocates for [eco-friendly pest control solutions](/how-eco-friendly-pest-control-solutions-work-for-you/), we offer treatments using biological agents like enzymes or microbial pesticides to disrupt termite digestion, leading to colony collapse. Some treatments combine botanical insecticides with physical barriers, ideal for environmentally sensitive areas. These methods support long-term property health while minimizing chemical side effects – perfect for families with children and pets.
 
 ## How Can Homeowners Prevent Termite Infestations in Fort Lauderdale?
 
@@ -103,7 +103,7 @@ Key factors include the infestation extent, termite species, property size, and 
 
 ### How Do Treatment Methods Affect Overall Cost?
 
-Chemical treatments are generally less expensive than fumigation or heat treatment. While baiting systems have ongoing costs due to monitoring, [eco-friendly methods](https://trustbugsy.com/how-eco-friendly-pest-control-solutions-work-for-you/) may have higher initial costs but can be more sustainable long-term. We help you choose the most cost-effective approach for your specific situation.
+Chemical treatments are generally less expensive than fumigation or heat treatment. While baiting systems have ongoing costs due to monitoring, [eco-friendly methods](/how-eco-friendly-pest-control-solutions-work-for-you/) may have higher initial costs but can be more sustainable long-term. We help you choose the most cost-effective approach for your specific situation.
 
 ### Are There Warranties or Guarantees Included With Termite Treatments?
 
