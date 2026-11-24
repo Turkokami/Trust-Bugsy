@@ -83,7 +83,7 @@ Yes. We use targeted, low-impact, pet- and kid-safe methods and place baits care
 - [Rodent Control](/lake-worth-beach-rodent-control/)
 - [Ant Control](/lake-worth-beach-ant-control/)
 - [Mosquito Control](/lake-worth-beach-mosquito-control/)
-- [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Lake Worth Beach Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes. We use targeted, low-impact, pet- and kid-safe methods and place baits care
 - [Bryant Park, Beachside & the Lagoon](/lake-worth-beach-waterfront-pest-control/)
 - [Lake Osborne & John Prince Park](/lake-osborne-lake-worth-beach-pest-control/)
 - [Western Lake Worth](/western-lake-worth-beach-pest-control/)
-- [All of Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [All of Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 
 ## Protect your College Park home
 

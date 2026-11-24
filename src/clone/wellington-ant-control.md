@@ -108,18 +108,18 @@ You’ll usually see a sharp drop within days as the bait reaches the colony, wi
 
 ## Related Wellington services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Residential Pest Control](/wellington-residential-pest-control/)
 - [Cockroach Control](/wellington-cockroach-control/)
 - [White-Footed Ants (Pest Library)](https://trustbugsy.com/pest-library/white-footed-ants/)
 - [Commercial Pest Control](/wellington-commercial-pest-control/)
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Stop the ant trails in your Wellington home
 

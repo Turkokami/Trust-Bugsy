@@ -118,17 +118,17 @@ Yes. We use IPM and low-impact, food-safe methods appropriate for kitchens and d
 
 ## Related Palm Beach Gardens services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Rodent Control](/palm-beach-gardens-rodent-control/)
 - [Cockroach Control](/palm-beach-gardens-cockroach-control/)
 - [German Cockroaches (Pest Library)](https://trustbugsy.com/pest-library/german-cockroaches/)
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Jupiter](/jupiter-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
 
 ## Protect your Palm Beach Gardens business

@@ -92,10 +92,10 @@ Yes — targeted, family-conscious products applied by licensed techs, chosen to
 
 ## Nearby Delray Beach areas we serve
 
-- [Pineapple Grove](https://trustbugsy.com/pineapple-grove-pest-control/)
-- [Lake Ida](https://trustbugsy.com/lake-ida-pest-control/)
-- [Marina District](https://trustbugsy.com/delray-beach-marina-district-pest-control/)
-- [Del-Ida Park](https://trustbugsy.com/del-ida-park-pest-control/)
+- [Pineapple Grove](/pineapple-grove-pest-control/)
+- [Lake Ida](/lake-ida-pest-control/)
+- [Marina District](/delray-beach-marina-district-pest-control/)
+- [Del-Ida Park](/del-ida-park-pest-control/)
 
 ## Protect your Seagate home
 

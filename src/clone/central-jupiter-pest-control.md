@@ -83,7 +83,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [Ant Control](/jupiter-ant-control/)
 - [Mosquito Control](/jupiter-mosquito-control/)
 - [Termite Control](/jupiter-termite-control/)
-- [Jupiter Residential Pest Control](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [Jupiter Residential Pest Control](/jupiter-residential-pest-control/)
 
 ## Other Jupiter neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [Jupiter Inlet & Beachside](/jupiter-inlet-beachside-pest-control/)
 - [Jupiter Farms](/jupiter-farms-pest-control/)
 - [The Loxahatchee River Neighborhoods](/loxahatchee-river-jupiter-pest-control/)
-- [All of Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [All of Jupiter](/jupiter-residential-pest-control/)
 
 ## Protect your central Jupiter home
 

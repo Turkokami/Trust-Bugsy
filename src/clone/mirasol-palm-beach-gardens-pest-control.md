@@ -81,7 +81,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [Ant Control](/palm-beach-gardens-ant-control/)
 - [Rodent Control](/palm-beach-gardens-rodent-control/)
 - [Termite Control](/palm-beach-gardens-termite-control/)
-- [Palm Beach Gardens Residential Pest Control](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Palm Beach Gardens Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 
 ## Other Palm Beach Gardens neighborhoods we serve
 
@@ -90,7 +90,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [Frenchman’s Creek & the Waterfront](/palm-beach-gardens-waterfront-pest-control/)
 - [The Gardens Mall & PGA Corridor](/downtown-palm-beach-gardens-pest-control/)
 - [Central Palm Beach Gardens](/central-palm-beach-gardens-pest-control/)
-- [All of Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [All of Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Protect your western estate
 

@@ -83,7 +83,7 @@ Yes — feed and tack rooms are prime rodent territory. We trap, exclude entry p
 - [Mosquito Control](/wellington-mosquito-control/)
 - [Ant Control](/wellington-ant-control/)
 - [Commercial Pest Control](/wellington-commercial-pest-control/)
-- [Wellington Residential Pest Control](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Wellington Residential Pest Control](/wellington-residential-pest-control/)
 
 ## Other Wellington neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes — feed and tack rooms are prime rodent territory. We trap, exclude entry p
 - [The Landings & Town Center](/wellington-town-center-pest-control/)
 - [Binks Forest & the Golf Communities](/binks-forest-wellington-pest-control/)
 - [Western Wellington](/western-wellington-pest-control/)
-- [All of Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
+- [All of Wellington](/wellington-residential-pest-control/)
 
 ## Protect your farm, barn, or estate
 

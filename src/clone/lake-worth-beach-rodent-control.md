@@ -126,18 +126,18 @@ Most Lake Worth Beach homes are resolved over a few weeks of trapping and checks
 
 ## Related Lake Worth Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/lake-worth-beach-attic-sanitation/)
 - [Attic Insulation](/lake-worth-beach-attic-insulation/)
 - [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
 
 ## Hearing something in the attic?
 

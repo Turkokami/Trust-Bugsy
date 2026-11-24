@@ -84,7 +84,7 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 - [Rodent Control](/boynton-beach-rodent-control/)
 - [Mosquito & No-See-Um Control](/boynton-beach-mosquito-control/)
 - [Ant Control](/boynton-beach-ant-control/)
-- [Boynton Beach Residential Pest Control](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [Boynton Beach Residential Pest Control](/boynton-beach-residential-pest-control/)
 
 ## Other Boynton Beach neighborhoods we serve
 
@@ -93,7 +93,7 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 - [Valencia Communities](/valencia-boynton-beach-pest-control/)
 - [Canyon & Aberdeen](/canyon-boynton-beach-pest-control/)
 - [West Boynton](/west-boynton-beach-pest-control/)
-- [All of Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [All of Boynton Beach](/boynton-beach-residential-pest-control/)
 
 ## Protect your waterfront Boynton home
 

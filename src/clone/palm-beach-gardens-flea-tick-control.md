@@ -103,17 +103,17 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 
 ## Related Palm Beach Gardens services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Mosquito Control](/palm-beach-gardens-mosquito-control/)
 - [Spider Control](/palm-beach-gardens-spider-control/)
 - [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Jupiter](/jupiter-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
 
 ## Fleas or ticks taking over?

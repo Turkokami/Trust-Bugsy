@@ -122,8 +122,8 @@ Yes. We use EPA-registered products and place baits and treatments in cracks, vo
 
 ## Related services & city pages
 
-- [Cockroach control in Delray Beach](https://trustbugsy.com/delray-beach-cockroach-control/)
-- [Cockroach control in Boca Raton](https://trustbugsy.com/boca-raton-cockroach-control/)
+- [Cockroach control in Delray Beach](/delray-beach-cockroach-control/)
+- [Cockroach control in Boca Raton](/boca-raton-cockroach-control/)
 - [Cockroach control in Boynton Beach](/boynton-beach-cockroach-control/)
 - [Cockroach control in West Palm Beach](/west-palm-beach-cockroach-control/)
 - [Cockroach control in Lake Worth Beach](/lake-worth-beach-cockroach-control/)
@@ -134,13 +134,13 @@ Yes. We use EPA-registered products and place baits and treatments in cracks, vo
 ## Serving every Palm Beach County community
 
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Jupiter](/jupiter-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Keep palmetto bugs out this rainy season
 

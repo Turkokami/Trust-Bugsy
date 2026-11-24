@@ -83,7 +83,7 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and re
 - [Rodent Control](/west-palm-beach-rodent-control/)
 - [Commercial Pest Control](/west-palm-beach-commercial-pest-control/)
 - [Mosquito Control](/west-palm-beach-mosquito-control/)
-- [West Palm Beach Residential Pest Control](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [West Palm Beach Residential Pest Control](/west-palm-beach-residential-pest-control/)
 
 ## Other West Palm Beach neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and re
 - [Northwood](/northwood-west-palm-beach-pest-control/)
 - [SoSo (South of Southern)](/soso-west-palm-beach-pest-control/)
 - [Western West Palm Beach](/western-west-palm-beach-pest-control/)
-- [All of West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [All of West Palm Beach](/west-palm-beach-residential-pest-control/)
 
 ## Protect your downtown home or business
 

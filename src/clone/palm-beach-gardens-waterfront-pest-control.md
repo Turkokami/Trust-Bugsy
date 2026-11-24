@@ -82,7 +82,7 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 - [Rodent Control](/palm-beach-gardens-rodent-control/)
 - [Mosquito & No-See-Um Control](/palm-beach-gardens-mosquito-control/)
 - [Ant Control](/palm-beach-gardens-ant-control/)
-- [Palm Beach Gardens Residential Pest Control](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Palm Beach Gardens Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 
 ## Other Palm Beach Gardens neighborhoods we serve
 
@@ -91,7 +91,7 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 - [Mirasol & Old Palm](/mirasol-palm-beach-gardens-pest-control/)
 - [The Gardens Mall & PGA Corridor](/downtown-palm-beach-gardens-pest-control/)
 - [Central Palm Beach Gardens](/central-palm-beach-gardens-pest-control/)
-- [All of Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [All of Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Protect your waterfront Gardens home
 

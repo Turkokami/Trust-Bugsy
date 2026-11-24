@@ -83,7 +83,7 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and mi
 - [Cockroach Control](/palm-beach-gardens-cockroach-control/)
 - [Rodent Control](/palm-beach-gardens-rodent-control/)
 - [Mosquito Control](/palm-beach-gardens-mosquito-control/)
-- [Palm Beach Gardens Residential Pest Control](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Palm Beach Gardens Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 
 ## Other Palm Beach Gardens neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and mi
 - [Mirasol & Old Palm](/mirasol-palm-beach-gardens-pest-control/)
 - [Frenchman’s Creek & the Waterfront](/palm-beach-gardens-waterfront-pest-control/)
 - [Central Palm Beach Gardens](/central-palm-beach-gardens-pest-control/)
-- [All of Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [All of Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Protect your business or residence
 

@@ -132,7 +132,7 @@ Most Boynton Beach homes are resolved over a few weeks of trapping and checks, w
 
 ## Related Boynton Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [Residential Pest Control](/boynton-beach-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/boynton-beach-attic-sanitation/)
 - [Attic Insulation](/boynton-beach-attic-insulation/)
 - [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
@@ -140,10 +140,10 @@ Most Boynton Beach homes are resolved over a few weeks of trapping and checks, w
 ## Nearby communities we serve
 
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
 
 ## Hearing something in the attic?
 

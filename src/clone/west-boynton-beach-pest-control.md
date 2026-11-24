@@ -86,8 +86,8 @@ Yes — subterranean termites enter slab homes from the soil, so a periodic $99 
 - [Mosquito Control](/boynton-beach-mosquito-control/)
 - [Ant Control](/boynton-beach-ant-control/)
 - [Rodent Control](/boynton-beach-rodent-control/)
-- [Termite Control](https://trustbugsy.com/boynton-beach-termite-control/)
-- [Boynton Beach Residential Pest Control](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [Termite Control](/boynton-beach-termite-control/)
+- [Boynton Beach Residential Pest Control](/boynton-beach-residential-pest-control/)
 
 ## Other Boynton Beach neighborhoods we serve
 
@@ -96,7 +96,7 @@ Yes — subterranean termites enter slab homes from the soil, so a periodic $99 
 - [Leisureville & Sterling Village](/leisureville-boynton-beach-pest-control/)
 - [Valencia Communities](/valencia-boynton-beach-pest-control/)
 - [Canyon & Aberdeen](/canyon-boynton-beach-pest-control/)
-- [All of Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [All of Boynton Beach](/boynton-beach-residential-pest-control/)
 
 ## Protect your West Boynton home
 

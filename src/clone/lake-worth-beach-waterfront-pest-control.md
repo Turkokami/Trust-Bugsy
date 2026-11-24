@@ -82,7 +82,7 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 - [Rodent Control](/lake-worth-beach-rodent-control/)
 - [Mosquito & No-See-Um Control](/lake-worth-beach-mosquito-control/)
 - [Ant Control](/lake-worth-beach-ant-control/)
-- [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Lake Worth Beach Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve
 
@@ -91,7 +91,7 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 - [College Park](/college-park-lake-worth-beach-pest-control/)
 - [Lake Osborne & John Prince Park](/lake-osborne-lake-worth-beach-pest-control/)
 - [Western Lake Worth](/western-lake-worth-beach-pest-control/)
-- [All of Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [All of Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 
 ## Protect your waterfront Lake Worth home
 

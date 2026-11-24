@@ -103,18 +103,18 @@ Yes. Deodorizing and pheromone decontamination are part of the service, which ad
 
 ## Related West Palm Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [Residential Pest Control](/west-palm-beach-residential-pest-control/)
 - [Rodent Control](/west-palm-beach-rodent-control/)
 - [Attic Insulation](/west-palm-beach-attic-insulation/)
 - [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
 
 ## Rodents gone but the mess remains?
 

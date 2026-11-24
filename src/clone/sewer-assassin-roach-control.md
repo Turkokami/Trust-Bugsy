@@ -101,8 +101,8 @@ The Sewer Assassin handles the sewer-born source, and it pairs perfectly with ou
 ## Areas we serve
 
 - [West Palm Beach](/western-west-palm-beach-pest-control/)
-- [Boca Raton](https://trustbugsy.com/east-boca-raton-pest-control/)
-- [Delray Beach](https://trustbugsy.com/pineapple-grove-pest-control/)
+- [Boca Raton](/east-boca-raton-pest-control/)
+- [Delray Beach](/pineapple-grove-pest-control/)
 - [Royal Palm Beach](/royal-palm-beach-pest-control/)
 - [Jupiter](/central-jupiter-pest-control/)
 - [Boynton Beach](/downtown-boynton-beach-pest-control/)

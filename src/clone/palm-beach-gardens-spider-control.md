@@ -106,17 +106,17 @@ It gives strong relief, but South Florida’s insect supply is constant, so recu
 
 ## Related Palm Beach Gardens services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Bee & Wasp Removal](/palm-beach-gardens-bee-wasp-removal/)
 - [Brown Widow Spiders (Pest Library)](https://trustbugsy.com/pest-library/brown-widow-spiders/)
 - [Mosquito Control](/palm-beach-gardens-mosquito-control/)
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Jupiter](/jupiter-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
 
 ## Webs and spiders taking over?

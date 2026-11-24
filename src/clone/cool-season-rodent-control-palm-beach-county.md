@@ -124,7 +124,7 @@ Yes — where needed we handle contaminated insulation, sanitation, and attic cl
 ## Related services & city pages
 
 - [Rodent control in Delray Beach](https://trustbugsy.com/delray-beach-rodent-control/)
-- [Rodent control in Boca Raton](https://trustbugsy.com/boca-raton-rodent-control/)
+- [Rodent control in Boca Raton](/boca-raton-rodent-control/)
 - [Rodent control in Boynton Beach](/boynton-beach-rodent-control/)
 - [Rodent control in West Palm Beach](/west-palm-beach-rodent-control/)
 - [Rodent control in Lake Worth Beach](/lake-worth-beach-rodent-control/)
@@ -135,13 +135,13 @@ Yes — where needed we handle contaminated insulation, sanitation, and attic cl
 ## Serving every Palm Beach County community
 
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Jupiter](/jupiter-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Seal rodents out this cool season
 

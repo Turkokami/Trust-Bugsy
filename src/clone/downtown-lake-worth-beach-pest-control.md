@@ -81,7 +81,7 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and re
 - [Rodent Control](/lake-worth-beach-rodent-control/)
 - [Commercial Pest Control](/lake-worth-beach-commercial-pest-control/)
 - [Ant Control](/lake-worth-beach-ant-control/)
-- [Lake Worth Beach Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Lake Worth Beach Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 
 ## Other Lake Worth Beach neighborhoods we serve
 
@@ -90,7 +90,7 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and re
 - [Bryant Park, Beachside & the Lagoon](/lake-worth-beach-waterfront-pest-control/)
 - [Lake Osborne & John Prince Park](/lake-osborne-lake-worth-beach-pest-control/)
 - [Western Lake Worth](/western-lake-worth-beach-pest-control/)
-- [All of Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [All of Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 
 ## Protect your downtown home or business
 

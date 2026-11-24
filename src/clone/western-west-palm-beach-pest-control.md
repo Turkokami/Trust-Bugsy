@@ -83,7 +83,7 @@ Yes — subterranean termites enter slab homes from the soil, so a periodic $99 
 - [Ant Control](/west-palm-beach-ant-control/)
 - [Rodent Control](/west-palm-beach-rodent-control/)
 - [Termite Control](/west-palm-beach-termite-control/)
-- [West Palm Beach Residential Pest Control](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [West Palm Beach Residential Pest Control](/west-palm-beach-residential-pest-control/)
 
 ## Other West Palm Beach neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes — subterranean termites enter slab homes from the soil, so a periodic $99 
 - [Northwood](/northwood-west-palm-beach-pest-control/)
 - [Downtown, Clematis & Rosemary Square](/downtown-west-palm-beach-pest-control/)
 - [SoSo (South of Southern)](/soso-west-palm-beach-pest-control/)
-- [All of West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [All of West Palm Beach](/west-palm-beach-residential-pest-control/)
 
 ## Protect your western WPB home
 

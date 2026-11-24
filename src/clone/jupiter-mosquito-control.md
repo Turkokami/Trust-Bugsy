@@ -106,17 +106,17 @@ Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged
 
 ## Related Jupiter services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [Residential Pest Control](/jupiter-residential-pest-control/)
 - [Wildlife Trapping & Exclusion](/wildlife-trapping-exclusion/)
 - [Mosquitoes (Pest Library)](https://trustbugsy.com/pest-library/mosquitoes/)
 - [Commercial Pest Control](/jupiter-commercial-pest-control/)
 
 ## Nearby communities we serve
 
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
 
 ## Stop hiding indoors all summer

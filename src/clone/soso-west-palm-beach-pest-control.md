@@ -81,7 +81,7 @@ Yes. We use targeted, low-impact, pet- and kid-safe methods and place baits care
 - [Ant Control](/west-palm-beach-ant-control/)
 - [Cockroach Control](/west-palm-beach-cockroach-control/)
 - [Mosquito Control](/west-palm-beach-mosquito-control/)
-- [West Palm Beach Residential Pest Control](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [West Palm Beach Residential Pest Control](/west-palm-beach-residential-pest-control/)
 
 ## Other West Palm Beach neighborhoods we serve
 
@@ -90,7 +90,7 @@ Yes. We use targeted, low-impact, pet- and kid-safe methods and place baits care
 - [Northwood](/northwood-west-palm-beach-pest-control/)
 - [Downtown, Clematis & Rosemary Square](/downtown-west-palm-beach-pest-control/)
 - [Western West Palm Beach](/western-west-palm-beach-pest-control/)
-- [All of West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [All of West Palm Beach](/west-palm-beach-residential-pest-control/)
 
 ## Protect your SoSo home
 

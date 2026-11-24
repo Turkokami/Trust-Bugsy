@@ -100,7 +100,7 @@ Yes. We use targeted, low-impact methods and place baits where they reach roache
 
 ## Related Lake Worth Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 - [Ant Control](/lake-worth-beach-ant-control/)
 - [German Cockroaches (Pest Library)](https://trustbugsy.com/pest-library/german-cockroaches/)
 - [Palmetto Bugs (Pest Library)](https://trustbugsy.com/pest-library/palmetto-bugs/)
@@ -108,11 +108,11 @@ Yes. We use targeted, low-impact methods and place baits where they reach roache
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
 
 ## Take back your kitchen
 

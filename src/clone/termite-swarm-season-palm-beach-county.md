@@ -128,8 +128,8 @@ Yes, when performed by a licensed professional. We use EPA-registered products a
 ## Related services & city pages
 
 - [Termite control in Delray Beach](https://trustbugsy.com/delray-beach-termite-control/)
-- [Termite control in Boca Raton](https://trustbugsy.com/boca-raton-termite-control/)
-- [Termite control in Boynton Beach](https://trustbugsy.com/boynton-beach-termite-control/)
+- [Termite control in Boca Raton](/boca-raton-termite-control/)
+- [Termite control in Boynton Beach](/boynton-beach-termite-control/)
 - [Termite control in West Palm Beach](/west-palm-beach-termite-control/)
 - [Termite control in Lake Worth Beach](/lake-worth-beach-termite-control/)
 - [Termite control in Wellington](/wellington-termite-control/)
@@ -139,13 +139,13 @@ Yes, when performed by a licensed professional. We use EPA-registered products a
 ## Serving every Palm Beach County community
 
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Jupiter](/jupiter-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Stop termites before swarm season costs you
 

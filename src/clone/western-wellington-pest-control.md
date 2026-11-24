@@ -83,7 +83,7 @@ Yes — subterranean termites enter from the soil, so a periodic $99 inspection 
 - [Ant Control](/wellington-ant-control/)
 - [Rodent Control](/wellington-rodent-control/)
 - [Termite Control](/wellington-termite-control/)
-- [Wellington Residential Pest Control](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Wellington Residential Pest Control](/wellington-residential-pest-control/)
 
 ## Other Wellington neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes — subterranean termites enter from the soil, so a periodic $99 inspection 
 - [Versailles](/versailles-wellington-pest-control/)
 - [The Landings & Town Center](/wellington-town-center-pest-control/)
 - [Binks Forest & the Golf Communities](/binks-forest-wellington-pest-control/)
-- [All of Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
+- [All of Wellington](/wellington-residential-pest-control/)
 
 ## Protect your western Wellington property
 

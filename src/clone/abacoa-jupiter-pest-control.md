@@ -83,7 +83,7 @@ Yes. We use targeted, low-impact, pet-safe methods and place baits carefully, ex
 - [Cockroach Control](/jupiter-cockroach-control/)
 - [Mosquito Control](/jupiter-mosquito-control/)
 - [Rodent Control](/jupiter-rodent-control/)
-- [Jupiter Residential Pest Control](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [Jupiter Residential Pest Control](/jupiter-residential-pest-control/)
 
 ## Other Jupiter neighborhoods we serve
 
@@ -92,7 +92,7 @@ Yes. We use targeted, low-impact, pet-safe methods and place baits carefully, ex
 - [Jupiter Farms](/jupiter-farms-pest-control/)
 - [The Loxahatchee River Neighborhoods](/loxahatchee-river-jupiter-pest-control/)
 - [Central Jupiter](/central-jupiter-pest-control/)
-- [All of Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [All of Jupiter](/jupiter-residential-pest-control/)
 
 ## Protect your Abacoa home
 

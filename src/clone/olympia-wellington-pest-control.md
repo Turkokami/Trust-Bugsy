@@ -82,7 +82,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [Mosquito Control](/wellington-mosquito-control/)
 - [Ant Control](/wellington-ant-control/)
 - [Rodent Control](/wellington-rodent-control/)
-- [Wellington Residential Pest Control](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Wellington Residential Pest Control](/wellington-residential-pest-control/)
 
 ## Other Wellington neighborhoods we serve
 
@@ -91,7 +91,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [The Landings & Town Center](/wellington-town-center-pest-control/)
 - [Binks Forest & the Golf Communities](/binks-forest-wellington-pest-control/)
 - [Western Wellington](/western-wellington-pest-control/)
-- [All of Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
+- [All of Wellington](/wellington-residential-pest-control/)
 
 ## Protect your Olympia home
 

@@ -128,24 +128,24 @@ Yes. We use EPA-registered products applied by a Florida-licensed technician and
 ## Related services & city pages
 
 - [Pest control in Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Pest control in Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
-- [Pest control in Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [Pest control in West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Pest control in Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Pest control in Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Pest control in Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Pest control in Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Pest control in Boca Raton](/boca-raton-residential-pest-control/)
+- [Pest control in Boynton Beach](/boynton-beach-residential-pest-control/)
+- [Pest control in West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Pest control in Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Pest control in Wellington](/wellington-residential-pest-control/)
+- [Pest control in Jupiter](/jupiter-residential-pest-control/)
+- [Pest control in Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Serving every Palm Beach County community
 
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Jupiter](/jupiter-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Got a pest emergency? We move fast.
 

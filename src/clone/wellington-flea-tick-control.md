@@ -103,18 +103,18 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 
 ## Related Wellington services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Residential Pest Control](/wellington-residential-pest-control/)
 - [Mosquito Control](/wellington-mosquito-control/)
 - [Spider Control](/wellington-spider-control/)
 - [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Fleas or ticks taking over?
 

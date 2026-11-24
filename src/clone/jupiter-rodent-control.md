@@ -126,17 +126,17 @@ Most Jupiter homes are resolved over a few weeks of trapping and checks, with ex
 
 ## Related Jupiter services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [Residential Pest Control](/jupiter-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/jupiter-attic-sanitation/)
 - [Attic Insulation](/jupiter-attic-insulation/)
 - [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 
-- [Palm Beach Gardens](https://trustbugsy.com/palm-beach-gardens-residential-pest-control/)
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
 
 ## Hearing something in the attic?

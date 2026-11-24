@@ -81,7 +81,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [Ant Control](/wellington-ant-control/)
 - [Rodent Control](/wellington-rodent-control/)
 - [Termite Control](/wellington-termite-control/)
-- [Wellington Residential Pest Control](https://trustbugsy.com/wellington-residential-pest-control/)
+- [Wellington Residential Pest Control](/wellington-residential-pest-control/)
 
 ## Other Wellington neighborhoods we serve
 
@@ -90,7 +90,7 @@ Yes. We use targeted, low-impact, pet-safe methods with any brief precautions ex
 - [Versailles](/versailles-wellington-pest-control/)
 - [The Landings & Town Center](/wellington-town-center-pest-control/)
 - [Western Wellington](/western-wellington-pest-control/)
-- [All of Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
+- [All of Wellington](/wellington-residential-pest-control/)
 
 ## Protect your golf-community home
 

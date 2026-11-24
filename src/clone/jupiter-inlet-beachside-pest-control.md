@@ -80,7 +80,7 @@ Yes. We apply with pet, family, and coastal-environment safety in mind using tar
 - [Mosquito & No-See-Um Control](/jupiter-mosquito-control/)
 - [Rodent Control](/jupiter-rodent-control/)
 - [Ant Control](/jupiter-ant-control/)
-- [Jupiter Residential Pest Control](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [Jupiter Residential Pest Control](/jupiter-residential-pest-control/)
 
 ## Other Jupiter neighborhoods we serve
 
@@ -89,7 +89,7 @@ Yes. We apply with pet, family, and coastal-environment safety in mind using tar
 - [Jupiter Farms](/jupiter-farms-pest-control/)
 - [The Loxahatchee River Neighborhoods](/loxahatchee-river-jupiter-pest-control/)
 - [Central Jupiter](/central-jupiter-pest-control/)
-- [All of Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)
+- [All of Jupiter](/jupiter-residential-pest-control/)
 
 ## Protect your beachside Jupiter home
 

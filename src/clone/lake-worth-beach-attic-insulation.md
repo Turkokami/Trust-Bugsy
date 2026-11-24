@@ -108,18 +108,18 @@ Yes. We coordinate rodent exclusion, attic sanitation, and insulation replacemen
 
 ## Related Lake Worth Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/lake-worth-beach-residential-pest-control/)
+- [Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/lake-worth-beach-attic-sanitation/)
 - [Rodent Control](/lake-worth-beach-rodent-control/)
 - [Commercial Pest Control](/lake-worth-beach-commercial-pest-control/)
 
 ## Nearby communities we serve
 
-- [West Palm Beach](https://trustbugsy.com/west-palm-beach-residential-pest-control/)
+- [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Boynton Beach](https://trustbugsy.com/boynton-beach-residential-pest-control/)
-- [Wellington](https://trustbugsy.com/wellington-residential-pest-control/)
-- [Boca Raton](https://trustbugsy.com/boca-raton-residential-pest-control/)
+- [Boynton Beach](/boynton-beach-residential-pest-control/)
+- [Wellington](/wellington-residential-pest-control/)
+- [Boca Raton](/boca-raton-residential-pest-control/)
 
 ## Old or rodent-damaged insulation?
 
