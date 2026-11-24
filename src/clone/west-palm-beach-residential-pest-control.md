@@ -81,43 +81,43 @@ These are the species we treat most across West Palm Beach — each with a local
 
 Enters from the soil through foundations and slabs — a constant risk from the historic waterfront to the western slab-built communities.
 
-[Learn about subterranean termites →](https://trustbugsy.com/pest-library/subterranean-termites/)
+[Learn about subterranean termites →](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Especially common in West Palm’s historic El Cid, Flamingo Park, and Northwood homes, living entirely inside dry structural wood — handled with no-tent options.
 
-[Learn about drywood termites →](https://trustbugsy.com/pest-library/drywood-termites/)
+[Learn about drywood termites →](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, sewers, and landscaping on warm nights — constant along the downtown dining corridor and in humid, planted yards.
 
-[Learn about palmetto bugs →](https://trustbugsy.com/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in the city’s many downtown condos and multi-family blocks. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](https://trustbugsy.com/pest-library/german-cockroaches/)
+[Learn about German cockroaches →](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants that trail across kitchens and baths by the thousands — among the most common calls we get from West Palm homeowners.
 
-[Learn about white-footed ants →](https://trustbugsy.com/pest-library/white-footed-ants/)
+[Learn about white-footed ants →](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 South Florida’s dominant rodent, climbing seawalls, fences, and tree limbs into attics — heightened along the Intracoastal and in older historic districts.
 
-[Learn about roof rats →](https://trustbugsy.com/pest-library/roof-rats/)
+[Learn about roof rats →](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the Intracoastal, Clear Lake, the western canals, and Grassy Waters Preserve — peak pressure through the long wet season makes yards unusable without control.
 
-[Learn about mosquitoes →](https://trustbugsy.com/pest-library/mosquitoes/)
+[Learn about mosquitoes →](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 

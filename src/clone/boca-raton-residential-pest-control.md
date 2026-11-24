@@ -81,43 +81,43 @@ These are the species we treat most across Boca Raton — each with a local twis
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — a constant risk for Boca’s slab-built western communities and waterfront homes alike.
 
-[Learn about subterranean termites →](https://trustbugsy.com/pest-library/subterranean-termites/)
+[Learn about subterranean termites →](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Especially common in East Boca’s older Golden Triangle and beachside homes, living entirely inside dry structural wood — our no-tent options handle them without fumigation.
 
-[Learn about drywood termites →](https://trustbugsy.com/pest-library/drywood-termites/)
+[Learn about drywood termites →](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, sewers, and landscaping on warm nights — a constant around Mizner Park dining and in Boca’s lush, well-planted yards.
 
-[Learn about palmetto bugs →](https://trustbugsy.com/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Boca’s many downtown condos and 55+ communities. Requires baiting, not just spraying, to eliminate.
 
-[Learn about German cockroaches →](https://trustbugsy.com/pest-library/german-cockroaches/)
+[Learn about German cockroaches →](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants that trail across kitchens and baths by the thousands — among the most common calls we get from Boca Raton homeowners.
 
-[Learn about white-footed ants →](https://trustbugsy.com/pest-library/white-footed-ants/)
+[Learn about white-footed ants →](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 South Florida’s dominant rodent, climbing canal seawalls, fences, and tree limbs into attics — heightened near the Intracoastal, Lake Boca, and older neighborhoods.
 
-[Learn about roof rats →](https://trustbugsy.com/pest-library/roof-rats/)
+[Learn about roof rats →](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by standing water in the Intracoastal, Lake Boca, golf-course lakes, and the western wetlands — peak pressure through the long wet season makes yards unusable without control.
 
-[Learn about mosquitoes →](https://trustbugsy.com/pest-library/mosquitoes/)
+[Learn about mosquitoes →](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 

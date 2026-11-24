@@ -129,7 +129,7 @@ Most Wellington homes are resolved over a few weeks of trapping and checks, with
 - [Residential Pest Control](/wellington-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/wellington-attic-sanitation/)
 - [Attic Insulation](/wellington-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

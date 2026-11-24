@@ -111,7 +111,7 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 - [Residential Pest Control](/boynton-beach-residential-pest-control/)
 - [Mosquito Control](/boynton-beach-mosquito-control/)
 - [Spider Control](/boynton-beach-spider-control/)
-- [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
+- [Fleas (Pest Library)](/pest-library/fleas/)
 
 ## Nearby communities we serve
 

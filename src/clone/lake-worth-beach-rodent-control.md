@@ -129,7 +129,7 @@ Most Lake Worth Beach homes are resolved over a few weeks of trapping and checks
 - [Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/lake-worth-beach-attic-sanitation/)
 - [Attic Insulation](/lake-worth-beach-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

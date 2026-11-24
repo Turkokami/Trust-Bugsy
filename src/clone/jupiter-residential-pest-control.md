@@ -81,43 +81,43 @@ These are the species we treat most across Jupiter — each with a local twist, 
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — a risk for Jupiter’s inland slab communities and Farms homesteads alike.
 
-[Learn about subterranean termites →](https://trustbugsy.com/pest-library/subterranean-termites/)
+[Learn about subterranean termites →](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Common in Jupiter’s older coastal and beachfront homes, living entirely inside dry structural wood — treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](https://trustbugsy.com/pest-library/drywood-termites/)
+[Learn about drywood termites →](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, landscaping, and river-edge vegetation on warm nights — heavy in humid, well-planted yards.
 
-[Learn about palmetto bugs →](https://trustbugsy.com/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Abacoa’s townhomes and Jupiter’s condo communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](https://trustbugsy.com/pest-library/german-cockroaches/)
+[Learn about German cockroaches →](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants indoors, plus fire ants across the open turf and acreage of Jupiter Farms and family communities.
 
-[Learn about white-footed ants →](https://trustbugsy.com/pest-library/white-footed-ants/)
+[Learn about white-footed ants →](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Climbs seawalls, docks, fences, and tree limbs into attics — heightened along the river, the inlet, and the waterfront communities, and around Farms outbuildings.
 
-[Learn about roof rats →](https://trustbugsy.com/pest-library/roof-rats/)
+[Learn about roof rats →](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the Loxahatchee River, the inlet, the Intracoastal, and the western wetlands and canals — Jupiter Farms and the riverfront see especially heavy wet-season pressure.
 
-[Learn about mosquitoes →](https://trustbugsy.com/pest-library/mosquitoes/)
+[Learn about mosquitoes →](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 

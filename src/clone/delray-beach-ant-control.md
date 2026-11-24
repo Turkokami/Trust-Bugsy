@@ -133,10 +133,10 @@ Often yes — carpenter ants nest in wood softened by moisture, so finding them 
 ## Related Delray Beach services & resources
 
 - [Residential Pest Control](/delray-beach-residential-pest-control/)
-- [Ghost Ants (Pest Library)](https://trustbugsy.com/pest-library/ghost-ants/)
-- [White-Footed Ants (Pest Library)](https://trustbugsy.com/pest-library/white-footed-ants/)
-- [Fire Ants (Pest Library)](https://trustbugsy.com/pest-library/fire-ants/)
-- [Carpenter Ants (Pest Library)](https://trustbugsy.com/pest-library/carpenter-ants/)
+- [Ghost Ants (Pest Library)](/pest-library/ghost-ants/)
+- [White-Footed Ants (Pest Library)](/pest-library/white-footed-ants/)
+- [Fire Ants (Pest Library)](/pest-library/fire-ants/)
+- [Carpenter Ants (Pest Library)](/pest-library/carpenter-ants/)
 
 ## Nearby communities we serve
 

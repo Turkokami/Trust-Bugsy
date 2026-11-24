@@ -81,43 +81,43 @@ These are the species we treat most across Palm Beach Gardens — each with a lo
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — the primary termite risk for the city’s slab-built golf communities.
 
-[Learn about subterranean termites →](https://trustbugsy.com/pest-library/subterranean-termites/)
+[Learn about subterranean termites →](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Lives entirely inside dry structural wood — found in older and wood-frame homes and treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](https://trustbugsy.com/pest-library/drywood-termites/)
+[Learn about drywood termites →](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, landscaping, and lush ornamentals on warm nights — heavy in the city’s manicured, well-planted communities.
 
-[Learn about palmetto bugs →](https://trustbugsy.com/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in the Gardens’ condo and 55+ communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](https://trustbugsy.com/pest-library/german-cockroaches/)
+[Learn about German cockroaches →](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants indoors, plus fire ants that colonize the broad, sunny St. Augustine turf of golf communities and family lawns.
 
-[Learn about white-footed ants →](https://trustbugsy.com/pest-library/white-footed-ants/)
+[Learn about white-footed ants →](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Climbs seawalls, fences, and tree limbs into attics — heightened along the Intracoastal, the golf-course lakes, and the preserve edges.
 
-[Learn about roof rats →](https://trustbugsy.com/pest-library/roof-rats/)
+[Learn about roof rats →](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the golf-course lakes, community waterways, the Intracoastal, and the Loxahatchee Slough — a lake-and-preserve city means heavy wet-season pressure everywhere.
 
-[Learn about mosquitoes →](https://trustbugsy.com/pest-library/mosquitoes/)
+[Learn about mosquitoes →](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 

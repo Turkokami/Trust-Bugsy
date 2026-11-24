@@ -103,7 +103,7 @@ Yes. Older soffits and roofline gaps invite roof rats, and aged wood and paper d
 ## Pest control services in Del-Ida Park
 
 - [Termite Control](/delray-beach-termite-control/)
-- [Drywood Termites (Pest Library)](https://trustbugsy.com/pest-library/drywood-termites/)
+- [Drywood Termites (Pest Library)](/pest-library/drywood-termites/)
 - [Rodent Control](/delray-beach-rodent-control/)
 - [Ant Control](/delray-beach-ant-control/)
 - [Residential Pest Control (all Delray)](/delray-beach-residential-pest-control/)

@@ -120,7 +120,7 @@ It varies with the size of the infestation, but most Delray Beach homes are reso
 
 - [Wildlife Trapping & Exclusion](/wildlife-trapping-exclusion/)
 - [Attic Insulation & Sanitation](/attic-insulation-sanitation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 - [Residential Pest Control](/delray-beach-residential-pest-control/)
 
 ## Nearby communities we serve

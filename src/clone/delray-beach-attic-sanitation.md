@@ -101,7 +101,7 @@ It can — removing droppings, contaminated insulation, and the associated aller
 - [Rodent Control](/delray-beach-rodent-control/)
 - [Attic Insulation & Sanitation](/attic-insulation-sanitation/)
 - [Wildlife Trapping & Exclusion](/wildlife-trapping-exclusion/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

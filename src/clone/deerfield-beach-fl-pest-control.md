@@ -14,17 +14,17 @@ faqs: [{"q": "Why does my Deerfield Beach condo keep getting cockroaches even af
 
 Deerfield Beach sits between the Atlantic Ocean and the Everglades edge, with the Hillsboro River forming its northern boundary and the Intracoastal Waterway cutting through its eastern half. That geography — water on multiple sides, 1.2 square miles of internal waterways, and proximity to Deerfield Island Park — creates year-round pest pressure that is different from inland Broward cities.
 
-The Hillsboro River carries moisture and wildlife south from Boca Raton into Deerfield Beach neighborhoods. [Roof rats](https://trustbugsy.com/pest-library/roof-rats/) follow the river’s tree canopy into residential backyards. The Intracoastal brings saltwater humidity that accelerates the aging of wood in older homes. And Deerfield Island Park — a 53-acre nature preserve accessible only by ferry — sits just off the coast, creating a wildlife habitat that pushes insects and rodents toward the mainland.
+The Hillsboro River carries moisture and wildlife south from Boca Raton into Deerfield Beach neighborhoods. [Roof rats](/pest-library/roof-rats/) follow the river’s tree canopy into residential backyards. The Intracoastal brings saltwater humidity that accelerates the aging of wood in older homes. And Deerfield Island Park — a 53-acre nature preserve accessible only by ferry — sits just off the coast, creating a wildlife habitat that pushes insects and rodents toward the mainland.
 
 ## Pests We Treat in Deerfield Beach — What Coastal and River-Adjacent Homes Deal With
 
-The most common pest calls in Deerfield Beach involve [roof rats](https://trustbugsy.com/pest-library/roof-rats/), [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/), [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/), [ghost ants](https://trustbugsy.com/pest-library/ghost-ants/), and palmetto bugs. Condominiums near the Deerfield Beach International Fishing Pier and the Intracoastal see the highest cockroach and rodent activity. Inland homes near Quiet Waters Park and the western HOA communities deal more with ant and termite pressure.
+The most common pest calls in Deerfield Beach involve [roof rats](/pest-library/roof-rats/), [German cockroaches](/pest-library/german-cockroaches/), [subterranean termites](/pest-library/subterranean-termites/), [ghost ants](/pest-library/ghost-ants/), and palmetto bugs. Condominiums near the Deerfield Beach International Fishing Pier and the Intracoastal see the highest cockroach and rodent activity. Inland homes near Quiet Waters Park and the western HOA communities deal more with ant and termite pressure.
 
 We treat all of these — including single-family homes, condominiums, HOA communities, and [commercial properties](/commercial/) throughout Deerfield Beach.
 
 ## Rodent Control in Deerfield Beach — Hillsboro River and Island Park Corridors
 
-The Hillsboro River creates a direct wildlife corridor from Boca Raton into Deerfield Beach. [Roof rats](https://trustbugsy.com/pest-library/roof-rats/) follow tree lines along the river south into neighborhoods — particularly in the older residential blocks closest to the northern boundary. Norway rats are common near storm drains and canal banks on the eastern side of the city.
+The Hillsboro River creates a direct wildlife corridor from Boca Raton into Deerfield Beach. [Roof rats](/pest-library/roof-rats/) follow tree lines along the river south into neighborhoods — particularly in the older residential blocks closest to the northern boundary. Norway rats are common near storm drains and canal banks on the eastern side of the city.
 
 Deerfield Island Park, the 53-acre nature preserve just offshore, is an active wildlife habitat that contributes to rodent and insect pressure along the Intracoastal shoreline. According to [UF/IFAS Extension](https://edis.ifas.ufl.edu/publication/UW120/pdf), roof rat populations are highest near waterways, forested buffers, and established nature preserves in South Florida — all of which are part of Deerfield Beach’s geography.
 
@@ -32,7 +32,7 @@ Our [rodent control](/rodent-control/) process includes inspection, exclusion at
 
 ## Termite Control in Deerfield Beach — Coastal Humidity and Older Housing
 
-Deerfield Beach has 86,859 residents across 46,993 housing units, many of them built before 1980. Coastal humidity from the Atlantic and moisture from the Intracoastal accelerate wood degradation in older homes — and degraded wood is exactly what [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/) and [drywood termites](https://trustbugsy.com/pest-library/drywood-termites/) are looking for.
+Deerfield Beach has 86,859 residents across 46,993 housing units, many of them built before 1980. Coastal humidity from the Atlantic and moisture from the Intracoastal accelerate wood degradation in older homes — and degraded wood is exactly what [subterranean termites](/pest-library/subterranean-termites/) and [drywood termites](/pest-library/drywood-termites/) are looking for.
 
 The [University of Florida IFAS](https://flrec.ifas.ufl.edu/termites-in-florida/) identifies coastal Broward County communities as high-risk termite zones, particularly for Formosan and subterranean species. We offer [full termite control](/termite-control/) and [no-tent termite treatment](/no-tent-termite-treatment/) — the right option depends on the species and extent of infestation, which we confirm at inspection.
 

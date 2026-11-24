@@ -113,8 +113,8 @@ Yes. Our termite treatments are warranty-backed, with monitoring and periodic re
 
 - [Subterranean Termite Control](/subterranean-termite-control/)
 - [Drywood Termite Control](/drywood-termite-control/)
-- [Subterranean Termites (Pest Library)](https://trustbugsy.com/pest-library/subterranean-termites/)
-- [Drywood Termites (Pest Library)](https://trustbugsy.com/pest-library/drywood-termites/)
+- [Subterranean Termites (Pest Library)](/pest-library/subterranean-termites/)
+- [Drywood Termites (Pest Library)](/pest-library/drywood-termites/)
 - [Residential Pest Control](/delray-beach-residential-pest-control/)
 
 ## Nearby communities we serve

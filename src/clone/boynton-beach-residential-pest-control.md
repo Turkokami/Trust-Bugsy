@@ -81,43 +81,43 @@ These are the species we treat most across Boynton Beach — each with a local t
 
 Enters from the soil through foundations and slabs — a constant risk for West Boynton’s vast slab-built lake communities.
 
-[Learn about subterranean termites →](https://trustbugsy.com/pest-library/subterranean-termites/)
+[Learn about subterranean termites →](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Common in Boynton’s older east-side and downtown-area homes, living entirely inside dry structural wood — treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](https://trustbugsy.com/pest-library/drywood-termites/)
+[Learn about drywood termites →](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch and landscaping on warm nights — heavy around the marina district and in well-planted western lawns.
 
-[Learn about palmetto bugs →](https://trustbugsy.com/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Boynton’s many 55+ villa and condo communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](https://trustbugsy.com/pest-library/german-cockroaches/)
+[Learn about German cockroaches →](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants that trail across kitchens and baths by the thousands — among the most common calls from Boynton Beach homeowners.
 
-[Learn about white-footed ants →](https://trustbugsy.com/pest-library/white-footed-ants/)
+[Learn about white-footed ants →](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Climbs canal seawalls, fences, and tree limbs into attics — heightened near the Intracoastal and the western canal and lake communities.
 
-[Learn about roof rats →](https://trustbugsy.com/pest-library/roof-rats/)
+[Learn about roof rats →](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by standing water in the Intracoastal, the LWDD canals, community lakes, and the Green Cay and Loxahatchee wetlands — West Boynton sees especially heavy wet-season pressure.
 
-[Learn about mosquitoes →](https://trustbugsy.com/pest-library/mosquitoes/)
+[Learn about mosquitoes →](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 

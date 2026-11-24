@@ -54,7 +54,7 @@ German cockroaches are the most difficult roach to eliminate and the #1 cockroac
 
 ### American Cockroaches (Palmetto Bugs)
 
-Palmetto bugs are large (up to 2 inches), fast, and one of South Florida’s most infamous pests. They primarily live outdoors in trees, mulch, and drainage areas — but regularly enter homes through drains, garage doors, and exterior gaps. Learn more on our [palmetto bug guide](https://trustbugsy.com/pest-library/palmetto-bugs/).
+Palmetto bugs are large (up to 2 inches), fast, and one of South Florida’s most infamous pests. They primarily live outdoors in trees, mulch, and drainage areas — but regularly enter homes through drains, garage doors, and exterior gaps. Learn more on our [palmetto bug guide](/pest-library/palmetto-bugs/).
 
 ### Smoky Brown Cockroaches
 

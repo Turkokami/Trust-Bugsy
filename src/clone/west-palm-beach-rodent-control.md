@@ -135,7 +135,7 @@ Most West Palm Beach homes are resolved over a few weeks of trapping and checks,
 - [Residential Pest Control](/west-palm-beach-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/west-palm-beach-attic-sanitation/)
 - [Attic Insulation](/west-palm-beach-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

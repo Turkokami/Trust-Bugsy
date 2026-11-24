@@ -121,7 +121,7 @@ Yes. We use IPM and low-impact, food-safe methods appropriate for kitchens and d
 - [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Rodent Control](/palm-beach-gardens-rodent-control/)
 - [Cockroach Control](/palm-beach-gardens-cockroach-control/)
-- [German Cockroaches (Pest Library)](https://trustbugsy.com/pest-library/german-cockroaches/)
+- [German Cockroaches (Pest Library)](/pest-library/german-cockroaches/)
 
 ## Nearby communities we serve
 

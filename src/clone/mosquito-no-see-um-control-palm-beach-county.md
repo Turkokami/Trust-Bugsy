@@ -141,7 +141,7 @@ Dump or refresh standing water at least weekly — saucers, bird baths, buckets,
 - [Mosquito Control in Wellington](/wellington-mosquito-control/)
 - [Mosquito Control in Jupiter](/jupiter-mosquito-control/)
 - [Mosquito Control in Palm Beach Gardens](/palm-beach-gardens-mosquito-control/)
-- [Mosquito facts (Pest Library)](https://trustbugsy.com/pest-library/mosquitoes/)
+- [Mosquito facts (Pest Library)](/pest-library/mosquitoes/)
 
 ## Serving every Palm Beach County community
 

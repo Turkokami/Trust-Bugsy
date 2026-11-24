@@ -18,7 +18,7 @@ With over 21% of residents aged 65 and older and a median age of 44.3, many Marg
 
 ## Common Pests We Treat in Margate, FL
 
-In Margate, the most common calls are for [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/), [ghost ants](https://trustbugsy.com/pest-library/ghost-ants/), [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/), [roof rats](https://trustbugsy.com/pest-library/roof-rats/), and [fire ants](https://trustbugsy.com/pest-library/fire-ants/). The older housing stock creates termite vulnerability. The moist soil near former wetland areas drives ant and cockroach activity. And the green spaces around Calypso Cove and Oriole Golf and Tennis Club create wildlife corridors that push rodents into neighborhoods.
+In Margate, the most common calls are for [subterranean termites](/pest-library/subterranean-termites/), [ghost ants](/pest-library/ghost-ants/), [German cockroaches](/pest-library/german-cockroaches/), [roof rats](/pest-library/roof-rats/), and [fire ants](/pest-library/fire-ants/). The older housing stock creates termite vulnerability. The moist soil near former wetland areas drives ant and cockroach activity. And the green spaces around Calypso Cove and Oriole Golf and Tennis Club create wildlife corridors that push rodents into neighborhoods.
 
 We treat residential homes, condominiums, and [commercial properties](/commercial/) throughout Margate.
 
@@ -32,7 +32,7 @@ Margate is reachable from our [Pompano Beach location](/pompano-beach-fl-pest-co
 
 Margate was incorporated as a town in 1955 and as a city in 1961. Most of the original housing stock is now 50–70 years old. That era of construction used untreated wood in wall framing, rooflines, and subflooring — and decades of Florida humidity have made those materials more vulnerable.
 
-[Subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/) thrive in the moist, organic-rich soil left from Margate’s Everglades-era land. The [University of Florida IFAS](https://flrec.ifas.ufl.edu/termites-in-florida/) identifies former wetland soils as high-risk zones for termite activity. If your Margate home has not had a termite inspection in the last two years, we recommend scheduling one.
+[Subterranean termites](/pest-library/subterranean-termites/) thrive in the moist, organic-rich soil left from Margate’s Everglades-era land. The [University of Florida IFAS](https://flrec.ifas.ufl.edu/termites-in-florida/) identifies former wetland soils as high-risk zones for termite activity. If your Margate home has not had a termite inspection in the last two years, we recommend scheduling one.
 
 We offer [termite control](/termite-control/) and [no-tent termite treatment](/no-tent-termite-treatment/) options for Margate homes of any age.
 
@@ -145,7 +145,7 @@ Homes of that era in Margate are most vulnerable to subterranean termites (from 
 Yes — the organic, moisture-retaining soil common in former wetland areas creates ideal conditions for subterranean termites and burrowing insects that are less active in sandy, well-drained soils.
 
 ### I live near Calypso Cove — why do I keep seeing roof rats?
-[Roof rats](https://trustbugsy.com/pest-library/roof-rats/) follow green corridors and tree lines from parks and recreational areas into residential neighborhoods; homes near Calypso Cove and the golf course have higher activity and may benefit from exclusion work in addition to trapping.
+[Roof rats](/pest-library/roof-rats/) follow green corridors and tree lines from parks and recreational areas into residential neighborhoods; homes near Calypso Cove and the golf course have higher activity and may benefit from exclusion work in addition to trapping.
 
 ### How do I get rid of fire ants in my Margate lawn?
 Fire ant colonies can be treated directly with baiting or contact insecticides; perimeter treatment is most effective when the source mounds are near landscaping or irrigation-wet areas.

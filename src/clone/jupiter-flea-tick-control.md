@@ -106,7 +106,7 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 - [Residential Pest Control](/jupiter-residential-pest-control/)
 - [Mosquito Control](/jupiter-mosquito-control/)
 - [Spider Control](/jupiter-spider-control/)
-- [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
+- [Fleas (Pest Library)](/pest-library/fleas/)
 
 ## Nearby communities we serve
 

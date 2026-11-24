@@ -107,8 +107,8 @@ Yes. We use targeted, low-impact methods and place baits where they reach roache
 
 - [Residential Pest Control](/boynton-beach-residential-pest-control/)
 - [Ant Control](/boynton-beach-ant-control/)
-- [German Cockroaches (Pest Library)](https://trustbugsy.com/pest-library/german-cockroaches/)
-- [Palmetto Bugs (Pest Library)](https://trustbugsy.com/pest-library/palmetto-bugs/)
+- [German Cockroaches (Pest Library)](/pest-library/german-cockroaches/)
+- [Palmetto Bugs (Pest Library)](/pest-library/palmetto-bugs/)
 - [Commercial Pest Control](/boynton-beach-commercial-pest-control/)
 
 ## Nearby communities we serve

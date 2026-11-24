@@ -100,7 +100,7 @@ Yes. We reduce tick harborage in the yard — tall grass, leaf litter, and shade
 
 - [Residential Pest Control](/delray-beach-residential-pest-control/)
 - [Wildlife Trapping & Exclusion](/wildlife-trapping-exclusion/)
-- [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
+- [Fleas (Pest Library)](/pest-library/fleas/)
 
 ## Nearby communities we serve
 

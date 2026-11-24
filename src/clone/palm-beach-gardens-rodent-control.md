@@ -129,7 +129,7 @@ Most Palm Beach Gardens homes are resolved over a few weeks of trapping and chec
 - [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/palm-beach-gardens-attic-sanitation/)
 - [Attic Insulation](/palm-beach-gardens-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

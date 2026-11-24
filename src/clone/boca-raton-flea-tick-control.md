@@ -98,7 +98,7 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 - [Residential Pest Control](/boca-raton-residential-pest-control/)
 - [Mosquito Control](/boca-raton-mosquito-control/)
 - [Spider Control](/boca-raton-spider-control/)
-- [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
+- [Fleas (Pest Library)](/pest-library/fleas/)
 
 ## Nearby communities we serve
 

@@ -135,7 +135,7 @@ Most Boynton Beach homes are resolved over a few weeks of trapping and checks, w
 - [Residential Pest Control](/boynton-beach-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/boynton-beach-attic-sanitation/)
 - [Attic Insulation](/boynton-beach-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

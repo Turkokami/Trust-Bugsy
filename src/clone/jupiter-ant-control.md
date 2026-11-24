@@ -110,7 +110,7 @@ You’ll usually see a sharp drop within days as the bait reaches the colony, wi
 
 - [Residential Pest Control](/jupiter-residential-pest-control/)
 - [Cockroach Control](/jupiter-cockroach-control/)
-- [White-Footed Ants (Pest Library)](https://trustbugsy.com/pest-library/white-footed-ants/)
+- [White-Footed Ants (Pest Library)](/pest-library/white-footed-ants/)
 - [Commercial Pest Control](/jupiter-commercial-pest-control/)
 
 ## Nearby communities we serve

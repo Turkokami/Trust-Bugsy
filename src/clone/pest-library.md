@@ -33,35 +33,35 @@ South Florida is home to more pest species than almost any other region in the U
 
 ## Ants
 
-- [Ghost Ants (Sugar Ants)](https://trustbugsy.com/pest-library/ghost-ants/) — The most common indoor ant in South Florida — tiny, pale, and extremely hard to control without professional non-repellent baiting.
-- [Fire Ants](https://trustbugsy.com/pest-library/fire-ants/) — Aggressive lawn-nesting ants with a painful sting. Common in all South Florida communities.
-- [Carpenter Ants](https://trustbugsy.com/pest-library/carpenter-ants/) — Large black ants that nest in damaged wood. Often a sign of a moisture problem.
-- [Big-Headed Ants](https://trustbugsy.com/pest-library/big-headed-ants/) — Form massive underground colonies — can contain millions of workers. Require ongoing professional treatment.
+- [Ghost Ants (Sugar Ants)](/pest-library/ghost-ants/) — The most common indoor ant in South Florida — tiny, pale, and extremely hard to control without professional non-repellent baiting.
+- [Fire Ants](/pest-library/fire-ants/) — Aggressive lawn-nesting ants with a painful sting. Common in all South Florida communities.
+- [Carpenter Ants](/pest-library/carpenter-ants/) — Large black ants that nest in damaged wood. Often a sign of a moisture problem.
+- [Big-Headed Ants](/pest-library/big-headed-ants/) — Form massive underground colonies — can contain millions of workers. Require ongoing professional treatment.
 
 ## Cockroaches
 
-- [Palmetto Bugs (American Cockroaches)](https://trustbugsy.com/pest-library/palmetto-bugs/) — Large, fast-moving roaches that enter from outside through drains and gaps.
-- [German Cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/) — The most difficult indoor roach — rapid breeders that resist generic sprays.
+- [Palmetto Bugs (American Cockroaches)](/pest-library/palmetto-bugs/) — Large, fast-moving roaches that enter from outside through drains and gaps.
+- [German Cockroaches](/pest-library/german-cockroaches/) — The most difficult indoor roach — rapid breeders that resist generic sprays.
 
 ## Termites
 
-- [Drywood Termites](https://trustbugsy.com/pest-library/drywood-termites/) — Live inside wood — infest door frames, attics, and furniture. Require no-tent or fumigation treatment.
-- [Subterranean Termites](https://trustbugsy.com/pest-library/subterranean-termites/) — The most destructive species — travel from soil through mud tubes. Formosan termites included.
+- [Drywood Termites](/pest-library/drywood-termites/) — Live inside wood — infest door frames, attics, and furniture. Require no-tent or fumigation treatment.
+- [Subterranean Termites](/pest-library/subterranean-termites/) — The most destructive species — travel from soil through mud tubes. Formosan termites included.
 
 ## Rodents
 
-- [Roof Rats](https://trustbugsy.com/pest-library/roof-rats/) — The dominant rodent in South Florida. Climb trees to access attics, chew wiring, contaminate insulation.
+- [Roof Rats](/pest-library/roof-rats/) — The dominant rodent in South Florida. Climb trees to access attics, chew wiring, contaminate insulation.
 
 ## Other Common South Florida Pests
 
-- [Mosquitoes](https://trustbugsy.com/pest-library/mosquitoes/)
-- [Bed Bugs](https://trustbugsy.com/pest-library/bed-bugs/)
-- [Spiders (Brown Widow & Wolf Spider)](https://trustbugsy.com/pest-library/spiders/)
-- [Fleas](https://trustbugsy.com/pest-library/fleas/)
-- [Wasps & Hornets](https://trustbugsy.com/pest-library/wasps-hornets/)
-- [Silverfish](https://trustbugsy.com/pest-library/silverfish/)
-- [Whiteflies (Ficus & Palm)](https://trustbugsy.com/pest-library/whiteflies/)
-- [Chinch Bugs](https://trustbugsy.com/pest-library/chinch-bugs/)
+- [Mosquitoes](/pest-library/mosquitoes/)
+- [Bed Bugs](/pest-library/bed-bugs/)
+- [Spiders (Brown Widow & Wolf Spider)](/pest-library/spiders/)
+- [Fleas](/pest-library/fleas/)
+- [Wasps & Hornets](/pest-library/wasps-hornets/)
+- [Silverfish](/pest-library/silverfish/)
+- [Whiteflies (Ficus & Palm)](/pest-library/whiteflies/)
+- [Chinch Bugs](/pest-library/chinch-bugs/)
 
 Not sure what pest you’re dealing with? Call (561) 654-8998 and one of our certified technicians will identify it and recommend the right treatment. Bugsy’s serves all of Palm Beach and Broward counties — [view our service area](/service-area/).
 

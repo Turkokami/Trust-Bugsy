@@ -112,7 +112,10 @@ for fn in sorted(os.listdir(cap)):
     body = re.sub(r'\]\(tel:\)', '](tel:+15616548998)', body)
     body = re.sub(r'^(Trust logos:|Scrolling ticker \(repeated\):.*|Before/After image comparison slider:.*)\s*$', '', body, flags=re.M)
     body = re.sub(r'\]\(#(?:elementor-action|popup)[^)]*\)', '](/contact/)', body)   # live popups -> contact page
-    body = re.sub(r'(?<!!)\[\]\([^)]*\)', '', body)                                 # empty-text links (icon buttons)
+    body = re.sub(r'(?<!!)\[\]\([^)]*\)', '', body)
+    # Cloudflare-protected email links only work on the live server; drop the list item / link.
+    body = re.sub(r'^\s*-\s*[^\n]*\]\(/cdn-cgi/l/email-protection[^)]*\)\s*$', '', body, flags=re.M)
+    body = re.sub(r'\[[^\]]*\]\(/cdn-cgi/l/email-protection[^)]*\)', '', body)                                 # empty-text links (icon buttons)
     body = re.sub(r'^\s*-\s*$', '', body, flags=re.M)                               # list items left empty
     body = re.sub(r'\n{3,}', '\n\n', body).strip() + '\n'
     url = meta.get('url', '').strip()
@@ -186,11 +189,11 @@ for fn in sorted(os.listdir(cap)):
     if faqs: fmlines.append('faqs: ' + json.dumps(faqs, ensure_ascii=False))
     if typ == 'blog':   # byline as the post shows it, e.g. "By Zach · March 3, 2025"
         from datetime import datetime as _dt
-        bl = re.search(r'^By\s+(.+?)\s*[·•|–-]\s*([A-Z][a-z]+ \d{1,2}, \d{4})\s*$', body, re.M)
+        bl = re.search(r'^By\s+([^·•|\n]+?)\s*(?:[·•|]\s*([A-Z][a-z]+ \d{1,2}, \d{4}))?\s*$', body, re.M)
         pub = None
         if bl:
             fmlines.append(f'author: {q(bl.group(1).strip())}')
-            try: pub = _dt.strptime(bl.group(2), '%B %d, %Y').date().isoformat()
+            try: pub = _dt.strptime(bl.group(2), '%B %d, %Y').date().isoformat() if bl.group(2) else None
             except ValueError: pub = None
         dm = re.match(r'\d{4}-\d{2}-\d{2}', meta.get('date', '').strip())   # from the post's JSON, if recorded
         pub = pub or (dm.group(0) if dm else None)

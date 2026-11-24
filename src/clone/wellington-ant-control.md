@@ -110,7 +110,7 @@ You’ll usually see a sharp drop within days as the bait reaches the colony, wi
 
 - [Residential Pest Control](/wellington-residential-pest-control/)
 - [Cockroach Control](/wellington-cockroach-control/)
-- [White-Footed Ants (Pest Library)](https://trustbugsy.com/pest-library/white-footed-ants/)
+- [White-Footed Ants (Pest Library)](/pest-library/white-footed-ants/)
 - [Commercial Pest Control](/wellington-commercial-pest-control/)
 
 ## Nearby communities we serve

@@ -14,13 +14,13 @@ faqs: [{"q": "Does pest control work differently in HOA communities in Coconut C
 
 Coconut Creek was built as a planned community, with landscaped roads, retention ponds, butterfly gardens, and green corridors woven through every neighborhood. That design is beautiful — and it is also one of the reasons pest pressure here is higher than in other Broward cities.
 
-The waterways and ponds spread across the community keep soil moist year-round. That moisture draws [ghost ants](https://trustbugsy.com/pest-library/ghost-ants/), [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/), and [roof rats](https://trustbugsy.com/pest-library/roof-rats/) into homes near the water. Florida designated Coconut Creek a Community Wildlife Habitat — the first city in the state to earn that title. More wildlife habitat means more wildlife neighbors.
+The waterways and ponds spread across the community keep soil moist year-round. That moisture draws [ghost ants](/pest-library/ghost-ants/), [German cockroaches](/pest-library/german-cockroaches/), and [roof rats](/pest-library/roof-rats/) into homes near the water. Florida designated Coconut Creek a Community Wildlife Habitat — the first city in the state to earn that title. More wildlife habitat means more wildlife neighbors.
 
 Residents in HOA communities often face stricter timelines for resolving pest issues. Getting an exterminator scheduled fast is part of staying in compliance.
 
 ## Common Pests We Treat in Coconut Creek Homes and HOA Communities
 
-In Coconut Creek, the most common calls we get are for ghost ants, [fire ants](https://trustbugsy.com/pest-library/fire-ants/), [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/), [roof rats](https://trustbugsy.com/pest-library/roof-rats/), and [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/). These are pests that thrive in Florida’s heat and moisture — and Coconut Creek’s planned green spaces give them more places to live and breed near homes.
+In Coconut Creek, the most common calls we get are for ghost ants, [fire ants](/pest-library/fire-ants/), [German cockroaches](/pest-library/german-cockroaches/), [roof rats](/pest-library/roof-rats/), and [subterranean termites](/pest-library/subterranean-termites/). These are pests that thrive in Florida’s heat and moisture — and Coconut Creek’s planned green spaces give them more places to live and breed near homes.
 
 Condominiums and townhouses in Coconut Creek are also common service calls. Shared walls mean one unit’s pest problem can quickly become the whole floor’s problem. We treat both individual units and common areas.
 
@@ -38,7 +38,7 @@ We work with HOA timelines and can document service visits if needed. For larger
 
 ## Rodent and Ant Pressure Near Coconut Creek’s Retention Ponds and Green Corridors
 
-Coconut Creek’s retention ponds and landscaped green corridors create natural movement routes for rodents and insects. Roof rats travel along tree canopy lines and fences. [Fire ants](https://trustbugsy.com/pest-library/fire-ants/) build mounds near pond edges and landscaped islands. Ghost ants use irrigation-wet soil as breeding habitat.
+Coconut Creek’s retention ponds and landscaped green corridors create natural movement routes for rodents and insects. Roof rats travel along tree canopy lines and fences. [Fire ants](/pest-library/fire-ants/) build mounds near pond edges and landscaped islands. Ghost ants use irrigation-wet soil as breeding habitat.
 
 If your home backs up to a retention pond, a greenway, or a landscaped common area, you are more likely to see activity along your foundation and in your garage. According to [UF/IFAS Extension](https://edis.ifas.ufl.edu/publication/UW120/pdf), roof rats in South Florida follow tree lines and power lines directly into residential attics. We set targeted traps, seal entry points, and follow up.
 
@@ -145,7 +145,7 @@ HOA communities in Coconut Creek sometimes require documentation of pest treatme
 Yes — moisture from retention ponds creates ideal conditions for ghost ants and fire ants; a perimeter treatment addressing the moisture-entry points is usually the most effective solution.
 
 ### How do I know if I have roof rats or Norway rats?
-[Roof rats](https://trustbugsy.com/pest-library/roof-rats/) are smaller with large ears and long tails — they live in attics and upper spaces; Norway rats are stockier and found in lower areas near water; an inspection will confirm which species you have.
+[Roof rats](/pest-library/roof-rats/) are smaller with large ears and long tails — they live in attics and upper spaces; Norway rats are stockier and found in lower areas near water; an inspection will confirm which species you have.
 
 ### Can you treat ghost ants in a condo unit without treating the whole building?
 Yes — we treat the individual unit and identify where ants are entering; if they are coming through shared walls, we flag it for the HOA and recommend a coordinated treatment.

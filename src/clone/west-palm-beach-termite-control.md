@@ -126,8 +126,8 @@ Yes. Our termite treatments are warranty-backed, with monitoring and periodic re
 ## Related West Palm Beach services & resources
 
 - [Residential Pest Control](/west-palm-beach-residential-pest-control/)
-- [Drywood Termites (Pest Library)](https://trustbugsy.com/pest-library/drywood-termites/)
-- [Subterranean Termites (Pest Library)](https://trustbugsy.com/pest-library/subterranean-termites/)
+- [Drywood Termites (Pest Library)](/pest-library/drywood-termites/)
+- [Subterranean Termites (Pest Library)](/pest-library/subterranean-termites/)
 - [Rodent Control](/west-palm-beach-rodent-control/)
 
 ## Nearby communities we serve

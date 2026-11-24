@@ -106,7 +106,7 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 - [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Mosquito Control](/palm-beach-gardens-mosquito-control/)
 - [Spider Control](/palm-beach-gardens-spider-control/)
-- [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
+- [Fleas (Pest Library)](/pest-library/fleas/)
 
 ## Nearby communities we serve
 

@@ -104,7 +104,7 @@ Yes. Deodorizing and pheromone decontamination are part of the service, which ad
 - [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Rodent Control](/palm-beach-gardens-rodent-control/)
 - [Attic Insulation](/palm-beach-gardens-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

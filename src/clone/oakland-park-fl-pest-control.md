@@ -14,11 +14,11 @@ faqs: [{"q": "Why do I keep getting cockroaches even after cleaning my kitchen?"
 
 Oakland Park sits at an average elevation of just 7 feet above sea level. The North Fork of the Middle River runs along its original boundary. The city experiences a tropical monsoon climate — one of only a handful of cities in the continental United States with that designation. Put those three facts together and you have some of the most persistent moisture conditions in South Florida.
 
-High moisture near the ground means [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/), [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/), and [roof rats](https://trustbugsy.com/pest-library/roof-rats/) are active year-round in Oakland Park. The rainy season pushes pests inside. The dry season pushes them toward any water source they can find — which is often your home.
+High moisture near the ground means [German cockroaches](/pest-library/german-cockroaches/), [subterranean termites](/pest-library/subterranean-termites/), and [roof rats](/pest-library/roof-rats/) are active year-round in Oakland Park. The rainy season pushes pests inside. The dry season pushes them toward any water source they can find — which is often your home.
 
 ## Common Pests We Treat in Oakland Park Homes
 
-In Oakland Park, the most common service calls are for [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/), [ghost ants](https://trustbugsy.com/pest-library/ghost-ants/), [roof rats](https://trustbugsy.com/pest-library/roof-rats/), [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/), and palmetto bugs. Homes near the Middle River and Twin Lakes South see the highest rodent activity. Older homes along Dixie Highway and the Florida East Coast Railway corridor have the most termite and roach pressure.
+In Oakland Park, the most common service calls are for [German cockroaches](/pest-library/german-cockroaches/), [ghost ants](/pest-library/ghost-ants/), [roof rats](/pest-library/roof-rats/), [subterranean termites](/pest-library/subterranean-termites/), and palmetto bugs. Homes near the Middle River and Twin Lakes South see the highest rodent activity. Older homes along Dixie Highway and the Florida East Coast Railway corridor have the most termite and roach pressure.
 
 We treat both residential and [commercial properties](/commercial/) in Oakland Park. The area around Funky Buddha Brewery and NE 12th Avenue has mixed-use properties that need pest control both inside and out.
 
@@ -30,13 +30,13 @@ Oakland Park is reachable from our [Pompano Beach location](/pompano-beach-fl-pe
 
 ## Middle River Corridor — Rodent and Cockroach Activity in Oakland Park’s Waterside Neighborhoods
 
-The North Fork of the Middle River creates a natural wildlife corridor through Oakland Park. Roof rats move along the river vegetation and tree lines into attics and garages. [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/) breed in the humidity-saturated areas near the water. Palmetto bugs are common on first floors and in garages in every block adjacent to the river corridor.
+The North Fork of the Middle River creates a natural wildlife corridor through Oakland Park. Roof rats move along the river vegetation and tree lines into attics and garages. [German cockroaches](/pest-library/german-cockroaches/) breed in the humidity-saturated areas near the water. Palmetto bugs are common on first floors and in garages in every block adjacent to the river corridor.
 
 According to [UF/IFAS Extension](https://edis.ifas.ufl.edu/publication/UW120/pdf), roof rats in coastal South Florida are most active near waterways and forested buffers — exactly the conditions along the Middle River. We treat the perimeter with rodent deterrents, set traps, and seal entry points at rooflines and utility penetrations.
 
 ## Older Homes in Oakland Park — Termite and Entry Point Risks
 
-Oakland Park was originally incorporated in 1925. Many homes in the city were built in the mid-20th century, before modern pest-resistant construction became standard. Older wood-frame homes along Dixie Highway and the railway corridor have untreated wood in wall cavities and rooflines — prime territory for [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/) and drywood termites.
+Oakland Park was originally incorporated in 1925. Many homes in the city were built in the mid-20th century, before modern pest-resistant construction became standard. Older wood-frame homes along Dixie Highway and the railway corridor have untreated wood in wall cavities and rooflines — prime territory for [subterranean termites](/pest-library/subterranean-termites/) and drywood termites.
 
 The [University of Florida IFAS](https://flrec.ifas.ufl.edu/termites-in-florida/) identifies low-elevation, high-moisture areas as the highest-risk zones for subterranean termite activity in Florida. Oakland Park hits every marker. If your home is more than 20 years old and has not had a termite inspection recently, now is the time.
 

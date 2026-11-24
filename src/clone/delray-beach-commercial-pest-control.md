@@ -140,7 +140,7 @@ Yes. We use IPM and low-impact, food-safe methods appropriate for kitchens and d
 - [HOA & Condo Program](/hoa-condo-pest-control/)
 - [Rodent Control](/delray-beach-rodent-control/)
 - [Cockroach Control](/delray-beach-cockroach-control/)
-- [German Cockroaches (Pest Library)](https://trustbugsy.com/pest-library/german-cockroaches/)
+- [German Cockroaches (Pest Library)](/pest-library/german-cockroaches/)
 
 ## Nearby communities we serve
 

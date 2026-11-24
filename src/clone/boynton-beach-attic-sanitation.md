@@ -111,7 +111,7 @@ Yes. Deodorizing and pheromone decontamination are part of the service, which ad
 - [Residential Pest Control](/boynton-beach-residential-pest-control/)
 - [Rodent Control](/boynton-beach-rodent-control/)
 - [Attic Insulation](/boynton-beach-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

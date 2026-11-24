@@ -121,7 +121,7 @@ Most Boca Raton homes are resolved over a few weeks of trapping and checks, with
 - [Residential Pest Control](/boca-raton-residential-pest-control/)
 - [Attic Sanitation & Cleanup](/boca-raton-attic-sanitation/)
 - [Attic Insulation](/boca-raton-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

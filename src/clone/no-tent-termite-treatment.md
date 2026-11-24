@@ -65,7 +65,7 @@ If the infestation is severe, widespread, or affects the entire attic structure,
 
 Termite tenting (whole-structure fumigation) fills the entire home with gas, so it reaches drywood termites anywhere in the structure. No-tent treatment puts termiticide only into the infested wood. No-tent fits localized, early-to-moderate drywood activity; tenting is usually the answer when drywood termites are widespread or hidden in places that can’t be reached.
 
-Bugsy’s specializes in no-tent treatment and does not perform fumigation. If our inspection shows your home needs tenting, we’ll tell you plainly and point you to a licensed fumigation company. Tenting is a drywood termite treatment — it does not treat [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/), which live in the soil and need a soil or bait approach.
+Bugsy’s specializes in no-tent treatment and does not perform fumigation. If our inspection shows your home needs tenting, we’ll tell you plainly and point you to a licensed fumigation company. Tenting is a drywood termite treatment — it does not treat [subterranean termites](/pest-library/subterranean-termites/), which live in the soil and need a soil or bait approach.
 
 ## How much does termite tenting cost?
 
@@ -95,7 +95,7 @@ If your home does need fumigation, your fumigator will give you a checklist. It 
 - Following the fumigator’s instructions for gas service and pilot lights.
 - Not going back inside until the fumigator has tested the air and cleared the home.
 
-Not sure which termite you have? Compare [drywood termites](https://trustbugsy.com/pest-library/drywood-termites/) and [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/) in our pest library.
+Not sure which termite you have? Compare [drywood termites](/pest-library/drywood-termites/) and [subterranean termites](/pest-library/subterranean-termites/) in our pest library.
 
 ## Advantages of No-Tent Treatment
 

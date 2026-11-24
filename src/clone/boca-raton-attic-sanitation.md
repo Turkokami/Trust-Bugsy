@@ -98,7 +98,7 @@ Yes. Deodorizing and pheromone decontamination are part of the service, which ad
 - [Residential Pest Control](/boca-raton-residential-pest-control/)
 - [Rodent Control](/boca-raton-rodent-control/)
 - [Attic Insulation](/boca-raton-attic-insulation/)
-- [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
+- [Roof Rats (Pest Library)](/pest-library/roof-rats/)
 
 ## Nearby communities we serve
 

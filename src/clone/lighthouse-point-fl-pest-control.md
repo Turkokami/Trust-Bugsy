@@ -14,13 +14,13 @@ faqs: [{"q": "Do exterminators serve the whole city or just certain zip codes in
 
 Lighthouse Point was built on a canal system in the 1950s and 1960s. The homes here are older, and older homes have more gaps, aging wood, and moisture-prone foundations. That combination creates year-round pressure from cockroaches, rodents, and termites.
 
-Water is everywhere in this city. Canal-adjacent soil stays moist even in dry months. That moisture draws German cockroaches, palmetto bugs, and [roof rats](https://trustbugsy.com/pest-library/roof-rats/) close to your home’s foundation. If your home sits near a canal finger or a retention area, pest pressure is higher than in inland Broward neighborhoods.
+Water is everywhere in this city. Canal-adjacent soil stays moist even in dry months. That moisture draws German cockroaches, palmetto bugs, and [roof rats](/pest-library/roof-rats/) close to your home’s foundation. If your home sits near a canal finger or a retention area, pest pressure is higher than in inland Broward neighborhoods.
 
 Residents in deed-restricted or HOA communities may also face tighter timelines for pest resolution. Getting an exterminator scheduled quickly matters.
 
 ## Common Pests Exterminator Calls Handle in This Part of Broward County
 
-In Lighthouse Point, we treat American and [German cockroaches](https://trustbugsy.com/pest-library/german-cockroaches/), [roof rats](https://trustbugsy.com/pest-library/roof-rats/), Norway rats, [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/), ghost ants, and fire ants. These are the pests we see most often in canal-side homes throughout northeastern [Broward County](/broward-county-fl-pest-control/).
+In Lighthouse Point, we treat American and [German cockroaches](/pest-library/german-cockroaches/), [roof rats](/pest-library/roof-rats/), Norway rats, [subterranean termites](/pest-library/subterranean-termites/), ghost ants, and fire ants. These are the pests we see most often in canal-side homes throughout northeastern [Broward County](/broward-county-fl-pest-control/).
 
 Your proximity to Hillsboro Inlet and the Intracoastal Waterway adds another layer. Shoreline wildlife creates natural rodent corridors that lead directly into residential neighborhoods. If you are unsure what pest you are dealing with, a basic inspection will tell you fast.
 
@@ -32,7 +32,7 @@ The process moves in order: inspection, identification, treatment, and follow-up
 
 ## Rodent Problems Near the Intracoastal — What Homeowners Are Dealing With
 
-If you have heard scratching at night or found droppings near your garage or kitchen, rodents are likely inside. Lighthouse Point’s waterfront location makes [roof rat](https://trustbugsy.com/pest-library/roof-rats/) and Norway rat pressure higher than in most South Florida cities.
+If you have heard scratching at night or found droppings near your garage or kitchen, rodents are likely inside. Lighthouse Point’s waterfront location makes [roof rat](/pest-library/roof-rats/) and Norway rat pressure higher than in most South Florida cities.
 
 Roof rats tend to move into attics. Norway rats show up in crawl spaces, garages, and areas close to water. The Intracoastal shoreline and Hillsboro Inlet create active wildlife corridors that bring rodents from the shore directly into neighborhoods. According to [UF/IFAS Extension](https://edis.ifas.ufl.edu/publication/UW120/pdf), roof rats are among the most common commensal rodents in coastal South Florida, with populations highest near waterways and older residential areas. We set traps, seal entry points, and follow up until the problem is closed.
 
@@ -42,7 +42,7 @@ For a full overview of our [rodent control process](/rodent-control/), visit our
 
 Most homes in Lighthouse Point were built during the 1950s and 1960s. The wood used in those builds was often untreated, and decades of exposure to canal moisture have made it more vulnerable. If your home has never had a termite inspection, now is the time.
 
-[Subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/) are most active in moist, canal-adjacent soil. [Drywood termites](https://trustbugsy.com/pest-library/drywood-termites/) show up in older roof structures and aging window frames. The [University of Florida IFAS](https://flrec.ifas.ufl.edu/termites-in-florida/) identifies South Florida waterfront communities as high-risk zones for both species. We inspect both and recommend treatment based on what we find.
+[Subterranean termites](/pest-library/subterranean-termites/) are most active in moist, canal-adjacent soil. [Drywood termites](/pest-library/drywood-termites/) show up in older roof structures and aging window frames. The [University of Florida IFAS](https://flrec.ifas.ufl.edu/termites-in-florida/) identifies South Florida waterfront communities as high-risk zones for both species. We inspect both and recommend treatment based on what we find.
 
 Learn more about our [termite control](/termite-control/) and [no-tent termite treatment](/no-tent-termite-treatment/) options.
 
@@ -148,7 +148,7 @@ Answers to Your Pest Control Questions
 We serve all of Lighthouse Point, including both zip codes 33064 and 33074 — no zone restrictions apply.
 
 ### My home was built in the 1960s near a canal — what pest issues should I expect?
-Moisture-related pests are most common: [cockroaches](/cockroach-control-extermination/), [subterranean termites](https://trustbugsy.com/pest-library/subterranean-termites/), and rodents show up most often in older canal-adjacent homes. Annual inspections are a smart move for homes of this age.
+Moisture-related pests are most common: [cockroaches](/cockroach-control-extermination/), [subterranean termites](/pest-library/subterranean-termites/), and rodents show up most often in older canal-adjacent homes. Annual inspections are a smart move for homes of this age.
 
 ### How soon can an exterminator get to Lighthouse Point from Pompano Beach?
 Most calls are same-day or next-business-day. Our [Pompano Beach location](/pompano-beach-fl-pest-control/) puts us closer to Lighthouse Point than most companies operating out of Fort Lauderdale or Boca Raton.

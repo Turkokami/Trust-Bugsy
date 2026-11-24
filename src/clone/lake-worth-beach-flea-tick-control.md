@@ -106,7 +106,7 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 - [Residential Pest Control](/lake-worth-beach-residential-pest-control/)
 - [Mosquito Control](/lake-worth-beach-mosquito-control/)
 - [Spider Control](/lake-worth-beach-spider-control/)
-- [Fleas (Pest Library)](https://trustbugsy.com/pest-library/fleas/)
+- [Fleas (Pest Library)](/pest-library/fleas/)
 
 ## Nearby communities we serve
 

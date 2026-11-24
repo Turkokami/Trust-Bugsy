@@ -102,8 +102,8 @@ Yes. We use targeted, low-impact methods and place baits where they reach roache
 
 - [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Ant Control](/palm-beach-gardens-ant-control/)
-- [German Cockroaches (Pest Library)](https://trustbugsy.com/pest-library/german-cockroaches/)
-- [Palmetto Bugs (Pest Library)](https://trustbugsy.com/pest-library/palmetto-bugs/)
+- [German Cockroaches (Pest Library)](/pest-library/german-cockroaches/)
+- [Palmetto Bugs (Pest Library)](/pest-library/palmetto-bugs/)
 - [Commercial Pest Control](/palm-beach-gardens-commercial-pest-control/)
 
 ## Nearby communities we serve

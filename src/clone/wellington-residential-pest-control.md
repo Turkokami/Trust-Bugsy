@@ -81,43 +81,43 @@ These are the species we treat most across Wellington — each with a local twis
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — the primary termite risk for Wellington’s slab-built family communities.
 
-[Learn about subterranean termites →](https://trustbugsy.com/pest-library/subterranean-termites/)
+[Learn about subterranean termites →](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Lives entirely inside dry structural wood — found in older wood-frame homes, barns, and outbuildings, and treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](https://trustbugsy.com/pest-library/drywood-termites/)
+[Learn about drywood termites →](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, muck, and landscaping on warm nights — heavy around farms, feed, and well-planted lots.
 
-[Learn about palmetto bugs →](https://trustbugsy.com/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Wellington’s lakefront and 55+ condo communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](https://trustbugsy.com/pest-library/german-cockroaches/)
+[Learn about German cockroaches →](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants indoors, plus aggressive fire ants that colonize the open, sunny turf of paddocks, lawns, and cul-de-sacs across the village.
 
-[Learn about white-footed ants →](https://trustbugsy.com/pest-library/white-footed-ants/)
+[Learn about white-footed ants →](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Works barns, tack rooms, feed storage, and attics — Wellington’s farms and outbuildings give rodents abundant harborage and food.
 
-[Learn about roof rats →](https://trustbugsy.com/pest-library/roof-rats/)
+[Learn about roof rats →](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the C-51 and LWDD canals, hundreds of community and equestrian lakes, and the western wetlands — Wellington sees some of the heaviest mosquito and no-see-um pressure in the county.
 
-[Learn about mosquitoes →](https://trustbugsy.com/pest-library/mosquitoes/)
+[Learn about mosquitoes →](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 

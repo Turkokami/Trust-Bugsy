@@ -80,7 +80,7 @@ Yes. Our programs use targeted, low-impact methods with clear guidance on any sh
 - [Termite Control](/boca-raton-termite-control/)
 - [Rodent Control](/boca-raton-rodent-control/)
 - [Ant Control](/boca-raton-ant-control/)
-- [Drywood Termites (Pest Library)](https://trustbugsy.com/pest-library/drywood-termites/)
+- [Drywood Termites (Pest Library)](/pest-library/drywood-termites/)
 - [Boca Raton Residential Pest Control](/boca-raton-residential-pest-control/)
 
 ## Other Boca Raton neighborhoods we serve

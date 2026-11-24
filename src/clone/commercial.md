@@ -85,7 +85,7 @@ Bugsy’s commercial pest control comes with our pest-free guarantee. If pests r
 - [Mosquitoes](https://trustbugsy.com/service/mosquito-control/) — Drive away customers from outdoor areas
 - [Bed bugs](https://trustbugsy.com/service/bed-bug-extermination/) — Critical for hotels, multi-family, and healthcare properties
 - [Wasps & bees](https://trustbugsy.com/service/wasp-control-removal/) — Hazard for customers and employees near entrances
-- [Spiders](https://trustbugsy.com/pest-library/spiders/) — Entry areas and storage rooms — image and safety concern
+- [Spiders](/pest-library/spiders/) — Entry areas and storage rooms — image and safety concern
 
 ## ![Office breakroom cleaning](https://trustbugsy.com/wp-content/uploads/2025/09/office-breakroom-cleaning.webp) Why Businesses Choose Bugsy’s
 

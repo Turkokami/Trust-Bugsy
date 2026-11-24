@@ -108,7 +108,7 @@ Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged
 
 - [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Wildlife Trapping & Exclusion](/wildlife-trapping-exclusion/)
-- [Mosquitoes (Pest Library)](https://trustbugsy.com/pest-library/mosquitoes/)
+- [Mosquitoes (Pest Library)](/pest-library/mosquitoes/)
 - [Commercial Pest Control](/palm-beach-gardens-commercial-pest-control/)
 
 ## Nearby communities we serve

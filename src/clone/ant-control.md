@@ -50,7 +50,7 @@ Get your Free Estimate
 
 ### Ghost Ants (Sugar Ants)
 
-Ghost ants are tiny, nearly translucent ants that are the dominant indoor ant species in South Florida. They nest in wall voids, under flooring, and in soil near foundations, and forage for sweet and greasy foods in kitchens and bathrooms. Per [UF IFAS Extension](https://edis.ifas.ufl.edu/) research, ghost ants are uniquely difficult to control because repellent products cause “colony budding” — the colony splits into multiple new colonies, spreading rather than shrinking the infestation. Learn more on our [ghost ant guide](https://trustbugsy.com/pest-library/ghost-ants/).
+Ghost ants are tiny, nearly translucent ants that are the dominant indoor ant species in South Florida. They nest in wall voids, under flooring, and in soil near foundations, and forage for sweet and greasy foods in kitchens and bathrooms. Per [UF IFAS Extension](https://edis.ifas.ufl.edu/) research, ghost ants are uniquely difficult to control because repellent products cause “colony budding” — the colony splits into multiple new colonies, spreading rather than shrinking the infestation. Learn more on our [ghost ant guide](/pest-library/ghost-ants/).
 
 ### Big-Headed Ants
 
