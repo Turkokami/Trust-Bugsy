@@ -72,7 +72,7 @@ Wasps and bees are sneaky builders. Here’s where to check:
 
 Early detection is key. If you spot increased activity in one area, observe from a safe distance. Never poke, spray, or block nest entrances — that’s how attacks start.
 
-For detailed prevention advice, check out our **[Seasonal Pest Prevention Guide for South Florida Homes](https://trustbugsy.com/seasonal-pest-prevention-south-florida-homes/)**.
+For detailed prevention advice, check out our **[Seasonal Pest Prevention Guide for South Florida Homes](/seasonal-pest-prevention-south-florida-homes/)**.
 
 ## DIY vs. Professional Wasp and Bee Removal
 
@@ -85,7 +85,7 @@ Here’s when to call a pro:
 - You suspect Africanized bees
 - You just don’t want to risk getting swarmed (smart move)
 
-> See why **[professional pest control beats DIY every time](https://trustbugsy.com/diy-vs-professional-pest-control-bugsy-wins/)** — especially during fall.
+> See why **[professional pest control beats DIY every time](/diy-vs-professional-pest-control-bugsy-wins/)** — especially during fall.
 
 Our team uses safe, eco-friendly treatments designed to eliminate colonies completely and prevent them from returning.
 
