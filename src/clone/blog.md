@@ -145,11 +145,11 @@ Rat & Rodent Control
 
 Zach Bernstein July 7, 2026
 
-[![Rat crawling on electrical wiring in an attic](https://trustbugsy.com/wp-content/uploads/2026/04/Gemini_Generated_Image_emi1kwemi1kwemi1.webp)](https://trustbugsy.com/how-do-rats-get-into-your-house-common-entry-points/)
+[![Rat crawling on electrical wiring in an attic](https://trustbugsy.com/wp-content/uploads/2026/04/Gemini_Generated_Image_emi1kwemi1kwemi1.webp)](/how-do-rats-get-into-your-house-common-entry-points/)
 
 Rat & Rodent Control
 
-### [How Do Rats Get Into Your House? Common Entry Points to Check in Lake Worth Beach](https://trustbugsy.com/how-do-rats-get-into-your-house-common-entry-points/)
+### [How Do Rats Get Into Your House? Common Entry Points to Check in Lake Worth Beach](/how-do-rats-get-into-your-house-common-entry-points/)
 
 Zach Bernstein May 22, 2026
 
@@ -187,11 +187,11 @@ Zach Bernstein September 8, 2025
 
 [More Ant Control Articles →](https://trustbugsy.com/category/ant-control/)
 
-[![South florida houses](https://trustbugsy.com/wp-content/uploads/2026/04/south-florida-houses.webp)](https://trustbugsy.com/early-termite-detection-lake-worth-beach/)
+[![South florida houses](https://trustbugsy.com/wp-content/uploads/2026/04/south-florida-houses.webp)](/early-termite-detection-lake-worth-beach/)
 
 Ant Control
 
-### [Why Lake Worth Beach Homes Are at High Risk for Termite Damage](https://trustbugsy.com/early-termite-detection-lake-worth-beach/)
+### [Why Lake Worth Beach Homes Are at High Risk for Termite Damage](/early-termite-detection-lake-worth-beach/)
 
 Zach Bernstein April 7, 2026
 
