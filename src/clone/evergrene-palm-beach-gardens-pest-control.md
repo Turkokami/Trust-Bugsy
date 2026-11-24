@@ -92,10 +92,10 @@ Yes — targeted, family- and pet-conscious products applied by licensed techs, 
 
 ## Nearby Palm Beach Gardens areas we serve
 
-- [Mirasol](https://trustbugsy.com/mirasol-palm-beach-gardens-pest-control/)
-- [PGA National](https://trustbugsy.com/pga-national-palm-beach-gardens-pest-control/)
-- [BallenIsles](https://trustbugsy.com/ballenisles-palm-beach-gardens-pest-control/)
-- [Central Palm Beach Gardens](https://trustbugsy.com/central-palm-beach-gardens-pest-control/)
+- [Mirasol](/mirasol-palm-beach-gardens-pest-control/)
+- [PGA National](/pga-national-palm-beach-gardens-pest-control/)
+- [BallenIsles](/ballenisles-palm-beach-gardens-pest-control/)
+- [Central Palm Beach Gardens](/central-palm-beach-gardens-pest-control/)
 
 ## Protect your Evergrene home
 

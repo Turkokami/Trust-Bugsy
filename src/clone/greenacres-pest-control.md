@@ -94,7 +94,7 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 ## Nearby communities we serve
 
-- [Royal Palm Beach](https://trustbugsy.com/royal-palm-beach-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-pest-control/)
 - [Lake Worth Beach](https://trustbugsy.com/western-lake-worth-beach-pest-control/)
 - [Wellington](https://trustbugsy.com/western-wellington-pest-control/)
 - [River Bridge](/river-bridge-greenacres-pest-control/)

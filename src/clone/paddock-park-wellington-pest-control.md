@@ -95,7 +95,7 @@ Yes — targeted, animal- and family-conscious products applied by licensed tech
 - [Equestrian Wellington](https://trustbugsy.com/equestrian-wellington-pest-control/)
 - [Binks Forest](https://trustbugsy.com/binks-forest-wellington-pest-control/)
 - [Versailles](https://trustbugsy.com/versailles-wellington-pest-control/)
-- [Royal Palm Beach](https://trustbugsy.com/royal-palm-beach-pest-control/)
+- [Royal Palm Beach](/royal-palm-beach-pest-control/)
 
 ## Protect your Paddock Park home
 
