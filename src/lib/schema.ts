@@ -18,6 +18,7 @@ export interface Faq { q: string; a: string }
 export function buildGraph(opts: {
   path: string; title: string; description: string;
   crumbs: Crumb[]; service?: string; faqs?: Faq[]; image?: string;
+  article?: { headline: string; author?: string; published?: string };
 }) {
   const url = new URL(opts.path, U).href;
   const nodes: object[] = [
@@ -55,6 +56,15 @@ export function buildGraph(opts: {
       '@type': 'Service', '@id': `${url}#service`, name: opts.service, serviceType: opts.service, url,
       provider: { '@id': ID.org },
       areaServed: business.serviceRegions.map((r) => ({ '@type': 'AdministrativeArea', name: `${r}, FL` })),
+    });
+  }
+  if (opts.article) {
+    nodes.push({
+      '@type': 'BlogPosting', '@id': `${url}#article`, headline: opts.article.headline, url,
+      mainEntityOfPage: { '@id': `${url}#webpage` }, publisher: { '@id': ID.org },
+      ...(opts.article.author ? { author: { '@type': 'Person', name: opts.article.author } } : { author: { '@id': ID.org } }),
+      ...(opts.article.published ? { datePublished: opts.article.published } : {}),
+      ...(opts.image ? { image: opts.image } : {}),
     });
   }
   if (opts.faqs && opts.faqs.length) {

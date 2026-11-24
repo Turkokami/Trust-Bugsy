@@ -184,6 +184,17 @@ for fn in sorted(os.listdir(cap)):
     if typ in ('service', 'commercial'): fmlines.append(f'service: {q(h1)}')
     if firstimg: fmlines.append(f'image: {q(firstimg.group(1))}')
     if faqs: fmlines.append('faqs: ' + json.dumps(faqs, ensure_ascii=False))
+    if typ == 'blog':   # byline as the post shows it, e.g. "By Zach · March 3, 2025"
+        from datetime import datetime as _dt
+        bl = re.search(r'^By\s+(.+?)\s*[·•|–-]\s*([A-Z][a-z]+ \d{1,2}, \d{4})\s*$', body, re.M)
+        pub = None
+        if bl:
+            fmlines.append(f'author: {q(bl.group(1).strip())}')
+            try: pub = _dt.strptime(bl.group(2), '%B %d, %Y').date().isoformat()
+            except ValueError: pub = None
+        dm = re.match(r'\d{4}-\d{2}-\d{2}', meta.get('date', '').strip())   # from the post's JSON, if recorded
+        pub = pub or (dm.group(0) if dm else None)
+        if pub: fmlines.append(f'published: {q(pub)}')
     fmlines.append('---')
     slug = 'home' if path == '/' else path.strip('/').replace('/', '__')
     open(os.path.join(out, slug + '.md'), 'w', encoding='utf-8').write('\n'.join(fmlines) + '\n\n' + body)

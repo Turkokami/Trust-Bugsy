@@ -96,7 +96,7 @@ Estate properties vary with size, landscaping, and needs — we provide a clear,
 
 - [El Cid, WPB](https://trustbugsy.com/el-cid-west-palm-beach-pest-control/)
 - [Downtown WPB](https://trustbugsy.com/downtown-west-palm-beach-pest-control/)
-- [Palm Beach Shores](https://trustbugsy.com/palm-beach-shores-pest-control/)
+- [Palm Beach Shores](/palm-beach-shores-pest-control/)
 - [Estate Section](/estate-section-palm-beach-pest-control/)
 
 ## Protect your Palm Beach estate

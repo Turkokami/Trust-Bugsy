@@ -100,7 +100,7 @@ Absolutely. Not every yard needs a full system — our regular mosquito control 
 
 ## Areas we install misting systems
 
-- [Singer Island](https://trustbugsy.com/singer-island-riviera-beach-pest-control/)
+- [Singer Island](/singer-island-riviera-beach-pest-control/)
 - [Admirals Cove, Jupiter](/admirals-cove-jupiter-pest-control/)
 - [Ibis, West Palm Beach](/ibis-west-palm-beach-pest-control/)
 - [Town of Palm Beach](/palm-beach-pest-control/)

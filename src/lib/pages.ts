@@ -9,6 +9,8 @@ export interface ClonePage {
   type: 'home' | 'core' | 'service' | 'commercial' | 'plan' | 'area' | 'library' | 'blog' | 'legal';
   h1: string;
   showH1?: boolean;
+  author?: string;
+  published?: string;
   service?: string;
   image?: string;
   parent?: string;
