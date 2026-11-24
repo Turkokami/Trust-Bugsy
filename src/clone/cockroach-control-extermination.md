@@ -150,7 +150,7 @@ Showcasing Excellence in Every Job
 
 
 
-
+![2023-04-06 (1)](https://trustbugsy.com/wp-content/uploads/2025/03/2023-04-06-1.svg)
 
 
 ![Bugsy's Pest Solutions van parked in front of a home](https://trustbugsy.com/wp-content/uploads/2025/04/Group-333-min.webp)

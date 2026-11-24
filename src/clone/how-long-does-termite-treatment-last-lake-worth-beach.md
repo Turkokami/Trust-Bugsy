@@ -115,7 +115,7 @@ Understanding the duration and effectiveness of termite treatments is essential 
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

@@ -217,7 +217,7 @@ Prompt, professional rodent control protects health and limits property damage. 
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

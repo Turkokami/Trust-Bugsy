@@ -67,10 +67,45 @@ const graph = buildGraph({ path, title: fullTitle, description, crumbs, service,
     <main id="main"><slot /></main>
     <Footer />
     <PhoneBar phone={loc.phoneE164} />
+    <dialog id="video-modal" class="video-modal" aria-label="Bugsy’s Pest Solutions video">
+      <form method="dialog"><button class="vm-close" aria-label="Close video">×</button></form>
+      <div class="vm-frame"><iframe title="Bugsy’s Pest Solutions video" src="about:blank" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>
+    </dialog>
     <script is:inline>
       document.querySelectorAll('[data-preview-form]').forEach(function (f) {
         f.addEventListener('submit', function (e) { e.preventDefault(); var n = f.querySelector('.form-note'); if (n) n.hidden = false; });
       });
+      // Sliders: arrows, autoplay (paused on hover/focus and for reduced motion).
+      var still = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      document.querySelectorAll('.tb-carousel').forEach(function (c) {
+        var track = c.querySelector('.tc-track'), prev = c.querySelector('.tc-prev'), next = c.querySelector('.tc-next');
+        var step = function () { var s = track.querySelector('.tc-slide'); return s ? s.getBoundingClientRect().width + parseFloat(getComputedStyle(track).columnGap || 16) : track.clientWidth; };
+        var atEnd = function () { return track.scrollLeft + track.clientWidth >= track.scrollWidth - 4; };
+        var go = function (d) { if (d > 0 && atEnd()) track.scrollTo({ left: 0 }); else if (d < 0 && track.scrollLeft < 4) track.scrollTo({ left: track.scrollWidth }); else track.scrollBy({ left: d * step() }); };
+        var fit = function () { var over = track.scrollWidth > track.clientWidth + 4; prev.hidden = next.hidden = !over; return over; };
+        prev.addEventListener('click', function () { go(-1); });
+        next.addEventListener('click', function () { go(1); });
+        fit(); window.addEventListener('resize', fit);
+        var ms = +c.dataset.autoplay || 0, hold = false;
+        if (ms && !still) {
+          ['mouseenter', 'focusin', 'touchstart'].forEach(function (e) { c.addEventListener(e, function () { hold = true; }, { passive: true }); });
+          ['mouseleave', 'focusout'].forEach(function (e) { c.addEventListener(e, function () { hold = false; }); });
+          setInterval(function () { if (!hold && !document.hidden && fit()) go(1); }, ms);
+        }
+      });
+      // "Play Video" opens the Bugsy's YouTube video in a popup.
+      var vm = document.getElementById('video-modal');
+      document.querySelectorAll('[data-video]').forEach(function (b) {
+        b.addEventListener('click', function () {
+          if (!vm || !vm.showModal) { window.open('https://www.youtube.com/watch?v=' + b.dataset.video, '_blank', 'noopener'); return; }
+          vm.querySelector('iframe').src = 'https://www.youtube-nocookie.com/embed/' + b.dataset.video + '?autoplay=1&rel=0';
+          vm.showModal();
+        });
+      });
+      if (vm) {
+        vm.addEventListener('close', function () { vm.querySelector('iframe').src = 'about:blank'; });
+        vm.addEventListener('click', function (e) { if (e.target === vm) vm.close(); });
+      }
     </script>
   </body>
 </html>

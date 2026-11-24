@@ -24,7 +24,7 @@ The problem is that termite damage often goes undetected until it’s catastroph
 
 This guide will teach you how to spot the signs of termite damage before it becomes a major problem, explain the different types of termites you’ll encounter in Lake Worth, and show you when it’s time to call in professional help. By understanding what termite damage looks like and why Lake Worth homes are particularly vulnerable, you can take action before the damage spreads.
 
-**If you suspect you already have termites, don’t wait—[contact Bugsy’s for a professional inspection](/termite-control/) immediately.** For general [Lake Worth pest control](/lake-worth-beach-fl-pest-control/) concerns beyond termites, we also handle [rodent control](https://trustbugsy.com/rodent-control-boca-raton/), [cockroach elimination](https://trustbugsy.com/cockroach-control-lake-worth/), and other common household pests.
+**If you suspect you already have termites, don’t wait—[contact Bugsy’s for a professional inspection](/termite-control/) immediately.** For general [Lake Worth pest control](/lake-worth-beach-fl-pest-control/) concerns beyond termites, we also handle [rodent control](/boca-raton-rodent-control/), [cockroach elimination](/lake-worth-beach-cockroach-control/), and other common household pests.
 
 ## Why Lake Worth Beach Homes Are at High Risk for Termite Damage
 
@@ -166,7 +166,7 @@ Our termite specialists conduct a detailed inspection of your entire Lake Worth 
 - Attic evaluation (including [attic sanitation assessment](/attic-sanitation-insulation-removal/))
 - Assessment of all wood-to-soil contact points
 - Identification of moisture problems that attract termites
-- Evaluation for other wood-destroying pests (drywood termites, carpenter ants, [powder post beetles](https://trustbugsy.com/pest-control/))
+- Evaluation for other wood-destroying pests (drywood termites, carpenter ants, [powder post beetles](/))
 
 We use specialized equipment and our trained eye to find infestations that are invisible to untrained homeowners.
 
@@ -233,7 +233,7 @@ This is one of the easiest preventive measures, and often recommended alongside 
 
 ### Maintain Regular Inspections
 
-Even with preventive measures, regular professional inspections catch infestations before they become expensive. This is especially important compared to other [Lake Worth pest control challenges](/lake-worth-beach-fl-pest-control/) like [rodent control](https://trustbugsy.com/rodent-control-boca-raton/) and [ant infestations](https://trustbugsy.com/ant-control-lake-worth/):
+Even with preventive measures, regular professional inspections catch infestations before they become expensive. This is especially important compared to other [Lake Worth pest control challenges](/lake-worth-beach-fl-pest-control/) like [rodent control](/boca-raton-rodent-control/) and [ant infestations](/lake-worth-beach-ant-control/):
 
 - **Annual inspections:** Every Lake Worth home should have at least annual professional termite inspections
 - **New construction:** Have new homes inspected before you move in

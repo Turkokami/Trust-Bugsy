@@ -100,7 +100,7 @@ Insulating an attic in Boca Raton improves energy efficiency, enhances home comf
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

@@ -78,7 +78,7 @@ Occasionally, especially during heavy rain when their underground nests flood. T
 
 ## Professional Fire Ant Control in South Florida
 
-Don’t let fire ant take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate fire ant with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [fire ant control](https://trustbugsy.com/lawn-care/fire-ant-control/) service page for treatment details.
+Don’t let fire ant take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate fire ant with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [fire ant control](/pest-library/fire-ants/) service page for treatment details.
 
 Get A Free Quote
 

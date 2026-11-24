@@ -81,7 +81,7 @@ House mice prefer indoor environments and commonly establish nesting sites in wa
 
 ## Early Warning Signs of Rodent Activity
 
-Recognizing the early indicators of rodent presence allows homeowners to address problems before they escalate into established infestations that require extensive remediation efforts. Professional [pest identification](https://trustbugsy.com/pest-identification-west-palm-beach-lake-worth/) services can confirm species and assess infestation extent, but homeowners should be alert to several key warning signs during fall months.
+Recognizing the early indicators of rodent presence allows homeowners to address problems before they escalate into established infestations that require extensive remediation efforts. Professional [pest identification](/pest-library/) services can confirm species and assess infestation extent, but homeowners should be alert to several key warning signs during fall months.
 
 **Visual Evidence**
 

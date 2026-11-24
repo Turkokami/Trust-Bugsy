@@ -105,6 +105,35 @@ REDIR['/pest-control-service-areas/'] = '/service-area/'
 for _c in ['schools-childcare','retail-stores-shopping-centers','restaurants-food-service','property-management','office-buildings',
            'multi-family-properties-hoas','hotels-hospitality','healthcare-facilities','government-buildings','warehouses-distribution-centers']:
     REDIR[f'/{_c}/'] = f'/commercial/{_c}/'
+# Old live addresses with no page of their own here -> the preview page for the
+# same service and place, or the nearest hub (Nov 24 2026).
+for _s, _d in {'wasp-control': 'bee-wasp-removal', 'bee-control': 'bee-wasp-removal', 'termite-control': 'termite-control',
+               'spider-control': 'spider-control', 'rat-control-extermination': 'rodent-control', 'mosquito-control': 'mosquito-control',
+               'insulation-removal': 'attic-insulation', 'flea-control': 'flea-tick-control', 'cockroach-control': 'cockroach-control',
+               'attic-sanitation': 'attic-sanitation'}.items():
+    REDIR[f'/lake-worth-beach-fl-pest-control/{_s}/'] = f'/lake-worth-beach-{_d}/'
+REDIR.update({
+    '/lake-worth-beach-fl-pest-control/bed-bug-extermination/': '/bed-bug-extermination/',
+    '/rodent-control-boca-raton/': '/boca-raton-rodent-control/',
+    '/cockroach-control-lake-worth/': '/lake-worth-beach-cockroach-control/',
+    '/ant-control-lake-worth/': '/lake-worth-beach-ant-control/',
+    '/ant-control/lake-worth-beach/': '/lake-worth-beach-ant-control/',
+    '/effective-pest-control-west-palm-beach/': '/west-palm-beach-fl-pest-control/',
+    '/pest-identification-west-palm-beach-lake-worth/': '/pest-library/',
+    '/service-area/st-lucie-county/': '/service-area/',
+    '/pest-control/': '/',
+    '/lawn-care/fire-ant-control/': '/pest-library/fire-ants/',
+    '/lawn-care/whitefly-control/': '/pest-library/',
+    '/lawn-care/lawn-insect-control/': '/pest-library/',
+    '/author/zach/': '/about/',
+})
+CATEGORY_TO = '/blog/'   # /category/<topic>/ archives -> the blog index
+# Pictures whose alt text is only a file name: matched to the media file of that name.
+MEDIA_BY_NAME = {
+    'Rectangle 369': 'https://trustbugsy.com/wp-content/uploads/2025/04/Rectangle-369.svg',
+    '2023-04-06 (1)': 'https://trustbugsy.com/wp-content/uploads/2025/03/2023-04-06-1.svg',
+    '405200986 1098497541509970 6333982755521491757 n': 'https://trustbugsy.com/wp-content/uploads/2025/03/405200986_1098497541509970_6333982755521491757_n.svg',
+}
 done_paths = set()
 missing = set()
 known = set()
@@ -169,7 +198,7 @@ for fn in sorted(os.listdir(cap)):
         alt = mm.group(1).strip()
         if mm.group(2).startswith('http'): return mm.group(0)
         if mm.group(2).startswith('/wp-content/'): return f'![{alt}](https://trustbugsy.com{mm.group(2)})'
-        u = media.get(alt) or media.get(norm(alt))
+        u = media.get(alt) or media.get(norm(alt)) or MEDIA_BY_NAME.get(alt)
         if not u:
             missing.add(alt); return ''
         return f'![{alt}]({u})'
@@ -183,12 +212,15 @@ for fn in sorted(os.listdir(cap)):
         if not base.endswith('/'): base += '/'
         if base in REDIR:
             pth = base = REDIR[base]
+        if base.startswith('/category/'):
+            pth = base = CATEGORY_TO
         if base in known:
             return '](' + pth + ')'
         offsite.add(base)
         return '](https://trustbugsy.com' + pth + ')'
     body = re.sub(r'\]\(https?://(?:www\.)?trustbugsy\.com(/[^)\s]*)?\)', lambda mm: link(mm.group(1)), body)
     body = re.sub(r'\]\((/[^)\s]*)\)', lambda mm: link(mm.group(1)), body)
+    body = body.replace('[Fort Lauderdale](/hollywood-fl-pest-control/)', '[Fort Lauderdale](/fort-lauderdale-pest-control/)')   # live link slip
     # FAQs
     faqs = []
     for fm in re.finditer(r'^### Q: (.+?)\n(.*?)(?=^#{1,3} |\Z)', body, re.S | re.M):
@@ -224,7 +256,7 @@ for fn in sorted(os.listdir(cap)):
     slug = 'home' if path == '/' else path.strip('/').replace('/', '__')
     open(os.path.join(out, slug + '.md'), 'w', encoding='utf-8').write('\n'.join(fmlines) + '\n\n' + body)
     print(f'{typ:10} {path}  faqs={len(faqs)}')
-print('links left pointing at the live site (page not copied yet):', len(offsite))
+print('links left pointing at the live site (page not copied yet):', len(offsite), sorted(offsite))
 if missing:
     print('images with no src match:', len(missing))
     for a in sorted(missing)[:30]: print('  -', a)

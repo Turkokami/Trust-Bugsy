@@ -4,7 +4,7 @@ title: "Diamond Package Pest Control by Bugsy's Solutions"
 description: "The Diamond Package is our top-tier service, offering full protection inside and out."
 type: "plan"
 h1: "Diamond Package – Total Pest Protection"
-image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-326-1-1.webp"
+image: "https://trustbugsy.com/wp-content/uploads/2025/04/Rectangle-369.svg"
 ---
 
 # **Diamond Package** – Total Pest Protection
@@ -23,7 +23,7 @@ No shortcuts. No surprises. Just total confidence in a pest-free home.
 
 [Get Your Free Estimate](/contact/)
 
-
+![Rectangle 369](https://trustbugsy.com/wp-content/uploads/2025/04/Rectangle-369.svg)
 ![Bugsy's Diamond service package badge](https://trustbugsy.com/wp-content/uploads/2025/04/Group-326-1-1.webp)
 
 Diamond Plan

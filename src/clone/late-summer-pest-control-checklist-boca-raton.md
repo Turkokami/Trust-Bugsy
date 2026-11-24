@@ -91,7 +91,7 @@ Bugsy’s Pest Solutions, a veteran-owned company serving Palm Beach and Broward
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

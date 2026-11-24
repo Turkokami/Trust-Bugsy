@@ -187,7 +187,7 @@ Effective mosquito control starts with removing breeding sites, managing standin
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

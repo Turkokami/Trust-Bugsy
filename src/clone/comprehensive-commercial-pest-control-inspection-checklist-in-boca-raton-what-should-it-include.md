@@ -210,7 +210,7 @@ A concise inspection checklist, accurate identification, tailored treatments, an
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

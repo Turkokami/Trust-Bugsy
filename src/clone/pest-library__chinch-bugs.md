@@ -64,7 +64,7 @@ Some populations have developed resistance to pyrethroid insecticides. Bugsy’s
 
 ## Professional Chinch Bug Control in South Florida
 
-Don’t let chinch bug take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate chinch bug with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [lawn insect control](https://trustbugsy.com/lawn-care/lawn-insect-control/) service page for treatment details.
+Don’t let chinch bug take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate chinch bug with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [lawn insect control](/pest-library/) service page for treatment details.
 
 Get A Free Quote
 

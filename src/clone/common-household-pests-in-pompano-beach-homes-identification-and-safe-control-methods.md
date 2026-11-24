@@ -138,7 +138,7 @@ Managing common household pests in Pompano Beach protects property and health. R
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

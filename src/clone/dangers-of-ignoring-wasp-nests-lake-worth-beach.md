@@ -131,7 +131,7 @@ Recognising the hazards of wasp nests and acting early protects your household. 
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

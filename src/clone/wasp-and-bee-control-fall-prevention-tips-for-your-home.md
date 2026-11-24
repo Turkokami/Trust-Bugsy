@@ -43,7 +43,7 @@ Knowing what you’re dealing with helps you respond safely — or better yet, c
 
 These aggressive ground-nesting wasps are notorious in fall. You’ll often find them near lawns, bushes, or garbage cans. Their colonies can hold thousands of wasps, and they can sting repeatedly — not something you want to take on yourself.
 
-> Learn more about **[effective pest control in West Palm Beach](https://trustbugsy.com/effective-pest-control-west-palm-beach/)** and how to keep aggressive pests like yellow jackets away from your home.
+> Learn more about **[effective pest control in West Palm Beach](/west-palm-beach-fl-pest-control/)** and how to keep aggressive pests like yellow jackets away from your home.
 
 ### Paper Wasps
 

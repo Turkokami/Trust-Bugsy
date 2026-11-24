@@ -58,6 +58,42 @@ const BADGE = /\/Group-279\.webp$/;
 const TRUST = /\/Group-170\.webp$/;
 const ICON_MAX_TEXT = 90;
 
+// ---- sliders and the video popup -------------------------------------------
+// A plain scroll-snap slider (arrows + autoplay from BaseLayout's script), the
+// same job the live Elementor carousels do.
+function carousel(slides, { label, per = 3, auto = 5000, cls = '' } = {}) {
+  return el('div', { className: ['tb-carousel', cls].filter(Boolean), role: 'region', ariaRoleDescription: 'carousel', ariaLabel: label, dataPer: String(per), dataAutoplay: String(auto) }, [
+    el('button', { type: 'button', className: ['tc-btn', 'tc-prev'], ariaLabel: 'Previous' }, ['‹']),
+    el('div', { className: ['tc-track'], tabIndex: 0 }, slides.map((s, i) => el('div', { className: ['tc-slide'], role: 'group', ariaRoleDescription: 'slide', ariaLabel: `${i + 1} of ${slides.length}` }, [s]))),
+    el('button', { type: 'button', className: ['tc-btn', 'tc-next'], ariaLabel: 'Next' }, ['›']),
+  ]);
+}
+// The live "Play Video" button: an empty link to the Bugsy's YouTube video.
+const YT = /(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/))([\w-]{11})/;
+function videoOf(n) {
+  if (!isEl(n, 'p')) return null;
+  const k = kids(n);
+  if (k.length !== 1 || !isEl(k[0], 'a') || textOf(k[0]).trim()) return null;
+  const m = String(k[0].properties.href || '').match(YT);
+  return m ? m[1] : null;
+}
+const videoButton = (id) => el('p', { className: ['video-row'] }, [
+  el('button', { type: 'button', className: ['video-btn'], dataVideo: id }, [el('span', { className: ['video-play'], ariaHidden: 'true' }), 'Play Video']),
+]);
+// Portfolio slider: Bugsy's own job photos from the live media library, with
+// the alt text the library gives them.
+const PORTFOLIO = [
+  ['2026/03/6.webp', 'Pest control technician on a ladder treating a commercial building interior'],
+  ['2026/03/5.webp', 'Technician treating a garage interior with an extension pole duster'],
+  ['2026/03/2-1.webp', 'Technician treating the eaves of a home\'s exterior with an extension pole'],
+  ['2026/03/1.webp', 'Technician with a backpack sprayer treating garden shrubs'],
+  ['2026/03/4.webp', 'Technician with a backpack sprayer treating a garage corner'],
+  ['2026/03/wmremove-transformed.webp', 'Technician on a ladder treating a home\'s gutters and eaves'],
+  ['2025/04/Group-333-min.webp', 'Bugsy\'s Pest Solutions van parked in front of a home'],
+];
+const portfolioSlides = () => PORTFOLIO.map(([f, alt]) => el('figure', {}, [el('img', { src: `https://trustbugsy.com/wp-content/uploads/${f}`, alt, width: 600, height: 450, loading: 'lazy', decoding: 'async' })]));
+const slug = (s) => norm(s).replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
+
 // ---- what kind of block is this? -------------------------------------------
 const EYEBROWS = new Set([
   'our process', 'our services', 'why choose us', 'bugsy pest portfolio', 'any questions?', 'service areas',
@@ -227,6 +263,8 @@ function polish(nodes, { hero = false } = {}) {
   let out = [];
   for (let i = 0; i < nodes.length; i++) {
     const n = nodes[i];
+    const vid = videoOf(n);
+    if (vid) { out.push(videoButton(vid)); continue; }
     if (isJunk(n)) continue;
     if (isEl(n, 'ul')) {
       n.children = (n.children || []).filter((c) => !(isEl(c, 'li') && isJunk(c)));
@@ -234,7 +272,8 @@ function polish(nodes, { hero = false } = {}) {
     }
     if (isImageRow(n)) {
       const pics = isEl(n, 'ul') ? kids(n).flatMap((li) => kids(li)) : kids(n);
-      out.push(el('div', { className: ['logo-row', hasImg(n, /Group-32[5-7]|Group-338/) ? 'pkg-row' : hasImg(n, /Group-16[23]/) ? 'rating-row' : 'logos'] }, pics));
+      if (hasImg(n, /Group-32[5-7]|Group-338/)) { out.push(carousel(pics, { label: 'Our plans', per: 3, cls: 'pkg-carousel' })); continue; }
+      out.push(el('div', { className: ['logo-row', hasImg(n, /Group-16[23]/) ? 'rating-row' : 'logos'] }, pics));
       continue;
     }
     if (isIconLine(n)) { out.push(addClass(n, 'icon-line')); continue; }
@@ -329,9 +368,13 @@ function section(kind, nodes) {
   if (kind === 'reviews') {
     const { cards, rest } = collectReviews(body);
     const at = rest.findIndex((n) => isEl(n, 'p') && classes(n).includes('btn-row'));
-    const grid = el('div', { className: ['reviews'] }, cards);
+    const grid = cards.length > 3 ? carousel(cards, { label: 'Client testimonials', per: 3, cls: 'reviews-carousel' }) : el('div', { className: ['reviews'] }, cards);
     if (at >= 0) rest.splice(at, 0, grid); else rest.push(grid);
     body = rest;
+  }
+  if (kind === 'portfolio') {
+    body = body.filter((n) => !(isEl(n, 'p') && classes(n).includes('photo')) && !(isEl(n, 'div') && classes(n).includes('logo-row')));
+    body.push(carousel(portfolioSlides(), { label: 'Bugsy Pest Portfolio', per: 3, cls: 'portfolio-carousel' }));
   }
   if (kind === 'process') body = steps(body);
   if (kind === 'faq') body = faqs(body);
@@ -378,6 +421,33 @@ function officeCard(office) {
     el('p', { className: ['tb-office-name'] }, [`Bugsy’s ${office.label}`]),
     el('p', {}, [el('a', { href: office.maps, rel: 'noopener' }, [office.addr])]),
     el('p', {}, [el('a', { className: ['btn', 'btn-red'], href: `tel:${office.tel}` }, [`Call ${office.phone}`])]),
+  ]);
+}
+// Blog extras: "On this page" contents from the post's h2s, and the author box
+// (facts from the live About page).
+function toc(content) {
+  const seen = new Set();
+  const heads = content.filter((n) => isEl(n, 'h2') && textOf(n).trim());
+  for (const h of heads) {
+    let id = h.properties.id || slug(textOf(h)) || 'section';
+    while (seen.has(id)) id += '-2';
+    seen.add(id);
+    h.properties.id = id;
+  }
+  if (heads.length < 3) return null;
+  return el('nav', { className: ['tb-toc'], ariaLabel: 'On this page' }, [
+    el('p', { className: ['tb-toc-title'] }, ['On this page']),
+    el('ol', {}, heads.map((h) => el('li', {}, [el('a', { href: `#${h.properties.id}` }, [textOf(h).trim()])]))),
+  ]);
+}
+function authorBox(name) {
+  return el('aside', { className: ['tb-author'], ariaLabel: 'About the author' }, [
+    el('img', { src: 'https://trustbugsy.com/wp-content/uploads/2025/04/Group-285-2.webp', alt: 'Zach Bernstein, owner of Bugsy’s Pest Solutions', width: 96, height: 96, loading: 'lazy', decoding: 'async' }),
+    el('div', {}, [
+      el('p', { className: ['tb-author-kicker'] }, ['Written by']),
+      el('p', { className: ['tb-author-name'] }, [name]),
+      el('p', {}, ['Owner of Bugsy’s Pest Solutions and a U.S. Marine Corps veteran who began his pest control career in July 2017. ', el('a', { href: '/about/' }, ['More about Zach and the team']), '.']),
+    ]),
   ]);
 }
 const GLANCE_KINDS = new Set(['service', 'commercial', 'cityservice', 'city', 'neighborhood', 'county']);
@@ -456,7 +526,12 @@ export default function rehypeBugsy() {
         content.splice(firstP >= 0 ? firstP + 1 : 0, 0, glance(fm, node, office));
       }
       if (OWNER_KINDS.has(node.kind)) content.push(ownerBox());
-      if (asideReviews.length) asideKids.push(el('div', { className: ['reviews', 'reviews-aside'] }, asideReviews));
+      if (blog) {
+        const nav = toc(content);
+        if (nav) { const at = content.findIndex((n) => isEl(n, 'h2')); content.splice(at >= 0 ? at : 0, 0, nav); }
+        if (/zach/i.test(fm.author || '')) content.push(authorBox(fm.author));
+      }
+      if (asideReviews.length) asideKids.push(carousel(asideReviews, { label: 'Client testimonials', per: 1, auto: 6000, cls: 'reviews-aside' }));
       out.push(el('div', { className: ['tb-main'] }, [
         el('div', { className: ['wrap', 'tb-layout'] }, [
           el('article', { className: ['tb-content', 'prose'] }, content),

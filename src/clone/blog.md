@@ -39,29 +39,29 @@ Pest control technician
 
 [More Articles →](/blog/)
 
-- [ Ant Control](https://trustbugsy.com/category/ant-control/)
-- [ Attic Sanitation & Insulation Removal](https://trustbugsy.com/category/attic-sanitation-insulation-removal/)
-- [ Bed Bug Extermination](https://trustbugsy.com/category/bed-bug-extermination/)
-- [ Cockroach Control & Extermination](https://trustbugsy.com/category/cockroach-control-extermination/)
-- [ Commercial](https://trustbugsy.com/category/commercial/)
-- [ Flea Control & Extermination](https://trustbugsy.com/category/flea-control-extermination/)
-- [ Insulation Replacement](https://trustbugsy.com/category/insulation-replacement/)
-- [ Mosquito Control](https://trustbugsy.com/category/mosquito-control/)
-- [ No-Tent Termite Treatment](https://trustbugsy.com/category/no-tent-termite-treatment/)
-- [ Pest Control Near You](https://trustbugsy.com/category/pest-control-near-you/)
-- [ Pest Control Tips](https://trustbugsy.com/category/pest-control-tips/)
-- [ Rat & Rodent Control](https://trustbugsy.com/category/rat-rodent-control/)
-- [ Residential](https://trustbugsy.com/category/residential/)
-- [ Spider Control & Removal](https://trustbugsy.com/category/spider-control-removal/)
-- [ Termite Control](https://trustbugsy.com/category/termite-control/)
-- [ Wasp & Bee Removal](https://trustbugsy.com/category/wasp-bee-removal/)
-- [ Whitefly Control](https://trustbugsy.com/category/whitefly-control/)
+- [ Ant Control](/blog/)
+- [ Attic Sanitation & Insulation Removal](/blog/)
+- [ Bed Bug Extermination](/blog/)
+- [ Cockroach Control & Extermination](/blog/)
+- [ Commercial](/blog/)
+- [ Flea Control & Extermination](/blog/)
+- [ Insulation Replacement](/blog/)
+- [ Mosquito Control](/blog/)
+- [ No-Tent Termite Treatment](/blog/)
+- [ Pest Control Near You](/blog/)
+- [ Pest Control Tips](/blog/)
+- [ Rat & Rodent Control](/blog/)
+- [ Residential](/blog/)
+- [ Spider Control & Removal](/blog/)
+- [ Termite Control](/blog/)
+- [ Wasp & Bee Removal](/blog/)
+- [ Whitefly Control](/blog/)
 
 ## Pest Control Near You
 
 13 Articles
 
-[More Pest Control Near You Articles →](https://trustbugsy.com/category/pest-control-near-you/)
+[More Pest Control Near You Articles →](/blog/)
 
 [![pest control lake worth](https://trustbugsy.com/wp-content/uploads/2026/05/pest-control-tips-lake-worth-infographic.webp)](/prepare-for-pest-control-appointment-lake-worth-beach/)
 
@@ -135,7 +135,7 @@ Zach Bernstein June 25, 2025
 
 5 Articles
 
-[More Rat & Rodent Control Articles →](https://trustbugsy.com/category/rat-rodent-control/)
+[More Rat & Rodent Control Articles →](/blog/)
 
 [![Rodent trappings](https://trustbugsy.com/wp-content/uploads/2026/06/rodent-trappings.webp)](/same-day-rodent-control-lake-worth-beach/)
 
@@ -185,7 +185,7 @@ Zach Bernstein September 8, 2025
 
 3 Articles
 
-[More Ant Control Articles →](https://trustbugsy.com/category/ant-control/)
+[More Ant Control Articles →](/blog/)
 
 [![South florida houses](https://trustbugsy.com/wp-content/uploads/2026/04/south-florida-houses.webp)](/early-termite-detection-lake-worth-beach/)
 
@@ -219,7 +219,7 @@ Zach Bernstein December 26, 2025
 
 47 Articles
 
-[More Pest Control Tips Articles →](https://trustbugsy.com/category/pest-control-tips/)
+[More Pest Control Tips Articles →](/blog/)
 
 [![Rats in attic insulations](https://trustbugsy.com/wp-content/uploads/2026/08/rats-in-attic-insulations.webp)](/attic-insulation-replacement-south-florida/)
 

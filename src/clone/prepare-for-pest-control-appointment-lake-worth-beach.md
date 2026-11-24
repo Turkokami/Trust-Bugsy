@@ -139,7 +139,7 @@ Preparing for a pest control appointment in Lake Worth Beach ensures safer, more
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

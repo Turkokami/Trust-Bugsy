@@ -87,7 +87,7 @@ From Service to Solutions
 
 The Pursuit of Excellence
 
-
+![405200986 1098497541509970 6333982755521491757 n](https://trustbugsy.com/wp-content/uploads/2025/03/405200986_1098497541509970_6333982755521491757_n.svg)
 
 Schedule Call Today! [Let’s Get Started](/contact/)
 
@@ -98,7 +98,7 @@ Showcasing Excellence in Every Job
 - 
 - 
 - 
-- 
+- ![2023-04-06 (1)](https://trustbugsy.com/wp-content/uploads/2025/03/2023-04-06-1.svg)
 - 
 - 
 - ![Bugsy's Pest Solutions van parked in front of a home](https://trustbugsy.com/wp-content/uploads/2025/04/Group-333-min.webp)

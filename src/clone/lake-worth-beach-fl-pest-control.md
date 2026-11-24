@@ -187,7 +187,7 @@ Bugsy’s Pest Solutions is based in Lake Worth Beach and serves the entire Palm
 - **[→ Sunrise](/sunrise-fl-pest-control/)**
 - **[→ Deerfield Beach](/deerfield-beach-fl-pest-control/)**
 
-Additionally, we serve [Port Saint Lucie and all of St. Lucie County](https://trustbugsy.com/service-area/st-lucie-county/). View our complete
+Additionally, we serve [Port Saint Lucie and all of St. Lucie County](/service-area/). View our complete
 
 [service area map](/service-area/) for the full list of locations we cover.
 
@@ -195,18 +195,18 @@ Additionally, we serve [Port Saint Lucie and all of St. Lucie County](https://tr
 
 Every service page below is dedicated to a specific pest treatment in Lake Worth Beach, FL. These pages provide detailed information on treatment methods, local pest behavior, pricing, and how to book. Link to these pages from blog posts, other location pages, and your homepage for maximum internal link equity.
 
-- **[→ Ant Control — Lake Worth Beach](https://trustbugsy.com/ant-control/lake-worth-beach/)**
-- **[→ Cockroach Control — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/cockroach-control/)**
-- **[→ Termite Control — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/termite-control/)**
-- **[→ Bed Bug Extermination — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/bed-bug-extermination/)**
-- **[→ Rat Control — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/rat-control-extermination/)**
-- **[→ Mosquito Control — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/mosquito-control/)**
-- **[→ Spider Control — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/spider-control/)**
-- **[→ Wasp Control — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/wasp-control/)**
-- **[→ Bee Removal — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/bee-control/)**
-- **[→ Flea Control — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/flea-control/)**
-- **[→ Insulation Removal — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/insulation-removal/)**
-- **[→ Attic Sanitation — Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-fl-pest-control/attic-sanitation/)**
+- **[→ Ant Control — Lake Worth Beach](/lake-worth-beach-ant-control/)**
+- **[→ Cockroach Control — Lake Worth Beach](/lake-worth-beach-cockroach-control/)**
+- **[→ Termite Control — Lake Worth Beach](/lake-worth-beach-termite-control/)**
+- **[→ Bed Bug Extermination — Lake Worth Beach](/bed-bug-extermination/)**
+- **[→ Rat Control — Lake Worth Beach](/lake-worth-beach-rodent-control/)**
+- **[→ Mosquito Control — Lake Worth Beach](/lake-worth-beach-mosquito-control/)**
+- **[→ Spider Control — Lake Worth Beach](/lake-worth-beach-spider-control/)**
+- **[→ Wasp Control — Lake Worth Beach](/lake-worth-beach-bee-wasp-removal/)**
+- **[→ Bee Removal — Lake Worth Beach](/lake-worth-beach-bee-wasp-removal/)**
+- **[→ Flea Control — Lake Worth Beach](/lake-worth-beach-flea-tick-control/)**
+- **[→ Insulation Removal — Lake Worth Beach](/lake-worth-beach-attic-insulation/)**
+- **[→ Attic Sanitation — Lake Worth Beach](/lake-worth-beach-attic-sanitation/)**
 
 ## Frequently Asked Questions — Pest Control in Lake Worth Beach
 
@@ -292,7 +292,7 @@ Showcasing Excellence in Every Job
 
 
 
-
+![2023-04-06 (1)](https://trustbugsy.com/wp-content/uploads/2025/03/2023-04-06-1.svg)
 
 
 ![Bugsy's Pest Solutions van parked in front of a home](https://trustbugsy.com/wp-content/uploads/2025/04/Group-333-min.webp)

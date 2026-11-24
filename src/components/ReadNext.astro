@@ -1,0 +1,23 @@
+---
+// Blog "Read next": the next three posts from the Smart Site graph, as cards.
+import { byPath, type LinkGroup } from '@/lib/pages';
+interface Props { group?: LinkGroup }
+const { group } = Astro.props;
+const cards = (group?.items ?? []).map(([name, href]) => ({ name, href, fm: byPath.get(href)?.frontmatter })).slice(0, 3);
+---
+{cards.length > 0 && (
+  <section class="tb-readnext" aria-labelledby="read-next">
+    <div class="wrap">
+      <h2 id="read-next">Read next</h2>
+      <div class="rn-grid">
+        {cards.map((c) => (
+          <a class="rn-card" href={c.href}>
+            {c.fm?.image && <img src={c.fm.image} alt="" width="600" height="340" loading="lazy" decoding="async" />}
+            <h3>{c.fm?.h1 ?? c.name}</h3>
+            {c.fm?.description && <p>{c.fm.description}</p>}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+)}

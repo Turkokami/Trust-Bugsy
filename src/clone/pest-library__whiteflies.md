@@ -72,7 +72,7 @@ Shake a branch of the affected plant — if a white cloud of tiny insects rises,
 
 ## Professional Whitefly Control in South Florida
 
-Don’t let whitefly take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate whitefly with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [whitefly control](https://trustbugsy.com/lawn-care/whitefly-control/) service page for treatment details.
+Don’t let whitefly take over your home. [Bugsy’s Pest Solutions](/) is a veteran-owned pest control company serving Palm Beach and Broward counties. Our certified technicians eliminate whitefly with guaranteed, eco-friendly treatments. Call (561) 654-8998 or [request a free estimate](/contact/). See our full [whitefly control](/pest-library/) service page for treatment details.
 
 Get A Free Quote
 

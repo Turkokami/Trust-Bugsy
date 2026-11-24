@@ -58,7 +58,7 @@ Lake Worth Beach’s coastal humidity keeps moisture levels elevated long after 
 
 ### What makes homes vulnerable after a storm?
 
-Cracked foundations, damp crawl spaces, and gaps around doors all become roach highways once rain drives them inside. [Bugsy’s Pest Solutions](https://trustbugsy.com/effective-pest-control-west-palm-beach/), a veteran-owned company serving Palm Beach and Broward counties, inspects these vulnerable areas to stop infestations before they take hold.
+Cracked foundations, damp crawl spaces, and gaps around doors all become roach highways once rain drives them inside. [Bugsy’s Pest Solutions](/west-palm-beach-fl-pest-control/), a veteran-owned company serving Palm Beach and Broward counties, inspects these vulnerable areas to stop infestations before they take hold.
 
 ![Bugsy's Pest Solutions provides certified, science-backed pest control designed for Lake Worth Beach homes as](https://storage.googleapis.com/content-assistant-images-persistent/v5-11459-section-2-inline.webp)
 
@@ -89,7 +89,7 @@ Coastal humidity keeps moisture levels elevated long after storms pass, extendin
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

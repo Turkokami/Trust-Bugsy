@@ -99,7 +99,7 @@ A disciplined garbage routine, clearing food scraps and leftovers immediately ra
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 

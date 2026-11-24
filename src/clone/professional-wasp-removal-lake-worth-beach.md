@@ -204,7 +204,7 @@ Professional wasp removal offers a safety-focused, evidence-based solution for *
 
 ## Author
 
- [Zach Bernstein](https://trustbugsy.com/author/zach/)
+ [Zach Bernstein](/about/)
 
 #### Table of Contents
 
