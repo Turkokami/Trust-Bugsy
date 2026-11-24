@@ -4,6 +4,7 @@ title: "Tailored Pest Control Packages from Bugsy’s Pest Solutions"
 description: "Tailored Pest Control Packages from Bugsy’s Pest Solutions"
 type: "plan"
 h1: "Tailored Pest Control Packages from Bugsy’s Pest Solutions"
+showH1: true
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-325-1-1.webp"
 ---
 

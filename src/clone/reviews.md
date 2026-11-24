@@ -1,9 +1,10 @@
 ---
 path: "/reviews/"
 title: "Reviews - Bugsy's Pest Solutions"
-description: "Reviews - Bugsy's Pest Solutions"
+description: "Reviews"
 type: "core"
-h1: "Reviews - Bugsy's Pest Solutions"
+h1: "Reviews"
+showH1: true
 image: "https://trustbugsy.com/wp-content/uploads/2025/03/Group-266.webp"
 ---
 

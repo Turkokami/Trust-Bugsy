@@ -11,7 +11,7 @@ service: "Drywood Termite Control"
 
 Drywood Termite Control
 
-# Drywood termites, gone — without tenting your home
+## Drywood termites, gone — without tenting your home
 
 Most companies tent for drywood termites: they cover your entire house, pump in fumigant, and move your family out for at least three days. Bugsy’s doesn’t tent. We treat drywood termites with BoraCare® and targeted spot treatments applied directly to the wood — so you stay home, keep your food where it is, and skip the evacuation entirely.
 

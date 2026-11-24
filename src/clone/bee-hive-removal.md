@@ -11,7 +11,7 @@ service: "Bee & Hive Removal"
 
 Bee & Hive Removal
 
-# A hive in your wall, soffit, or eaves? We remove it — and repair the damage.
+## A hive in your wall, soffit, or eaves? We remove it — and repair the damage.
 
 A bee colony inside your home’s structure isn’t just a sting risk — the comb, honey, and wax draw other pests and can damage the building. Bugsy’s locates the hive, removes and treats it, and in most cases repairs the area we opened to reach it. One crew for the problem and the patch-up.
 

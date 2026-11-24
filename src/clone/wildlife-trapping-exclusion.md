@@ -11,7 +11,7 @@ service: "Wildlife Trapping & Exclusion"
 
 Wildlife Trapping & Exclusion
 
-# Get them out — and seal them out for good
+## Get them out — and seal them out for good
 
 Rats, bats, raccoons, possums, moles, birds, and other uninvited wildlife don’t just leave on their own. Bugsy’s traps and removes the animals, then seals the exterior entry points they used to get in — because trapping without exclusion just leaves the door open for the next one.
 

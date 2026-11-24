@@ -23,8 +23,28 @@ LEGAL = {'/privacy-policy/', '/image-license/'}
 CORE = {'/about/', '/contact/', '/reviews/', '/service-area/'}
 COMM = re.compile(r'^/(commercial|hoa-condo|property-management|restaurants|healthcare|office-buildings|hotels|schools|retail|multi-family|government)')
 
+# Blog posts live at root paths on the live site, so the post inventory is what
+# tells a post from a service page. Neighborhood pages and the city x service
+# pages are local landing pages, so they sit in the service-area tier.
+try:
+    from urllib.parse import urlparse as _up
+    POSTS = {_up(x['link']).path for x in json.load(open(os.path.join(cap, '_inventory_posts.json')))}
+except Exception:
+    POSTS = set()
+_SVC = r'(attic-insulation|attic-sanitation|spider-control|flea-tick-control|bee-wasp-removal|cockroach-control|ant-control|mosquito-control|rodent-control|termite-control)'
+try:   # a city is a prefix that has several of these service pages (rules out drywood-termite-control etc.)
+    from collections import Counter as _C
+    _pref = _C(m.group(1) for x in json.load(open(os.path.join(cap, '_inventory_pages.json')))
+               for m in [re.match(r'^/([a-z-]+)-' + _SVC + r'/$', _up(x['link']).path)] if m)
+    CITIES = {k for k, v in _pref.items() if v >= 5}
+except Exception:
+    CITIES = set()
+CITY_SVC = re.compile(r'^/(' + '|'.join(map(re.escape, sorted(CITIES))) + r')-' + _SVC + r'/$') if CITIES else re.compile(r'(?!)')
+LOCAL_SVC = {'/residential-pest-control/', '/commercial-pest-control/'}
+
 def classify(path):
     if path == '/': return 'home'
+    if path in POSTS: return 'blog'
     if path in PLAN: return 'plan'
     if path in LEGAL: return 'legal'
     if path in CORE: return 'core'
@@ -32,6 +52,8 @@ def classify(path):
     if path.startswith('/pest-library/'): return 'library'
     if path.startswith('/service-area/') or path.endswith('-fl-pest-control/') or re.match(r'^/(stuart|fort-pierce)-pest-control/$', path) or 'county' in path: return 'area'
     if COMM.match(path): return 'commercial'
+    if path.endswith('-pest-control/') and path not in LOCAL_SVC: return 'area'
+    if CITY_SVC.match(path): return 'area'
     return 'service'
 
 def q(s):
@@ -102,8 +124,17 @@ for fn in sorted(os.listdir(cap)):
     done_paths.add(path)
     title = meta.get('title', '').strip()
     title = re.sub(r'\s*[-|–]\s*Bugsy.*$', '', title) if len(title) > 60 else title
+    # Some live templates print the SEO title as a first h1 and the real
+    # headline as a second one. Keep one h1: drop the title copy.
+    _h1s = re.findall(r'^# (.+)$', body, re.M)
+    if len(_h1s) > 1 and norm(re.sub(r'[*_`]', '', _h1s[0])) == norm(title):
+        body = re.sub(r'^# ' + re.escape(_h1s[0]) + r'\s*\n', '', body, count=1, flags=re.M)
     h1m = re.search(r'^# (.+)$', body, re.M)
-    h1 = h1m.group(1).strip() if h1m else title
+    if h1m:   # any further h1s become h2s, so each page has exactly one
+        _a, _b = body[:h1m.end()], body[h1m.end():]
+        body = _a + re.sub(r'^# ', '## ', _b, flags=re.M)
+    h1 = h1m.group(1).strip() if h1m else re.split(r'\s+[-|–]\s+', title)[0].strip()
+    show_h1 = not h1m and typ != 'home'   # live page has no h1: the template prints this one
     h1 = re.sub(r'[*_`]', '', h1).strip()
     typ = classify(path)
     if typ == 'home' and h1m:
@@ -149,7 +180,7 @@ for fn in sorted(os.listdir(cap)):
         if len(t) > 60: desc = trim(t); break
     desc = desc or trim(h1)
     firstimg = re.search(r'!\[[^\]]*\]\((https?://[^)]+)\)', body)
-    fmlines = ['---', f'path: {q(path)}', f'title: {q(title)}', f'description: {q(desc)}', f'type: {q(typ)}', f'h1: {q(h1)}']
+    fmlines = ['---', f'path: {q(path)}', f'title: {q(title)}', f'description: {q(desc)}', f'type: {q(typ)}', f'h1: {q(h1)}'] + (['showH1: true'] if show_h1 else [])
     if typ in ('service', 'commercial'): fmlines.append(f'service: {q(h1)}')
     if firstimg: fmlines.append(f'image: {q(firstimg.group(1))}')
     if faqs: fmlines.append('faqs: ' + json.dumps(faqs, ensure_ascii=False))

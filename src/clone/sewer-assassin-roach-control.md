@@ -12,7 +12,7 @@ faqs: [{"q": "Why do I keep getting big roaches when my house is clean?", "a": "
 
 Palmetto Bug & Sewer Roach Control • South Florida
 
-# The Sewer Assassin — stopping palmetto bugs and drain flies at the source.
+## The Sewer Assassin — stopping palmetto bugs and drain flies at the source.
 
 Most palmetto bugs don’t come from your kitchen — they come up from the sewer and drain lines. Bugsy’s installs the Sewer Assassin, a device set right in your sewer cleanout that kills sewer-born roaches and drain flies before they ever reach your home. Licensed, veteran-owned, local.
 

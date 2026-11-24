@@ -4,6 +4,7 @@ title: "Pest Control in Palm Beach, Broward & St. Lucie County"
 description: "When pests invade, you need a reliable and experienced team to restore peace to your home."
 type: "core"
 h1: "Pest Control in Palm Beach, Broward & St. Lucie County"
+showH1: true
 ---
 
 Service Areas

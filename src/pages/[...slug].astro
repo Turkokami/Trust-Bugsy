@@ -21,7 +21,7 @@ const crumbs = crumbsFor(fm);
     </nav>
   </div>
   <div class="wrap layout">
-    <article class="prose"><Content /></article>
+    <article class="prose">{fm.showH1 && <h1>{fm.h1}</h1>}<Content /></article>
     <aside>
       <div class="aside-card">
         <h2>Get a free estimate</h2>

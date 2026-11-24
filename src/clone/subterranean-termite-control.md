@@ -11,7 +11,7 @@ service: "Subterranean Termite Control"
 
 Formosan Termite Control
 
-# Florida’s most destructive termite — stopped at the source
+## Florida’s most destructive termite — stopped at the source
 
 Formosan subterranean termites build bigger colonies and cause faster structural damage than native species — and South Florida is prime territory. Bugsy’s stops them from the ground up, where they live: choose a continuous liquid barrier (trench-and-treat with full drill-outs) or Trelona® colony baiting with spot treatment. Both are backed by warranty, and most of the work happens outside your living space.
 

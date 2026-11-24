@@ -12,7 +12,7 @@ faqs: [{"q": "Does a misting system really work on no-see-ums?", "a": "Yes — t
 
 Mosquito Misting Systems • South Florida
 
-# Mosquito Misting Systems — automatic, round-the-clock defense against mosquitoes & no-see-ums.
+## Mosquito Misting Systems — automatic, round-the-clock defense against mosquitoes & no-see-ums.
 
 For South Florida yards that never get a break, Bugsy’s designs, installs, and maintains automated mosquito misting systems that knock down mosquitoes and no-see-ums across your whole property — on a schedule, without you lifting a finger. Licensed, veteran-owned, local.
 

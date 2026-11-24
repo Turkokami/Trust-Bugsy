@@ -38,10 +38,24 @@ if (!urls.length) {
   process.exit(1);
 }
 
+// The copied pages carry their type in frontmatter. Blog posts and
+// neighborhood pages sit at root paths on the live site, so the type, not the
+// path, decides their tier; the path rules above cover anything else.
+const TYPE_TIER = { area: 'service-area', plan: 'plans', library: 'pest-library', commercial: 'commercial', blog: 'blog', service: 'services', home: 'core', core: 'core', legal: 'core' };
+const typeOf = new Map();
+try {
+  for (const f of readdirSync('src/clone').filter((f) => f.endsWith('.md'))) {
+    const head = readFileSync(join('src/clone', f), 'utf8').split('\n---', 1)[0];
+    const path = head.match(/^path:\s*"?([^"\n]+)"?/m)?.[1];
+    const type = head.match(/^type:\s*"?([^"\n]+)"?/m)?.[1];
+    if (path && TYPE_TIER[type]) typeOf.set(path, TYPE_TIER[type]);
+  }
+} catch {}
+
 const buckets = new Map(TIERS.map(([n]) => [n, []]));
 for (const u of urls) {
   const path = new URL(u).pathname;
-  buckets.get(TIERS.find(([, test]) => test(path))[0]).push(u);
+  buckets.get(typeOf.get(path) ?? TIERS.find(([, test]) => test(path))[0]).push(u);
 }
 
 const esc = (s) => s.replace(/&/g, '&amp;');

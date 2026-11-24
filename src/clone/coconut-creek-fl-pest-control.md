@@ -34,7 +34,7 @@ Most Coconut Creek addresses are reachable from our [Pompano Beach location](/po
 
 Many Coconut Creek neighborhoods operate under HOA rules that require homeowners to address pest problems within a set timeframe. Ghost ants along window sills or roaches near drains are not just a nuisance — they can trigger HOA notices if left unresolved.
 
-We work with HOA timelines and can document service visits if needed. For larger HOA communities or property managers, we also offer [commercial pest control](https://trustbugsy.com/commercial/multi-family-properties-hoas/) plans that cover common areas and multiple units under a single service agreement.
+We work with HOA timelines and can document service visits if needed. For larger HOA communities or property managers, we also offer [commercial pest control](/commercial/multi-family-properties-hoas/) plans that cover common areas and multiple units under a single service agreement.
 
 ## Rodent and Ant Pressure Near Coconut Creek’s Retention Ponds and Green Corridors
 

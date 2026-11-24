@@ -8,6 +8,7 @@ export interface ClonePage {
   description: string;
   type: 'home' | 'core' | 'service' | 'commercial' | 'plan' | 'area' | 'library' | 'blog' | 'legal';
   h1: string;
+  showH1?: boolean;
   service?: string;
   image?: string;
   parent?: string;

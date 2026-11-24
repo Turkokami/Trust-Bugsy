@@ -12,7 +12,7 @@ faqs: [{"q": "Do you service Fort Pierce?", "a": "Yes — we cover Fort Pierce a
 
 Pest Control • Fort Pierce, FL
 
-# Fort Pierce Pest Control — on the Indian River Lagoon, where no-see-ums rule.
+## Fort Pierce Pest Control — on the Indian River Lagoon, where no-see-ums rule.
 
 From Hutchinson Island to the historic downtown, Bugsy’s protects Fort Pierce homes and businesses from the no-see-ums, salt-marsh mosquitoes, iguanas, and palmetto bugs that thrive along the Indian River Lagoon and inlet. Licensed, veteran-owned, serving the Treasure Coast.
 

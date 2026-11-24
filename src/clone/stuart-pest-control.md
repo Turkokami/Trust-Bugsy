@@ -12,7 +12,7 @@ faqs: [{"q": "Do you service Stuart?", "a": "Yes — we cover Stuart and the Tre
 
 Pest Control • Stuart, FL
 
-# Stuart Pest Control — the Sailfish Capital, where the lagoon means no-see-ums.
+## Stuart Pest Control — the Sailfish Capital, where the lagoon means no-see-ums.
 
 From Sewall’s Point to historic downtown, Bugsy’s protects Stuart homes and businesses from the no-see-ums, salt-marsh mosquitoes, iguanas, and termites that thrive along the St. Lucie River and Indian River Lagoon. Licensed, veteran-owned, serving the Treasure Coast.
 

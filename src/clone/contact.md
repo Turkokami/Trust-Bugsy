@@ -1,9 +1,10 @@
 ---
 path: "/contact/"
 title: "Contact - Bugsy's Pest Solutions"
-description: "Contact - Bugsy's Pest Solutions"
+description: "Contact"
 type: "core"
-h1: "Contact - Bugsy's Pest Solutions"
+h1: "Contact"
+showH1: true
 image: "https://trustbugsy.com/wp-content/uploads/2025/03/4ECA0BA1-1608-476D-A24E-B3E370D3B7BD-1.webp"
 ---
 

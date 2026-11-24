@@ -96,7 +96,7 @@ Before signing a pest control contract, a condo or HOA board should ask who is r
 - What termite and wood-destroying organism (WDO) coverage do you offer for the building?
 - What written reports will the board receive after each visit?
 
-Managing apartments or a rental portfolio rather than an association? See our [multi-family and apartment pest control](https://trustbugsy.com/commercial/multi-family-properties-hoas/) page.
+Managing apartments or a rental portfolio rather than an association? See our [multi-family and apartment pest control](/commercial/multi-family-properties-hoas/) page.
 
 ## Give your board a cleaner, cheaper, better-documented option
 
