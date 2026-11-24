@@ -229,7 +229,7 @@ Sleep disruption and psychological impacts from bed bug infestations can signifi
 
 Integrated pest management approaches required for effective bed bug elimination typically exceed DIY capabilities while requiring specialized equipment, materials, and expertise that professional services provide. The complexity of modern bed bug populations often requires multiple treatment methods used in coordination for optimal results.
 
-[Why bed bugs are becoming more common in Florida](https://trustbugsy.com/why-bed-bugs-are-becoming-more-common-in-florida-airbnb-rentals/) rental properties creates additional challenges that require professional expertise for effective resolution while addressing liability and tenant relations concerns that property owners must navigate carefully.
+[Why bed bugs are becoming more common in Florida](/why-bed-bugs-are-becoming-more-common-in-florida-airbnb-rentals/) rental properties creates additional challenges that require professional expertise for effective resolution while addressing liability and tenant relations concerns that property owners must navigate carefully.
 
 ![Pest control tools](https://trustbugsy.com/wp-content/uploads/2025/09/pest-control-tools.webp)
 

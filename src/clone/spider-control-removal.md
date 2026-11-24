@@ -102,7 +102,7 @@ We return to confirm the treatment has been effective and address any remaining 
 
 Because South Florida spider pressure is year-round, a single treatment is rarely a permanent solution for properties with consistent insect activity. Our [Gold, Platinum, and Diamond packages](/packages/) include spider web removal and perimeter treatment on every scheduled visit — keeping populations suppressed and entry points maintained between services.
 
-For a deep dive into preventing spider infestations between professional visits, read our [spider prevention guide for Florida homeowners](https://trustbugsy.com/spider-prevention-guide-florida/) and our broader [spider control guide for South Florida](https://trustbugsy.com/spider-control-south-florida/).
+For a deep dive into preventing spider infestations between professional visits, read our [spider prevention guide for Florida homeowners](/spider-prevention-guide-florida/) and our broader [spider control guide for South Florida](https://trustbugsy.com/spider-control-south-florida/).
 
 Spider control pairs well with our [residential pest control plans](https://trustbugsy.com/service/residential-pest-control/) and our [commercial pest control services](https://trustbugsy.com/service/commercial-pest-control/) for businesses dealing with webs on storefronts, in warehouses, or across outdoor customer areas.
 

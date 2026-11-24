@@ -113,7 +113,7 @@ Bugsy’s started as a pest control company. That background makes a meaningful 
 
 When we seal entry points as part of an insulation replacement job, we’re doing it with the same knowledge and materials we use for a dedicated pest exclusion service. If your insulation problem started with a pest problem, we handle both — one inspection, one coordinated plan, one company responsible for the result.
 
-For more on the connection between rodent activity and attic insulation damage, read our post on [replacing attic insulation in South Florida](https://trustbugsy.com/replace-attic-insulation-south-florida/) and our guide on [fall insulation removal and pest prevention](https://trustbugsy.com/fall-insulation-removal-pest-prevention/).
+For more on the connection between rodent activity and attic insulation damage, read our post on [replacing attic insulation in South Florida](https://trustbugsy.com/replace-attic-insulation-south-florida/) and our guide on [fall insulation removal and pest prevention](/fall-insulation-removal-pest-prevention/).
 
 ## Insulation Replacement and Ongoing Home Protection
 

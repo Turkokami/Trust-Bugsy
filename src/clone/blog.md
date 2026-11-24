@@ -87,19 +87,19 @@ Pest Control Near You
 
 Zach Bernstein October 6, 2025
 
-[![Docked boat in a South Florida marina](https://trustbugsy.com/wp-content/uploads/2025/08/boat-docked-marina-florida-e1774426681919.webp)](https://trustbugsy.com/common-boat-pests-south-florida/)
+[![Docked boat in a South Florida marina](https://trustbugsy.com/wp-content/uploads/2025/08/boat-docked-marina-florida-e1774426681919.webp)](/common-boat-pests-south-florida/)
 
 Pest Control Near You
 
-### [5 Common Boat Pests to Look Out For in South Florida Waters](https://trustbugsy.com/common-boat-pests-south-florida/)
+### [5 Common Boat Pests to Look Out For in South Florida Waters](/common-boat-pests-south-florida/)
 
 Zach Bernstein August 14, 2025
 
-[![Cockroaches on floor](https://trustbugsy.com/wp-content/uploads/2025/08/cockroaches-on-floor.webp)](https://trustbugsy.com/cockroach-infestation-new-construction-homes-south-florida/)
+[![Cockroaches on floor](https://trustbugsy.com/wp-content/uploads/2025/08/cockroaches-on-floor.webp)](/cockroach-infestation-new-construction-homes-south-florida/)
 
 Pest Control Near You
 
-### [Can Cockroaches Infest New Construction Homes in South Florida?](https://trustbugsy.com/cockroach-infestation-new-construction-homes-south-florida/)
+### [Can Cockroaches Infest New Construction Homes in South Florida?](/cockroach-infestation-new-construction-homes-south-florida/)
 
 Zach Bernstein August 8, 2025
 
@@ -169,11 +169,11 @@ Rat & Rodent Control
 
 Zach Bernstein December 3, 2025
 
-[![Roof rat nesting in insulation in an attic](https://trustbugsy.com/wp-content/uploads/2025/09/roof-rat-attic.webp)](https://trustbugsy.com/protect-home-from-rodents-fall-south-florida/)
+[![Roof rat nesting in insulation in an attic](https://trustbugsy.com/wp-content/uploads/2025/09/roof-rat-attic.webp)](/protect-home-from-rodents-fall-south-florida/)
 
 Rat & Rodent Control
 
-### [How to Protect Your Home from Rodents This Fall](https://trustbugsy.com/protect-home-from-rodents-fall-south-florida/)
+### [How to Protect Your Home from Rodents This Fall](/protect-home-from-rodents-fall-south-florida/)
 
 Zach Bernstein September 8, 2025
 
