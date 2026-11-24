@@ -116,10 +116,10 @@ For homes with recurring widow or web pressure, a quarterly perimeter program ke
 
 ## Related Delray Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Black Widow Spiders (Pest Library)](https://trustbugsy.com/pest-library/black-widow-spiders/)
-- [Brown Widow Spiders (Pest Library)](https://trustbugsy.com/pest-library/brown-widow-spiders/)
-- [Wolf Spiders (Pest Library)](https://trustbugsy.com/pest-library/wolf-spiders/)
+- [Residential Pest Control](/delray-beach-residential-pest-control/)
+- [Black Widow Spiders (Pest Library)](/pest-library/black-widow-spiders/)
+- [Brown Widow Spiders (Pest Library)](/pest-library/brown-widow-spiders/)
+- [Wolf Spiders (Pest Library)](/pest-library/wolf-spiders/)
 
 ## Nearby communities we serve
 

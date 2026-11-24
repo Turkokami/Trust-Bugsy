@@ -60,7 +60,7 @@ One local team for waterfront homes, cottages, and condo buildings.
 - Ant trail & nest treatment
 - Documentation for condo boards & managers
 
-Managing a condo or association building here? Our [commercial and HOA program](https://trustbugsy.com/delray-beach-commercial-pest-control/) handles common areas, trash rooms, and shared spaces with documented, board-ready service alongside individual units.
+Managing a condo or association building here? Our [commercial and HOA program](/delray-beach-commercial-pest-control/) handles common areas, trash rooms, and shared spaces with documented, board-ready service alongside individual units.
 
 ## Balcony or pool deck unusable at dusk? It’s the water.
 
@@ -95,11 +95,11 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted, low-
 
 ## Pest control services in the Marina & Beach District
 
-- [Rodent Control](https://trustbugsy.com/delray-beach-rodent-control/)
+- [Rodent Control](/delray-beach-rodent-control/)
 - [Mosquito & No-See-Um Control](/delray-beach-mosquito-control/)
 - [Cockroach Control](/delray-beach-cockroach-control/)
-- [Commercial & HOA Program](https://trustbugsy.com/delray-beach-commercial-pest-control/)
-- [Residential Pest Control (all Delray)](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Commercial & HOA Program](/delray-beach-commercial-pest-control/)
+- [Residential Pest Control (all Delray)](/delray-beach-residential-pest-control/)
 
 ## Other Delray Beach neighborhoods we serve
 
@@ -108,7 +108,7 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted, low-
 - [Tropic Isle](/tropic-isle-pest-control/)
 - [Mizner Country Club](/mizner-country-club-pest-control/)
 - [Del-Ida Park & Historic District](/del-ida-park-pest-control/)
-- [All of Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [All of Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Protect your coastal Delray home or condo
 

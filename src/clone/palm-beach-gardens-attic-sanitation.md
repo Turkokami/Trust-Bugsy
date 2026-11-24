@@ -112,7 +112,7 @@ Yes. Deodorizing and pheromone decontamination are part of the service, which ad
 - [Jupiter](/jupiter-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Rodents gone but the mess remains?
 

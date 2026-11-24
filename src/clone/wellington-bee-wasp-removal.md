@@ -116,7 +116,7 @@ We knock down the activity and point out where nests tend to rebuild; recurring 
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Wasp or bee problem by the house?

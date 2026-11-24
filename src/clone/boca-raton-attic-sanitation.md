@@ -102,7 +102,7 @@ Yes. Deodorizing and pheromone decontamination are part of the service, which ad
 
 ## Nearby communities we serve
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)

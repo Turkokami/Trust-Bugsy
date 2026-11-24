@@ -108,10 +108,10 @@ Not if the favored spots are treated. We clear old nests and treat the eaves, fr
 ## Related Delray Beach services & resources
 
 - [Bee & Hive Removal](/bee-hive-removal/)
-- [Residential Pest Control](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Paper Wasps (Pest Library)](https://trustbugsy.com/pest-library/paper-wasps/)
-- [Yellow Jackets (Pest Library)](https://trustbugsy.com/pest-library/yellow-jackets/)
-- [Honey Bees (Pest Library)](https://trustbugsy.com/pest-library/honey-bees/)
+- [Residential Pest Control](/delray-beach-residential-pest-control/)
+- [Paper Wasps (Pest Library)](/pest-library/paper-wasps/)
+- [Yellow Jackets (Pest Library)](/pest-library/yellow-jackets/)
+- [Honey Bees (Pest Library)](/pest-library/honey-bees/)
 
 ## Nearby communities we serve
 

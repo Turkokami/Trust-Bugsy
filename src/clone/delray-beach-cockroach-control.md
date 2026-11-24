@@ -118,8 +118,8 @@ Same-day service is often available in Delray Beach for active roach problems â€
 
 ## Related Delray Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/delray-beach-residential-pest-control/)
-- [Commercial Pest Control](https://trustbugsy.com/delray-beach-commercial-pest-control/)
+- [Residential Pest Control](/delray-beach-residential-pest-control/)
+- [Commercial Pest Control](/delray-beach-commercial-pest-control/)
 - [Palmetto Bugs (Pest Library)](https://trustbugsy.com/pest-library/palmetto-bugs/)
 - [German Cockroaches (Pest Library)](https://trustbugsy.com/pest-library/german-cockroaches/)
 

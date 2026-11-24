@@ -125,7 +125,7 @@ Most Boca Raton homes are resolved over a few weeks of trapping and checks, with
 
 ## Nearby communities we serve
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)

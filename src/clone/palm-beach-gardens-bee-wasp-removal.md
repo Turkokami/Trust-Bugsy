@@ -117,7 +117,7 @@ We knock down the activity and point out where nests tend to rebuild; recurring 
 - [Jupiter](/jupiter-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Wasp or bee problem by the house?
 

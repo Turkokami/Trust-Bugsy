@@ -133,7 +133,7 @@ Yes. We use EPA-registered products and place baits and treatments in cracks, vo
 
 ## Serving every Palm Beach County community
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boca Raton](/boca-raton-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)

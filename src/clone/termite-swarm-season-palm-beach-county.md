@@ -127,7 +127,7 @@ Yes, when performed by a licensed professional. We use EPA-registered products a
 
 ## Related services & city pages
 
-- [Termite control in Delray Beach](https://trustbugsy.com/delray-beach-termite-control/)
+- [Termite control in Delray Beach](/delray-beach-termite-control/)
 - [Termite control in Boca Raton](/boca-raton-termite-control/)
 - [Termite control in Boynton Beach](/boynton-beach-termite-control/)
 - [Termite control in West Palm Beach](/west-palm-beach-termite-control/)
@@ -138,7 +138,7 @@ Yes, when performed by a licensed professional. We use EPA-registered products a
 
 ## Serving every Palm Beach County community
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boca Raton](/boca-raton-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)

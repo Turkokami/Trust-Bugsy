@@ -112,7 +112,7 @@ Yes. We use targeted, low-impact methods and place baits where they reach roache
 - [Jupiter](/jupiter-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Take back your kitchen
 

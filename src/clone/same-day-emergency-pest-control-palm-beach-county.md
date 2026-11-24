@@ -127,7 +127,7 @@ Yes. We use EPA-registered products applied by a Florida-licensed technician and
 
 ## Related services & city pages
 
-- [Pest control in Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Pest control in Delray Beach](/delray-beach-residential-pest-control/)
 - [Pest control in Boca Raton](/boca-raton-residential-pest-control/)
 - [Pest control in Boynton Beach](/boynton-beach-residential-pest-control/)
 - [Pest control in West Palm Beach](/west-palm-beach-residential-pest-control/)
@@ -138,7 +138,7 @@ Yes. We use EPA-registered products applied by a Florida-licensed technician and
 
 ## Serving every Palm Beach County community
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boca Raton](/boca-raton-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)

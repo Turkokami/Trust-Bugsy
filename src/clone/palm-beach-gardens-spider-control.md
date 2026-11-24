@@ -108,7 +108,7 @@ It gives strong relief, but South Florida’s insect supply is constant, so recu
 
 - [Residential Pest Control](/palm-beach-gardens-residential-pest-control/)
 - [Bee & Wasp Removal](/palm-beach-gardens-bee-wasp-removal/)
-- [Brown Widow Spiders (Pest Library)](https://trustbugsy.com/pest-library/brown-widow-spiders/)
+- [Brown Widow Spiders (Pest Library)](/pest-library/brown-widow-spiders/)
 - [Mosquito Control](/palm-beach-gardens-mosquito-control/)
 
 ## Nearby communities we serve
@@ -117,7 +117,7 @@ It gives strong relief, but South Florida’s insect supply is constant, so recu
 - [Jupiter](/jupiter-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Webs and spiders taking over?
 

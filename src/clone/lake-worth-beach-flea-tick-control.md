@@ -111,7 +111,7 @@ Most infestations need an initial treatment plus a follow-up timed to the pupae 
 ## Nearby communities we serve
 
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Boca Raton](/boca-raton-residential-pest-control/)

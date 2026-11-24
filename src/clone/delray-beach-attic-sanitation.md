@@ -98,8 +98,8 @@ It can — removing droppings, contaminated insulation, and the associated aller
 
 ## Related Delray Beach services & resources
 
-- [Rodent Control](https://trustbugsy.com/delray-beach-rodent-control/)
-- [Attic Insulation & Sanitation](https://trustbugsy.com/attic-insulation-sanitation/)
+- [Rodent Control](/delray-beach-rodent-control/)
+- [Attic Insulation & Sanitation](/attic-insulation-sanitation/)
 - [Wildlife Trapping & Exclusion](/wildlife-trapping-exclusion/)
 - [Roof Rats (Pest Library)](https://trustbugsy.com/pest-library/roof-rats/)
 

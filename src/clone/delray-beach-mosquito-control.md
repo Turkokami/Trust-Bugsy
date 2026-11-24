@@ -104,10 +104,10 @@ Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged
 
 ## Related Delray Beach services & resources
 
-- [Residential Pest Control](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Residential Pest Control](/delray-beach-residential-pest-control/)
 - [Wildlife Trapping & Exclusion](/wildlife-trapping-exclusion/)
 - [Mosquitoes (Pest Library)](https://trustbugsy.com/pest-library/mosquitoes/)
-- [Commercial Pest Control](https://trustbugsy.com/delray-beach-commercial-pest-control/)
+- [Commercial Pest Control](/delray-beach-commercial-pest-control/)
 
 ## Nearby communities we serve
 

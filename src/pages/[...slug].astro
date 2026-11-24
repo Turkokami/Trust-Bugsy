@@ -15,7 +15,7 @@ const crumbs = crumbsFor(fm);
 ---
 <BaseLayout title={fm.title} description={fm.description} path={fm.path} crumbs={crumbs}
   service={fm.service} faqs={fm.faqs} image={fm.image}
-  article={fm.type === 'blog' && fm.path !== '/blogs/' ? { headline: fm.h1, author: fm.author, published: fm.published } : undefined}>
+  article={fm.type === 'blog' && !['/blogs/', '/blog/'].includes(fm.path) ? { headline: fm.h1, author: fm.author, published: fm.published } : undefined}>
   <div class="wrap">
     <nav class="crumbs" aria-label="Breadcrumb">
       {crumbs.map((c, i) => i < crumbs.length - 1 ? <><a href={c.path}>{c.name}</a> › </> : <span aria-current="page">{c.name}</span>)}

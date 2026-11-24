@@ -129,7 +129,7 @@ Yes. Our termite treatments are warranty-backed, with monitoring and periodic re
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 
 ## Protect your Wellington home from termites

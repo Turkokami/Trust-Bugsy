@@ -100,12 +100,12 @@ It gives strong relief, but South Florida’s insect supply is constant, so recu
 
 - [Residential Pest Control](/boca-raton-residential-pest-control/)
 - [Bee & Wasp Removal](/boca-raton-bee-wasp-removal/)
-- [Brown Widow Spiders (Pest Library)](https://trustbugsy.com/pest-library/brown-widow-spiders/)
+- [Brown Widow Spiders (Pest Library)](/pest-library/brown-widow-spiders/)
 - [Mosquito Control](/boca-raton-mosquito-control/)
 
 ## Nearby communities we serve
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)

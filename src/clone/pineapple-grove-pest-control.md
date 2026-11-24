@@ -62,7 +62,7 @@ One local team for lofts, townhomes, and the storefronts between them.
 - Discreet daytime or off-hours visits
 - Documentation for landlords & boards
 
-Own a storefront or restaurant in the Grove? Our [commercial pest control](https://trustbugsy.com/delray-beach-commercial-pest-control/) program adds health-inspection-ready documentation and after-hours service so a treatment never interrupts your customers.
+Own a storefront or restaurant in the Grove? Our [commercial pest control](/delray-beach-commercial-pest-control/) program adds health-inspection-ready documentation and after-hours service so a treatment never interrupts your customers.
 
 ## Live/work or mixed-use? We treat the whole picture.
 
@@ -98,10 +98,10 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and re
 ## Pest control services in Pineapple Grove
 
 - [Cockroach Control](/delray-beach-cockroach-control/)
-- [Rodent Control](https://trustbugsy.com/delray-beach-rodent-control/)
+- [Rodent Control](/delray-beach-rodent-control/)
 - [Ant Control](/delray-beach-ant-control/)
-- [Commercial Pest Control](https://trustbugsy.com/delray-beach-commercial-pest-control/)
-- [Residential Pest Control (all Delray)](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Commercial Pest Control](/delray-beach-commercial-pest-control/)
+- [Residential Pest Control (all Delray)](/delray-beach-residential-pest-control/)
 
 ## Other Delray Beach neighborhoods we serve
 
@@ -110,7 +110,7 @@ Yes. We use targeted, low-impact IPM methods appropriate for food-service and re
 - [Mizner Country Club](/mizner-country-club-pest-control/)
 - [Del-Ida Park & Historic District](/del-ida-park-pest-control/)
 - [Marina & Beach District](/delray-beach-marina-district-pest-control/)
-- [All of Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [All of Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Protect your Pineapple Grove home or business
 

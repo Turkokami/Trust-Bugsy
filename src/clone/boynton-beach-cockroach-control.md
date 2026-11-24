@@ -113,7 +113,7 @@ Yes. We use targeted, low-impact methods and place baits where they reach roache
 
 ## Nearby communities we serve
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boca Raton](/boca-raton-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)

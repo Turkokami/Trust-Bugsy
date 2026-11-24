@@ -99,9 +99,9 @@ Sanitation is the cleanup of contamination after rodents or wildlife; insulation
 ## Related Delray Beach services & resources
 
 - [Attic Sanitation](/delray-beach-attic-sanitation/)
-- [Attic Insulation & Sanitation](https://trustbugsy.com/attic-insulation-sanitation/)
-- [Rodent Control](https://trustbugsy.com/delray-beach-rodent-control/)
-- [Residential Pest Control](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Attic Insulation & Sanitation](/attic-insulation-sanitation/)
+- [Rodent Control](/delray-beach-rodent-control/)
+- [Residential Pest Control](/delray-beach-residential-pest-control/)
 
 ## Nearby communities we serve
 

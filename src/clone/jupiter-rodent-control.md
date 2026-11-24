@@ -137,7 +137,7 @@ Most Jupiter homes are resolved over a few weeks of trapping and checks, with ex
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Hearing something in the attic?
 

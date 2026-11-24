@@ -97,10 +97,10 @@ Yes. We apply with pet, family, and waterway safety in mind, using targeted meth
 
 ## Pest control services in Tropic Isle
 
-- [Rodent Control](https://trustbugsy.com/delray-beach-rodent-control/)
+- [Rodent Control](/delray-beach-rodent-control/)
 - [Mosquito & No-See-Um Control](/delray-beach-mosquito-control/)
 - [Ant Control](/delray-beach-ant-control/)
-- [Residential Pest Control (all Delray)](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Residential Pest Control (all Delray)](/delray-beach-residential-pest-control/)
 
 ## Other Delray Beach neighborhoods we serve
 
@@ -109,7 +109,7 @@ Yes. We apply with pet, family, and waterway safety in mind, using targeted meth
 - [Mizner Country Club](/mizner-country-club-pest-control/)
 - [Del-Ida Park & Historic District](/del-ida-park-pest-control/)
 - [Marina & Beach District](/delray-beach-marina-district-pest-control/)
-- [All of Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [All of Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Protect your Tropic Isle waterfront home
 

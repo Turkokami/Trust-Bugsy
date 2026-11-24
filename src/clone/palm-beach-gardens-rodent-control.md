@@ -137,7 +137,7 @@ Most Palm Beach Gardens homes are resolved over a few weeks of trapping and chec
 - [Jupiter](/jupiter-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Hearing something in the attic?
 

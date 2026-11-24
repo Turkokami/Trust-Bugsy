@@ -60,7 +60,7 @@ Discreet, scheduled, estate-grade protection inside the gates.
 - Discreet scheduled visits
 - HOA- & management-friendly service
 
-Serving on the board or managing the community? Our [commercial and HOA program](https://trustbugsy.com/delray-beach-commercial-pest-control/) covers clubhouse, amenities, and common areas with documented, competitive service alongside your residents’ homes.
+Serving on the board or managing the community? Our [commercial and HOA program](/delray-beach-commercial-pest-control/) covers clubhouse, amenities, and common areas with documented, competitive service alongside your residents’ homes.
 
 ## Water hazards are mosquito factories.
 
@@ -97,9 +97,9 @@ Yes. We schedule discreetly, use targeted low-impact methods with pet and family
 
 - [Mosquito Control](/delray-beach-mosquito-control/)
 - [Ant Control](/delray-beach-ant-control/)
-- [Rodent Control](https://trustbugsy.com/delray-beach-rodent-control/)
-- [Commercial & HOA Program](https://trustbugsy.com/delray-beach-commercial-pest-control/)
-- [Residential Pest Control (all Delray)](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Rodent Control](/delray-beach-rodent-control/)
+- [Commercial & HOA Program](/delray-beach-commercial-pest-control/)
+- [Residential Pest Control (all Delray)](/delray-beach-residential-pest-control/)
 
 ## Other Delray Beach neighborhoods we serve
 
@@ -108,7 +108,7 @@ Yes. We schedule discreetly, use targeted low-impact methods with pet and family
 - [Tropic Isle](/tropic-isle-pest-control/)
 - [Del-Ida Park & Historic District](/del-ida-park-pest-control/)
 - [Marina & Beach District](/delray-beach-marina-district-pest-control/)
-- [All of Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [All of Delray Beach](/delray-beach-residential-pest-control/)
 
 ## Protect your Mizner Country Club estate
 

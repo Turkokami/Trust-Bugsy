@@ -116,7 +116,7 @@ You’ll usually see a sharp drop within days as the bait reaches the colony, wi
 ## Nearby communities we serve
 
 - [West Palm Beach](/west-palm-beach-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
 - [Boca Raton](/boca-raton-residential-pest-control/)

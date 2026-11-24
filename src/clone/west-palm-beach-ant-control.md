@@ -118,7 +118,7 @@ You’ll usually see a sharp drop within days as the bait reaches the colony, wi
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 
 ## Stop the ant trails in your West Palm Beach home

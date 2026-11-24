@@ -123,7 +123,7 @@ Bred by standing water in the Intracoastal, the LWDD canals, community lakes, an
 
 Venomous widows tuck into garages, meter boxes, and patio furniture — the brown widow is now especially common across Boynton yards.
 
-[Learn about widow spiders →](https://trustbugsy.com/pest-library/brown-widow-spiders/)
+[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -144,7 +144,7 @@ One local team for the whole home — inside, outside, attic to foundation.
 - Wildlife Trapping & Exclusion
 - Attic Insulation & Sanitation
 
-Every service is delivered by a licensed Bugsy’s technician who knows Boynton Beach — not a rotating list of subcontractors. Explore our core lines: [residential pest control](/residential-pest-control/), [termite control](/termite-control/), [mosquito control](/mosquito-control/), [rodent control](/rodent-control/), [wildlife exclusion](/wildlife-trapping-exclusion/), and [attic insulation & sanitation](https://trustbugsy.com/attic-insulation-sanitation/).
+Every service is delivered by a licensed Bugsy’s technician who knows Boynton Beach — not a rotating list of subcontractors. Explore our core lines: [residential pest control](/residential-pest-control/), [termite control](/termite-control/), [mosquito control](/mosquito-control/), [rodent control](/rodent-control/), [wildlife exclusion](/wildlife-trapping-exclusion/), and [attic insulation & sanitation](/attic-insulation-sanitation/).
 
 ## Our Boynton Beach treatment process
 
@@ -247,7 +247,7 @@ Yes. We serve Boynton’s large 55+ and family communities and coordinate buildi
 
 Boynton Beach is one of the many Palm Beach County communities we protect.
 
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boca Raton](/boca-raton-fl-pest-control/)
 - [Lake Worth Beach](/lake-worth-beach-fl-pest-control/)
 - [West Palm Beach](/west-palm-beach-fl-pest-control/)

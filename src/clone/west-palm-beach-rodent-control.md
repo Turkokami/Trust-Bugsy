@@ -142,7 +142,7 @@ Most West Palm Beach homes are resolved over a few weeks of trapping and checks,
 - [Lake Worth Beach](/lake-worth-beach-residential-pest-control/)
 - [Palm Beach Gardens](/palm-beach-gardens-residential-pest-control/)
 - [Wellington](/wellington-residential-pest-control/)
-- [Delray Beach](https://trustbugsy.com/delray-beach-residential-pest-control/)
+- [Delray Beach](/delray-beach-residential-pest-control/)
 - [Boynton Beach](/boynton-beach-residential-pest-control/)
 
 ## Hearing something in the attic?
