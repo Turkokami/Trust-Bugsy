@@ -8,7 +8,24 @@
 // and classes; global.css styles it. No words are added or changed except the
 // form labels and button text the live site itself shows.
 
+import fs from 'node:fs';
+
 const PHONE = { label: '(561) 654-8998', tel: '+15616548998' };
+// The two offices in the live footer (keep in sync with src/data/business.ts).
+const OFFICES = {
+  'lake-worth-beach': { label: 'Lake Worth Beach', phone: '(561) 654-8998', tel: '+15616548998', addr: '528 N G St, Lake Worth Beach, FL 33460', maps: 'https://www.google.com/maps/search/?api=1&query=528+N+G+St+Lake+Worth+Beach+FL+33460' },
+  'pompano-beach': { label: 'Pompano Beach', phone: '(954) 751-1620', tel: '+19547511620', addr: '1401 S Dixie Hwy W, Suite 2W, Pompano Beach, FL 33060', maps: 'https://maps.app.goo.gl/gxZKj8egE6ZLQSXR7' },
+};
+const LICENSE = 'FDACS License #JF323154';
+const REGIONS = 'Palm Beach County, Broward County and the Treasure Coast';
+// Smart Site map from scripts/sitegraph.mjs (built before astro build).
+let GRAPH = null;
+function graphNode(path) {
+  if (!GRAPH) {
+    try { GRAPH = JSON.parse(fs.readFileSync(new URL('../data/sitegraph.json', import.meta.url), 'utf8')); } catch { GRAPH = { pages: {}, counties: {} }; }
+  }
+  return GRAPH.pages[path];
+}
 const BANNER_CITY = 'https://trustbugsy.com/wp-content/uploads/2025/03/IMG_6694-min-scaled.webp';
 const BANNER_BLOG = 'https://trustbugsy.com/wp-content/uploads/2025/04/Group-329-min.webp';
 const SERVICES = [
@@ -247,7 +264,7 @@ function polish(nodes, { hero = false } = {}) {
 }
 
 // ---- quote form (preview only: the shared script stops it sending) ----------
-function quoteForm(title, idp) {
+function quoteForm(title, idp, office = OFFICES['lake-worth-beach']) {
   const f = (name, ph, type = 'text', extra = {}) => el('input', { name, type, placeholder: ph, ariaLabel: ph, ...extra });
   return el('form', { className: ['quote-form'], dataPreviewForm: '', action: '#', method: 'post' }, [
     title,
@@ -262,7 +279,7 @@ function quoteForm(title, idp) {
       el('span', {}, [CONSENT, el('a', { href: '/privacy-policy/' }, ['Privacy Policy']), ' and Terms & Conditions.']),
     ]),
     el('button', { type: 'submit', className: ['qf-submit'] }, ['Submit']),
-    el('p', { className: ['form-note'], hidden: true }, ['This preview isn’t connected to an inbox yet. Please call ', el('a', { href: `tel:${PHONE.tel}` }, [PHONE.label]), '.']),
+    el('p', { className: ['form-note'], hidden: true }, ['This preview isn’t connected to an inbox yet. Please call ', el('a', { href: `tel:${office.tel}` }, [office.phone]), '.']),
   ]);
 }
 const formTitle = (a, b, c) => el('p', { className: ['qf-title'] }, [a, el('span', {}, [b]), c]);
@@ -325,10 +342,53 @@ function section(kind, nodes) {
   return el('section', { className: ['tb-sec', `tb-${kind}`], id: kind === 'faq' ? 'faqs' : undefined }, [wrap(body)]);
 }
 
+// ---- Smart Site blocks ------------------------------------------------------
+// "At a glance" facts table (snippet shape: table). Every value is a published
+// business fact or this page's own service and place.
+function glance(fm, node, office) {
+  const svc = String(fm.service || node.serviceName || '').replace(/\s*\|.*$/, '');
+  const where = node.cityName ? `${node.cityName}, FL (${GRAPH.counties[node.county]?.name || ''})`.replace(' ()', '') : REGIONS;
+  const row = (k, v) => el('tr', {}, [el('th', { scope: 'row' }, [k]), el('td', {}, [v])]);
+  return el('table', { className: ['tb-glance'] }, [
+    el('caption', {}, ['At a glance']),
+    el('tbody', {}, [
+      svc ? row('Service', svc) : null,
+      row('Area served', where),
+      row('Nearest office', el('a', { href: office.maps, rel: 'noopener' }, [`${office.label}: ${office.addr}`])),
+      row('Call', el('a', { href: `tel:${office.tel}` }, [office.phone])),
+      row('License', LICENSE),
+      row('Estimate', el('a', { href: '/contact/' }, ['Free estimate'])),
+    ]),
+  ]);
+}
+// Named-expert box (E-E-A-T): facts from the live About page.
+function ownerBox() {
+  return el('aside', { className: ['tb-owner'], ariaLabel: 'About the owner' }, [
+    el('p', { className: ['tb-owner-kicker'] }, ['Who you’re hiring']),
+    el('p', {}, [
+      'Bugsy’s Pest Solutions is owned by ', el('strong', {}, ['Zach Bernstein']),
+      ', a U.S. Marine Corps veteran who began his pest control career in July 2017. Veteran-owned and family-operated, with offices in Lake Worth Beach and Pompano Beach. ',
+      el('a', { href: '/about/' }, ['Read the Bugsy’s story']), '.',
+    ]),
+  ]);
+}
+function officeCard(office) {
+  return el('div', { className: ['tb-office'] }, [
+    el('p', { className: ['tb-office-kicker'] }, ['Your nearest office']),
+    el('p', { className: ['tb-office-name'] }, [`Bugsy’s ${office.label}`]),
+    el('p', {}, [el('a', { href: office.maps, rel: 'noopener' }, [office.addr])]),
+    el('p', {}, [el('a', { className: ['btn', 'btn-red'], href: `tel:${office.tel}` }, [`Call ${office.phone}`])]),
+  ]);
+}
+const GLANCE_KINDS = new Set(['service', 'commercial', 'cityservice', 'city', 'neighborhood', 'county']);
+const OWNER_KINDS = new Set(['service', 'commercial', 'cityservice', 'city', 'neighborhood', 'county', 'countytopic', 'library']);
+
 // ---- the plugin -------------------------------------------------------------
 export default function rehypeBugsy() {
   return (tree, file) => {
     const fm = file.data?.astro?.frontmatter || {};
+    const node = graphNode(fm.path) || { kind: fm.type, links: [] };
+    const office = OFFICES[node.office] || OFFICES['lake-worth-beach'];
     let nodes = tree.children.filter((n) => !blank(n));
 
     // One h1, taken from the copy (or the page's recorded h1 if the copy has none).
@@ -353,9 +413,9 @@ export default function rehypeBugsy() {
         el('div', { className: ['wrap', 'tb-hero-grid'] }, [
           el('div', { className: ['tb-hero-copy'] }, [h1, ...copy]),
           team ? el('div', { className: ['tb-hero-team'] }, [team]) : null,
-          el('div', { className: ['tb-hero-form'] }, [quoteForm(formTitle('Get your ', 'Free', ' Estimate'), 'hero')]),
+          el('div', { className: ['tb-hero-form'] }, [quoteForm(formTitle('Get your ', 'Free', ' Estimate'), 'hero', office)]),
         ]),
-        el('p', { className: ['tb-hero-call'] }, [el('a', { href: `tel:${PHONE.tel}` }, ['Call Us Now ', el('strong', {}, [PHONE.label])])]),
+        el('p', { className: ['tb-hero-call'] }, [el('a', { href: `tel:${office.tel}` }, ['Call Us Now ', el('strong', {}, [office.phone])])]),
       ]));
     } else {
       const bg = fm.type === 'blog' ? BANNER_BLOG : BANNER_CITY;
@@ -386,10 +446,16 @@ export default function rehypeBugsy() {
         ? [el('div', { className: ['tb-offer'] }, [
             el('p', { className: ['tb-offer-kicker'] }, ['Limited Time Offer']),
             el('p', { className: ['tb-offer-title'] }, ['New Customers Save $35 on a Science-Backed Pest Plan']),
-            quoteForm(null, 'side'),
-            el('p', { className: ['tb-offer-note'] }, ['A Bugsy’s team member will reach out within 15 minutes during business hours with your free estimate. Need us now? Call ', el('a', { href: `tel:${PHONE.tel}` }, [PHONE.label]), '.']),
+            quoteForm(null, 'side', office),
+            el('p', { className: ['tb-offer-note'] }, ['A Bugsy’s team member will reach out within 15 minutes during business hours with your free estimate. Need us now? Call ', el('a', { href: `tel:${office.tel}` }, [office.phone]), '.']),
           ])]
-        : [el('div', { className: ['tb-quote'] }, [quoteForm(formTitle('Get ', 'a Free', ' Quote'), 'side')])];
+        : [el('div', { className: ['tb-quote'] }, [quoteForm(formTitle('Get ', 'a Free', ' Quote'), 'side', office)])];
+      if (!blog && GLANCE_KINDS.has(node.kind)) asideKids.push(officeCard(office));
+      if (GLANCE_KINDS.has(node.kind)) {
+        const firstP = content.findIndex((n) => isEl(n, 'p') && textOf(n).trim().length > 60);
+        content.splice(firstP >= 0 ? firstP + 1 : 0, 0, glance(fm, node, office));
+      }
+      if (OWNER_KINDS.has(node.kind)) content.push(ownerBox());
       if (asideReviews.length) asideKids.push(el('div', { className: ['reviews', 'reviews-aside'] }, asideReviews));
       out.push(el('div', { className: ['tb-main'] }, [
         el('div', { className: ['wrap', 'tb-layout'] }, [
@@ -413,6 +479,11 @@ export default function rehypeBugsy() {
     flush();
     // A city page that ended on the quote marker may leave stray reviews in a
     // misc band: show them as a review grid.
+    out.forEach((sec, i) => imgsOf(sec).forEach((img) => {
+      img.properties.decoding = 'async';
+      if (i === 0) { if (/Mask-group-8/.test(srcOf(img))) img.properties.fetchPriority = 'high'; }
+      else img.properties.loading = 'lazy';
+    }));
     tree.children = out.map((n) => {
       if (isEl(n, 'section') && classes(n).includes('tb-misc')) {
         const inner = n.children[0];

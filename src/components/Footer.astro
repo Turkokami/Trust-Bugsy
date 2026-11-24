@@ -7,6 +7,15 @@ const pompano = business.locations[1];
 const quick: [string, string][] = [
   ['Home', '/'], ['About', '/about/'], ['Contact', '/contact/'], ['Our Plans', '/packages/'],
   ['Blogs', '/blog/'], ['Reviews', '/reviews/'], ['Faq’s', '/#faqs'], ['Privacy Policy', '/privacy-policy/'],
+  ['Image License', '/image-license/'],
+];
+// Geo tier links (Keystone 3.5: the footer is the service-area linking surface).
+const areas: [string, string][] = [
+  ['Palm Beach County', '/palm-beach-county-pest-control/'], ['Broward County', '/broward-county-fl-pest-control/'],
+  ['Boca Raton', '/boca-raton-fl-pest-control/'], ['Pompano Beach', '/pompano-beach-fl-pest-control/'],
+  ['West Palm Beach', '/west-palm-beach-fl-pest-control/'], ['Fort Lauderdale', '/fort-lauderdale-pest-control/'],
+  ['Delray Beach', '/delray-beach-fl-pest-control/'], ['Boynton Beach', '/boynton-beach-fl-pest-control/'],
+  ['All service areas', '/service-area/'],
 ];
 const services: [string, string][] = [
   ['Residential Pest Control', '/residential-pest-control/'], ['Commercial Pest Control', '/commercial/'],
@@ -39,6 +48,8 @@ const contact = [
     <div>
       <h2 class="fh">Services</h2>
       <ul class="flinks">{services.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>
+      <h2 class="fh fh-2">Service Areas</h2>
+      <ul class="flinks">{areas.map(([l, h]) => <li><a href={h}>{l}</a></li>)}</ul>
     </div>
     <div>
       <h2 class="fh">Contact Us</h2>

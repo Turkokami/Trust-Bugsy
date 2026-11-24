@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import { byPath } from '@/lib/pages';
+import { byPath, nodeFor } from '@/lib/pages';
+import SpokeLinks from '@/components/SpokeLinks.astro';
 import { business } from '@/data/business';
 const mod = byPath.get('/')!;
 const fm = mod.frontmatter;
@@ -8,4 +9,5 @@ const { Content } = mod;
 ---
 <BaseLayout title={fm.title} description={fm.description} path="/" faqs={fm.faqs} image={business.heroImage}>
   <div class="tb-page tb-type-home"><Content /></div>
+  <SpokeLinks groups={nodeFor('/')?.links ?? []} />
 </BaseLayout>

@@ -13,7 +13,12 @@ export const business = {
   email: 'contact@trustbugsy.com',
   // Shown on the live misting and sewer pages ("FDACS License #JF323154").
   license: 'FDACS License #JF323154',
-  owner: { name: 'Zach', role: 'Owner and founder (veteran)' },
+  // Live About page: "My journey into pest control began in July 2017, following
+  // my service in the United States Marine Corps." Full name from post bylines.
+  owner: {
+    name: 'Zach', fullName: 'Zach Bernstein', role: 'Owner and founder (veteran)',
+    bio: 'Owner of Bugsy’s Pest Solutions. U.S. Marine Corps veteran who began his pest control career in July 2017.',
+  },
   locations: [
     {
       id: 'lake-worth-beach',

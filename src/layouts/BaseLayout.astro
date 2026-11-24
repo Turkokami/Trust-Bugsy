@@ -16,14 +16,18 @@ interface Props {
   article?: { headline: string; author?: string; published?: string };
   image?: string;
   noindex?: boolean;
+  office?: string;
+  city?: string;
 }
-const { title, description, path, crumbs = [{ name: 'Home', path: '/' }], service, faqs, image, article, noindex = false } = Astro.props;
+const { title, description, path, crumbs = [{ name: 'Home', path: '/' }], service, faqs, image, article, noindex = false, office, city } = Astro.props;
+// The office that serves this page's county (Broward pages -> Pompano Beach).
+const loc = business.locations.find((l) => l.id === office) ?? business.locations[0];
 const canonical = new URL(path, business.url).href;
 const TITLE_MAX = 60;
 const suffixed = `${title} | ${business.shortName}`;
 const fullTitle = /bugsy/i.test(title) || suffixed.length > TITLE_MAX ? title : suffixed;
 const share = image ?? business.heroImage;
-const graph = buildGraph({ path, title: fullTitle, description, crumbs, service, faqs, image, article });
+const graph = buildGraph({ path, title: fullTitle, description, crumbs, service, faqs, image, article, office: loc.id, city });
 ---
 <!doctype html>
 <html lang="en-US">
@@ -46,7 +50,7 @@ const graph = buildGraph({ path, title: fullTitle, description, crumbs, service,
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={share} />
     <meta name="geo.region" content="US-FL" />
-    <meta name="geo.placename" content="Lake Worth Beach, Florida" />
+    <meta name="geo.placename" content={`${city ?? loc.city}, Florida`} />
     <link rel="icon" href={business.logo} type="image/webp" />
     <link rel="preconnect" href="https://trustbugsy.com" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -59,7 +63,7 @@ const graph = buildGraph({ path, title: fullTitle, description, crumbs, service,
     <Header />
     <main id="main"><slot /></main>
     <Footer />
-    <PhoneBar />
+    <PhoneBar phone={loc.phoneE164} />
     <script is:inline>
       document.querySelectorAll('[data-preview-form]').forEach(function (f) {
         f.addEventListener('submit', function (e) { e.preventDefault(); var n = f.querySelector('.form-note'); if (n) n.hidden = false; });

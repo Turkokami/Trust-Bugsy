@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/split-sitemap.mjs && node scripts/ai-files.mjs --mode static --out dist --robots",
+    "build": "node scripts/sitegraph.mjs && astro build && node scripts/split-sitemap.mjs && node scripts/ai-files.mjs --mode static --out dist --robots",
     "preview": "astro preview"
   },
   "dependencies": {

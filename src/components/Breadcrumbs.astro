@@ -1,0 +1,15 @@
+---
+// Visible breadcrumb trail; the same list feeds the BreadcrumbList schema.
+import type { Crumb } from '@/lib/schema';
+interface Props { crumbs: Crumb[] }
+const { crumbs } = Astro.props;
+---
+{crumbs.length > 1 && (
+  <nav class="crumbs" aria-label="Breadcrumb">
+    <ol class="wrap">
+      {crumbs.map((c, i) => (
+        <li>{i < crumbs.length - 1 ? <a href={c.path}>{c.name}</a> : <span aria-current="page">{c.name}</span>}</li>
+      ))}
+    </ol>
+  </nav>
+)}

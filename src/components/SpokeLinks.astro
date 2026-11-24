@@ -1,0 +1,22 @@
+---
+// Smart Site hub-and-spoke links: every page links down to its spokes, up to
+// its hub and across to its siblings, so no copied page is left orphaned.
+// Groups come from scripts/sitegraph.mjs (src/data/sitegraph.json).
+import type { LinkGroup } from '@/lib/pages';
+interface Props { groups: LinkGroup[] }
+const { groups } = Astro.props;
+---
+{groups.length > 0 && (
+  <section class="tb-sec tb-spokes" aria-label="Related pages">
+    <div class="wrap">
+      {groups.map((g) => (
+        <div class="spoke-group">
+          <h2 class="spoke-title">{g.title}</h2>
+          <ul class:list={['spoke-list', { 'spoke-many': g.items.length > 14 }]}>
+            {g.items.map(([label, href]) => <li><a href={href}>{label}</a></li>)}
+          </ul>
+        </div>
+      ))}
+    </div>
+  </section>
+)}
