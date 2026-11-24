@@ -4,34 +4,66 @@ import { nav } from '@/data/nav';
 import { byPath } from '@/lib/pages';
 // A menu link to a page that hasn't been copied yet goes to the live site for now.
 const href = (p: string) => (byPath.has(p) ? p : `https://trustbugsy.com${p}`);
+// Laid out like the live header: logo block on the left, a red strip with the
+// phone, social icons and Home/About/Blog/Contact, then the service menus and
+// a white "Get Your Free Estimate" button.
+const UTILITY = new Set(['About', 'Contact']);
+const main = nav.filter((i) => !UTILITY.has(i.label));
+const about = nav.find((i) => i.label === 'About');
+const utility: [string, string][] = [['Home', '/'], ['About', '/about/'], ['Blog', '/blog/'], ['Contact', '/contact/']];
+const icons = {
+  facebook: 'M14 8h3V4h-3c-2.8 0-4 1.7-4 4.3V10H7v4h3v8h4v-8h3l1-4h-4V8.5c0-.4.2-.5.5-.5z',
+  instagram: 'M12 7.3A4.7 4.7 0 1 0 12 16.7 4.7 4.7 0 0 0 12 7.3zm0 7.7a3 3 0 1 1 0-6 3 3 0 0 1 0 6zM17 6a1.1 1.1 0 1 0 0 2.2A1.1 1.1 0 0 0 17 6zM12 3c-2.4 0-2.7 0-3.7.1C5.6 3.2 3.2 5.6 3.1 8.3 3 9.3 3 9.6 3 12s0 2.7.1 3.7c.1 2.7 2.5 5.1 5.2 5.2 1 .1 1.3.1 3.7.1s2.7 0 3.7-.1c2.7-.1 5.1-2.5 5.2-5.2.1-1 .1-1.3.1-3.7s0-2.7-.1-3.7c-.1-2.7-2.5-5.1-5.2-5.2C14.7 3 14.4 3 12 3z',
+  google: 'M21.6 10.2H12v3.9h5.5c-.5 2.5-2.7 4.1-5.5 4.1a6.2 6.2 0 1 1 4-10.9l2.9-2.9A10.3 10.3 0 1 0 22 12c0-.6-.1-1.2-.4-1.8z',
+};
 ---
-<div class="topbar"><div class="wrap">
-  <span>Serving Communities Across Florida</span>
-  <span class="topbar-phones">
-    {business.locations.map((l) => <a href={`tel:${l.phoneE164}`}>{l.label}: {l.phone}</a>)}
-  </span>
-</div></div>
 <header class="site-header">
-  <div class="wrap hdr">
+  <div class="hdr">
     <a href="/" class="brand" aria-label={`${business.name} home`}>
-      <img src={business.logo} alt={`${business.name} logo`} width="180" height="56" />
+      <img src={business.headerLogo} alt={`${business.name} logo`} width="328" height="161" />
     </a>
-    <nav aria-label="Main">
-      <button class="mtoggle" type="button" aria-expanded="false" aria-controls="menu">Menu</button>
-        <ul class="menu" id="menu">
-          {nav.map((item) => (
-            <li class={'children' in item ? 'has-sub' : ''}>
-              <a href={href(item.href)}>{item.label}</a>
-              {'children' in item && (
-                <ul class="sub">
-                  {item.children.map(([label, h]) => <li><a href={href(h)}>{label}</a></li>)}
-                </ul>
+    <div class="hdr-right">
+      <div class="hdr-strip">
+        <span class="hdr-serving">Serving Communities Across Florida</span>
+        <a class="hdr-phone" href={`tel:${hq.phoneE164}`}><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1z"/></svg>(561) 654 8998</a>
+        <span class="hdr-social">
+          <a href={business.social.facebook} rel="noopener" aria-label="Facebook"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={icons.facebook}/></svg></a>
+          <a href={business.social.instagram} rel="noopener" aria-label="Instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={icons.instagram}/></svg></a>
+          <a href={business.social.google} rel="noopener" aria-label="Google"><svg viewBox="0 0 24 24" aria-hidden="true"><path d={icons.google}/></svg></a>
+        </span>
+        <ul class="hdr-util">
+          {utility.map(([label, h]) => (
+            <li class={label === 'About' && about && 'children' in about ? 'has-sub' : ''}>
+              <a href={href(h)}>{label}</a>
+              {label === 'About' && about && 'children' in about && (
+                <ul class="sub">{(about as any).children.map(([l, x]: [string, string]) => <li><a href={href(x)}>{l}</a></li>)}</ul>
               )}
             </li>
           ))}
         </ul>
-    </nav>
-    <a class="btn btn-cta hdr-cta" href={`tel:${hq.phoneE164}`}>Call {hq.phone}</a>
+        <img class="hdr-usmc" src={business.marineEmblem} alt="United States Marine Corps emblem" width="64" height="64" />
+      </div>
+      <div class="hdr-main">
+        <nav aria-label="Main">
+          <button class="mtoggle" type="button" aria-expanded="false" aria-controls="menu" aria-label="Menu"><span></span><span></span><span></span></button>
+          <ul class="menu" id="menu">
+            {main.map((item) => (
+              <li class={'children' in item ? 'has-sub' : ''}>
+                <a href={href(item.href)}>{item.label}</a>
+                {'children' in item && (
+                  <ul class="sub">
+                    {item.children.map(([label, h]) => <li><a href={href(h)}>{label}</a></li>)}
+                  </ul>
+                )}
+              </li>
+            ))}
+            {utility.map(([label, h]) => <li class="menu-util"><a href={href(h)}>{label}</a></li>)}
+            <li class="menu-util"><a href={`tel:${hq.phoneE164}`}>Call {hq.phone}</a></li>
+          </ul>
+        </nav>
+        <a class="hdr-cta" href="/contact/">Get Your Free Estimate</a>
+      </div>
+    </div>
   </div>
 </header>
 <script is:inline>

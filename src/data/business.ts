@@ -49,6 +49,10 @@ export const business = {
     writeReview: 'https://g.co/kgs/rtLS9oD',
   },
   logo: 'https://trustbugsy.com/wp-content/uploads/2026/05/Group-336.webp',
+  // The full BUGSY'S wordmark block the live header and footer show.
+  headerLogo: 'https://trustbugsy.com/wp-content/uploads/2025/03/Group-344.webp',
+  // United States Marine Corps emblem shown at the top right of the live header.
+  marineEmblem: 'https://trustbugsy.com/wp-content/uploads/2025/03/Rectangle-8.webp',
   heroImage: 'https://trustbugsy.com/wp-content/uploads/2025/03/IMG_6694-min-scaled.webp',
 } as const;
 

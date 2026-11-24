@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { pages, crumbsFor, type ClonePage } from '@/lib/pages';
-import { business } from '@/data/business';
 
 export function getStaticPaths() {
   return pages
@@ -12,25 +11,11 @@ const { mod } = Astro.props;
 const fm = mod.frontmatter as ClonePage;
 const { Content } = mod;
 const crumbs = crumbsFor(fm);
+// The page body (hero or banner, quote forms, shared sections) is laid out by
+// src/lib/rehype-bugsy.mjs from the copied markdown.
 ---
 <BaseLayout title={fm.title} description={fm.description} path={fm.path} crumbs={crumbs}
   service={fm.service} faqs={fm.faqs} image={fm.image}
   article={fm.type === 'blog' && !['/blogs/', '/blog/'].includes(fm.path) ? { headline: fm.h1, author: fm.author, published: fm.published } : undefined}>
-  <div class="wrap">
-    <nav class="crumbs" aria-label="Breadcrumb">
-      {crumbs.map((c, i) => i < crumbs.length - 1 ? <><a href={c.path}>{c.name}</a> › </> : <span aria-current="page">{c.name}</span>)}
-    </nav>
-  </div>
-  <div class="wrap layout">
-    <article class="prose">{fm.showH1 && <h1>{fm.h1}</h1>}<Content /></article>
-    <aside>
-      <div class="aside-card">
-        <h2>Get a free estimate</h2>
-        {business.locations.map((l) => (
-          <p><strong>{l.label}</strong><br /><a href={`tel:${l.phoneE164}`}>{l.phone}</a></p>
-        ))}
-        <p><a class="btn btn-cta" href="/contact/">Request service</a></p>
-      </div>
-    </aside>
-  </div>
+  <div class={`tb-page tb-type-${fm.type}`}><Content /></div>
 </BaseLayout>

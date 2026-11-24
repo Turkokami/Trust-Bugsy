@@ -1,38 +1,11 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import { byPath } from '@/lib/pages';
-import { business, hq } from '@/data/business';
+import { business } from '@/data/business';
 const mod = byPath.get('/')!;
 const fm = mod.frontmatter;
 const { Content } = mod;
 ---
 <BaseLayout title={fm.title} description={fm.description} path="/" faqs={fm.faqs} image={business.heroImage}>
-  <section class="hero" style={`--hero:url('${business.heroImage}')`}>
-    <div class="wrap">
-      <p>Serving Communities Across Florida</p>
-      <h1>{fm.h1}</h1>
-      <p class="lead">{fm.description}</p>
-      <div class="hero-actions">
-        <a class="btn btn-cta" href={`tel:${hq.phoneE164}`}>Call {hq.phone}</a>
-        <a class="btn btn-ghost" href="/contact/">Get a free estimate</a>
-      </div>
-      <ul class="badges">
-        <li>Veteran-Owned &amp; Operated</li>
-        <li>Certified Pest Control Experts</li>
-        <li>Safe &amp; Effective Solutions</li>
-      </ul>
-    </div>
-  </section>
-  <div class="wrap layout">
-    <article class="prose"><Content /></article>
-    <aside>
-      <div class="aside-card">
-        <h2>Two offices</h2>
-        {business.locations.map((l) => (
-          <p><strong>{l.label}</strong><br />{l.street}, {l.city}<br /><a href={`tel:${l.phoneE164}`}>{l.phone}</a></p>
-        ))}
-        <p><a class="btn btn-cta" href="/contact/">Request service</a></p>
-      </div>
-    </aside>
-  </div>
+  <div class="tb-page tb-type-home"><Content /></div>
 </BaseLayout>
