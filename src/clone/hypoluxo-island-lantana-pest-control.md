@@ -95,7 +95,7 @@ Yes — targeted, family-conscious products applied by licensed techs, chosen to
 ## Nearby areas we serve
 
 - [Lantana (town-wide)](/lantana-pest-control/)
-- [Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-waterfront-pest-control/)
+- [Lake Worth Beach](/lake-worth-beach-waterfront-pest-control/)
 - [Palm Beach](/palm-beach-pest-control/)
 
 ## Protect your Hypoluxo Island estate

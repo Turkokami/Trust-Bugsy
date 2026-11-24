@@ -92,9 +92,9 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 ## Nearby Jupiter areas we serve
 
-- [Abacoa](https://trustbugsy.com/abacoa-jupiter-pest-control/)
+- [Abacoa](/abacoa-jupiter-pest-control/)
 - [Central Jupiter](/central-jupiter-pest-control/)
-- [Jupiter Waterfront](https://trustbugsy.com/jupiter-waterfront-pest-control/)
+- [Jupiter Waterfront](/jupiter-waterfront-pest-control/)
 - [Palm Beach Gardens](/palm-beach-gardens-waterfront-pest-control/)
 
 ## Protect your Jupiter Country Club home

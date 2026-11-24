@@ -79,16 +79,16 @@ Yes. We apply with pet, family, and waterway safety in mind using targeted metho
 
 ## Pest control services in The Loxahatchee River Neighborhoods
 
-- [Mosquito & No-See-Um Control](https://trustbugsy.com/jupiter-mosquito-control/)
-- [Rodent Control](https://trustbugsy.com/jupiter-rodent-control/)
-- [Ant Control](https://trustbugsy.com/jupiter-ant-control/)
+- [Mosquito & No-See-Um Control](/jupiter-mosquito-control/)
+- [Rodent Control](/jupiter-rodent-control/)
+- [Ant Control](/jupiter-ant-control/)
 - [Jupiter Residential Pest Control](https://trustbugsy.com/jupiter-residential-pest-control/)
 
 ## Other Jupiter neighborhoods we serve
 
-- [Abacoa](https://trustbugsy.com/abacoa-jupiter-pest-control/)
-- [Admirals Cove & the Waterfront](https://trustbugsy.com/jupiter-waterfront-pest-control/)
-- [Jupiter Inlet & Beachside](https://trustbugsy.com/jupiter-inlet-beachside-pest-control/)
+- [Abacoa](/abacoa-jupiter-pest-control/)
+- [Admirals Cove & the Waterfront](/jupiter-waterfront-pest-control/)
+- [Jupiter Inlet & Beachside](/jupiter-inlet-beachside-pest-control/)
 - [Jupiter Farms](/jupiter-farms-pest-control/)
 - [Central Jupiter](/central-jupiter-pest-control/)
 - [All of Jupiter](https://trustbugsy.com/jupiter-residential-pest-control/)

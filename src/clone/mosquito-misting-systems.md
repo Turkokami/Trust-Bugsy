@@ -104,7 +104,7 @@ Absolutely. Not every yard needs a full system — our regular mosquito control 
 - [Admirals Cove, Jupiter](/admirals-cove-jupiter-pest-control/)
 - [Ibis, West Palm Beach](/ibis-west-palm-beach-pest-control/)
 - [Town of Palm Beach](/palm-beach-pest-control/)
-- [Wellington](https://trustbugsy.com/equestrian-wellington-pest-control/)
+- [Wellington](/equestrian-wellington-pest-control/)
 - [Royal Palm Beach](/royal-palm-beach-pest-control/)
 
 ## Take back your yard

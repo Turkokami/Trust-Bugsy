@@ -96,7 +96,7 @@ Yes — targeted, family-conscious products applied by licensed technicians, wit
 
 - [Royal Palm Beach (village-wide)](/royal-palm-beach-pest-control/)
 - [Madison Green](/madison-green-royal-palm-beach-pest-control/)
-- [Wellington](https://trustbugsy.com/western-wellington-pest-control/)
+- [Wellington](/western-wellington-pest-control/)
 
 ## Protect your Counterpoint Estates home
 

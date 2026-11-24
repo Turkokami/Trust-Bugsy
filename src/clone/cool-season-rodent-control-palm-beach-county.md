@@ -128,8 +128,8 @@ Yes — where needed we handle contaminated insulation, sanitation, and attic cl
 - [Rodent control in Boynton Beach](https://trustbugsy.com/boynton-beach-rodent-control/)
 - [Rodent control in West Palm Beach](https://trustbugsy.com/west-palm-beach-rodent-control/)
 - [Rodent control in Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-rodent-control/)
-- [Rodent control in Wellington](https://trustbugsy.com/wellington-rodent-control/)
-- [Rodent control in Jupiter](https://trustbugsy.com/jupiter-rodent-control/)
+- [Rodent control in Wellington](/wellington-rodent-control/)
+- [Rodent control in Jupiter](/jupiter-rodent-control/)
 - [Rodent control in Palm Beach Gardens](/palm-beach-gardens-rodent-control/)
 
 ## Serving every Palm Beach County community

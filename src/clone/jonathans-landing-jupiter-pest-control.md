@@ -92,9 +92,9 @@ Waterfront estates vary with size and landscaping — we give a clear, no-pressu
 
 ## Nearby Jupiter areas we serve
 
-- [Abacoa](https://trustbugsy.com/abacoa-jupiter-pest-control/)
+- [Abacoa](/abacoa-jupiter-pest-control/)
 - [Central Jupiter](/central-jupiter-pest-control/)
-- [Jupiter Waterfront](https://trustbugsy.com/jupiter-waterfront-pest-control/)
+- [Jupiter Waterfront](/jupiter-waterfront-pest-control/)
 - [Palm Beach Gardens](/palm-beach-gardens-waterfront-pest-control/)
 
 ## Protect your Jonathan’s Landing home

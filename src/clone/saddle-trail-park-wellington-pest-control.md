@@ -92,9 +92,9 @@ Yes — we use targeted, animal-conscious products applied by licensed techs and
 
 ## Nearby Wellington areas we serve
 
-- [Equestrian Wellington](https://trustbugsy.com/equestrian-wellington-pest-control/)
-- [Binks Forest](https://trustbugsy.com/binks-forest-wellington-pest-control/)
-- [Versailles](https://trustbugsy.com/versailles-wellington-pest-control/)
+- [Equestrian Wellington](/equestrian-wellington-pest-control/)
+- [Binks Forest](/binks-forest-wellington-pest-control/)
+- [Versailles](/versailles-wellington-pest-control/)
 - [Royal Palm Beach](/royal-palm-beach-pest-control/)
 
 ## Protect your Saddle Trail Park estate

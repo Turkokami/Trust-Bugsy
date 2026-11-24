@@ -92,10 +92,10 @@ Yes — targeted, family-conscious products applied by licensed techs, with simp
 
 ## Nearby Lake Worth Beach areas we serve
 
-- [Downtown Lake Worth Beach](https://trustbugsy.com/downtown-lake-worth-beach-pest-control/)
-- [College Park](https://trustbugsy.com/college-park-lake-worth-beach-pest-control/)
-- [Cottage District](https://trustbugsy.com/cottage-district-lake-worth-beach-pest-control/)
-- [Lake Osborne](https://trustbugsy.com/lake-osborne-lake-worth-beach-pest-control/)
+- [Downtown Lake Worth Beach](/downtown-lake-worth-beach-pest-control/)
+- [College Park](/college-park-lake-worth-beach-pest-control/)
+- [Cottage District](/cottage-district-lake-worth-beach-pest-control/)
+- [Lake Osborne](/lake-osborne-lake-worth-beach-pest-control/)
 
 ## Protect your historic Parrot Cove home
 

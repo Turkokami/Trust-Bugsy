@@ -132,8 +132,8 @@ Yes, when performed by a licensed professional. We use EPA-registered products a
 - [Termite control in Boynton Beach](https://trustbugsy.com/boynton-beach-termite-control/)
 - [Termite control in West Palm Beach](https://trustbugsy.com/west-palm-beach-termite-control/)
 - [Termite control in Lake Worth Beach](https://trustbugsy.com/lake-worth-beach-termite-control/)
-- [Termite control in Wellington](https://trustbugsy.com/wellington-termite-control/)
-- [Termite control in Jupiter](https://trustbugsy.com/jupiter-termite-control/)
+- [Termite control in Wellington](/wellington-termite-control/)
+- [Termite control in Jupiter](/jupiter-termite-control/)
 - [Termite control in Palm Beach Gardens](/palm-beach-gardens-termite-control/)
 
 ## Serving every Palm Beach County community
