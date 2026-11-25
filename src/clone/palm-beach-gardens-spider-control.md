@@ -125,4 +125,4 @@ Get a $99 inspection (applied to the cost of treatment) — we’ll treat the sp
 
 [Get a Free Spider Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

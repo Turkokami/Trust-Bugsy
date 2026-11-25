@@ -99,4 +99,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Port St. Lu
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving St. Lucie West, Port St. Lucie and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving St. Lucie West, Port St. Lucie and across South Florida.

@@ -14,7 +14,7 @@ Pest Control • Palm Beach Shores, FL
 
 ## Palm Beach Shores Pest Control — a beach town ringed by water and biting insects.
 
-Bugsy’s protects Palm Beach Shores’ single-family homes and resorts at the south tip of Singer Island from the no-see-ums, mosquitoes, ants, and rodents that come with water on every side. Licensed, veteran-owned, local.
+Bugsy’s protects Palm Beach Shores’ single-family homes and resorts at the south tip of Singer Island from the no-see-ums, mosquitoes, ants, and rodents that come with water on every side. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -54,7 +54,7 @@ Roof rats seek attics and wall voids, and subterranean termites attack from the 
 
 ## Water on every side means biting insects year-round.
 
-Palm Beach Shores’ location makes no-see-ums and mosquitoes a constant. We treat resting areas and standing water and time service to the tides for real relief.
+Palm Beach Shores’ location makes no-see-ums and mosquitoes a constant. We treat resting areas and standing water and time service to the tides for relief.
 
 ## Why Palm Beach Shores chooses Bugsy’s
 
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows waterfron
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Palm Beach Shores, Palm Beach Shores and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Palm Beach Shores, Palm Beach Shores and all of Palm Beach County.

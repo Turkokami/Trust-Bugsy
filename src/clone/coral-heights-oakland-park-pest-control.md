@@ -12,7 +12,7 @@ Pest Control • Coral Heights, Oakland Park
 
 # Coral Heights Pest Control — an established Oakland Park neighborhood near the canals.
 
-Bugsy’s protects Coral Heights’ homes in Oakland Park from the mosquitoes, palmetto bugs, ghost ants, iguanas, and roof rats drawn to nearby canals and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Coral Heights’ homes in Oakland Park from the mosquitoes, palmetto bugs, ghost ants, iguanas, and roof rats drawn to nearby canals and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Oakland Par
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Coral Heights, Oakland Park and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Coral Heights, Oakland Park and across South Florida.

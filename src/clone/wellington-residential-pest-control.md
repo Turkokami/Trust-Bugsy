@@ -81,49 +81,49 @@ These are the species we treat most across Wellington — each with a local twis
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — the primary termite risk for Wellington’s slab-built family communities.
 
-[Learn about subterranean termites →](/pest-library/subterranean-termites/)
+[Learn about subterranean termites](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Lives entirely inside dry structural wood — found in older wood-frame homes, barns, and outbuildings, and treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](/pest-library/drywood-termites/)
+[Learn about drywood termites](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, muck, and landscaping on warm nights — heavy around farms, feed, and well-planted lots.
 
-[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Wellington’s lakefront and 55+ condo communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](/pest-library/german-cockroaches/)
+[Learn about German cockroaches](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants indoors, plus aggressive fire ants that colonize the open, sunny turf of paddocks, lawns, and cul-de-sacs across the village.
 
-[Learn about white-footed ants →](/pest-library/white-footed-ants/)
+[Learn about white-footed ants](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Works barns, tack rooms, feed storage, and attics — Wellington’s farms and outbuildings give rodents abundant harborage and food.
 
-[Learn about roof rats →](/pest-library/roof-rats/)
+[Learn about roof rats](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the C-51 and LWDD canals, hundreds of community and equestrian lakes, and the western wetlands — Wellington sees some of the heaviest mosquito and no-see-um pressure in the county.
 
-[Learn about mosquitoes →](/pest-library/mosquitoes/)
+[Learn about mosquitoes](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 
 Venomous widows tuck into barns, garages, meter boxes, and patio furniture — the brown widow is now especially common across western communities.
 
-[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
+[Learn about widow spiders](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -286,4 +286,4 @@ Get a $99 inspection (applied to the cost of treatment) from a local, veteran-ow
 
 [Get Your Free Wellington Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Wellington (33414, 33449, 33470) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Wellington (33414, 33449, 33470) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.

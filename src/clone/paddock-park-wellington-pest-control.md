@@ -12,7 +12,7 @@ Pest Control • Paddock Park, Wellington
 
 # Paddock Park Pest Control — where suburban Wellington meets horse country.
 
-Bugsy’s protects Paddock Park’s blend of family homes and small horse properties from the mosquitoes, fire ants, palmetto bugs, and rodents that thrive on Wellington’s canals and open turf. Licensed, veteran-owned, local.
+Bugsy’s protects Paddock Park’s blend of family homes and small horse properties from the mosquitoes, fire ants, palmetto bugs, and rodents that thrive on Wellington’s canals and open turf. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -52,7 +52,7 @@ Roof rats seek attics and any feed or shed storage; subterranean termites attack
 
 ## Canal or pasture behind the house? Expect more mosquitoes and fire ants.
 
-Water- and turf-adjacent Paddock Park lots see the most mosquito and fire-ant pressure. We treat the resting areas and mounds around your property for real relief.
+Water- and turf-adjacent Paddock Park lots see the most mosquito and fire-ant pressure. We treat the resting areas and mounds around your property for relief.
 
 ## Why Paddock Park chooses Bugsy’s
 
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Wellington.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Paddock Park, Wellington and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Paddock Park, Wellington and all of Palm Beach County.

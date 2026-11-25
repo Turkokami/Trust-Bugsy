@@ -14,7 +14,7 @@ Pest Library
 
 Latrodectus mactans
 
-The glossy black spider with a red hourglass is one of the few in Florida whose bite is medically significant — not aggressive, but dangerous enough that its favorite hiding spots deserve real caution.
+The glossy black spider with a red hourglass is one of the few in Florida whose bite is medically significant — not aggressive, but dangerous enough that its favorite hiding spots deserve caution.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 
@@ -37,7 +37,7 @@ The female’s venom is a neurotoxin, and a bite can cause significant pain, mus
 
 ## Why they are a problem
 
-Black widows are one of the few Florida spiders whose bite is a genuine medical concern, particularly for children, older adults, and anyone with health conditions. Because they hide in exactly the spots where people reach without looking — storage, woodpiles, utility boxes — the risk of an accidental bite is real even though the spider itself avoids people.
+Black widows are one of the few Florida spiders whose bite is a genuine medical concern, particularly for children, older adults, and anyone with health conditions. Because they hide in exactly the spots where people reach without looking — storage, woodpiles, utility boxes — an accidental bite can still happen even though the spider itself avoids people.
 
 ## How Bugsy’s treats black widow spiders
 
@@ -69,7 +69,7 @@ Our technicians remove widows and their webs and egg sacs directly, treat the sh
 
 ## Found a glossy black spider with a red hourglass?
 
-Black widow bites are a real medical concern. Get a $99 inspection (applied to the cost of treatment) and safe removal of spiders and harborage.
+Black widow bites are a medical concern. Get a $99 inspection (applied to the cost of treatment) and safe removal of spiders and harborage.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 

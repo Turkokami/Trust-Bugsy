@@ -26,7 +26,7 @@ House centipedes are unmistakable: a yellowish-gray body an inch or so long frin
 
 House centipedes thrive in humidity and are found in the dampest parts of a home — bathrooms, laundry rooms, garages, and around plumbing. They are active hunters that prey on other household pests: roaches, silverfish, ants, spiders, and fly larvae.
 
-Their presence is really a signal of two things — enough moisture to keep them comfortable and enough other insects to eat. They can deliver a minor bite if handled, but they are not aggressive and their bite is comparable to a mild bee sting at worst, and even that is rare.
+Their presence signals two things — enough moisture to keep them comfortable and enough other insects to eat. They can deliver a minor bite if handled, but they are not aggressive and their bite is comparable to a mild bee sting at worst, and even that is rare.
 
 ## Signs of an infestation
 
@@ -37,7 +37,7 @@ Their presence is really a signal of two things — enough moisture to keep them
 
 ## Why they are a problem
 
-House centipedes are largely beneficial, so the issue is usually the startle factor rather than any real harm. That said, a persistent population points to underlying moisture and a supply of other pests, both of which are worth addressing. In numbers they become an unwelcome nuisance in living spaces.
+House centipedes are largely beneficial, so the issue is usually the startle factor rather than any harm. That said, a persistent population points to underlying moisture and a supply of other pests, both of which are worth addressing. In numbers they become an unwelcome nuisance in living spaces.
 
 ## How Bugsy’s treats house centipedes
 
@@ -69,7 +69,7 @@ Since centipedes follow moisture and prey, control targets both: our technicians
 
 ## Fast, leggy bugs racing across the bathroom wall?
 
-House centipedes signal moisture and other pests. Get a $99 inspection (applied to the cost of treatment) to address the real cause.
+House centipedes signal moisture and other pests. Get a $99 inspection (applied to the cost of treatment) to address the underlying cause.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 

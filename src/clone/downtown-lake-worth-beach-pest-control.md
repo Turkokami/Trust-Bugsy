@@ -47,7 +47,7 @@ Ghost and white-footed ants trail from streetscape planters and landscaping — 
 
 The Lagoon a few blocks east breeds biters for patios and courtyards — barrier plus larvicide.
 
-## Restaurant or shop on Lake Avenue? We service discreetly.
+## Restaurant or shop on Lake Avenue? We service your business discreetly.
 
 Downtown’s restaurants and galleries need service that never interrupts customers. Our commercial program adds after-hours visits and health-inspection-ready documentation, plus building-wide strategy for shared-wall pests.
 
@@ -98,4 +98,4 @@ Get a $99 inspection (applied to the cost of treatment) built for the Lake Avenu
 
 [Get a Free Downtown Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Downtown & Lake Avenue and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Downtown & Lake Avenue and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -29,7 +29,7 @@ Miramar is one of Broward County’s fastest-growing cities, with large planned 
 
 📞 (561) 654-8998 | ✉ contact@trustbugsy.com
 
-**Veteran-Owned • Eco-Friendly • Pet-Safe • Licensed & Insured • Same-Day Available**
+**Veteran-Owned, Eco-Friendly, Pet-Safe, Licensed & Insured, Same-Day Available**
 
 ## Residential Pest Control in Miramar
 

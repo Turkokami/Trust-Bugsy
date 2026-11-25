@@ -27,7 +27,7 @@ Pompano Beach’s coastal location, year-round warmth, and mix of residential an
 
 📞 (561) 654-8998 | ✉ contact@trustbugsy.com
 
-**Veteran-Owned • Eco-Friendly • Pet-Safe • Licensed & Insured • Same-Day Available**
+**Veteran-Owned, Eco-Friendly, Pet-Safe, Licensed & Insured, Same-Day Available**
 
 ## Residential Pest Control in Pompano Beach
 

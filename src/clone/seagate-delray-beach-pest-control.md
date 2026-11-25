@@ -12,7 +12,7 @@ Pest Control • Seagate, Delray Beach
 
 # Seagate Pest Control — beachside estates where salt air meets biting insects.
 
-Bugsy’s protects Seagate’s luxury beachside homes just off Delray’s ocean from the no-see-ums, mosquitoes, roof rats, ghost ants, and termites drawn to salt air, lush landscaping, and coastal moisture. Licensed, veteran-owned, discreet.
+Bugsy’s protects Seagate’s luxury beachside homes just off Delray’s ocean from the no-see-ums, mosquitoes, roof rats, ghost ants, and termites drawn to salt air, lush landscaping, and coastal moisture. We’re licensed, veteran-owned and discreet.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, discreet consultation from a licensed, veteran-owned team that knows beach
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Seagate, Delray Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Seagate, Delray Beach and all of Palm Beach County.

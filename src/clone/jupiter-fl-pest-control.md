@@ -27,7 +27,7 @@ Jupiter’s natural beauty — the Loxahatchee River, Jonathan Dickinson State P
 
 📞 (561) 654-8998 | ✉ contact@trustbugsy.com
 
-**Veteran-Owned • Eco-Friendly • Pet-Safe • Licensed & Insured • Same-Day Available**
+**Veteran-Owned, Eco-Friendly, Pet-Safe, Licensed & Insured, Same-Day Available**
 
 ## Residential Pest Control in Jupiter
 

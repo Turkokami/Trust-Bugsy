@@ -13,7 +13,7 @@ Bee & Wasp Removal • Boca Raton, FL
 
 ## Boca Raton Bee & Wasp Removal — safe, fast relief from stinging insects.
 
-Wasp nests by the door, hornets in the eaves, and honey bee swarms on the property are a real hazard for Boca Raton families — especially with kids, pets, or anyone allergic. Bugsy’s removes the threat safely and knocks down the nests where they build.
+Wasp nests by the door, hornets in the eaves, and honey bee swarms on the property are a hazard for Boca Raton families — especially with kids, pets, or anyone allergic. Bugsy’s removes the threat safely and knocks down the nests where they build.
 
 - ★ Veteran-Owned
 - Fast Response
@@ -117,4 +117,4 @@ Get fast, safe removal of stinging insects and the nests they build.
 
 [Get Wasp & Bee Help](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -5,7 +5,7 @@ description: "If you’re constantly swatting at buzzing mosquitoes inside your 
 type: "blog"
 h1: "How to Get Rid of Mosquitoes Indoors Naturally in South Florida: Tips That Work"
 image: "https://trustbugsy.com/wp-content/uploads/2025/06/mosquitoes-flying-through-window-into-indoor-lamp-1.webp"
-faqs: [{"q": "Do citronella candles really work indoors?", "a": "A: They help in small, enclosed spaces—but they’re not a long-term solution. For real relief, consider essential oil diffusers or integrated pest management."}, {"q": "How do I find where mosquitoes are hiding in my home?", "a": "A: Check damp areas like bathrooms, laundry rooms, closets, and under sinks. They also hide in potted plants or anywhere water collects."}, {"q": "How often should I treat my home for mosquitoes?", "a": "A: In South Florida, monthly or bi-monthly mosquito treatments are recommended during peak seasons (April through October)."}, {"q": "Is your mosquito treatment safe for pets and children?", "a": "A: Absolutely. Bugsy’s uses eco-conscious, family-friendly products that are tough on pests but gentle on people and pets."}, {"q": "Do indoor plants attract mosquitoes?", "a": "A: Yes—especially if they hold water in trays or if the soil stays overly moist. Letting the topsoil dry out between waterings helps."}]
+faqs: [{"q": "Do citronella candles work indoors?", "a": "A: They help in small, enclosed spaces—but they’re not a long-term solution. For longer-lasting relief, consider essential oil diffusers or integrated pest management."}, {"q": "How do I find where mosquitoes are hiding in my home?", "a": "A: Check damp areas like bathrooms, laundry rooms, closets, and under sinks. They also hide in potted plants or anywhere water collects."}, {"q": "How often should I treat my home for mosquitoes?", "a": "A: In South Florida, monthly or bi-monthly mosquito treatments are recommended during peak seasons (April through October)."}, {"q": "Is your mosquito treatment safe for pets and children?", "a": "A: Absolutely. Bugsy’s uses eco-conscious, family-friendly products that are tough on pests but gentle on people and pets."}, {"q": "Do indoor plants attract mosquitoes?", "a": "A: Yes—especially if they hold water in trays or if the soil stays overly moist. Letting the topsoil dry out between waterings helps."}]
 author: "Zach Bernstein"
 published: "2025-06-09"
 ---
@@ -74,8 +74,8 @@ We combine modern techniques with environmentally sound treatments tailored for 
 
 ## **FAQs About Getting Rid of Mosquitoes Indoors**
 
-### Do citronella candles really work indoors?
-A: They help in small, enclosed spaces—but they’re not a long-term solution. For real relief, consider essential oil diffusers or integrated pest management.
+### Do citronella candles work indoors?
+A: They help in small, enclosed spaces—but they’re not a long-term solution. For longer-lasting relief, consider essential oil diffusers or integrated pest management.
 
 ### How do I find where mosquitoes are hiding in my home?
 A: Check damp areas like bathrooms, laundry rooms, closets, and under sinks. They also hide in potted plants or anywhere water collects.

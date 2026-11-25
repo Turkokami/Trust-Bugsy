@@ -12,7 +12,7 @@ Pest Control • Sunset Lakes, Miramar
 
 # Sunset Lakes Pest Control — a gated lake community mosquitoes love.
 
-Bugsy’s protects Sunset Lakes’ gated homes in Miramar from the mosquitoes, no-see-ums, fire ants, iguanas, and rodents drawn to its chain of lakes and landscaping near the Everglades buffer. Licensed, veteran-owned, local.
+Bugsy’s protects Sunset Lakes’ gated homes in Miramar from the mosquitoes, no-see-ums, fire ants, iguanas, and rodents drawn to its chain of lakes and landscaping near the Everglades buffer. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Miramar.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Sunset Lakes, Miramar and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Sunset Lakes, Miramar and across South Florida.

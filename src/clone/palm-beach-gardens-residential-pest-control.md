@@ -81,49 +81,49 @@ These are the species we treat most across Palm Beach Gardens — each with a lo
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — the primary termite risk for the city’s slab-built golf communities.
 
-[Learn about subterranean termites →](/pest-library/subterranean-termites/)
+[Learn about subterranean termites](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Lives entirely inside dry structural wood — found in older and wood-frame homes and treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](/pest-library/drywood-termites/)
+[Learn about drywood termites](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, landscaping, and lush ornamentals on warm nights — heavy in the city’s manicured, well-planted communities.
 
-[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in the Gardens’ condo and 55+ communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](/pest-library/german-cockroaches/)
+[Learn about German cockroaches](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants indoors, plus fire ants that colonize the broad, sunny St. Augustine turf of golf communities and family lawns.
 
-[Learn about white-footed ants →](/pest-library/white-footed-ants/)
+[Learn about white-footed ants](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Climbs seawalls, fences, and tree limbs into attics — heightened along the Intracoastal, the golf-course lakes, and the preserve edges.
 
-[Learn about roof rats →](/pest-library/roof-rats/)
+[Learn about roof rats](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the golf-course lakes, community waterways, the Intracoastal, and the Loxahatchee Slough — a lake-and-preserve city means heavy wet-season pressure everywhere.
 
-[Learn about mosquitoes →](/pest-library/mosquitoes/)
+[Learn about mosquitoes](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 
 Venomous widows tuck into garages, meter boxes, and patio furniture — the brown widow is now especially common across northern Palm Beach County yards.
 
-[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
+[Learn about widow spiders](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -286,4 +286,4 @@ Get a $99 inspection (applied to the cost of treatment) from a local, veteran-ow
 
 [Get Your Free Palm Beach Gardens Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.

@@ -12,7 +12,7 @@ Pest Control • Regency Lakes, Coconut Creek
 
 # Regency Lakes Pest Control — a gated lake community mosquitoes love.
 
-Bugsy’s protects Regency Lakes’ gated homes in Coconut Creek from the mosquitoes, fire ants, palmetto bugs, iguanas, and rodents drawn to its lakes and landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Regency Lakes’ gated homes in Coconut Creek from the mosquitoes, fire ants, palmetto bugs, iguanas, and rodents drawn to its lakes and landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Coconut Cre
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Regency Lakes, Coconut Creek and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Regency Lakes, Coconut Creek and across South Florida.

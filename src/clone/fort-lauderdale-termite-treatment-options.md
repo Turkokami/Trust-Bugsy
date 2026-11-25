@@ -183,7 +183,7 @@ Termite emergencies don’t wait for business hours. That’s why we offer emerg
 
 Effective termite treatment in Fort Lauderdale requires understanding local species, choosing the appropriate treatment, and relying on seasoned local experts who combine scientific knowledge with practical experience. Regular inspections and proper maintenance help minimize infestation risks, while professional treatment ensures complete protection.
 
-At Bugsy’s Pest Solutions, we’ve built our reputation on honesty, service, and real results. Our veteran-owned business brings military precision to pest control, ensuring your family and property receive the protection they deserve. Combining chemical and eco-friendly solutions with robust follow-up support leads to long-lasting protection, preserving both structural integrity and property value.
+At Bugsy’s Pest Solutions, we’ve built our reputation on honesty, service, and results. Our veteran-owned business brings military precision to pest control, ensuring your family and property receive the protection they deserve. Combining chemical and eco-friendly solutions with robust follow-up support leads to long-lasting protection, preserving both structural integrity and property value.
 
 ---
 

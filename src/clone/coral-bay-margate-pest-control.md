@@ -12,7 +12,7 @@ Pest Control • Coral Bay, Margate
 
 # Coral Bay Pest Control — lakeside Margate living, minus the pests.
 
-Bugsy’s protects Coral Bay’s homes in Margate from the mosquitoes, fire ants, palmetto bugs, iguanas, and rodents drawn to its lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Coral Bay’s homes in Margate from the mosquitoes, fire ants, palmetto bugs, iguanas, and rodents drawn to its lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Margate.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Coral Bay, Margate and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Coral Bay, Margate and across South Florida.

@@ -137,4 +137,4 @@ Get a $99 inspection (applied to the cost of treatment) and a treatment matched 
 
 [Get a Free Roach Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

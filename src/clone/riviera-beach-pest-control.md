@@ -5,7 +5,7 @@ description: "From Singer Island to the mainland core, Bugsy’s protects Rivier
 type: "area"
 h1: "Pest Control in Riviera Beach, FL | Bugsy’s Pest Solutions"
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-335-min.webp"
-faqs: [{"q": "Do you service Singer Island condos and the mainland?", "a": "Yes — single-family homes, waterfront properties, Singer Island condos, and commercial sites like restaurants and marinas. We’re local, so same-day service is often available."}, {"q": "Why are no-see-ums so bad near the water?", "a": "Biting midges breed in the mangroves and tidal flats along the lagoon and slip through standard screens. We treat resting vegetation around your property and advise on screening and timing for real relief."}, {"q": "How much does pest control cost in Riviera Beach?", "a": "It depends on the property type, size, and pests involved. We give a clear, no-pressure quote up front — call (561) 654-8998."}, {"q": "Are treatments safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service Singer Island condos and the mainland?", "a": "Yes — single-family homes, waterfront properties, Singer Island condos, and commercial sites like restaurants and marinas. We’re local, so same-day service is often available."}, {"q": "Why are no-see-ums so bad near the water?", "a": "Biting midges breed in the mangroves and tidal flats along the lagoon and slip through standard screens. We treat resting vegetation around your property and advise on screening and timing for relief."}, {"q": "How much does pest control cost in Riviera Beach?", "a": "It depends on the property type, size, and pests involved. We give a clear, no-pressure quote up front — call (561) 654-8998."}, {"q": "Are treatments safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 # Pest Control in Riviera Beach, FL | Bugsy’s Pest Solutions
@@ -14,7 +14,7 @@ Pest Control • Riviera Beach, FL
 
 ## Riviera Beach Pest Control — where the Intracoastal, marinas, and barrier island drive year-round pests.
 
-From Singer Island to the mainland core, Bugsy’s protects Riviera Beach homes and businesses from the mosquitoes, no-see-ums, roaches, and rodents that thrive along the Lake Worth Lagoon, mangroves, and marinas. Licensed, veteran-owned, local.
+From Singer Island to the mainland core, Bugsy’s protects Riviera Beach homes and businesses from the mosquitoes, no-see-ums, roaches, and rodents that thrive along the Lake Worth Lagoon, mangroves, and marinas. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -74,7 +74,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — single-family homes, waterfront properties, Singer Island condos, and commercial sites like restaurants and marinas. We’re local, so same-day service is often available.
 
 ### Why are no-see-ums so bad near the water?
-Biting midges breed in the mangroves and tidal flats along the lagoon and slip through standard screens. We treat resting vegetation around your property and advise on screening and timing for real relief.
+Biting midges breed in the mangroves and tidal flats along the lagoon and slip through standard screens. We treat resting vegetation around your property and advise on screening and timing for relief.
 
 ### How much does pest control cost in Riviera Beach?
 It depends on the property type, size, and pests involved. We give a clear, no-pressure quote up front — call (561) 654-8998.
@@ -105,4 +105,4 @@ Get a free, no-pressure quote from a licensed, veteran-owned team that knows the
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Riviera Beach, Riviera Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Riviera Beach, Riviera Beach and all of Palm Beach County.

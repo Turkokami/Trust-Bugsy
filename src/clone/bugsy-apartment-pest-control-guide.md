@@ -149,7 +149,7 @@ Parents and pet owners choose Bugsy because our treatments prioritize safety wit
 
 ### Performance Guarantees
 
-Concerned that eco-friendly means less effective? Don’t be. Bugsy backs all our green treatments with the same guarantees as conventional methods. If pests return between scheduled services, we return at no charge to make it right.
+Concerned that eco-friendly means less effective? There’s no need to be, because Bugsy backs all our green treatments with the same guarantees as conventional methods. If pests return between scheduled services, we return at no charge to make it right.
 
 ## Finding Bugsy: Your [Local Apartment Pest Control Experts](/)
 

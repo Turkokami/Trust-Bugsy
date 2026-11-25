@@ -37,7 +37,7 @@ They are common in commercial kitchens, food-service areas, and hospitals, where
 
 ## Why they are a problem
 
-Because phorid flies develop in filth, sewage, and decaying matter, they can carry bacteria onto food and surfaces — a real concern in kitchens and healthcare settings. Just as important, they can be the messenger for a hidden broken drain line, and ignoring them may mean overlooking a costly plumbing and sanitation problem.
+Because phorid flies develop in filth, sewage, and decaying matter, they can carry bacteria onto food and surfaces — a concern in kitchens and healthcare settings. Just as important, they can be the messenger for a hidden broken drain line, and ignoring them may mean overlooking a costly plumbing and sanitation problem.
 
 ## How Bugsy’s treats phorid flies
 

@@ -12,7 +12,7 @@ Pest Control • Holiday Springs, Margate
 
 # Holiday Springs Pest Control — a lakeside community where pests find the water.
 
-Bugsy’s protects Holiday Springs’ homes and villas in Margate from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Holiday Springs’ homes and villas in Margate from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Margate.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Holiday Springs, Margate and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Holiday Springs, Margate and across South Florida.

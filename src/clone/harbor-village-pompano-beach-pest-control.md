@@ -12,7 +12,7 @@ Pest Control • Harbor Village, Pompano Beach
 
 # Harbor Village Pest Control — Intracoastal waterfront where canals meet no-see-ums.
 
-Bugsy’s protects Harbor Village’s waterfront homes and condos in east Pompano Beach from the no-see-ums, mosquitoes, iguanas, and roof rats drawn to the Intracoastal, canals, and seawalls. Licensed, veteran-owned, local.
+Bugsy’s protects Harbor Village’s waterfront homes and condos in east Pompano Beach from the no-see-ums, mosquitoes, iguanas, and roof rats drawn to the Intracoastal, canals, and seawalls. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Pompano Bea
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Harbor Village, Pompano Beach and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Harbor Village, Pompano Beach and across South Florida.

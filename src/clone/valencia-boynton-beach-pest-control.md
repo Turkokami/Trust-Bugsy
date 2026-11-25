@@ -102,4 +102,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a lakeside 55+
 
 [Get a Free Valencia Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving the Valencia Communities and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving the Valencia Communities and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

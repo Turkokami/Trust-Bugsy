@@ -14,7 +14,7 @@ Pest Control • River Bridge, Greenacres
 
 ## River Bridge Pest Control — golf-course lakes mean steady mosquito & ant pressure.
 
-Bugsy’s keeps River Bridge’s gated single-family homes and townhomes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around the community’s golf course and lakes. Licensed, veteran-owned, local.
+Bugsy’s keeps River Bridge’s gated single-family homes and townhomes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around the community’s golf course and lakes. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your comm
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving River Bridge, Greenacres and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving River Bridge, Greenacres and all of Palm Beach County.

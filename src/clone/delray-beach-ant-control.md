@@ -27,7 +27,7 @@ Ghost ants streaming across the kitchen, white-footed ants pouring down the wall
 
 Delray Beach’s warmth, humidity, and lush landscaping give ants everything they need to build enormous, multi-queen colonies that forage indoors all year. The frustrating part for homeowners is that the ants you see on the counter are a tiny fraction of the colony — and hitting that trail with a store-bought spray often makes things worse.
 
-Many of our worst local ants (white-footed ants, ghost ants, Caribbean crazy ants) have multiple queens and satellite nests. A repellent spray doesn’t kill the colony — it stresses it into **budding**, splitting into several new colonies. That’s why real ant control in Delray starts with identifying the exact species and treating the colony at its source.
+Many of our worst local ants (white-footed ants, ghost ants, Caribbean crazy ants) have multiple queens and satellite nests. A repellent spray doesn’t kill the colony — it stresses it into **budding**, splitting into several new colonies. That’s why effective ant control in Delray starts with identifying the exact species and treating the colony at its source.
 
 ## The ants we treat in Delray Beach
 
@@ -51,7 +51,7 @@ Large ants that nest in moisture-damaged wood — a sign of a possible hidden le
 
 ### Fire Ants
 
-Aggressive stinging ants that build mounds in Delray lawns — a real hazard for kids, pets, and bare feet.
+Aggressive stinging ants that build mounds in Delray lawns — a hazard for kids, pets, and bare feet.
 
 ### Crazy & Pharaoh Ants
 
@@ -152,4 +152,4 @@ Get a $99 inspection (applied to the cost of treatment) and a species-specific p
 
 [Get a Free Ant Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

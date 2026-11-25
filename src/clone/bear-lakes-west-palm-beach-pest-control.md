@@ -14,7 +14,7 @@ Pest Control • Bear Lakes, West Palm Beach
 
 ## Bear Lakes Country Club Pest Control — lakeside golf living with year-round mosquito & ant pressure.
 
-Bugsy’s keeps Bear Lakes Country Club homes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around the community’s golf courses and lakes in central West Palm Beach. Licensed, veteran-owned, local.
+Bugsy’s keeps Bear Lakes Country Club homes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around the community’s golf courses and lakes in central West Palm Beach. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -105,4 +105,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your comm
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Bear Lakes, West Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Bear Lakes, West Palm Beach and all of Palm Beach County.

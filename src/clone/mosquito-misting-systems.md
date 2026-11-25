@@ -5,7 +5,7 @@ description: "For South Florida yards that never get a break, Bugsy’s designs,
 type: "service"
 h1: "Mosquito Misting Systems | Palm Beach County | Bugsy’s Pest Solutions"
 service: "Mosquito Misting Systems | Palm Beach County | Bugsy’s Pest Solutions"
-faqs: [{"q": "Does a misting system really work on no-see-ums?", "a": "Yes — the fine mist helps control biting midges as well as mosquitoes, which is why coastal, canal, and Intracoastal-side homeowners tend to see the biggest difference. For the toughest no-see-um spots we combine misting with targeted resting-area treatment."}, {"q": "Is it safe for kids, pets, and pollinators?", "a": "We design systems to run at dawn and dusk when mosquitoes are active and pollinators generally are not, apply targeted amounts of a professionally-formulated concentrate, and can pause the system remotely during outdoor gatherings or daytime yard work. We walk every customer through safe use."}, {"q": "How much does a mosquito misting system cost?", "a": "It depends on your property size and layout and the number of nozzles needed, plus ongoing refills and service. We provide a clear, no-pressure quote after assessing your yard — call (561) 654-8998."}, {"q": "Do you handle installation and refills?", "a": "Yes — we custom-design and install the system, then keep it running with concentrate refills and seasonal maintenance. It’s a fully managed service."}, {"q": "Can I still get regular mosquito service instead?", "a": "Absolutely. Not every yard needs a full system — our regular mosquito control program is a great fit for many homes, and we’ll recommend what actually makes sense for your property."}]
+faqs: [{"q": "Does a misting system work on no-see-ums?", "a": "Yes — the fine mist helps control biting midges as well as mosquitoes, which is why coastal, canal, and Intracoastal-side homeowners tend to see the biggest difference. For the toughest no-see-um spots we combine misting with targeted resting-area treatment."}, {"q": "Is it safe for kids, pets, and pollinators?", "a": "We design systems to run at dawn and dusk when mosquitoes are active and pollinators generally are not, apply targeted amounts of a professionally-formulated concentrate, and can pause the system remotely during outdoor gatherings or daytime yard work. We walk every customer through safe use."}, {"q": "How much does a mosquito misting system cost?", "a": "It depends on your property size and layout and the number of nozzles needed, plus ongoing refills and service. We provide a clear, no-pressure quote after assessing your yard — call (561) 654-8998."}, {"q": "Do you handle installation and refills?", "a": "Yes — we custom-design and install the system, then keep it running with concentrate refills and seasonal maintenance. It’s a fully managed service."}, {"q": "Can I still get regular mosquito service instead?", "a": "Absolutely. Not every yard needs a full system — our regular mosquito control program is a great fit for many homes, and we’ll recommend what actually makes sense for your property."}]
 ---
 
 # Mosquito Misting Systems | Palm Beach County | Bugsy’s Pest Solutions
@@ -14,7 +14,7 @@ Mosquito Misting Systems • South Florida
 
 ## Mosquito Misting Systems — automatic, round-the-clock defense against mosquitoes & no-see-ums.
 
-For South Florida yards that never get a break, Bugsy’s designs, installs, and maintains automated mosquito misting systems that knock down mosquitoes and no-see-ums across your whole property — on a schedule, without you lifting a finger. Licensed, veteran-owned, local.
+For South Florida yards that never get a break, Bugsy’s designs, installs, and maintains automated mosquito misting systems that knock down mosquitoes and no-see-ums across your whole property — on a schedule, without you lifting a finger. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -76,7 +76,7 @@ Every install is backed by our FDACS license, family- and pet-conscious applicat
 
 ## Mosquito misting systems — questions we hear
 
-### Does a misting system really work on no-see-ums?
+### Does a misting system work on no-see-ums?
 Yes — the fine mist helps control biting midges as well as mosquitoes, which is why coastal, canal, and Intracoastal-side homeowners tend to see the biggest difference. For the toughest no-see-um spots we combine misting with targeted resting-area treatment.
 
 ### Is it safe for kids, pets, and pollinators?
@@ -113,4 +113,4 @@ Get a free property assessment and a no-pressure quote on a mosquito misting sys
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Mosquito misting system design, installation, and service across South Florida. Results vary by property and conditions.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154. Mosquito misting system design, installation, and service across South Florida. Results vary by property and conditions.

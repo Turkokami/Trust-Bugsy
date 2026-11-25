@@ -12,7 +12,7 @@ Pest Control • Admirals Cove, Jupiter
 
 # Admirals Cove Pest Control — canals, docks, and estate landscaping call for a proactive plan.
 
-Bugsy’s protects Admirals Cove’s waterfront estates from the no-see-ums, mosquitoes, roof rats, iguanas, and ants that come with miles of canals, private docks, and dense tropical landscaping. Licensed, veteran-owned, discreet.
+Bugsy’s protects Admirals Cove’s waterfront estates from the no-see-ums, mosquitoes, roof rats, iguanas, and ants that come with miles of canals, private docks, and dense tropical landscaping. We’re licensed, veteran-owned and discreet.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, discreet consultation from a licensed, veteran-owned team that knows water
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Admirals Cove, Jupiter and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Admirals Cove, Jupiter and all of Palm Beach County.

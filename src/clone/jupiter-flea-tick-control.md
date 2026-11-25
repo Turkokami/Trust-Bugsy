@@ -122,4 +122,4 @@ Get a $99 inspection (applied to the cost of treatment) and a yard-plus-interior
 
 [Get a Free Flea & Tick Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Jupiter (33458, 33469, 33477, 33478) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Jupiter (33458, 33469, 33477, 33478) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

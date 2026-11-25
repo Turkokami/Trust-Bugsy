@@ -12,7 +12,7 @@ Pest Control • Lakeview, Delray Beach
 
 # Lakeview Pest Control — golf and lake living with year-round mosquito pressure.
 
-Bugsy’s protects Lakeview’s homes around the Lakeview Golf Club and Lake Ida from the mosquitoes, ghost ants, roof rats, and palmetto bugs drawn to the water and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Lakeview’s homes around the Lakeview Golf Club and Lake Ida from the mosquitoes, ghost ants, roof rats, and palmetto bugs drawn to the water and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Delray Beac
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Lakeview, Delray Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Lakeview, Delray Beach and all of Palm Beach County.

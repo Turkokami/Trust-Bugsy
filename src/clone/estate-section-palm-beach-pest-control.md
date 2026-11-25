@@ -14,7 +14,7 @@ Pest Control • Estate Section, Palm Beach
 
 ## Estate Section Pest Control — white-glove protection for Palm Beach’s grandest homes.
 
-Bugsy’s protects the oceanfront and lakefront mansions of Palm Beach’s Estate Section from the no-see-ums, mosquitoes, roof rats, termites, and iguanas that thrive in dense estate gardens between two waters. Licensed, veteran-owned, discreet.
+Bugsy’s protects the oceanfront and lakefront mansions of Palm Beach’s Estate Section from the no-see-ums, mosquitoes, roof rats, termites, and iguanas that thrive in dense estate gardens between two waters. We’re licensed, veteran-owned and discreet.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, discreet consultation from a licensed, veteran-owned team experienced with
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving the Estate Section, the Town of Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving the Estate Section, the Town of Palm Beach and all of Palm Beach County.

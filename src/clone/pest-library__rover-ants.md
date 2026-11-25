@@ -37,7 +37,7 @@ They are strongly tied to moisture and are attracted to sweets, which is why bat
 
 ## Why they are a problem
 
-Rover ants do not sting, bite, or damage the structure, but their numbers and attraction to living spaces make them a real nuisance, and their swarmers are often mistaken for termites, causing unnecessary alarm. Their tie to moisture means they can also flag damp conditions worth addressing.
+Rover ants do not sting, bite, or damage the structure, but their numbers and attraction to living spaces make them a nuisance, and their swarmers are often mistaken for termites, causing unnecessary alarm. Their tie to moisture means they can also flag damp conditions worth addressing.
 
 ## How Bugsy’s treats rover ants
 

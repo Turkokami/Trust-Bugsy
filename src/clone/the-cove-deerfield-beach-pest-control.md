@@ -12,7 +12,7 @@ Pest Control • The Cove, Deerfield Beach
 
 # The Cove Pest Control — Intracoastal waterfront where canals meet no-see-ums.
 
-Bugsy’s protects The Cove’s waterfront homes in Deerfield Beach from the no-see-ums, mosquitoes, iguanas, and roof rats drawn to the Intracoastal, canals, and seawalls. Licensed, veteran-owned, local.
+Bugsy’s protects The Cove’s waterfront homes in Deerfield Beach from the no-see-ums, mosquitoes, iguanas, and roof rats drawn to the Intracoastal, canals, and seawalls. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Deerfield B
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving The Cove, Deerfield Beach and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving The Cove, Deerfield Beach and across South Florida.

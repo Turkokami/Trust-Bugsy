@@ -12,7 +12,7 @@ Pest Control • Coral Ridge, Fort Lauderdale
 
 # Coral Ridge Pest Control — canal-front family living with year-round biting-insect pressure.
 
-Bugsy’s protects Coral Ridge’s waterfront and country-club homes from the no-see-ums, mosquitoes, iguanas, and roof rats drawn to its canals, seawalls, and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Coral Ridge’s waterfront and country-club homes from the no-see-ums, mosquitoes, iguanas, and roof rats drawn to its canals, seawalls, and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows canal-fro
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Coral Ridge, Fort Lauderdale and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Coral Ridge, Fort Lauderdale and across South Florida.

@@ -12,7 +12,7 @@ Pest Control • Hollywood Beach
 
 # Hollywood Beach Pest Control — Broadwalk living where the ocean meets no-see-ums.
 
-Bugsy’s protects Hollywood Beach’s homes, condos, and rentals along the Broadwalk from the no-see-ums, mosquitoes, roaches, and rodents that come with the ocean, Intracoastal, and mangroves. Licensed, veteran-owned, local.
+Bugsy’s protects Hollywood Beach’s homes, condos, and rentals along the Broadwalk from the no-see-ums, mosquitoes, roaches, and rodents that come with the ocean, Intracoastal, and mangroves. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -52,7 +52,7 @@ American roaches push up from sewers and drains after rain, while subterranean t
 
 ## Steps from the ocean and Intracoastal? Biting insects never quit.
 
-Hollywood Beach’s water-on-both-sides setting makes no-see-ums and mosquitoes a near-constant. We treat resting areas and time service to the tides for real relief.
+Hollywood Beach’s water-on-both-sides setting makes no-see-ums and mosquitoes a near-constant. We treat resting areas and time service to the tides for relief.
 
 ## Why Hollywood Beach chooses Bugsy’s
 
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Hollywood.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Hollywood Beach, Hollywood and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Hollywood Beach, Hollywood and across South Florida.

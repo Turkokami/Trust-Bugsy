@@ -5,14 +5,14 @@ description: "Bugsy’s protects Jupiter Country Club homes from the mosquitoes,
 type: "area"
 h1: "Jupiter Country Club Pest Control — golf lakes and preserve edges drive year-round pressure."
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-333-min.webp"
-faqs: [{"q": "Do you service the gated Jupiter Country Club?", "a": "Yes — we service the community routinely and coordinate gate access and HOA-friendly exterior treatments. Same-day service is often available."}, {"q": "Why are mosquitoes and fire ants so persistent here?", "a": "The lakes and preserve edges are constant breeding and nesting grounds. We treat resting vegetation, standing water, and mounds around your home for real relief."}, {"q": "How much does service cost?", "a": "It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service the gated Jupiter Country Club?", "a": "Yes — we service the community routinely and coordinate gate access and HOA-friendly exterior treatments. Same-day service is often available."}, {"q": "Why are mosquitoes and fire ants so persistent here?", "a": "The lakes and preserve edges are constant breeding and nesting grounds. We treat resting vegetation, standing water, and mounds around your home for relief."}, {"q": "How much does service cost?", "a": "It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 Pest Control • Jupiter Country Club
 
 # Jupiter Country Club Pest Control — golf lakes and preserve edges drive year-round pressure.
 
-Bugsy’s protects Jupiter Country Club homes from the mosquitoes, fire ants, rodents, and wildlife that come with its golf lakes, preserve borders, and mature landscaping in western Jupiter. Licensed, veteran-owned, local.
+Bugsy’s protects Jupiter Country Club homes from the mosquitoes, fire ants, rodents, and wildlife that come with its golf lakes, preserve borders, and mature landscaping in western Jupiter. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — we service the community routinely and coordinate gate access and HOA-friendly exterior treatments. Same-day service is often available.
 
 ### Why are mosquitoes and fire ants so persistent here?
-The lakes and preserve edges are constant breeding and nesting grounds. We treat resting vegetation, standing water, and mounds around your home for real relief.
+The lakes and preserve edges are constant breeding and nesting grounds. We treat resting vegetation, standing water, and mounds around your home for relief.
 
 ### How much does service cost?
 It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998.
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows preserve-
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Jupiter Country Club, Jupiter and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Jupiter Country Club, Jupiter and all of Palm Beach County.

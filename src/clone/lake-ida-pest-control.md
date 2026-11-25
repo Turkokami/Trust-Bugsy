@@ -123,4 +123,4 @@ Get a $99 inspection (applied to the cost of treatment) built for Lake Ida’s o
 
 [Get a Free Lake Ida Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Lake Ida and all of Delray Beach (33444, 33445, 33446, 33483, 33484), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Lake Ida and all of Delray Beach (33444, 33445, 33446, 33483, 33484), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

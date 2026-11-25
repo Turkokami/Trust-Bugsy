@@ -5,14 +5,14 @@ description: "Bugsy’s protects Sewall’s Point’s upscale waterfront estates
 type: "area"
 h1: "Sewall’s Point Pest Control — a waterfront peninsula wrapped in lagoon."
 image: "https://trustbugsy.com/wp-content/uploads/2025/03/Mask-group-13-min.webp"
-faqs: [{"q": "Do you service Sewall’s Point?", "a": "Yes — we service Sewall’s Point and the Treasure Coast, from waterfront homes to condos and businesses. We cover from Fort Pierce down to Fort Lauderdale, so we know these communities well."}, {"q": "Why are no-see-ums so relentless on the Treasure Coast?", "a": "The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for real relief."}, {"q": "How much does service cost?", "a": "It depends on the property and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service Sewall’s Point?", "a": "Yes — we service Sewall’s Point and the Treasure Coast, from waterfront homes to condos and businesses. We cover from Fort Pierce down to Fort Lauderdale, so we know these communities well."}, {"q": "Why are no-see-ums so relentless on the Treasure Coast?", "a": "The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for relief."}, {"q": "How much does service cost?", "a": "It depends on the property and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 Pest Control • Sewall’s Point, Stuart
 
 # Sewall’s Point Pest Control — a waterfront peninsula wrapped in lagoon.
 
-Bugsy’s protects Sewall’s Point’s upscale waterfront estates from the no-see-ums, salt-marsh mosquitoes, iguanas, and roof rats that come with the St. Lucie River and Indian River Lagoon on both sides. Licensed, veteran-owned, discreet.
+Bugsy’s protects Sewall’s Point’s upscale waterfront estates from the no-see-ums, salt-marsh mosquitoes, iguanas, and roof rats that come with the St. Lucie River and Indian River Lagoon on both sides. We’re licensed, veteran-owned and discreet.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — we service Sewall’s Point and the Treasure Coast, from waterfront homes to condos and businesses. We cover from Fort Pierce down to Fort Lauderdale, so we know these communities well.
 
 ### Why are no-see-ums so relentless on the Treasure Coast?
-The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for real relief.
+The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for relief.
 
 ### How much does service cost?
 It depends on the property and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998.
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows Treasure 
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Sewall’s Point, Stuart and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Sewall’s Point, Stuart and across South Florida.

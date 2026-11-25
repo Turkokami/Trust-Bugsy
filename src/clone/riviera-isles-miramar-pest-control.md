@@ -12,7 +12,7 @@ Pest Control • Riviera Isles, Miramar
 
 # Riviera Isles Pest Control — gated lake living on the Everglades edge.
 
-Bugsy’s protects Riviera Isles’ gated homes in Miramar from the mosquitoes, no-see-ums, fire ants, iguanas, and roof rats drawn to its lakes and landscaping near the Everglades buffer. Licensed, veteran-owned, local.
+Bugsy’s protects Riviera Isles’ gated homes in Miramar from the mosquitoes, no-see-ums, fire ants, iguanas, and roof rats drawn to its lakes and landscaping near the Everglades buffer. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Miramar.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Riviera Isles, Miramar and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Riviera Isles, Miramar and across South Florida.

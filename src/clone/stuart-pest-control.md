@@ -104,4 +104,4 @@ Get a free, no-pressure quote from a licensed, veteran-owned team that knows the
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Stuart, Martin County, and the Treasure Coast.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Stuart, Martin County, and the Treasure Coast.

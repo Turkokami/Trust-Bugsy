@@ -30,7 +30,7 @@ faqs: [{"q": "How long can drywood termites go undetected?", "a": "Drywood termi
 ![Logo Photoroom](https://trustbugsy.com/wp-content/uploads/2025/03/logo-Photoroom-1.webp)
 ![Bbb logo](https://trustbugsy.com/wp-content/uploads/2025/03/bbb-logo-1.webp)
 
-![Termite frass collecting beneath a window frame](https://trustbugsy.com/wp-content/uploads/2026/04/Gemini_Generated_Image_e96gzye96gzye96g.webp) Drywood termites are one of South Florida’s most damaging pests — and one of the most quietly destructive. Unlike subterranean termites that travel from the soil, drywood termites live entirely inside the wood they’re consuming. They can infest door frames, window sills, attic lumber, furniture, and baseboards for years before homeowners notice any visible signs. Per the [EPA termite guide](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them), drywood termites cause hundreds of millions of dollars in structural damage annually across the southern United States.
+![Termite frass collecting beneath a window frame](https://trustbugsy.com/wp-content/uploads/2026/04/Gemini_Generated_Image_e96gzye96gzye96g.webp) Drywood termites are one of South Florida’s most damaging pests — and one of the hardest to spot. Unlike subterranean termites that travel from the soil, drywood termites live entirely inside the wood they’re consuming. They can infest door frames, window sills, attic lumber, furniture, and baseboards for years before homeowners notice any visible signs. Per the [EPA termite guide](https://www.epa.gov/safepestcontrol/termites-how-identify-and-control-them), drywood termites cause hundreds of millions of dollars in structural damage annually across the southern United States.
 
 ## How to Identify Drywood Termites
 

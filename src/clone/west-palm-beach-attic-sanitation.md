@@ -122,4 +122,4 @@ Get a free attic assessment — we’ll clean, sanitize, and decontaminate.
 
 [Get a Free Attic Assessment](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

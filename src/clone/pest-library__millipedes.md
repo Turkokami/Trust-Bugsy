@@ -37,7 +37,7 @@ The problem is seasonal and dramatic: after heavy rains saturate the soil, or wh
 
 ## Why they are a problem
 
-Millipedes cause no structural damage and do not bite, so they are a nuisance pest — but a memorable one, since they arrive in overwhelming numbers and their defensive secretions can stain and smell. Cleaning up repeated mass invasions is the real burden for homeowners.
+Millipedes cause no structural damage and do not bite, so they are a nuisance pest — but a memorable one, since they arrive in overwhelming numbers and their defensive secretions can stain and smell. Cleaning up repeated mass invasions is the main burden for homeowners.
 
 ## How Bugsy’s treats millipedes
 

@@ -30,7 +30,7 @@ From Madison Green to Counterpoint Estates, Bugsy’s protects Royal Palm Beach 
 
 Royal Palm Beach was built around water. The village is threaded with man-made lakes, drainage canals, and the M-Canal along its western edge, and it backs onto the preserves and wetlands that run toward the Everglades. That water is what makes the community beautiful — and it is also a year-round breeding engine for mosquitoes, midges, and the moisture-loving pests that follow them indoors.
 
-Add South Florida’s subtropical heat and a nine-month wet season, and pests here never really get a winter break. A ghost-ant trail on the counter, palmetto bugs in the garage after a downpour, or a rodent in the wall as the nights cool — in RPB these aren’t one-off surprises, they’re seasonal patterns. The fix is a plan tuned to exactly where your home sits.
+Add South Florida’s subtropical heat and a nine-month wet season, and pests here never get a true winter break. A ghost-ant trail on the counter, palmetto bugs in the garage after a downpour, or a rodent in the wall as the nights cool — in RPB these aren’t one-off surprises, they’re seasonal patterns. The fix is a plan tuned to exactly where your home sits.
 
 ## The pests that define Royal Palm Beach
 
@@ -54,7 +54,7 @@ Roof rats travel the tree canopy into attics, subterranean termites attack from 
 
 ![Mosquitoes swarming in a South Florida backyard at dusk](https://trustbugsy.com/wp-content/uploads/2026/04/Gemini_Generated_Image_kkcm2pkkcm2pkkcm.webp)
 
-## Back up to a lake, canal, or preserve? Expect heavier pressure.
+## Back up to a lake, canal, or preserve? You can expect heavier pest pressure there.
 
 Waterfront and preserve-edge lots — Madison Green’s golf lakes, the canals through Counterpoint Estates, homes along the M-Canal — see far more mosquito, midge, and wildlife activity than interior streets. We tailor the treatment to your lot, not a one-size template.
 
@@ -110,4 +110,4 @@ Get a free, no-pressure quote from a licensed, veteran-owned team that actually 
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Royal Palm Beach and all of Palm Beach County. Response times vary by season and demand.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Royal Palm Beach and all of Palm Beach County. Response times vary by season and demand.

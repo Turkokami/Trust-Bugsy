@@ -12,7 +12,7 @@ Pest Control • Sunrise Lakes
 
 # Sunrise Lakes Pest Control — lakeside condo living, minus the pests.
 
-Bugsy’s protects Sunrise Lakes’ condos and homes from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Sunrise Lakes’ condos and homes from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Sunrise.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Sunrise Lakes, Sunrise and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Sunrise Lakes, Sunrise and across South Florida.

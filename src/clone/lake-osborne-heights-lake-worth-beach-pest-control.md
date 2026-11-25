@@ -14,7 +14,7 @@ Pest Control • Lake Osborne Heights, Lake Worth Beach
 
 ## Lake Osborne Heights Pest Control — lakeside living with mosquitoes, ants & rats.
 
-Bugsy’s protects Lake Osborne Heights’ established homes from the mosquitoes, ghost ants, roof rats, and palmetto bugs drawn to the lake, canals, and mature landscaping. Veteran-owned and local.
+Bugsy’s protects Lake Osborne Heights’ established homes from the mosquitoes, ghost ants, roof rats, and palmetto bugs drawn to the lake, canals, and mature landscaping. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -105,4 +105,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Lake Worth 
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Lake Osborne Heights, Lake Worth Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Lake Osborne Heights, Lake Worth Beach and all of Palm Beach County.

@@ -12,7 +12,7 @@ Pest Control • Emerald Hills, Hollywood
 
 # Emerald Hills Pest Control — gated golf living with year-round lake pressure.
 
-Bugsy’s protects Emerald Hills’ upscale golf-course homes from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Emerald Hills’ upscale golf-course homes from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Hollywood.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Emerald Hills, Hollywood and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Emerald Hills, Hollywood and across South Florida.

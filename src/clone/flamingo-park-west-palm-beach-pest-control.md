@@ -25,7 +25,7 @@ Flamingo Park’s brick streets, mission and Mediterranean-Revival bungalows, an
 
 ## Why Flamingo Park’s bungalows fight different pests
 
-Flamingo Park is a compact grid of brick-paved streets lined with 1920s bungalows — mission, frame vernacular, and Mediterranean-Revival — under one of the densest oak canopies in the city, just west of Dixie Highway and south of downtown. The charm is real, and so is the pest pressure that comes with old wood and heavy tree cover.
+Flamingo Park is a compact grid of brick-paved streets lined with 1920s bungalows — mission, frame vernacular, and Mediterranean-Revival — under one of the densest oak canopies in the city, just west of Dixie Highway and south of downtown. The charm comes with pest pressure that comes with old wood and heavy tree cover.
 
 Original wood framing, floors, and trim make these homes a magnet for drywood and subterranean termites. The overlapping oak canopy gives roof rats a bridge to older eaves and attics, while palmetto bugs and ghost ants work the mature landscaping and settle into kitchens and older plumbing. A ninety-year-old bungalow needs eyes that know its construction.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a 1920s bungal
 
 [Get a Free Flamingo Park Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Flamingo Park and all of West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Flamingo Park and all of West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

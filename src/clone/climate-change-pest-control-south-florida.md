@@ -343,4 +343,4 @@ Climate change is making pest problems worse, but you don’t have to face them 
 
 *Don’t let climate change turn your home into a pest paradise. Call Bugsy’s now and stay ahead of the curve with climate-smart pest control solutions.*
 
-**Veteran-owned • Licensed & Insured • Satisfaction Guaranteed**
+**Veteran-owned, Licensed & Insured, Satisfaction Guaranteed**

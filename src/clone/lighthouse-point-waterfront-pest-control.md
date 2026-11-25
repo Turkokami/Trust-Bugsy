@@ -12,7 +12,7 @@ Pest Control • Lighthouse Point Waterfront
 
 # Lighthouse Point Waterfront Pest Control — a boating city of deep-water canals and seawalls.
 
-Bugsy’s protects Lighthouse Point’s waterfront homes from the no-see-ums, mosquitoes, iguanas, and roof rats that come with a city built almost entirely on deep-water canals off the Intracoastal. Licensed, veteran-owned, local.
+Bugsy’s protects Lighthouse Point’s waterfront homes from the no-see-ums, mosquitoes, iguanas, and roof rats that come with a city built almost entirely on deep-water canals off the Intracoastal. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Lighthouse 
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving the Lighthouse Point waterfront, Lighthouse Point and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving the Lighthouse Point waterfront, Lighthouse Point and across South Florida.

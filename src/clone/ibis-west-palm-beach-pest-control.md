@@ -14,7 +14,7 @@ Pest Control • Ibis, West Palm Beach
 
 ## Ibis Pest Control — golf, lakes, and the Grassy Waters preserve on your doorstep.
 
-Bugsy’s protects the Ibis Golf & Country Club community from the mosquitoes, no-see-ums, fire ants, rodents, and wildlife drawn to its lakes, fairways, and the wetland preserve along its western edge. Licensed, veteran-owned, local.
+Bugsy’s protects the Ibis Golf & Country Club community from the mosquitoes, no-see-ums, fire ants, rodents, and wildlife drawn to its lakes, fairways, and the wetland preserve along its western edge. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -54,7 +54,7 @@ American roaches move in from mulch and lake edges after rain, while subterranea
 
 ## Backing the preserve, a lake, or a fairway? Expect the heaviest pressure in Ibis.
 
-Preserve- and water-edge lots see far more mosquito, no-see-um, and wildlife activity. We treat resting areas and standing water and time service to the wet season for real relief.
+Preserve- and water-edge lots see far more mosquito, no-see-um, and wildlife activity. We treat resting areas and standing water and time service to the wet season for relief.
 
 ## Why Ibis homeowners call Bugsy’s
 
@@ -105,4 +105,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows preserve-
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Ibis, West Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Ibis, West Palm Beach and all of Palm Beach County.

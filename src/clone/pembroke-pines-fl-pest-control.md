@@ -27,7 +27,7 @@ Pembroke Pines is one of the largest cities in Broward County, with a diverse mi
 
 📞 (561) 654-8998 | ✉ contact@trustbugsy.com
 
-**Veteran-Owned • Eco-Friendly • Pet-Safe • Licensed & Insured • Same-Day Available**
+**Veteran-Owned, Eco-Friendly, Pet-Safe, Licensed & Insured, Same-Day Available**
 
 ## Residential Pest Control in Pembroke Pines
 

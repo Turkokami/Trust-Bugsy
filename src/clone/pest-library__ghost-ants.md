@@ -38,13 +38,13 @@ Ghost ants are extremely small — only 1.3 to 1.5 millimeters long, roughly the
 
 ## Ghost Ant vs. Other Small Ants — How to Tell the Difference
 
-Ghost Ant: 1.3–1.5mm · Dark head + pale/translucent abdomen · Found in: Kitchens, bathrooms, wall voids
+Ghost Ant: 1.3–1.5mm; Dark head + pale/translucent abdomen; Found in: Kitchens, bathrooms, wall voids
 
-Big-Headed Ant: 1.5–3mm · Uniform brown, disproportionately large head on major workers · Found in: Soil, driveways, foundation edges
+Big-Headed Ant: 1.5–3mm; Uniform brown, disproportionately large head on major workers; Found in: Soil, driveways, foundation edges
 
-White-Footed Ant: 2.5–3mm · Black body with pale/white feet · Found in: Exterior walls, trees, inside wall voids
+White-Footed Ant: 2.5–3mm; Black body with pale/white feet; Found in: Exterior walls, trees, inside wall voids
 
-Pharaoh Ant: 1.5–2mm · Pale yellow to light brown, uniform color · Found in: Hospitals, apartments, commercial kitchens
+Pharaoh Ant: 1.5–2mm; Pale yellow to light brown, uniform color; Found in: Hospitals, apartments, commercial kitchens
 
 ## Signs of a Ghost Ant Infestation
 

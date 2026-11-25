@@ -122,4 +122,4 @@ Get a free attic assessment — we’ll clean, sanitize, and decontaminate.
 
 [Get a Free Attic Assessment](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Lake Worth Beach (33460, 33461, 33462, 33463, 33467) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Lake Worth Beach (33460, 33461, 33462, 33463, 33467) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -5,7 +5,7 @@ description: "The primary vector for dengue fever, Zika virus, chikungunya, and 
 type: "library"
 h1: "Mosquitoes in South Florida"
 image: "https://trustbugsy.com/wp-content/uploads/2025/03/Group-279.webp"
-faqs: [{"q": "Is there really a mosquito season in South Florida?", "a": "South Florida has year-round mosquito activity — but pressure peaks from May through October during the rainy season. The dry season (November–April) brings some relief, but warm temperatures mean mosquitoes are never fully dormant in Palm Beach or Broward county."}, {"q": "Are the small tan mosquitoes different from the big ones?", "a": "Yes — Aedes aegypti and tiger mosquitoes are smaller, striped, and daytime biters. The larger Culex mosquitoes are the nighttime biters most active around dusk and dawn. Both require professional treatment, but different treatment timing is more effective for each species."}, {"q": "I have a pool — does that attract mosquitoes?", "a": "A properly maintained and circulating pool does not breed mosquitoes — moving water prevents larvae from surviving. The risk comes from pool covers that collect rainwater, equipment areas that hold standing water, or pool toys left outside."}]
+faqs: [{"q": "Is there a mosquito season in South Florida?", "a": "South Florida has year-round mosquito activity — but pressure peaks from May through October during the rainy season. The dry season (November–April) brings some relief, but warm temperatures mean mosquitoes are never fully dormant in Palm Beach or Broward county."}, {"q": "Are the small tan mosquitoes different from the big ones?", "a": "Yes — Aedes aegypti and tiger mosquitoes are smaller, striped, and daytime biters. The larger Culex mosquitoes are the nighttime biters most active around dusk and dawn. Both require professional treatment, but different treatment timing is more effective for each species."}, {"q": "I have a pool — does that attract mosquitoes?", "a": "A properly maintained and circulating pool does not breed mosquitoes — moving water prevents larvae from surviving. The risk comes from pool covers that collect rainwater, equipment areas that hold standing water, or pool toys left outside."}]
 ---
 
 # Mosquitoes in South Florida
@@ -64,7 +64,7 @@ The primary vector for West Nile virus and St. Louis encephalitis in South Flori
 
 ## Frequently Asked Questions
 
-### Is there really a mosquito season in South Florida?
+### Is there a mosquito season in South Florida?
 South Florida has year-round mosquito activity — but pressure peaks from May through October during the rainy season. The dry season (November–April) brings some relief, but warm temperatures mean mosquitoes are never fully dormant in Palm Beach or Broward county.
 
 ### Are the small tan mosquitoes different from the big ones?

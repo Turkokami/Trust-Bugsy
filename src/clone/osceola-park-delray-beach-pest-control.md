@@ -12,7 +12,7 @@ Pest Control • Osceola Park, Delray Beach
 
 # Osceola Park Pest Control — a historic downtown-edge neighborhood with older-home pests.
 
-Bugsy’s protects Osceola Park’s established homes just south of Atlantic Avenue from the roof rats, termites, ghost ants, and palmetto bugs that target older construction and mature tree cover. Veteran-owned and local.
+Bugsy’s protects Osceola Park’s established homes just south of Atlantic Avenue from the roof rats, termites, ghost ants, and palmetto bugs that target older construction and mature tree cover. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows older Del
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Osceola Park, Delray Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Osceola Park, Delray Beach and all of Palm Beach County.

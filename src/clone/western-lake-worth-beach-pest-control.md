@@ -49,7 +49,7 @@ Preserve and canal edges push rats and wildlife toward homes — trapped, exclud
 
 Chinch bugs threaten the big lawns; slab homes need subterranean termite protection — we cover both.
 
-## Backing to a canal or preserve? Expect heavier pressure.
+## Backing to a canal or preserve? You can expect heavier pest pressure there.
 
 Western Lake Worth’s canals, lakes, and wetlands are large, permanent breeding and wildlife sources. A recurring barrier treatment plus larviciding and targeted fire-ant and wildlife work is what keeps them in check.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a family commu
 
 [Get a Free Western Lake Worth Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Western Lake Worth and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Western Lake Worth and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

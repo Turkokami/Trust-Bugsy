@@ -12,7 +12,7 @@ Pest Control • Cypress Bend, Pompano Beach
 
 # Cypress Bend Pest Control — lakeside condo living, minus the pests.
 
-Bugsy’s protects Cypress Bend’s condos and homes in Pompano Beach from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Cypress Bend’s condos and homes in Pompano Beach from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Pompano Bea
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Cypress Bend, Pompano Beach and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Cypress Bend, Pompano Beach and across South Florida.

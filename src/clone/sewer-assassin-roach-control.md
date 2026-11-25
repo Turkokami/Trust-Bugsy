@@ -14,7 +14,7 @@ Palmetto Bug & Sewer Roach Control • South Florida
 
 ## The Sewer Assassin — stopping palmetto bugs and drain flies at the source.
 
-Most palmetto bugs don’t come from your kitchen — they come up from the sewer and drain lines. Bugsy’s installs the Sewer Assassin, a device set right in your sewer cleanout that kills sewer-born roaches and drain flies before they ever reach your home. Licensed, veteran-owned, local.
+Most palmetto bugs don’t come from your kitchen — they come up from the sewer and drain lines. Bugsy’s installs the Sewer Assassin, a device set right in your sewer cleanout that kills sewer-born roaches and drain flies before they ever reach your home. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -113,4 +113,4 @@ Get a free assessment and a no-pressure quote on the Sewer Assassin for your hom
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Sewer roach and drain fly control across South Florida. Results vary by property and conditions.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154. Sewer roach and drain fly control across South Florida. Results vary by property and conditions.

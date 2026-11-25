@@ -27,7 +27,7 @@ From the waterfront estates of Royal Palm Yacht & Country Club and The Sanctuary
 
 Boca Raton stretches from the Atlantic barrier island and the Intracoastal west across canals, golf-course lakes, and the El Rio corridor — and that varied, water-rich geography is exactly what keeps pests moving all twelve months.
 
-Boca Raton runs from the beach and the Intracoastal Waterway on the east, through the dense downtown around Mizner Park, out to the sprawling gated golf communities and family neighborhoods of West Boca. All of it sits in a humid subtropical climate that never really gets a killing frost, so pests here don’t take a winter off — they breed, forage, and move into homes year-round.
+Boca Raton runs from the beach and the Intracoastal Waterway on the east, through the dense downtown around Mizner Park, out to the sprawling gated golf communities and family neighborhoods of West Boca. All of it sits in a humid subtropical climate that almost never gets a killing frost, so pests here don’t take a winter off — they breed, forage, and move into homes year-round.
 
 Water is the common thread. The Intracoastal, Lake Boca Raton, the El Rio Canal, and the countless lakes threaded through communities like Boca West, Broken Sound, and Woodfield keep humidity high and draw mosquitoes, no-see-ums, and roof rats that travel seawalls, fences, and tree lines straight to the roofline. Downtown around Mizner Park and along Federal Highway, dense condos and a busy restaurant scene create steady food and harborage that push cockroaches and rodents into nearby homes. And East Boca’s older Golden Triangle homes give drywood termites decades of undisturbed structural wood to work in.
 
@@ -81,49 +81,49 @@ These are the species we treat most across Boca Raton — each with a local twis
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — a constant risk for Boca’s slab-built western communities and waterfront homes alike.
 
-[Learn about subterranean termites →](/pest-library/subterranean-termites/)
+[Learn about subterranean termites](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Especially common in East Boca’s older Golden Triangle and beachside homes, living entirely inside dry structural wood — our no-tent options handle them without fumigation.
 
-[Learn about drywood termites →](/pest-library/drywood-termites/)
+[Learn about drywood termites](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, sewers, and landscaping on warm nights — a constant around Mizner Park dining and in Boca’s lush, well-planted yards.
 
-[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Boca’s many downtown condos and 55+ communities. Requires baiting, not just spraying, to eliminate.
 
-[Learn about German cockroaches →](/pest-library/german-cockroaches/)
+[Learn about German cockroaches](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants that trail across kitchens and baths by the thousands — among the most common calls we get from Boca Raton homeowners.
 
-[Learn about white-footed ants →](/pest-library/white-footed-ants/)
+[Learn about white-footed ants](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 South Florida’s dominant rodent, climbing canal seawalls, fences, and tree limbs into attics — heightened near the Intracoastal, Lake Boca, and older neighborhoods.
 
-[Learn about roof rats →](/pest-library/roof-rats/)
+[Learn about roof rats](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by standing water in the Intracoastal, Lake Boca, golf-course lakes, and the western wetlands — peak pressure through the long wet season makes yards unusable without control.
 
-[Learn about mosquitoes →](/pest-library/mosquitoes/)
+[Learn about mosquitoes](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 
 Venomous widows tuck into garages, meter boxes, and patio furniture — the brown widow is now especially common across Boca yards.
 
-[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
+[Learn about widow spiders](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -286,4 +286,4 @@ Get a $99 inspection (applied to the cost of treatment) from a local, veteran-ow
 
 [Get Your Free Boca Raton Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.

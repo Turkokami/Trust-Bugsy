@@ -49,7 +49,7 @@ Ghost and white-footed ants trail from lakeside landscaping indoors — baited a
 
 Chinch bugs threaten the broad lawns — addressed as part of a full-property program.
 
-## Backing to the lake or park? Expect heavier pressure.
+## Backing to the lake or park? You can expect heavier pest pressure there.
 
 Lake Osborne and John Prince Park are large, permanent breeding and wildlife sources. A recurring barrier treatment plus larviciding and targeted wildlife work is what keeps them in check.
 
@@ -99,4 +99,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a home by Lake
 
 [Get a Free Lakeside Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Lake Osborne & John Prince Park and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Lake Osborne & John Prince Park and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

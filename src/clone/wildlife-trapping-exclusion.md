@@ -15,7 +15,7 @@ Wildlife Trapping & Exclusion
 
 Rats, bats, raccoons, possums, moles, birds, and other uninvited wildlife don’t just leave on their own. Bugsy’s traps and removes the animals, then seals the exterior entry points they used to get in — because trapping without exclusion just leaves the door open for the next one.
 
-[Get a Free Estimate](/contact/) TRAP • REMOVE • EXCLUDE
+[Get a Free Estimate](/contact/) Trap, remove and exclude.
 
 ## What we handle
 
@@ -64,7 +64,7 @@ Priced by home size. Includes exterior proofing, six trap checks, and a 90-day w
 | 4,000–4,999 sq ft | $2,400 | $1,300 | $270 (6 stations) |
 | 5,000–5,999 sq ft | $2,800 | $1,700 | $360 (8 stations) |
 
-Structures over 6,000 sq ft or two-plus stories are custom-quoted. Wildlife trapping starts at $500 (Palm Beach & Martin counties) or $750 (Broward & St. Lucie counties) for the first week. Dead animal removal from $179 (yard/driveway) • $395 (attic) • $595 (crawlspace). Final scope is confirmed at your inspection.
+Structures over 6,000 sq ft or two-plus stories are custom-quoted. Wildlife trapping starts at $500 (Palm Beach & Martin counties) or $750 (Broward & St. Lucie counties) for the first week. Dead animal removal from $179 (yard/driveway), $395 (attic) or $595 (crawlspace). Final scope is confirmed at your inspection.
 
 ## How it works
 

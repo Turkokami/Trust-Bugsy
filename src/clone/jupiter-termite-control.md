@@ -138,4 +138,4 @@ Book a $99 termite inspection — credited toward your treatment if work is need
 
 [Book a $99 Termite Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Jupiter (33458, 33469, 33477, 33478) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Jupiter (33458, 33469, 33477, 33478) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

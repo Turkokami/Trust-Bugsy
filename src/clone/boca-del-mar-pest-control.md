@@ -49,7 +49,7 @@ Mature trees and fences give rats a path to the roofline — trapped and exclude
 
 Community lakes breed mosquitoes; block and wood-frame homes need termite protection — we cover both.
 
-## Condo or villa community? We treat building-aware.
+## Condo or villa community? We plan treatment around your building.
 
 In Boca del Mar’s shared-wall communities, German cockroaches and ants travel between units. We coordinate treatment across the building — and work with associations through our HOA program — so pests aren’t just pushed next door.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for central Boca�
 
 [Get a Free Boca del Mar Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boca del Mar and all of Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boca del Mar and all of Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -41,7 +41,7 @@ Springtails do not bite, sting, spread disease, or damage anything — they are 
 
 ## How Bugsy’s treats springtails
 
-Because springtails are a moisture symptom, control is really moisture management plus targeted treatment. Our technicians identify the damp source — overwatered plants, drainage, leaks, or humid harborage — treat the affected harborage, and apply materials where needed. Correcting the moisture is what eliminates them for good; treatment alone without drying the source is temporary.
+Because springtails are a moisture symptom, control is mostly moisture management plus targeted treatment. Our technicians identify the damp source — overwatered plants, drainage, leaks, or humid harborage — treat the affected harborage, and apply materials where needed. Correcting the moisture is what eliminates them for good; treatment alone without drying the source is temporary.
 
 ## Preventing springtails
 

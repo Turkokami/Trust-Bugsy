@@ -82,7 +82,7 @@ We return to keep webs and egg sacs from re-establishing — brown widows in par
 
 ## Widows deserve caution.
 
-Black and brown widow bites are a real medical concern — wear gloves when reaching into garages, woodpiles, and utility boxes, and seek medical care for any suspected bite. If you’re seeing widows or spiky egg sacs, let us handle the removal safely.
+Black and brown widow bites are a medical concern — wear gloves when reaching into garages, woodpiles, and utility boxes, and seek medical care for any suspected bite. If you’re seeing widows or spiky egg sacs, let us handle the removal safely.
 
 ## Why Delray Beach chooses Bugsy’s
 
@@ -135,4 +135,4 @@ Get a $99 inspection (applied to the cost of treatment) — we’ll clear the we
 
 [Get a Free Spider Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

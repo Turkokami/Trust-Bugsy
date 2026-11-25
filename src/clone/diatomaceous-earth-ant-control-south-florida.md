@@ -27,8 +27,8 @@ Diatomaceous earth is a fine powder made from the fossilized remains of tiny aqu
 
 There are two main types of diatomaceous earth:
 
-• **Food-grade DE**, which is used in some food products and is safe for use around people and pets when applied properly
-• **Filter-grade (or pool-grade) DE**, which is used in industrial applications and is not safe for pest control
+- **Food-grade DE**, which is used in some food products and is safe for use around people and pets when applied properly
+- **Filter-grade (or pool-grade) DE**, which is used in industrial applications and is not safe for pest control
 
 For ant prevention and control in your Lake Worth or West Palm Beach home, always choose food-grade DE.
 
@@ -46,23 +46,23 @@ Here’s how to use DE for ant prevention:
 
 ### Indoor Application:
 
-• Lightly dust DE along baseboards, behind appliances, under sinks, and near entry points where ants are active
-• Focus on cracks, gaps, and hidden areas where ants travel
-• Apply thin layers in pantries and kitchen areas where food attracts ants
-• Target areas around plumbing where moisture attracts ant colonies
+- Lightly dust DE along baseboards, behind appliances, under sinks, and near entry points where ants are active
+- Focus on cracks, gaps, and hidden areas where ants travel
+- Apply thin layers in pantries and kitchen areas where food attracts ants
+- Target areas around plumbing where moisture attracts ant colonies
 
 ### Outdoor Application:
 
-• Apply a thin layer around the foundation of your home
-• Dust under porches, decks, and covered areas
-• Treat garden beds where you see ant activity
-• Avoid applying during or just before Florida’s frequent afternoon storms, as moisture reduces effectiveness
+- Apply a thin layer around the foundation of your home
+- Dust under porches, decks, and covered areas
+- Treat garden beds where you see ant activity
+- Avoid applying during or just before Florida’s frequent afternoon storms, as moisture reduces effectiveness
 
 ### Reapplication Schedule:
 
-• Check treated areas regularly in South Florida’s climate
-• Reapplication may be needed after storms, high humidity, or heavy rains
-• Monitor effectiveness and adjust application areas as needed
+- Check treated areas regularly in South Florida’s climate
+- Reapplication may be needed after storms, high humidity, or heavy rains
+- Monitor effectiveness and adjust application areas as needed
 
 Always apply DE carefully to avoid creating airborne dust, which can irritate lungs. A small hand duster or squeeze bottle works well for precise application around your [West Palm Beach](/west-palm-beach-fl-pest-control/) or [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/) property.
 
@@ -70,15 +70,15 @@ Always apply DE carefully to avoid creating airborne dust, which can irritate lu
 
 Many South Florida homeowners like diatomaceous earth because:
 
-• It contains no synthetic chemicals or poisons
-• Ants can’t build resistance to it
-• It can be part of an integrated pest management plan
-• It is generally safe for people and pets when used correctly
-• It works against multiple ant species common in Florida
+- It contains no synthetic chemicals or poisons
+- Ants can’t build resistance to it
+- It can be part of an integrated pest management plan
+- It is generally safe for people and pets when used correctly
+- It works against multiple ant species common in Florida
 
 That said, DE works best as a barrier or early prevention tool. It is less effective against large, established ant colonies that may have nests deep in walls or underground – situations that require professional [pest control services](/packages/).
 
-## Real-World Results: What Our Bugsy Team Observes
+## Field Results: What Our Bugsy Team Observes
 
 ![A small container of homemade borax and sugar ant bait](https://trustbugsy.com/wp-content/uploads/2025/06/borax-sugar-ant-bait.webp)
 
@@ -86,10 +86,10 @@ In Lake Worth, West Palm Beach, and surrounding Palm Beach County areas, our tea
 
 But we also frequently encounter cases where:
 
-• DE was applied too lightly or unevenly to be effective
-• It was used in wet or humid spots where Florida’s climate prevented it from working
-• The ants had established nests that were too deep or hidden for DE to reach
-• Multiple ant species required different treatment approaches
+- DE was applied too lightly or unevenly to be effective
+- It was used in wet or humid spots where Florida’s climate prevented it from working
+- The ants had established nests that were too deep or hidden for DE to reach
+- Multiple ant species required different treatment approaches
 
 South Florida is home to several challenging ant species, including:
 
@@ -107,12 +107,12 @@ Diatomaceous earth can be part of a prevention plan, but it is not a complete so
 
 You should call Bugsy Pest Control or schedule professional [ant control services](/ant-control/) if:
 
-• Ants keep returning despite DE and other DIY methods
-• You see large numbers of ants or evidence of multiple colonies
-• Ants are nesting in walls, ceilings, or other hard-to-reach places
-• You find carpenter ants that could be damaging wooden structures in your home
-• Fire ants are creating dangerous conditions in your yard
-• The infestation is spreading to multiple areas of your property
+- Ants keep returning despite DE and other DIY methods
+- You see large numbers of ants or evidence of multiple colonies
+- Ants are nesting in walls, ceilings, or other hard-to-reach places
+- You find carpenter ants that could be damaging wooden structures in your home
+- Fire ants are creating dangerous conditions in your yard
+- The infestation is spreading to multiple areas of your property
 
 Our experienced team uses a combination of methods tailored to the specific ant species and the unique layout of your South Florida property. We provide targeted treatments that go beyond what DE can accomplish, including:
 
@@ -127,31 +127,31 @@ In addition to using DE, these steps help prevent ants from becoming a problem i
 
 ### Structural Prevention:
 
-• Seal gaps around doors, windows, and utility lines
-• Caulk cracks in foundations and exterior walls
-• Repair damaged screens and weatherstripping
-• Install door sweeps on exterior doors
+- Seal gaps around doors, windows, and utility lines
+- Caulk cracks in foundations and exterior walls
+- Repair damaged screens and weatherstripping
+- Install door sweeps on exterior doors
 
 ### Sanitation Practices:
 
-• Keep food sealed in airtight containers
-• Clean up spills and crumbs promptly
-• Maintain clean kitchen surfaces and appliances
-• Store pet food in sealed containers
+- Keep food sealed in airtight containers
+- Clean up spills and crumbs promptly
+- Maintain clean kitchen surfaces and appliances
+- Store pet food in sealed containers
 
 ### Moisture Control:
 
-• Fix leaks and control moisture, since ants are drawn to water sources
-• Use dehumidifiers in humid areas like basements and crawl spaces
-• Ensure proper drainage around your home’s foundation
-• Address standing water issues promptly
+- Fix leaks and control moisture, since ants are drawn to water sources
+- Use dehumidifiers in humid areas like basements and crawl spaces
+- Ensure proper drainage around your home’s foundation
+- Address standing water issues promptly
 
 ### Landscape Management:
 
-• Trim plants and trees so they don’t touch the house
-• Remove yard debris where ants could establish nests
-• Maintain a vegetation-free zone around your home’s perimeter
-• Address mulch and landscaping that might harbor ant colonies
+- Trim plants and trees so they don’t touch the house
+- Remove yard debris where ants could establish nests
+- Maintain a vegetation-free zone around your home’s perimeter
+- Address mulch and landscaping that might harbor ant colonies
 
 An integrated approach works best, especially in South Florida’s warm, humid climate where ants stay active all year long.
 

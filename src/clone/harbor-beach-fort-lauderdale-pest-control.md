@@ -5,14 +5,14 @@ description: "Bugsy’s protects Harbor Beach’s exclusive deep-water estates f
 type: "area"
 h1: "Harbor Beach Pest Control — white-glove protection for Fort Lauderdale’s premier waterfront enclave."
 image: "https://trustbugsy.com/wp-content/uploads/2026/05/Mask-group-34.webp"
-faqs: [{"q": "Do you provide discreet, estate-level service?", "a": "Yes — we work quietly around staff, docks, pools, landscaping, and schedules, with licensed technicians and low-profile treatments. Same-day service is often available."}, {"q": "Can you manage iguanas along the seawall?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, docks, and landscaping using the correct, legal approach for the property."}, {"q": "What about no-see-ums on the dock and patio?", "a": "We treat resting vegetation around the estate and advise on fine screening and timing; the midges breed off-property in the mangroves, so a combined approach gives the best relief."}, {"q": "Is it safe for kids, pets, and landscaping?", "a": "Yes — targeted, family-conscious products applied by licensed techs, chosen to protect your plantings and household."}]
+faqs: [{"q": "Do you provide discreet, estate-level service?", "a": "Yes — we work discreetly around staff, docks, pools, landscaping, and schedules, with licensed technicians and low-profile treatments. Same-day service is often available."}, {"q": "Can you manage iguanas along the seawall?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, docks, and landscaping using the correct, legal approach for the property."}, {"q": "What about no-see-ums on the dock and patio?", "a": "We treat resting vegetation around the estate and advise on fine screening and timing; the midges breed off-property in the mangroves, so a combined approach gives the best relief."}, {"q": "Is it safe for kids, pets, and landscaping?", "a": "Yes — targeted, family-conscious products applied by licensed techs, chosen to protect your plantings and household."}]
 ---
 
 Pest Control • Harbor Beach, Fort Lauderdale
 
 # Harbor Beach Pest Control — white-glove protection for Fort Lauderdale’s premier waterfront enclave.
 
-Bugsy’s protects Harbor Beach’s exclusive deep-water estates from the no-see-ums, mosquitoes, iguanas, and roof rats that come with private docks, seawalls, and lush oceanfront landscaping. Licensed, veteran-owned, discreet.
+Bugsy’s protects Harbor Beach’s exclusive deep-water estates from the no-see-ums, mosquitoes, iguanas, and roof rats that come with private docks, seawalls, and lush oceanfront landscaping. We’re licensed, veteran-owned and discreet.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -69,7 +69,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 ## Harbor Beach pest control — questions we hear
 
 ### Do you provide discreet, estate-level service?
-Yes — we work quietly around staff, docks, pools, landscaping, and schedules, with licensed technicians and low-profile treatments. Same-day service is often available.
+Yes — we work discreetly around staff, docks, pools, landscaping, and schedules, with licensed technicians and low-profile treatments. Same-day service is often available.
 
 ### Can you manage iguanas along the seawall?
 Yes — we handle iguana pressure and exclusion around seawalls, docks, and landscaping using the correct, legal approach for the property.
@@ -101,4 +101,4 @@ Free, discreet consultation from a licensed, veteran-owned team experienced with
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Harbor Beach, Fort Lauderdale and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Harbor Beach, Fort Lauderdale and across South Florida.

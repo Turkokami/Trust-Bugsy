@@ -16,7 +16,7 @@ Rodent & Rat Control • Palm Beach Gardens, FL
 Roof rats travel the seawalls of the Intracoastal and the golf-course lakes straight into attics and walls. Bugsy’s traps and removes the rodents, seals the exterior openings they used, and cleans up the mess — because trapping without exclusion just invites the next one.
 
 - ★ Veteran-Owned
-- Trap • Exclude • Sanitize
+- Trap, exclude and sanitize
 - Exclusion Warranty
 - FDACS-Licensed & Insured
 - Attic Cleanup Available
@@ -145,4 +145,4 @@ Get a free rodent inspection — we’ll find how they’re getting in and seal 
 
 [Get a Free Rodent Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -130,4 +130,4 @@ Book a $99 termite inspection — credited toward your treatment if work is need
 
 [Book a $99 Termite Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -49,7 +49,7 @@ The greenways and preserve buffers breed mosquitoes — a barrier-plus-larvicide
 
 Preserve buffers and mature landscaping give rodents cover to the roofline — trapped and excluded.
 
-## Townhome or village HOA? We coordinate directly.
+## Townhome or village HOA? We coordinate with you directly.
 
 In attached homes, ants and roaches travel between units, so lasting control means building-aware treatment and HOA coordination — not just treating one unit and hoping. We work with Abacoa’s associations to actually resolve it.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for townhome and v
 
 [Get a Free Abacoa Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Abacoa and all of Jupiter (33458, 33469, 33477, 33478), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Abacoa and all of Jupiter (33458, 33469, 33477, 33478), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

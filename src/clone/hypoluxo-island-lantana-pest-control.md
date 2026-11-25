@@ -14,7 +14,7 @@ Pest Control • Hypoluxo Island, Lantana
 
 ## Hypoluxo Island Pest Control — waterfront estates, mangrove-edge biting insects.
 
-Bugsy’s protects Hypoluxo Island’s Intracoastal estates from the no-see-ums, mosquitoes, roof rats, ghost ants, and iguanas that come with docks, seawalls, and dense tropical landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Hypoluxo Island’s Intracoastal estates from the no-see-ums, mosquitoes, roof rats, ghost ants, and iguanas that come with docks, seawalls, and dense tropical landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows waterfron
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Hypoluxo Island, Lantana and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Hypoluxo Island, Lantana and all of Palm Beach County.

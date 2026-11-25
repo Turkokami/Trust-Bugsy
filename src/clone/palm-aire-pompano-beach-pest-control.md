@@ -12,7 +12,7 @@ Pest Control • Palm Aire, Pompano Beach
 
 # Palm Aire Pest Control — golf-and-lake living with steady mosquito pressure.
 
-Bugsy’s protects Palm Aire’s golf-course homes and condos in Pompano Beach from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Palm Aire’s golf-course homes and condos in Pompano Beach from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Pompano Bea
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Palm Aire, Pompano Beach and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Palm Aire, Pompano Beach and across South Florida.

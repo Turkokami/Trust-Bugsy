@@ -12,7 +12,7 @@ Pest Control • Grandview Heights, West Palm Beach
 
 # Grandview Heights Pest Control — historic bungalows, mature trees, more ways in.
 
-Bugsy’s protects Grandview Heights’ historic homes near downtown from the roof rats, drywood termites, ghost ants, and palmetto bugs that target older construction and dense tree cover. Veteran-owned and local.
+Bugsy’s protects Grandview Heights’ historic homes near downtown from the roof rats, drywood termites, ghost ants, and palmetto bugs that target older construction and dense tree cover. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows older Sou
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Grandview Heights, West Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Grandview Heights, West Palm Beach and all of Palm Beach County.

@@ -14,7 +14,7 @@ Pest Control • Lantana, FL
 
 ## Lantana Pest Control — an Intracoastal town where mangroves and marinas mean biting insects.
 
-From Hypoluxo Island to the mainland core, Bugsy’s protects Lantana homes from the no-see-ums, mosquitoes, ants, roaches, and rodents drawn to the Intracoastal, mangroves, and marinas. Licensed, veteran-owned, local.
+From Hypoluxo Island to the mainland core, Bugsy’s protects Lantana homes from the no-see-ums, mosquitoes, ants, roaches, and rodents drawn to the Intracoastal, mangroves, and marinas. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Get a free, no-pressure quote from a licensed, veteran-owned team that knows the
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Lantana, Lantana and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Lantana, Lantana and all of Palm Beach County.

@@ -81,49 +81,49 @@ These are the species we treat most across Jupiter — each with a local twist, 
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs — a risk for Jupiter’s inland slab communities and Farms homesteads alike.
 
-[Learn about subterranean termites →](/pest-library/subterranean-termites/)
+[Learn about subterranean termites](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Common in Jupiter’s older coastal and beachfront homes, living entirely inside dry structural wood — treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](/pest-library/drywood-termites/)
+[Learn about drywood termites](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, landscaping, and river-edge vegetation on warm nights — heavy in humid, well-planted yards.
 
-[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Abacoa’s townhomes and Jupiter’s condo communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](/pest-library/german-cockroaches/)
+[Learn about German cockroaches](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants indoors, plus fire ants across the open turf and acreage of Jupiter Farms and family communities.
 
-[Learn about white-footed ants →](/pest-library/white-footed-ants/)
+[Learn about white-footed ants](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Climbs seawalls, docks, fences, and tree limbs into attics — heightened along the river, the inlet, and the waterfront communities, and around Farms outbuildings.
 
-[Learn about roof rats →](/pest-library/roof-rats/)
+[Learn about roof rats](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the Loxahatchee River, the inlet, the Intracoastal, and the western wetlands and canals — Jupiter Farms and the riverfront see especially heavy wet-season pressure.
 
-[Learn about mosquitoes →](/pest-library/mosquitoes/)
+[Learn about mosquitoes](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 
 Venomous widows tuck into garages, barns, meter boxes, and patio furniture — the brown widow is now especially common across northern Palm Beach County.
 
-[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
+[Learn about widow spiders](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -286,4 +286,4 @@ Get a $99 inspection (applied to the cost of treatment) from a local, veteran-ow
 
 [Get Your Free Jupiter Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Jupiter (33458, 33469, 33477, 33478) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Jupiter (33458, 33469, 33477, 33478) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.

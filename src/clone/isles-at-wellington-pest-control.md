@@ -12,7 +12,7 @@ Pest Control • Isles at Wellington
 
 # Isles at Wellington Pest Control — a gated lake community mosquitoes love.
 
-Bugsy’s keeps the Isles at Wellington’s gated single-family homes protected from the mosquitoes, ghost ants, roaches, and rodents drawn to the community’s lakes and landscaping. Licensed, veteran-owned, local.
+Bugsy’s keeps the Isles at Wellington’s gated single-family homes protected from the mosquitoes, ghost ants, roaches, and rodents drawn to the community’s lakes and landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Wellington.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Isles at Wellington, Wellington and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Isles at Wellington, Wellington and all of Palm Beach County.

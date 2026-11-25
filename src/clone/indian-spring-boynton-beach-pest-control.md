@@ -12,7 +12,7 @@ Pest Control • Indian Spring, Boynton Beach
 
 # Indian Spring Pest Control — lakeside golf living, minus the pests.
 
-Bugsy’s keeps Indian Spring’s gated homes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around its golf courses and lakes. Licensed, veteran-owned, local.
+Bugsy’s keeps Indian Spring’s gated homes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around its golf courses and lakes. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your comm
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Indian Spring, Boynton Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Indian Spring, Boynton Beach and all of Palm Beach County.

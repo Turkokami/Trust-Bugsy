@@ -29,7 +29,7 @@ Wellington is the equestrian capital of the world and one of Palm Beach County�
 
 📞 (561) 654-8998 | ✉ contact@trustbugsy.com
 
-**Veteran-Owned • Eco-Friendly • Pet-Safe • Licensed & Insured • Same-Day Available**
+**Veteran-Owned, Eco-Friendly, Pet-Safe, Licensed & Insured, Same-Day Available**
 
 ## Residential Pest Control in Wellington
 

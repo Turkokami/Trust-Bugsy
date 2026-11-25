@@ -12,7 +12,7 @@ Pest Control • Andros Isle, West Palm Beach
 
 # Andros Isle Pest Control — a gated lake community that mosquitoes love.
 
-Bugsy’s keeps Andros Isle’s gated single-family homes protected from the mosquitoes, ghost ants, roaches, and rodents drawn to the community’s lakes and landscaping off Palm Beach Lakes Boulevard. Licensed, veteran-owned, local.
+Bugsy’s keeps Andros Isle’s gated single-family homes protected from the mosquitoes, ghost ants, roaches, and rodents drawn to the community’s lakes and landscaping off Palm Beach Lakes Boulevard. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to West Palm B
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Andros Isle, West Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Andros Isle, West Palm Beach and all of Palm Beach County.

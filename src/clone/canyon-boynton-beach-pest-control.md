@@ -47,7 +47,7 @@ Preserve and canal edges push rats and wildlife toward homes — trapped, exclud
 
 Chinch bugs threaten the lawns; slab homes need subterranean termite protection — we cover both.
 
-## Backing to a preserve or canal? Expect heavier pressure.
+## Backing to a preserve or canal? You can expect heavier pest pressure there.
 
 The canals, lakes, and wetlands here are large, permanent breeding and wildlife sources. A recurring barrier program plus targeted fire-ant and wildlife work is what keeps them in check.
 
@@ -102,4 +102,4 @@ Get a $99 inspection (applied to the cost of treatment) built for West Boynton�
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Canyon & Aberdeen and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Canyon & Aberdeen and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

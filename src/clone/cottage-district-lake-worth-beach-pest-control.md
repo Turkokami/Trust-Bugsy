@@ -25,7 +25,7 @@ The Cottage District — Lake Worth Beach’s beloved grid of restored 1920s Cra
 
 ## Why the Cottage District’s homes fight different pests
 
-The Cottage District is a compact, walkable grid of restored 1920s Craftsman cottages, mission bungalows, and frame vernacular homes just north of downtown Lake Worth Beach, under a mature tree canopy. The charm is real, and so is the pest pressure that comes with old wood and heavy tree cover.
+The Cottage District is a compact, walkable grid of restored 1920s Craftsman cottages, mission bungalows, and frame vernacular homes just north of downtown Lake Worth Beach, under a mature tree canopy. The charm comes with pest pressure that comes with old wood and heavy tree cover.
 
 Original wood framing, floors, and trim make these homes a magnet for drywood and subterranean termites. The overlapping canopy gives roof rats a bridge to older eaves and attics, while palmetto bugs and ghost ants work the mature landscaping and settle into kitchens and older plumbing. A ninety-year-old cottage needs eyes that know its construction.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a 1920s cottag
 
 [Get a Free Cottage District Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving the Historic Cottage District and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving the Historic Cottage District and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

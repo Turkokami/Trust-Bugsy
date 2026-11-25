@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a working eque
 
 [Get a Free Equestrian Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving The Equestrian Preserve & Show Grounds and all of Wellington (33414, 33449, 33470), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving The Equestrian Preserve & Show Grounds and all of Wellington (33414, 33449, 33470), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

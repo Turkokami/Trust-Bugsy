@@ -63,9 +63,10 @@ const ICON_MAX_TEXT = 90;
 // same job the live Elementor carousels do.
 function carousel(slides, { label, per = 3, auto = 5000, cls = '' } = {}) {
   return el('div', { className: ['tb-carousel', cls].filter(Boolean), role: 'region', ariaRoleDescription: 'carousel', ariaLabel: label, dataPer: String(per), dataAutoplay: String(auto) }, [
-    el('button', { type: 'button', className: ['tc-btn', 'tc-prev'], ariaLabel: 'Previous' }, ['‹']),
+    // Chevrons are drawn in CSS (.tc-btn::before); the label carries the meaning.
+    el('button', { type: 'button', className: ['tc-btn', 'tc-prev'], ariaLabel: 'Previous' }),
     el('div', { className: ['tc-track'], tabIndex: 0 }, slides.map((s, i) => el('div', { className: ['tc-slide'], role: 'group', ariaRoleDescription: 'slide', ariaLabel: `${i + 1} of ${slides.length}` }, [s]))),
-    el('button', { type: 'button', className: ['tc-btn', 'tc-next'], ariaLabel: 'Next' }, ['›']),
+    el('button', { type: 'button', className: ['tc-btn', 'tc-next'], ariaLabel: 'Next' }),
   ]);
 }
 // The live "Play Video" button: an empty link to the Bugsy's YouTube video.
@@ -77,8 +78,11 @@ function videoOf(n) {
   const m = String(k[0].properties.href || '').match(YT);
   return m ? m[1] : null;
 }
+// The YouTube player only loads after the click (see BaseLayout); the plain
+// link opens the video on YouTube instead.
 const videoButton = (id) => el('p', { className: ['video-row'] }, [
   el('button', { type: 'button', className: ['video-btn'], dataVideo: id }, [el('span', { className: ['video-play'], ariaHidden: 'true' }), 'Play Video']),
+  el('a', { className: ['video-link'], href: `https://www.youtube.com/watch?v=${id}`, rel: 'noopener' }, ['Watch on YouTube']),
 ]);
 // Portfolio slider: Bugsy's own job photos from the live media library, with
 // the alt text the library gives them.
@@ -238,7 +242,7 @@ function serviceCards(nodes) {
       if (prev && prev.properties.href === href) { icon = imgsOf(prev)[0] || null; out.pop(); }
       else if (next && next.properties.href === href) { icon = imgsOf(next)[0] || null; i++; }
       if (icon) icon.properties.loading = 'lazy';
-      out.push(el('div', { className: ['svc-card'] }, [
+      out.push(el('div', { className: ['svc-item'] }, [
         el('a', { href, className: ['svc-icon'], tabIndex: -1, ariaHidden: 'true' }, [icon || el('span', { className: ['svc-dot'] })]),
         addClass(n, 'svc-title'),
       ]));
@@ -246,7 +250,7 @@ function serviceCards(nodes) {
     }
     out.push(n);
   }
-  return groupRuns(out, (n) => isEl(n, 'div') && classes(n).includes('svc-card'), (run) => el('div', { className: ['svc-grid'] }, run));
+  return groupRuns(out, (n) => isEl(n, 'div') && classes(n).includes('svc-item'), (run) => el('div', { className: ['svc-grid'] }, run));
 }
 
 function groupRuns(nodes, pred, wrap) {
@@ -280,10 +284,12 @@ function polish(nodes, { hero = false } = {}) {
     const btns = buttonsFrom(n);
     if (btns) { out.push(el('p', { className: ['btn-row'] }, btns)); continue; }
     if (isEl(n, 'p') && EYEBROWS.has(norm(textOf(n)))) {
-      addClass(n, 'eyebrow');
+      // The small label above a section title is dropped (the section is still
+      // found by markerOf before this runs). "Any Questions?" has no title
+      // under it, so it becomes the band's own heading.
+      if (norm(textOf(n)) === 'any questions?') { out.push(el('h2', { className: ['ask-title'] }, n.children)); continue; }
       const nx = nodes[i + 1];
       if (isEl(nx, 'p') && textOf(nx).trim().length < 120 && !findAll(nx, (x) => isEl(x, 'a') || isEl(x, 'img')).length) { addClass(nx, 'sec-title'); }
-      out.push(n);
       continue;
     }
     if (isEl(n, 'p') && kids(n).length === 1 && isEl(kids(n)[0], 'img')) {
@@ -317,10 +323,16 @@ function quoteForm(title, idp, office = OFFICES['lake-worth-beach']) {
       el('input', { type: 'checkbox', name: 'consent', id: `consent-${idp}`, required: true }),
       el('span', {}, [CONSENT, el('a', { href: '/privacy-policy/' }, ['Privacy Policy']), ' and Terms & Conditions.']),
     ]),
+    honeypot(),
     el('button', { type: 'submit', className: ['qf-submit'] }, ['Submit']),
     el('p', { className: ['form-note'], hidden: true }, ['This preview isn’t connected to an inbox yet. Please call ', el('a', { href: `tel:${office.tel}` }, [office.phone]), '.']),
   ]);
 }
+// Spam trap: people never see or fill it; the preview script clears it on
+// submit, and a future handler should silently drop any request that has it.
+const honeypot = () => el('div', { className: ['hp'], ariaHidden: 'true' }, [
+  el('label', {}, ['Leave this field empty', el('input', { type: 'text', name: 'secondary_ref', tabIndex: -1, autoComplete: 'off', 'data-1p-ignore': '', 'data-lpignore': 'true', 'data-form-type': 'other' })]),
+]);
 const formTitle = (a, b, c) => el('p', { className: ['qf-title'] }, [a, el('span', {}, [b]), c]);
 
 // ---- sections ---------------------------------------------------------------
@@ -407,7 +419,6 @@ function glance(fm, node, office) {
 // Named-expert box (E-E-A-T): facts from the live About page.
 function ownerBox() {
   return el('aside', { className: ['tb-owner'], ariaLabel: 'About the owner' }, [
-    el('p', { className: ['tb-owner-kicker'] }, ['Who you’re hiring']),
     el('p', {}, [
       'Bugsy’s Pest Solutions is owned by ', el('strong', {}, ['Zach Bernstein']),
       ', a U.S. Marine Corps veteran who began his pest control career in July 2017. Veteran-owned and family-operated, with offices in Lake Worth Beach and Pompano Beach. ',
@@ -417,8 +428,7 @@ function ownerBox() {
 }
 function officeCard(office) {
   return el('div', { className: ['tb-office'] }, [
-    el('p', { className: ['tb-office-kicker'] }, ['Your nearest office']),
-    el('p', { className: ['tb-office-name'] }, [`Bugsy’s ${office.label}`]),
+    el('p', { className: ['tb-office-name'] }, [`Your nearest office: Bugsy’s ${office.label}`]),
     el('p', {}, [el('a', { href: office.maps, rel: 'noopener' }, [office.addr])]),
     el('p', {}, [el('a', { className: ['btn', 'btn-red'], href: `tel:${office.tel}` }, [`Call ${office.phone}`])]),
   ]);
@@ -444,12 +454,23 @@ function authorBox(name) {
   return el('aside', { className: ['tb-author'], ariaLabel: 'About the author' }, [
     el('img', { src: 'https://trustbugsy.com/wp-content/uploads/2025/04/Group-285-2.webp', alt: 'Zach Bernstein, owner of Bugsy’s Pest Solutions', width: 96, height: 96, loading: 'lazy', decoding: 'async' }),
     el('div', {}, [
-      el('p', { className: ['tb-author-kicker'] }, ['Written by']),
-      el('p', { className: ['tb-author-name'] }, [name]),
+      el('p', { className: ['tb-author-name'] }, [`Written by ${name}`]),
       el('p', {}, ['Owner of Bugsy’s Pest Solutions and a U.S. Marine Corps veteran who began his pest control career in July 2017. ', el('a', { href: '/about/' }, ['More about Zach and the team']), '.']),
     ]),
   ]);
 }
+// "Ant Control • Boca Raton, FL": a small label the copy puts just above the
+// page's first heading. It becomes a plain line under the h1 ("Pest Control in
+// Aberdeen, Boynton Beach"), or is dropped when the h1 already says it.
+const KICKER = /^[^•]{2,70} • [^•]{2,70}$/;
+const isKicker = (n) => isEl(n, 'p') && kids(n).length === 1 && kids(n)[0].type === 'text' && KICKER.test(textOf(n).trim());
+function takeKicker(nodes) {
+  const i = nodes.findIndex((n, j) => j < 5 && isKicker(n) && (isEl(nodes[j + 1], 'h1') || isEl(nodes[j + 1], 'h2')));
+  if (i < 0) return null;
+  const [a, b] = textOf(nodes.splice(i, 1)[0]).trim().split(' • ');
+  return `${a} in ${b}`;
+}
+const words = (s) => norm(s).replace(/[^a-z0-9’' ]+/g, ' ').split(' ').filter((w) => w && !['in', 'fl', 'the', 'and'].includes(w));
 const GLANCE_KINDS = new Set(['service', 'commercial', 'cityservice', 'city', 'neighborhood', 'county']);
 const OWNER_KINDS = new Set(['service', 'commercial', 'cityservice', 'city', 'neighborhood', 'county', 'countytopic', 'library']);
 
@@ -461,9 +482,12 @@ export default function rehypeBugsy() {
     const office = OFFICES[node.office] || OFFICES['lake-worth-beach'];
     let nodes = tree.children.filter((n) => !blank(n));
 
+    const kicker = takeKicker(nodes);
     // One h1, taken from the copy (or the page's recorded h1 if the copy has none).
     const h1i = nodes.findIndex((n) => isEl(n, 'h1'));
     const h1 = h1i >= 0 ? nodes.splice(h1i, 1)[0] : fm.h1 ? el('h1', {}, [fm.h1]) : null;
+    const h1Words = new Set(words(h1 ? textOf(h1) : ''));
+    const sub = kicker && !words(kicker).every((w) => h1Words.has(w)) ? el('p', { className: ['tb-sub'] }, [kicker]) : null;
 
     const out = [];
     const badgeIdx = nodes.findIndex((n, i) => i < 8 && hasImg(n, BADGE));
@@ -481,7 +505,7 @@ export default function rehypeBugsy() {
       const team = teamAt >= 0 ? copy.splice(teamAt, 1)[0] : null;
       out.push(el('section', { className: ['tb-hero'] }, [
         el('div', { className: ['wrap', 'tb-hero-grid'] }, [
-          el('div', { className: ['tb-hero-copy'] }, [h1, ...copy]),
+          el('div', { className: ['tb-hero-copy'] }, [h1, sub, ...copy]),
           team ? el('div', { className: ['tb-hero-team'] }, [team]) : null,
           el('div', { className: ['tb-hero-form'] }, [quoteForm(formTitle('Get your ', 'Free', ' Estimate'), 'hero', office)]),
         ]),
@@ -489,7 +513,7 @@ export default function rehypeBugsy() {
       ]));
     } else {
       const bg = fm.type === 'blog' ? BANNER_BLOG : BANNER_CITY;
-      out.push(el('section', { className: ['tb-banner', fm.type === 'blog' ? 'tb-banner-blog' : 'tb-banner-page'], style: `--banner:url('${bg}')` }, [wrap([h1])]));
+      out.push(el('section', { className: ['tb-banner', fm.type === 'blog' ? 'tb-banner-blog' : 'tb-banner-page'], style: `--banner:url('${bg}')` }, [wrap([h1, sub].filter(Boolean))]));
     }
     if (trustNode) out.push(section('trust', [trustNode]));
 
@@ -514,8 +538,7 @@ export default function rehypeBugsy() {
       const blog = fm.type === 'blog' && !['/blog/', '/blogs/'].includes(fm.path);
       const asideKids = blog
         ? [el('div', { className: ['tb-offer'] }, [
-            el('p', { className: ['tb-offer-kicker'] }, ['Limited Time Offer']),
-            el('p', { className: ['tb-offer-title'] }, ['New Customers Save $35 on a Science-Backed Pest Plan']),
+            el('p', { className: ['tb-offer-title'] }, ['Limited time offer: New Customers Save $35 on a Science-Backed Pest Plan']),
             quoteForm(null, 'side', office),
             el('p', { className: ['tb-offer-note'] }, ['A Bugsy’s team member will reach out within 15 minutes during business hours with your free estimate. Need us now? Call ', el('a', { href: `tel:${office.tel}` }, [office.phone]), '.']),
           ])]

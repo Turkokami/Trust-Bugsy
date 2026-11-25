@@ -49,7 +49,7 @@ Bees in a wall, soffit, or chimney — we remove and treat the hive and, in most
 
 ## Straight talk on honey bees
 
-Bugsy’s performs hive removal and treatment — not live bee relocation. If bees are streaming in and out of a wall or soffit, do not spray or seal the opening yourself; it traps the colony and pushes bees indoors. Call a professional. Florida’s Africanized bees make this especially important.
+Bugsy’s performs hive removal and treatment — not live bee relocation. If bees are streaming in and out of a wall or soffit, do not spray or seal the opening yourself; it traps the colony and pushes bees indoors. Call a professional instead, because Florida’s Africanized bees make this especially important.
 
 ## How our bee & wasp service works
 
@@ -127,4 +127,4 @@ Get a fast, free assessment and safe removal from a licensed local team.
 
 [Get a Free Stinging-Insect Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

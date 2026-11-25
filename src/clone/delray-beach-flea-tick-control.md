@@ -4,7 +4,7 @@ title: "Flea & Tick Control in Delray Beach, FL | Bugsy's"
 description: "In Delray Beach there’s no winter freeze to knock fleas and ticks back, so they stay active all twelve months — seeded by pets and by the raccoons, opossums…"
 type: "area"
 h1: "Flea & Tick Control in Delray Beach, FL"
-faqs: [{"q": "Do I really need flea control year-round in Delray Beach?", "a": "Often, yes. Without a winter freeze, fleas and ticks stay active all year here, and wildlife constantly re-seeds yards — so ongoing prevention makes a real difference for pet households."}, {"q": "Do you treat the yard too, or just inside?", "a": "Both. Fleas and ticks develop in shaded, protected yard harborage as well as indoors, so treating only inside leaves the outdoor source intact. Our program covers both."}, {"q": "Do my pets need to be treated too?", "a": "Yes — environmental treatment from us plus on-pet treatment from your veterinarian is the combination that actually breaks a flea infestation. We coordinate the timing with you."}, {"q": "How long does it take to get rid of fleas?", "a": "Because of the hidden pupae, most flea jobs take an initial treatment plus a follow-up over a few weeks to fully break the cycle — we’ll set the schedule at your inspection."}, {"q": "Are the treatments safe around my pets and kids?", "a": "Yes. We use products and methods designed for pet households, apply them appropriately, and give you simple, brief precautions (like keeping off treated areas until dry)."}, {"q": "Can you help with ticks specifically?", "a": "Yes. We reduce tick harborage in the yard — tall grass, leaf litter, and shaded edges — and treat the areas where ticks wait for a host, especially important for homes near natural areas and with wildlife traffic."}]
+faqs: [{"q": "Do I need flea control year-round in Delray Beach?", "a": "Often, yes. Without a winter freeze, fleas and ticks stay active all year here, and wildlife constantly re-seeds yards — so ongoing prevention makes a difference for pet households."}, {"q": "Do you treat the yard too, or just inside?", "a": "Both. Fleas and ticks develop in shaded, protected yard harborage as well as indoors, so treating only inside leaves the outdoor source intact. Our program covers both."}, {"q": "Do my pets need to be treated too?", "a": "Yes — environmental treatment from us plus on-pet treatment from your veterinarian is the combination that actually breaks a flea infestation. We coordinate the timing with you."}, {"q": "How long does it take to get rid of fleas?", "a": "Because of the hidden pupae, most flea jobs take an initial treatment plus a follow-up over a few weeks to fully break the cycle — we’ll set the schedule at your inspection."}, {"q": "Are the treatments safe around my pets and kids?", "a": "Yes. We use products and methods designed for pet households, apply them appropriately, and give you simple, brief precautions (like keeping off treated areas until dry)."}, {"q": "Can you help with ticks specifically?", "a": "Yes. We reduce tick harborage in the yard — tall grass, leaf litter, and shaded edges — and treat the areas where ticks wait for a host, especially important for homes near natural areas and with wildlife traffic."}]
 ---
 
 # Flea & Tick Control in Delray Beach, FL
@@ -78,8 +78,8 @@ Bugsy’s Pest Solutions is a veteran-owned, family-operated company rooted in P
 
 ## Frequently asked questions
 
-### Do I really need flea control year-round in Delray Beach?
-Often, yes. Without a winter freeze, fleas and ticks stay active all year here, and wildlife constantly re-seeds yards — so ongoing prevention makes a real difference for pet households.
+### Do I need flea control year-round in Delray Beach?
+Often, yes. Without a winter freeze, fleas and ticks stay active all year here, and wildlife constantly re-seeds yards — so ongoing prevention makes a difference for pet households.
 
 ### Do you treat the yard too, or just inside?
 Both. Fleas and ticks develop in shaded, protected yard harborage as well as indoors, so treating only inside leaves the outdoor source intact. Our program covers both.
@@ -116,4 +116,4 @@ Get a $99 inspection (applied to the cost of treatment) and a plan that treats t
 
 [Get a Free Flea & Tick Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

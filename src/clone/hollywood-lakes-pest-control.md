@@ -12,7 +12,7 @@ Pest Control • Hollywood Lakes
 
 # Hollywood Lakes Pest Control — historic waterfront near the Intracoastal.
 
-Bugsy’s protects the Hollywood Lakes district’s historic waterfront homes from the no-see-ums, mosquitoes, iguanas, roof rats, and termites that come with the lakes, Intracoastal, and mature landscaping. Veteran-owned and local.
+Bugsy’s protects the Hollywood Lakes district’s historic waterfront homes from the no-see-ums, mosquitoes, iguanas, roof rats, and termites that come with the lakes, Intracoastal, and mature landscaping. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Hollywood.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Hollywood Lakes, Hollywood and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Hollywood Lakes, Hollywood and across South Florida.

@@ -14,7 +14,7 @@ Pest Control • La Mancha, Royal Palm Beach
 
 ## La Mancha Pest Control — lakeside gated living, minus the pests.
 
-Bugsy’s keeps La Mancha’s established, gated single-family homes free of the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to the community’s lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s keeps La Mancha’s established, gated single-family homes free of the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to the community’s lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your comm
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving La Mancha, Royal Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving La Mancha, Royal Palm Beach and all of Palm Beach County.

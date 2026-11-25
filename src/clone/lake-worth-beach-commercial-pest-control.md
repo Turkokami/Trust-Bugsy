@@ -39,7 +39,7 @@ Discreet cockroach, rodent, and fly programs built to pass health inspections.
 
 ### Retail & Storefronts
 
-Quiet, scheduled service that keeps the sales floor clean and pest-free.
+Discreet, scheduled service that keeps the sales floor clean and pest-free.
 
 ### Offices & Professional Suites
 
@@ -137,4 +137,4 @@ Get a commercial inspection and a discreet, documented program built for your in
 
 [Get a Free Commercial Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Lake Worth Beach (33460, 33461, 33462, 33463, 33467) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Lake Worth Beach (33460, 33461, 33462, 33463, 33467) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

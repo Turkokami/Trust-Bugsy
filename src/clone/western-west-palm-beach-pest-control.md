@@ -49,7 +49,7 @@ Preserve and canal edges push rats and wildlife toward homes — trapped, exclud
 
 Chinch bugs threaten the big lawns; slab homes need subterranean termite protection — we cover both.
 
-## Backing to Grassy Waters or a canal? Expect heavier pressure.
+## Backing to Grassy Waters or a canal? You can expect heavier pest pressure there.
 
 The preserve, lakes, and canals out here are large, permanent breeding and wildlife sources. A recurring barrier treatment plus larviciding and targeted fire-ant and wildlife work is what keeps them in check through the long wet season.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a community by
 
 [Get a Free Western WPB Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Western West Palm Beach and all of West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Western West Palm Beach and all of West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

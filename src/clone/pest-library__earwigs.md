@@ -14,7 +14,7 @@ Pest Library
 
 Order Dermaptera
 
-The pincer-tailed insects that turn up under pots, mulch, and door mats — the folklore about crawling into ears is a myth, but the way they pour indoors during dry spells is very real.
+The pincer-tailed insects that turn up under pots, mulch, and door mats — the folklore about crawling into ears is a myth, but the way they pour indoors during dry spells is well documented.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 

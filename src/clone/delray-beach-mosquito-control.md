@@ -4,7 +4,7 @@ title: "Mosquito Control in Delray Beach, FL | Bugsy's"
 description: "Between the Intracoastal, the finger canals, Lake Ida, and the wetlands out west, Delray Beach gives mosquitoes and no-see-ums endless places to breed."
 type: "area"
 h1: "Mosquito Control in Delray Beach, FL"
-faqs: [{"q": "How often do you treat for mosquitoes?", "a": "Through Delray’s wet season, a monthly recurring barrier treatment is typical — it keeps the population knocked down as rain constantly refills breeding sites. We’ll recommend the right cadence for your property."}, {"q": "Are mosquito treatments safe for my pets and pollinators?", "a": "We apply with pet and pollinator safety in mind — targeting mosquito resting areas and breeding water, timing applications appropriately, and avoiding blooming plants where practical. Your technician will explain any brief precautions."}, {"q": "Can you do anything about no-see-ums?", "a": "Yes. Coastal Delray Beach gets significant no-see-um (biting midge) pressure off the water, and we include treatment targeted at them as part of our program."}, {"q": "Do I need to be home for the treatment?", "a": "No — most mosquito service is performed on the exterior, so you don’t need to be home. We’ll let you know when we’ve been out."}, {"q": "Will one treatment get rid of my mosquitoes?", "a": "A single treatment provides real relief, but in Delray’s climate mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer."}, {"q": "What can I do to help between treatments?", "a": "Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged gutters — and keep bromeliads flushed. Removing breeding water is the single most effective thing a homeowner can do."}]
+faqs: [{"q": "How often do you treat for mosquitoes?", "a": "Through Delray’s wet season, a monthly recurring barrier treatment is typical — it keeps the population knocked down as rain constantly refills breeding sites. We’ll recommend the right cadence for your property."}, {"q": "Are mosquito treatments safe for my pets and pollinators?", "a": "We apply with pet and pollinator safety in mind — targeting mosquito resting areas and breeding water, timing applications appropriately, and avoiding blooming plants where practical. Your technician will explain any brief precautions."}, {"q": "Can you do anything about no-see-ums?", "a": "Yes. Coastal Delray Beach gets significant no-see-um (biting midge) pressure off the water, and we include treatment targeted at them as part of our program."}, {"q": "Do I need to be home for the treatment?", "a": "No — most mosquito service is performed on the exterior, so you don’t need to be home. We’ll let you know when we’ve been out."}, {"q": "Will one treatment get rid of my mosquitoes?", "a": "A single treatment provides relief, but in Delray’s climate mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer."}, {"q": "What can I do to help between treatments?", "a": "Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged gutters — and keep bromeliads flushed. Removing breeding water is the single most effective thing a homeowner can do."}]
 ---
 
 # Mosquito Control in Delray Beach, FL
@@ -96,7 +96,7 @@ No — most mosquito service is performed on the exterior, so you don’t need t
 
 ### Will one treatment get rid of my mosquitoes?
 
-A single treatment provides real relief, but in Delray’s climate mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer.
+A single treatment provides relief, but in Delray’s climate mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer.
 
 ### What can I do to help between treatments?
 
@@ -123,4 +123,4 @@ Get a free mosquito inspection and a barrier plan built for Delray’s wet seaso
 
 [Get a Free Mosquito Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

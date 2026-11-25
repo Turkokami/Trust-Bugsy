@@ -14,7 +14,7 @@ Pest Control • Estates of Royal Palm Beach
 
 ## Estates of Royal Palm Beach Pest Control — acreage living means heavier mosquito & wildlife pressure.
 
-Bugsy’s protects the larger estate and acreage lots of western Royal Palm Beach from the mosquitoes, fire ants, rodents, and wildlife that come with canals, pastures, and preserve edges. Veteran-owned and local.
+Bugsy’s protects the larger estate and acreage lots of western Royal Palm Beach from the mosquitoes, fire ants, rodents, and wildlife that come with canals, pastures, and preserve edges. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows acreage p
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving the Estates of Royal Palm Beach, Royal Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving the Estates of Royal Palm Beach, Royal Palm Beach and all of Palm Beach County.

@@ -49,7 +49,7 @@ Cypress preserve and riverbank landscaping give rats cover to the roofline — t
 
 Preserve edges push raccoons, opossums, and other wildlife toward homes — trapped, excluded, and sealed.
 
-## Backing to the river or preserve? Expect no-see-ums.
+## Backing to the river or preserve? You can expect no-see-ums there.
 
 Off the Loxahatchee’s tidal water, no-see-ums hit docks and patios hard at dawn and dusk. We treat specifically for them plus mosquitoes on a recurring schedule so your riverfront stays usable.
 
@@ -99,4 +99,4 @@ Get a $99 inspection (applied to the cost of treatment) built for riverfront and
 
 [Get a Free Riverfront Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving The Loxahatchee River Neighborhoods and all of Jupiter (33458, 33469, 33477, 33478), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving The Loxahatchee River Neighborhoods and all of Jupiter (33458, 33469, 33477, 33478), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

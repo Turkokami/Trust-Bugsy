@@ -12,7 +12,7 @@ Pest Control • Deer Creek, Deerfield Beach
 
 # Deer Creek Pest Control — gated golf living with year-round lake pressure.
 
-Bugsy’s protects Deer Creek’s gated golf-course homes in Deerfield Beach from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Deer Creek’s gated golf-course homes in Deerfield Beach from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Deerfield B
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Deer Creek, Deerfield Beach and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Deer Creek, Deerfield Beach and across South Florida.

@@ -29,7 +29,7 @@ Boynton Beach runs from the Intracoastal and the Boynton Inlet west to the canal
 
 Boynton Beach stretches from the Atlantic barrier island and the Boynton Inlet on the east, through established neighborhoods and a revitalizing downtown marina district, out to the fast-growing 55+ and family communities of West Boynton near the wetlands. In a humid subtropical climate with no killing frost, pests here breed and forage year-round.
 
-Water drives everything. The Intracoastal and the inlet on the east, and the E-4 and Lake Worth Drainage District canals, community lakes, and the Green Cay and Arthur R. Marshall Loxahatchee wetlands on the west, all create prime breeding habitat for mosquitoes and no-see-ums and easy travel routes for roof rats. West Boynton’s huge Valencia, Canyon, and Aberdeen communities put manicured lawns and lakes right up against wild wetland edges, while the older homes near downtown and Leisureville give termites long-standing wood to exploit.
+Water drives the pest pressure here. The Intracoastal and the inlet on the east, and the E-4 and Lake Worth Drainage District canals, community lakes, and the Green Cay and Arthur R. Marshall Loxahatchee wetlands on the west, all create prime breeding habitat for mosquitoes and no-see-ums and easy travel routes for roof rats. West Boynton’s huge Valencia, Canyon, and Aberdeen communities put manicured lawns and lakes right up against wild wetland edges, while the older homes near downtown and Leisureville give termites long-standing wood to exploit.
 
 Effective pest control in Boynton Beach means matching the plan to where your home sits — barrier island, older core, or western lake community — and to the pests that specific setting actually creates. That’s how Bugsy’s treats every Boynton property.
 
@@ -81,49 +81,49 @@ These are the species we treat most across Boynton Beach — each with a local t
 
 Enters from the soil through foundations and slabs — a constant risk for West Boynton’s vast slab-built lake communities.
 
-[Learn about subterranean termites →](/pest-library/subterranean-termites/)
+[Learn about subterranean termites](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Common in Boynton’s older east-side and downtown-area homes, living entirely inside dry structural wood — treated without fumigation using our no-tent options.
 
-[Learn about drywood termites →](/pest-library/drywood-termites/)
+[Learn about drywood termites](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch and landscaping on warm nights — heavy around the marina district and in well-planted western lawns.
 
-[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Boynton’s many 55+ villa and condo communities. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](/pest-library/german-cockroaches/)
+[Learn about German cockroaches](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants that trail across kitchens and baths by the thousands — among the most common calls from Boynton Beach homeowners.
 
-[Learn about white-footed ants →](/pest-library/white-footed-ants/)
+[Learn about white-footed ants](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Climbs canal seawalls, fences, and tree limbs into attics — heightened near the Intracoastal and the western canal and lake communities.
 
-[Learn about roof rats →](/pest-library/roof-rats/)
+[Learn about roof rats](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by standing water in the Intracoastal, the LWDD canals, community lakes, and the Green Cay and Loxahatchee wetlands — West Boynton sees especially heavy wet-season pressure.
 
-[Learn about mosquitoes →](/pest-library/mosquitoes/)
+[Learn about mosquitoes](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 
 Venomous widows tuck into garages, meter boxes, and patio furniture — the brown widow is now especially common across Boynton yards.
 
-[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
+[Learn about widow spiders](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -286,4 +286,4 @@ Get a $99 inspection (applied to the cost of treatment) from a local, veteran-ow
 
 [Get Your Free Boynton Beach Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.

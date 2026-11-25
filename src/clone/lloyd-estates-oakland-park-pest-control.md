@@ -11,7 +11,7 @@ Pest Control • Lloyd Estates, Oakland Park
 
 # Lloyd Estates Pest Control — established homes under a mature canopy.
 
-Bugsy’s protects Lloyd Estates’ homes in Oakland Park from the roof rats, palmetto bugs, ghost ants, mosquitoes, and termites drawn to its mature tree cover and nearby canals. Licensed, veteran-owned, local.
+Bugsy’s protects Lloyd Estates’ homes in Oakland Park from the roof rats, palmetto bugs, ghost ants, mosquitoes, and termites drawn to its mature tree cover and nearby canals. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -99,4 +99,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Oakland Par
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Lloyd Estates, Oakland Park and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Lloyd Estates, Oakland Park and across South Florida.

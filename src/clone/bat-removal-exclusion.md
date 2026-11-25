@@ -13,9 +13,9 @@ Bat Removal & Exclusion
 
 ## Bats in your attic or soffit? Removed the right way — humanely and legally.
 
-A bat colony in your attic means guano piling up, staining, odor, and a real health concern — but bats are a protected species in Florida, and how they’re removed is regulated by law. Bugsy’s uses humane, one-way exclusion to let bats leave and keep them from getting back in, then cleans up what they left behind. No poisons, no trapping — done by the book.
+A bat colony in your attic means guano piling up, staining, odor, and a health concern — but bats are a protected species in Florida, and how they’re removed is regulated by law. Bugsy’s uses humane, one-way exclusion to let bats leave and keep them from getting back in, then cleans up what they left behind. No poisons, no trapping — done by the book.
 
-[Get a Free Estimate](/contact/) HUMANE • LEGAL • SEALED
+[Get a Free Estimate](/contact/) Humane, legal and sealed.
 
 ## Why bats can’t just be trapped or sprayed
 

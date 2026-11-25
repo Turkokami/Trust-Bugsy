@@ -15,7 +15,7 @@ Bee & Hive Removal
 
 A bee colony inside your home’s structure isn’t just a sting risk — the comb, honey, and wax draw other pests and can damage the building. Bugsy’s locates the hive, removes and treats it, and in most cases repairs the area we opened to reach it. One crew for the problem and the patch-up.
 
-[Get a Free Estimate](/contact/) REMOVE • TREAT • REPAIR
+[Get a Free Estimate](/contact/) Remove, treat and repair.
 
 ## Why a hive in the structure has to go
 
@@ -31,7 +31,7 @@ Abandoned comb, honey, and wax left in a wall attract rodents, roaches, and moth
 
 ### It gets worse with time
 
-Colonies grow. What starts as a small entry at a soffit becomes a larger hive that’s harder — and costlier — to reach and remove.
+Colonies keep growing, and what starts as a small entry at a soffit becomes a larger hive that’s harder — and costlier — to reach and remove.
 
 Straight talk: we don’t do live relocations
 

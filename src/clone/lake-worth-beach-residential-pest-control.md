@@ -27,7 +27,7 @@ From the historic bungalows of the Cottage District and College Park to the beac
 
 Lake Worth Beach packs historic wood-frame homes, a walkable downtown, a barrier-island beach, and a chain of freshwater lakes into a small footprint — a combination that keeps a distinctive mix of pests active all year.
 
-Lake Worth Beach is one of Palm Beach County’s most historic and densely-built towns — a grid of 1920s bungalows and cottages, an artsy walkable downtown, a barrier-island beach with the landmark Casino, and the freshwater chain of lakes around John Prince Park to the west. In a humid subtropical climate with no real winter, pests here stay busy twelve months a year.
+Lake Worth Beach is one of Palm Beach County’s most historic and densely-built towns — a grid of 1920s bungalows and cottages, an artsy walkable downtown, a barrier-island beach with the landmark Casino, and the freshwater chain of lakes around John Prince Park to the west. In a humid subtropical climate with no true winter, pests here stay busy twelve months a year.
 
 The town’s character is also its pest driver. Its aged wood-frame housing stock — among the oldest in the county — makes drywood termites and silverfish a headline concern, while the dense, walkable downtown and small lots let German cockroaches, ants, and rodents move easily between closely-spaced homes and businesses. On the water side, the Lake Worth Lagoon (the Intracoastal) and Lake Osborne and Lake Clarke to the west breed mosquitoes and no-see-ums and give roof rats seawall and shoreline routes into attics.
 
@@ -79,51 +79,51 @@ These are the species we treat most across Lake Worth Beach — each with a loca
 
 ### Subterranean & Formosan Termites
 
-Enters from the soil through foundations and slabs — a real risk even in an older town as settling and additions open soil-contact paths.
+Enters from the soil through foundations and slabs — a risk even in an older town as settling and additions open soil-contact paths.
 
-[Learn about subterranean termites →](/pest-library/subterranean-termites/)
+[Learn about subterranean termites](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 The number-one termite threat in Lake Worth Beach, thriving in the town’s abundant aged, dry structural wood — treated with careful, no-tent methods that protect historic homes.
 
-[Learn about drywood termites →](/pest-library/drywood-termites/)
+[Learn about drywood termites](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch and landscaping on warm nights — constant in a dense, humid, heavily-planted downtown.
 
-[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit through Lake Worth’s tightly-packed homes and multi-family blocks. Requires baiting, not just spraying.
 
-[Learn about German cockroaches →](/pest-library/german-cockroaches/)
+[Learn about German cockroaches](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants that trail across kitchens and baths by the thousands — among the most common calls in Lake Worth’s older, humid homes.
 
-[Learn about white-footed ants →](/pest-library/white-footed-ants/)
+[Learn about white-footed ants](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 Climbs seawalls, fences, and tree limbs into the attics of older homes with more gaps and vents — heightened near the lagoon and the western lakes.
 
-[Learn about roof rats →](/pest-library/roof-rats/)
+[Learn about roof rats](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by the Lake Worth Lagoon and the freshwater chain of lakes around John Prince Park — a small, water-wrapped town means biters are never far.
 
-[Learn about mosquitoes →](/pest-library/mosquitoes/)
+[Learn about mosquitoes](/pest-library/mosquitoes/)
 
 ### Black & Brown Widow Spiders
 
 Venomous widows tuck into garages, meter boxes, and patio furniture — the brown widow is now especially common across South Florida yards.
 
-[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
+[Learn about widow spiders](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -286,4 +286,4 @@ Get a $99 inspection (applied to the cost of treatment) from a local, veteran-ow
 
 [Get Your Free Lake Worth Beach Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Lake Worth Beach (33460, 33461, 33462, 33463, 33467) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Lake Worth Beach (33460, 33461, 33462, 33463, 33467) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.

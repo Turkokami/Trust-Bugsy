@@ -99,4 +99,4 @@ Get a $99 inspection (applied to the cost of treatment) built for seawall, dock,
 
 [Get a Free Waterfront Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Frenchman’s Creek & the Waterfront and all of Palm Beach Gardens (33403, 33408, 33410, 33418), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Frenchman’s Creek & the Waterfront and all of Palm Beach Gardens (33403, 33408, 33410, 33418), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

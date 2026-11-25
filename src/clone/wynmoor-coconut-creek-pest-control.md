@@ -12,7 +12,7 @@ Pest Control • Wynmoor, Coconut Creek
 
 # Wynmoor Pest Control — a lakeside community where mosquitoes and roaches never rest.
 
-Bugsy’s protects Wynmoor’s condos and homes in Coconut Creek from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Wynmoor’s condos and homes in Coconut Creek from the mosquitoes, palmetto bugs, ghost ants, iguanas, and rodents drawn to its lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Coconut Cre
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Wynmoor, Coconut Creek and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Wynmoor, Coconut Creek and across South Florida.

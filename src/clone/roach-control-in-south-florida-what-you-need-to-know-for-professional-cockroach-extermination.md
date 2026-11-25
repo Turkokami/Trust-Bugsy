@@ -44,7 +44,7 @@ Roach habits and harborage preferences tell technicians where to inspect and whi
 
 ## What Are the Signs and Health Risks of a Roach Infestation?
 
-Roach infestations usually show visible and sensory signs and pose real health and contamination risks that warrant prompt action. Early indicators include droppings and oothecae (egg cases), live sightings (especially at night), and smear marks or greasy stains along baseboards and appliance edges — all signs of active harborage where treatments should be concentrated. Beyond being a nuisance, roaches can contaminate food and surfaces with bacteria, trigger asthma and allergies through shed skins and feces, and create regulatory problems for food‑service operations. Spotting these signs early speeds intervention and lowers exposure, which is why monitoring and [professional assessment](/contact/) are recommended when you see them.
+Roach infestations usually show visible and sensory signs and pose health and contamination risks that warrant prompt action. Early indicators include droppings and oothecae (egg cases), live sightings (especially at night), and smear marks or greasy stains along baseboards and appliance edges — all signs of active harborage where treatments should be concentrated. Beyond being a nuisance, roaches can contaminate food and surfaces with bacteria, trigger asthma and allergies through shed skins and feces, and create regulatory problems for food‑service operations. Spotting these signs early speeds intervention and lowers exposure, which is why monitoring and [professional assessment](/contact/) are recommended when you see them.
 
 Here are the most reliable visual and sensory cues to check for inside homes and businesses.
 

@@ -5,7 +5,7 @@ description: "From the Las Olas Isles to Victoria Park, Bugsy’s protects Fort 
 type: "area"
 h1: "Pest Control in Fort Lauderdale, FL | Bugsy’s Pest Solutions"
 image: "https://trustbugsy.com/wp-content/uploads/2025/05/Mask-group-8.webp"
-faqs: [{"q": "Do you service all of Fort Lauderdale?", "a": "Yes — we service all of Fort Lauderdale and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are no-see-ums and mosquitoes so bad near the water?", "a": "Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for real relief."}, {"q": "Can you help with iguanas on my seawall or dock?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service all of Fort Lauderdale?", "a": "Yes — we service all of Fort Lauderdale and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are no-see-ums and mosquitoes so bad near the water?", "a": "Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for relief."}, {"q": "Can you help with iguanas on my seawall or dock?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 # Pest Control in Fort Lauderdale, FL | Bugsy’s Pest Solutions
@@ -74,7 +74,7 @@ Every plan is backed by our FDACS license, family-conscious products, and a 5.0-
 Yes — we service all of Fort Lauderdale and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available.
 
 ### Why are no-see-ums and mosquitoes so bad near the water?
-Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for real relief.
+Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for relief.
 
 ### Can you help with iguanas on my seawall or dock?
 Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property.
@@ -106,4 +106,4 @@ Get a free, no-pressure quote from a licensed, veteran-owned team that knows the
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Fort Lauderdale and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Fort Lauderdale and across South Florida.

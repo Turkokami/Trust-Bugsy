@@ -5,14 +5,14 @@ description: "Bugsy’s protects North River Shores’ waterfront and canal home
 type: "area"
 h1: "North River Shores Pest Control — riverfront living on the St. Lucie."
 image: "https://trustbugsy.com/wp-content/uploads/2026/05/Mask-group-34.webp"
-faqs: [{"q": "Do you service North River Shores?", "a": "Yes — we service North River Shores and the Treasure Coast, from waterfront homes to condos and businesses. We cover from Fort Pierce down to Fort Lauderdale, so we know these communities well."}, {"q": "Why are no-see-ums so relentless on the Treasure Coast?", "a": "The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for real relief."}, {"q": "How much does service cost?", "a": "It depends on the property and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service North River Shores?", "a": "Yes — we service North River Shores and the Treasure Coast, from waterfront homes to condos and businesses. We cover from Fort Pierce down to Fort Lauderdale, so we know these communities well."}, {"q": "Why are no-see-ums so relentless on the Treasure Coast?", "a": "The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for relief."}, {"q": "How much does service cost?", "a": "It depends on the property and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 Pest Control • North River Shores, Stuart
 
 # North River Shores Pest Control — riverfront living on the St. Lucie.
 
-Bugsy’s protects North River Shores’ waterfront and canal homes in Stuart from the no-see-ums, mosquitoes, iguanas, roof rats, and termites drawn to the St. Lucie River, canals, and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects North River Shores’ waterfront and canal homes in Stuart from the no-see-ums, mosquitoes, iguanas, roof rats, and termites drawn to the St. Lucie River, canals, and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — we service North River Shores and the Treasure Coast, from waterfront homes to condos and businesses. We cover from Fort Pierce down to Fort Lauderdale, so we know these communities well.
 
 ### Why are no-see-ums so relentless on the Treasure Coast?
-The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for real relief.
+The Indian River Lagoon and its mangroves and tidal flats are among the most productive biting-midge habitat in Florida, and no-see-ums slip through standard screens. We treat resting vegetation and advise on fine screening and timing for relief.
 
 ### How much does service cost?
 It depends on the property and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998.
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows Treasure 
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving North River Shores, Stuart and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving North River Shores, Stuart and across South Florida.

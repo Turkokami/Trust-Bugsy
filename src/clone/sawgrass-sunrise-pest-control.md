@@ -12,7 +12,7 @@ Pest Control • Sawgrass, Sunrise
 
 # Sawgrass Pest Control — on the Everglades edge, where mosquitoes never quit.
 
-Bugsy’s protects Sawgrass-area homes in Sunrise from the mosquitoes, no-see-ums, fire ants, iguanas, and wildlife that come with the Everglades buffer, canals, and lakes on the city’s western edge. Licensed, veteran-owned, local.
+Bugsy’s protects Sawgrass-area homes in Sunrise from the mosquitoes, no-see-ums, fire ants, iguanas, and wildlife that come with the Everglades buffer, canals, and lakes on the city’s western edge. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Sunrise.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Sawgrass, Sunrise and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Sawgrass, Sunrise and across South Florida.

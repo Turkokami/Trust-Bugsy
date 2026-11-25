@@ -5,7 +5,7 @@ description: "Bugsy’s keeps Frenchman’s Reserve homes protected from the mos
 type: "area"
 h1: "Frenchman’s Reserve Pest Control | Palm Beach Gardens | Bugsy’s"
 image: "https://trustbugsy.com/wp-content/uploads/2026/05/Mask-group-34.webp"
-faqs: [{"q": "Do you service the gated community discreetly?", "a": "Yes — we coordinate gate and HOA access, work quietly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available."}, {"q": "Why are mosquitoes bad near the golf course?", "a": "The course lakes and water features are constant breeding sites, so even a spotless yard gets mosquitoes at dusk. We treat resting vegetation and standing water around your home."}, {"q": "Can you keep roof rats out of the landscaping and attic?", "a": "Yes. Dense, manicured planting is a rat highway here. We inspect the roofline and canopy, seal entry points, and maintain control around the property."}, {"q": "How much does service cost?", "a": "It depends on home size and landscaping — we give a clear, no-pressure quote up front. Call (561) 654-8998."}]
+faqs: [{"q": "Do you service the gated community discreetly?", "a": "Yes — we coordinate gate and HOA access, work discreetly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available."}, {"q": "Why are mosquitoes bad near the golf course?", "a": "The course lakes and water features are constant breeding sites, so even a spotless yard gets mosquitoes at dusk. We treat resting vegetation and standing water around your home."}, {"q": "Can you keep roof rats out of the landscaping and attic?", "a": "Yes. Dense, manicured planting is a rat highway here. We inspect the roofline and canopy, seal entry points, and maintain control around the property."}, {"q": "How much does service cost?", "a": "It depends on home size and landscaping — we give a clear, no-pressure quote up front. Call (561) 654-8998."}]
 ---
 
 # Frenchman’s Reserve Pest Control | Palm Beach Gardens | Bugsy’s
@@ -14,7 +14,7 @@ Pest Control • Frenchman’s Reserve, Palm Beach Gardens
 
 ## Frenchman’s Reserve Pest Control — gated golf living with year-round lake pressure.
 
-Bugsy’s keeps Frenchman’s Reserve homes protected from the mosquitoes, ghost ants, roof rats, and termites that thrive around its golf course, lakes, and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s keeps Frenchman’s Reserve homes protected from the mosquitoes, ghost ants, roof rats, and termites that thrive around its golf course, lakes, and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -71,7 +71,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 ## Frenchman’s Reserve pest control — questions we hear
 
 ### Do you service the gated community discreetly?
-Yes — we coordinate gate and HOA access, work quietly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available.
+Yes — we coordinate gate and HOA access, work discreetly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available.
 
 ### Why are mosquitoes bad near the golf course?
 The course lakes and water features are constant breeding sites, so even a spotless yard gets mosquitoes at dusk. We treat resting vegetation and standing water around your home.
@@ -105,4 +105,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your comm
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Frenchman’s Reserve, Palm Beach Gardens and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Frenchman’s Reserve, Palm Beach Gardens and all of Palm Beach County.

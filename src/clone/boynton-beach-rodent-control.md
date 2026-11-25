@@ -16,7 +16,7 @@ Rodent & Rat Control • Boynton Beach, FL
 Roof rats travel the seawalls and docks of the Intracoastal and the Boynton Inlet straight into attics and walls. Bugsy’s traps and removes the rodents, seals the exterior openings they used, and cleans up the mess — because trapping without exclusion just invites the next one.
 
 - ★ Veteran-Owned
-- Trap • Exclude • Sanitize
+- Trap, exclude and sanitize
 - Exclusion Warranty
 - FDACS-Licensed & Insured
 - Attic Cleanup Available
@@ -151,4 +151,4 @@ Get a free rodent inspection — we’ll find how they’re getting in and seal 
 
 [Get a Free Rodent Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

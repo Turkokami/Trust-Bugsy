@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your neig
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Counterpoint Estates, Royal Palm Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Counterpoint Estates, Royal Palm Beach and all of Palm Beach County.

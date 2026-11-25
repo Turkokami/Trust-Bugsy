@@ -14,7 +14,7 @@ Pest Library
 
 Sitophilus species (rice & granary weevils)
 
-Tiny, snout-nosed beetles that develop *inside* whole grains, rice, and seeds — so they are often carried home already in the package and quietly multiply in the pantry.
+Tiny, snout-nosed beetles that develop *inside* whole grains, rice, and seeds — so they are often carried home already in the package and multiply unnoticed in the pantry.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 

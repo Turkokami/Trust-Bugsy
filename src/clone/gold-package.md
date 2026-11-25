@@ -52,7 +52,7 @@ What's covered
 | 3,000–4,999 sq ft | $295 | $59/mo | $79/mo | $129/mo |
 | 5,000–8,999 sq ft | $395 | $89/mo | $99/mo | $159/mo |
 
-Optional Rodent Bait Box add-on: $20/mo (4 boxes) • $30/mo (6 boxes) • $40/mo (8 boxes). One-time service available from $199.
+Optional Rodent Bait Box add-on: $20/mo (4 boxes), $30/mo (6 boxes) or $40/mo (8 boxes). One-time service available from $199.
 
 ### Apartments, Townhomes & Condos — Recurring Service
 

@@ -5,14 +5,14 @@ description: "Bugsy’s keeps Saddle Trail Park’s estates — steps from the W
 type: "area"
 h1: "Saddle Trail Park Pest Control — bridle paths, barns, and show-season pest pressure."
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-335-min.webp"
-faqs: [{"q": "Do you treat barns, paddocks, and tack rooms too?", "a": "Yes — we handle the whole property, including barns, feed and tack rooms, and paddock edges, with fly, rodent, and fire-ant programs designed around horses. Same-day service is often available."}, {"q": "Can you help with flies around the stables?", "a": "Yes. We target fly breeding and resting sites around barns and manure areas and combine that with the home perimeter for real relief."}, {"q": "How much does service cost for an equestrian property?", "a": "Larger properties vary with acreage, barns, and pest pressure — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe around horses, kids, and pets?", "a": "Yes — we use targeted, animal-conscious products applied by licensed techs and discuss any areas near livestock so everything stays safe."}]
+faqs: [{"q": "Do you treat barns, paddocks, and tack rooms too?", "a": "Yes — we handle the whole property, including barns, feed and tack rooms, and paddock edges, with fly, rodent, and fire-ant programs designed around horses. Same-day service is often available."}, {"q": "Can you help with flies around the stables?", "a": "Yes. We target fly breeding and resting sites around barns and manure areas and combine that with the home perimeter for relief."}, {"q": "How much does service cost for an equestrian property?", "a": "Larger properties vary with acreage, barns, and pest pressure — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe around horses, kids, and pets?", "a": "Yes — we use targeted, animal-conscious products applied by licensed techs and discuss any areas near livestock so everything stays safe."}]
 ---
 
 Pest Control • Saddle Trail Park, Wellington
 
 # Saddle Trail Park Pest Control — bridle paths, barns, and show-season pest pressure.
 
-Bugsy’s keeps Saddle Trail Park’s estates — steps from the Wellington showgrounds — free of the mosquitoes, stable flies, fire ants, and rodents that come with barns and bridle paths. Licensed, veteran-owned, local.
+Bugsy’s keeps Saddle Trail Park’s estates — steps from the Wellington showgrounds — free of the mosquitoes, stable flies, fire ants, and rodents that come with barns and bridle paths. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, animal- and family-conscious products, and a 5.0-st
 Yes — we handle the whole property, including barns, feed and tack rooms, and paddock edges, with fly, rodent, and fire-ant programs designed around horses. Same-day service is often available.
 
 ### Can you help with flies around the stables?
-Yes. We target fly breeding and resting sites around barns and manure areas and combine that with the home perimeter for real relief.
+Yes. We target fly breeding and resting sites around barns and manure areas and combine that with the home perimeter for relief.
 
 ### How much does service cost for an equestrian property?
 Larger properties vary with acreage, barns, and pest pressure — we give a clear, no-pressure quote up front. Call (561) 654-8998.
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows show-seas
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Saddle Trail Park, Wellington and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Saddle Trail Park, Wellington and all of Palm Beach County.

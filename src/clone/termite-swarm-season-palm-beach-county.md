@@ -4,7 +4,7 @@ title: "Termite Swarm Season in Palm Beach County, FL | Bugsy's"
 description: "When you see winged termites (“swarmers”) around your windows and lights, it means a colony is already mature and nearby."
 type: "area"
 h1: "Termite Swarm Season in Palm Beach County, FL | Bugsy’s Pest Solutions"
-faqs: [{"q": "When is termite swarm season in Palm Beach County?", "a": "Subterranean termites typically swarm in spring, often on warm, humid days after rain, while drywood termites swarm through the warmer months into summer. In South Florida you can see activity nearly year-round, which is why any sign of swarmers warrants an inspection."}, {"q": "I saw winged insects indoors — are they termites or flying ants?", "a": "They’re easy to confuse. Termite swarmers have straight antennae, equal-length wings, and a broad waist; flying ants have bent antennae, unequal wings, and a pinched waist. Either way, swarmers indoors are worth a professional look — bring us a few in a bag or a photo and we’ll identify them."}, {"q": "How much damage can termites really do?", "a": "A lot, quietly. They eat wood from the inside out, and an established colony can compromise trim, flooring, and framing over months to years before it’s obvious. Because homeowners insurance generally excludes termite damage, prevention is dramatically cheaper than repair."}, {"q": "Do I need treatment if I only see a few swarmers?", "a": "Very likely yes. Swarmers are reproductives leaving an existing, mature colony — seeing them (especially indoors) means the colony is nearby or already in the structure. A $99 inspection (applied to the cost of treatment) tells us the species and extent so we can right-size the treatment."}, {"q": "Is termite treatment safe for my family and pets?", "a": "Yes, when performed by a licensed professional. We use EPA-registered products and modern application methods, apply them to the structure and soil rather than living space, and explain any re-entry guidance clearly."}]
+faqs: [{"q": "When is termite swarm season in Palm Beach County?", "a": "Subterranean termites typically swarm in spring, often on warm, humid days after rain, while drywood termites swarm through the warmer months into summer. In South Florida you can see activity nearly year-round, which is why any sign of swarmers warrants an inspection."}, {"q": "I saw winged insects indoors — are they termites or flying ants?", "a": "They’re easy to confuse. Termite swarmers have straight antennae, equal-length wings, and a broad waist; flying ants have bent antennae, unequal wings, and a pinched waist. Either way, swarmers indoors are worth a professional look — bring us a few in a bag or a photo and we’ll identify them."}, {"q": "How much damage can termites do?", "a": "A lot, and usually unseen: they eat wood from the inside out, and an established colony can compromise trim, flooring, and framing over months to years before it’s obvious. Because homeowners insurance generally excludes termite damage, prevention is dramatically cheaper than repair."}, {"q": "Do I need treatment if I only see a few swarmers?", "a": "Very likely yes. Swarmers are reproductives leaving an existing, mature colony — seeing them (especially indoors) means the colony is nearby or already in the structure. A $99 inspection (applied to the cost of treatment) tells us the species and extent so we can right-size the treatment."}, {"q": "Is termite treatment safe for my family and pets?", "a": "Yes, when performed by a licensed professional. We use EPA-registered products and modern application methods, apply them to the structure and soil rather than living space, and explain any re-entry guidance clearly."}]
 ---
 
 # Termite Swarm Season in Palm Beach County, FL | Bugsy’s Pest Solutions
@@ -79,7 +79,7 @@ We treat existing activity and establish protection designed to stop new colonie
 
 ### Ongoing monitoring
 
-Because South Florida pressure never really stops, we recommend periodic re-inspection so protection stays intact and issues are caught early.
+Because South Florida pressure continues year-round, we recommend periodic re-inspection so protection stays intact and issues are caught early.
 
 ## High-risk settings we protect
 
@@ -116,8 +116,8 @@ Subterranean termites typically swarm in spring, often on warm, humid days after
 ### I saw winged insects indoors — are they termites or flying ants?
 They’re easy to confuse. Termite swarmers have straight antennae, equal-length wings, and a broad waist; flying ants have bent antennae, unequal wings, and a pinched waist. Either way, swarmers indoors are worth a professional look — bring us a few in a bag or a photo and we’ll identify them.
 
-### How much damage can termites really do?
-A lot, quietly. They eat wood from the inside out, and an established colony can compromise trim, flooring, and framing over months to years before it’s obvious. Because homeowners insurance generally excludes termite damage, prevention is dramatically cheaper than repair.
+### How much damage can termites do?
+A lot, and usually unseen: they eat wood from the inside out, and an established colony can compromise trim, flooring, and framing over months to years before it’s obvious. Because homeowners insurance generally excludes termite damage, prevention is dramatically cheaper than repair.
 
 ### Do I need treatment if I only see a few swarmers?
 Very likely yes. Swarmers are reproductives leaving an existing, mature colony — seeing them (especially indoors) means the colony is nearby or already in the structure. A $99 inspection (applied to the cost of treatment) tells us the species and extent so we can right-size the treatment.
@@ -153,4 +153,4 @@ $99 termite inspection and species-specific protection across Palm Beach County 
 
 [Book My $99 Termite Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Palm Beach County, FL (33401, 33409, 33411, 33426, 33436, 33444, 33458, 33460, 33472, 33477, 33483, 33487, 33496 and surrounding ZIPs). Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Palm Beach County, FL (33401, 33409, 33411, 33426, 33436, 33444, 33458, 33460, 33472, 33477, 33483, 33487, 33496 and surrounding ZIPs). Scope and pricing are confirmed at your free on-site inspection.

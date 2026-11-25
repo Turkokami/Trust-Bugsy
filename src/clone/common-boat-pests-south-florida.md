@@ -93,7 +93,7 @@ Professional [ant control services](/ant-control/) can eliminate colonies and pr
 
 ### 5. Rodents: Unwelcome Stowaways in Marine Environments
 
-Like the other pests on this list, rodents are in search of food, water and shelter – all of which boats readily provide. The off-season, when boats are stored for long periods in South Florida marinas, is when rodents tend to be a problem, since they like quiet, undisturbed environments.
+Like the other pests on this list, rodents are in search of food, water and shelter – all of which boats readily provide. The off-season, when boats are stored for long periods in South Florida marinas, is when rodents tend to be a problem, since they like undisturbed environments.
 
 When boat owners return to their vessels as boating season kicks back up during Florida’s warmer months, they may discover a rodent problem that has been developing for months. This is particularly common in areas like [Boca Raton](/boca-raton-fl-pest-control/), [Delray Beach](/delray-beach-fl-pest-control/), and other coastal communities where boats are stored year-round.
 

@@ -5,14 +5,14 @@ description: "Bugsy’s protects Heron Bay’s gated homes in northwest Coral Sp
 type: "area"
 h1: "Heron Bay Pest Control — a gated community on the Everglades’ doorstep."
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-333-min.webp"
-faqs: [{"q": "Do you service Heron Bay?", "a": "Yes — we service Heron Bay and coordinate gate access and HOA-friendly exterior treatments. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are mosquitoes so persistent here?", "a": "Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for real relief."}, {"q": "How much does service cost?", "a": "It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service Heron Bay?", "a": "Yes — we service Heron Bay and coordinate gate access and HOA-friendly exterior treatments. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are mosquitoes so persistent here?", "a": "Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for relief."}, {"q": "How much does service cost?", "a": "It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 Pest Control • Heron Bay, Coral Springs
 
 # Heron Bay Pest Control — a gated community on the Everglades’ doorstep.
 
-Bugsy’s protects Heron Bay’s gated homes in northwest Coral Springs from the mosquitoes, no-see-ums, fire ants, iguanas, and wildlife that come with lakes, preserves, and the nearby Everglades. Licensed, veteran-owned, local.
+Bugsy’s protects Heron Bay’s gated homes in northwest Coral Springs from the mosquitoes, no-see-ums, fire ants, iguanas, and wildlife that come with lakes, preserves, and the nearby Everglades. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — we service Heron Bay and coordinate gate access and HOA-friendly exterior treatments. We’re local to South Florida, so same-day service is often available.
 
 ### Why are mosquitoes so persistent here?
-Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for real relief.
+Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for relief.
 
 ### How much does service cost?
 It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998.
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Coral Sprin
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Heron Bay, Coral Springs and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Heron Bay, Coral Springs and across South Florida.

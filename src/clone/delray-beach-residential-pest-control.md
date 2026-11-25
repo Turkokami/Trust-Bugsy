@@ -27,7 +27,7 @@ From the Intracoastal canal homes of Tropic Isle to the Old-Florida streets of L
 
 Delray Beach sits in one of the most pest-active environments in the country — and the geography that makes it beautiful is exactly what keeps pests moving.
 
-Delray Beach runs from the Atlantic barrier island and the Intracoastal Waterway on the east to the canals, lakes, and wetlands out west, all inside a humid subtropical climate that never really gets a killing frost. That combination — standing water, dense landscaping, warm nights, and a long May-to-October wet season — means pests here don’t get a winter off. They breed, forage, and move into homes all twelve months of the year.
+Delray Beach runs from the Atlantic barrier island and the Intracoastal Waterway on the east to the canals, lakes, and wetlands out west, all inside a humid subtropical climate that almost never gets a killing frost. That combination — standing water, dense landscaping, warm nights, and a long May-to-October wet season — means pests here don’t get a winter off. They breed, forage, and move into homes all twelve months of the year.
 
 Water is the common thread. The Intracoastal and the finger canals of neighborhoods like **Tropic Isle** and the **Marina District** keep humidity high and draw mosquitoes, biting midges (no-see-ums), and rodents that travel along seawalls and docks. Out west, the lakes of **Lake Ida** and the preserves around **Wakodahatchee Wetlands** put homes near prime mosquito and wildlife habitat. Downtown along **Atlantic Avenue**, a dense restaurant-and-nightlife corridor creates steady food and harborage that pushes cockroaches and rodents into nearby residential blocks. And the region’s older homes — the historic bungalows of Lake Ida and Del-Ida Park — give wood-destroying insects like drywood termites decades of undisturbed timber to work in.
 
@@ -81,55 +81,55 @@ These are the species we treat most across Delray Beach — each with a local tw
 
 South Florida’s most destructive wood pest, entering from the soil through foundations and slabs. The single biggest silent threat to Delray Beach home values.
 
-[Learn about subterranean termites →](/pest-library/subterranean-termites/)
+[Learn about subterranean termites](/pest-library/subterranean-termites/)
 
 ### Drywood Termites
 
 Especially common in Delray’s older Lake Ida and Del-Ida Park homes, living entirely inside dry structural wood — our no-tent treatment options handle them without fumigation.
 
-[Learn about drywood termites →](/pest-library/drywood-termites/)
+[Learn about drywood termites](/pest-library/drywood-termites/)
 
 ### Palmetto Bugs (American Cockroaches)
 
 The large roaches that fly in from mulch, sewers, and landscaping on warm nights — a constant along the Atlantic Ave corridor and in humid, well-planted yards.
 
-[Learn about palmetto bugs →](/pest-library/palmetto-bugs/)
+[Learn about palmetto bugs](/pest-library/palmetto-bugs/)
 
 ### German Cockroaches
 
 The indoor-breeding roach that spreads unit-to-unit in Delray’s condos and villas. Requires baiting, not just spraying, to eliminate.
 
-[Learn about German cockroaches →](/pest-library/german-cockroaches/)
+[Learn about German cockroaches](/pest-library/german-cockroaches/)
 
 ### Ghost Ants & White-Footed Ants
 
 Tiny tropical ants that trail across kitchens and baths by the thousands — among the most common calls we get from Delray Beach homeowners.
 
-[Learn about white-footed ants →](/pest-library/white-footed-ants/)
+[Learn about white-footed ants](/pest-library/white-footed-ants/)
 
 ### Roof Rats
 
 South Florida’s dominant rodent, climbing along canal seawalls, fences, and tree limbs into attics — heightened near the Intracoastal and older neighborhoods.
 
-[Learn about roof rats →](/pest-library/roof-rats/)
+[Learn about roof rats](/pest-library/roof-rats/)
 
 ### Mosquitoes & No-See-Ums
 
 Bred by standing water in canals, lakes, and the western wetlands. Peak pressure runs through the long wet season and makes yards unusable without control.
 
-[Learn about mosquitoes →](/pest-library/mosquitoes/)
+[Learn about mosquitoes](/pest-library/mosquitoes/)
 
 ### Silverfish & Occasional Invaders
 
 Moisture-driven pests that thrive in Delray’s humidity, turning up in bathrooms, closets, and stored paper and fabrics.
 
-[Learn about silverfish →](/pest-library/silverfish/)
+[Learn about silverfish](/pest-library/silverfish/)
 
 ### Black & Brown Widow Spiders
 
 Venomous widows tuck into garages, meter boxes, and patio furniture — the brown widow is now especially common across South Florida yards.
 
-[Learn about widow spiders →](/pest-library/brown-widow-spiders/)
+[Learn about widow spiders](/pest-library/brown-widow-spiders/)
 
 Explore all 57 species in our [South Florida Pest Library](/pest-library/) — identification, behavior, and how we treat each one.
 
@@ -292,4 +292,4 @@ Get a $99 inspection (applied to the cost of treatment) from a local, veteran-ow
 
 [Get Your Free Delray Beach Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope, plan details, and pricing are confirmed at your free on-site inspection. The $99 termite inspection is credited toward treatment when work is performed.

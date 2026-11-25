@@ -12,7 +12,7 @@ Pest Control • Aberdeen, Boynton Beach
 
 # Aberdeen Pest Control — gated golf living with year-round lake pressure.
 
-Bugsy’s protects Aberdeen’s gated homes from the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to its golf course, lakes, and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Aberdeen’s gated homes from the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to its golf course, lakes, and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your comm
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Aberdeen, Boynton Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Aberdeen, Boynton Beach and all of Palm Beach County.

@@ -47,7 +47,7 @@ Mature landscaping and preserve edges give rats and wildlife cover — trapped, 
 
 Chinch bugs threaten the lawns; slab homes need subterranean termite protection — we cover both.
 
-## On the course or backing to a preserve? Expect heavier pressure.
+## On the course or backing to a preserve? You can expect heavier pest pressure there.
 
 Course lakes, canals, and preserve land are large, permanent breeding and wildlife sources. A recurring barrier program plus targeted fire-ant and wildlife work is what keeps them in check.
 
@@ -98,4 +98,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a home on the 
 
 [Get a Free Binks Forest Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Binks Forest & the Golf Communities and all of Wellington (33414, 33449, 33470), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Binks Forest & the Golf Communities and all of Wellington (33414, 33449, 33470), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

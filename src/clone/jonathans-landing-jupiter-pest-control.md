@@ -12,7 +12,7 @@ Pest Control • Jonathan’s Landing, Jupiter
 
 # Jonathan’s Landing Pest Control — waterfront golf living with canal-edge biting insects.
 
-Bugsy’s keeps Jonathan’s Landing’s gated waterfront and golf homes protected from the no-see-ums, mosquitoes, roof rats, iguanas, and ants drawn to its canals, marina, and lush landscaping. Licensed, veteran-owned, local.
+Bugsy’s keeps Jonathan’s Landing’s gated waterfront and golf homes protected from the no-see-ums, mosquitoes, roof rats, iguanas, and ants drawn to its canals, marina, and lush landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -50,7 +50,7 @@ Lush irrigation feeds ghost-ant colonies; subterranean termites attack from mois
 
 ![Mosquitoes swarming in a South Florida backyard at dusk](https://trustbugsy.com/wp-content/uploads/2026/04/Gemini_Generated_Image_kkcm2pkkcm2pkkcm.webp)
 
-## On a canal, the marina, or a fairway? Expect heavier pressure.
+## On a canal, the marina, or a fairway? You can expect heavier pest pressure there.
 
 Water- and course-adjacent homes see the most no-see-um, mosquito, and rodent activity. We treat resting areas and seawall edges and time service to the tides.
 
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows waterfron
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Jonathan’s Landing, Jupiter and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Jonathan’s Landing, Jupiter and all of Palm Beach County.

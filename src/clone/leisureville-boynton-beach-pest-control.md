@@ -49,7 +49,7 @@ American cockroaches wander in from mulch and landscaping — handled by treatin
 
 Older buildings and shared spaces can invite the occasional roof rat — trapped and excluded.
 
-## On the board or managing the community? We coordinate directly.
+## On the board or managing the community? We coordinate with you directly.
 
 We work with Boynton’s 55+ associations on building-aware treatment and common-area service — see our HOA program — so shared-wall pests are actually resolved, not pushed next door.
 
@@ -104,4 +104,4 @@ Get a $99 inspection (applied to the cost of treatment) built for shared-wall 55
 
 [Get a Free Community Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Leisureville & Sterling Village and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Leisureville & Sterling Village and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

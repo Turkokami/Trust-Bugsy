@@ -12,7 +12,7 @@ Pest Control • Parrot Cove, Lake Worth Beach
 
 # Parrot Cove Pest Control — historic homes on the lagoon, with the pests that come with it.
 
-Bugsy’s protects Parrot Cove’s historic Intracoastal-side homes from the roof rats, drywood termites, ghost ants, and no-see-ums drawn to mature trees, old wood, and the lagoon. Veteran-owned and local.
+Bugsy’s protects Parrot Cove’s historic Intracoastal-side homes from the roof rats, drywood termites, ghost ants, and no-see-ums drawn to mature trees, old wood, and the lagoon. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows older wat
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Parrot Cove, Lake Worth Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Parrot Cove, Lake Worth Beach and all of Palm Beach County.

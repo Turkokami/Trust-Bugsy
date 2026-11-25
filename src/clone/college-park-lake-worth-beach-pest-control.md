@@ -49,7 +49,7 @@ Trail from mature landscaping into kitchens and baths — baited at the nest.
 
 The golf-course lakes and Lagoon breed biters for shaded yards — barrier plus larvicide.
 
-## Backing to the golf course? Expect more mosquitoes.
+## Backing to the golf course? You can expect more mosquitoes there.
 
 The course’s lakes and water features are permanent mosquito breeding sources. A recurring barrier-and-larvicide program keeps your yard and lanai usable through the long wet season.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for an established
 
 [Get a Free College Park Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving College Park and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving College Park and all of Lake Worth Beach (33460, 33461, 33462, 33463, 33467), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

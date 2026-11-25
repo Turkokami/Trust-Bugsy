@@ -4,7 +4,7 @@ title: "Mosquito Control in Palm Beach Gardens, FL | Bugsy's"
 description: "Between the golf-course lakes, community waterways, the Intracoastal, and the Loxahatchee Slough, Palm Beach Gardens gives mosquitoes and no-see-ums endless places to breed."
 type: "area"
 h1: "Mosquito Control in Palm Beach Gardens, FL"
-faqs: [{"q": "How often do you treat for mosquitoes?", "a": "Through Palm Beach Gardens’s wet season, a monthly recurring barrier treatment is typical — it keeps the population knocked down as rain constantly refills breeding sites."}, {"q": "Are mosquito treatments safe for my pets and pollinators?", "a": "We apply with pet and pollinator safety in mind — targeting resting areas and breeding water, timing applications appropriately, and avoiding blooming plants where practical."}, {"q": "Can you do anything about no-see-ums?", "a": "Yes. Palm Beach Gardens gets significant no-see-um (biting midge) pressure off the water, and we include treatment targeted at them as part of our program."}, {"q": "Do I need to be home for the treatment?", "a": "No — most mosquito service is performed on the exterior, so you don’t need to be home. We’ll let you know when we’ve been out."}, {"q": "Will one treatment get rid of my mosquitoes?", "a": "A single treatment provides real relief, but mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer."}, {"q": "What can I do to help between treatments?", "a": "Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged gutters — and keep bromeliads flushed. Removing breeding water is the single most effective thing a homeowner can do."}]
+faqs: [{"q": "How often do you treat for mosquitoes?", "a": "Through Palm Beach Gardens’s wet season, a monthly recurring barrier treatment is typical — it keeps the population knocked down as rain constantly refills breeding sites."}, {"q": "Are mosquito treatments safe for my pets and pollinators?", "a": "We apply with pet and pollinator safety in mind — targeting resting areas and breeding water, timing applications appropriately, and avoiding blooming plants where practical."}, {"q": "Can you do anything about no-see-ums?", "a": "Yes. Palm Beach Gardens gets significant no-see-um (biting midge) pressure off the water, and we include treatment targeted at them as part of our program."}, {"q": "Do I need to be home for the treatment?", "a": "No — most mosquito service is performed on the exterior, so you don’t need to be home. We’ll let you know when we’ve been out."}, {"q": "Will one treatment get rid of my mosquitoes?", "a": "A single treatment provides relief, but mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer."}, {"q": "What can I do to help between treatments?", "a": "Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged gutters — and keep bromeliads flushed. Removing breeding water is the single most effective thing a homeowner can do."}]
 ---
 
 # Mosquito Control in Palm Beach Gardens, FL
@@ -99,7 +99,7 @@ Yes. Palm Beach Gardens gets significant no-see-um (biting midge) pressure off t
 No — most mosquito service is performed on the exterior, so you don’t need to be home. We’ll let you know when we’ve been out.
 
 ### Will one treatment get rid of my mosquitoes?
-A single treatment provides real relief, but mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer.
+A single treatment provides relief, but mosquitoes are constantly re-breeding, so recurring service through the wet season is what keeps your yard usable all summer.
 
 ### What can I do to help between treatments?
 Dump standing water weekly — planters, saucers, bird baths, tarps, and clogged gutters — and keep bromeliads flushed. Removing breeding water is the single most effective thing a homeowner can do.
@@ -125,4 +125,4 @@ Get a free mosquito inspection and a barrier plan built for Palm Beach Gardens�
 
 [Get a Free Mosquito Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Palm Beach Gardens (33403, 33408, 33410, 33418) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

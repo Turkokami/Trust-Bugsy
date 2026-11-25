@@ -49,7 +49,7 @@ In villas and condos they travel shared walls — baited at the nest and treated
 
 Mature landscaping and lake edges give rats and wildlife cover — trapped, excluded, and sealed.
 
-## On the course or in a shared-wall villa? We treat accordingly.
+## On the course or in a shared-wall villa? We tailor the treatment to your home.
 
 A course-side estate needs lake-edge mosquito and fire-ant work; a villa or condo needs building-aware ant and roach treatment. We tailor the program to your home and coordinate with the HOA.
 
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a home on the 
 
 [Get a Free PGA National Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving PGA National and all of Palm Beach Gardens (33403, 33408, 33410, 33418), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving PGA National and all of Palm Beach Gardens (33403, 33408, 33410, 33418), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

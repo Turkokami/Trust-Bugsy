@@ -148,4 +148,4 @@ $99 inspection (applied to the cost of treatment) and a source-focused roach pro
 
 [Get My Free Roach Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Palm Beach County, FL (33401, 33409, 33411, 33426, 33436, 33444, 33458, 33460, 33472, 33477, 33483, 33487, 33496 and surrounding ZIPs). Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Palm Beach County, FL (33401, 33409, 33411, 33426, 33436, 33444, 33458, 33460, 33472, 33477, 33483, 33487, 33496 and surrounding ZIPs). Scope and pricing are confirmed at your free on-site inspection.

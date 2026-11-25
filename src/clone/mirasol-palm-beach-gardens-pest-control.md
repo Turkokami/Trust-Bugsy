@@ -47,7 +47,7 @@ Preserve and Slough edges push rats, raccoons, and wildlife toward big homes —
 
 Chinch bugs threaten the estate lawns; slab homes need subterranean termite protection — we cover both.
 
-## Backing to the Slough or a preserve? Expect heavier pressure.
+## Backing to the Slough or a preserve? You can expect heavier pest pressure there.
 
 The Loxahatchee Slough and the course lakes are large, permanent breeding and wildlife sources. A recurring full-perimeter barrier program plus targeted fire-ant and wildlife work is what keeps a western estate protected.
 
@@ -98,4 +98,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a golf estate 
 
 [Get a Free Mirasol Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Mirasol & Old Palm and all of Palm Beach Gardens (33403, 33408, 33410, 33418), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Mirasol & Old Palm and all of Palm Beach Gardens (33403, 33408, 33410, 33418), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

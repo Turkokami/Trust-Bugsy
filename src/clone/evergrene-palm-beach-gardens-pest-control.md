@@ -12,7 +12,7 @@ Pest Control • Evergrene, Palm Beach Gardens
 
 # Evergrene Pest Control — a lake-and-preserve community that mosquitoes love.
 
-Bugsy’s protects Evergrene’s homes from the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to its large central lake, preserves, and mature landscaping — with targeted, eco-conscious treatments. Licensed, veteran-owned, local.
+Bugsy’s protects Evergrene’s homes from the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to its large central lake, preserves, and mature landscaping — with targeted, eco-conscious treatments. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Palm Beach 
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Evergrene, Palm Beach Gardens and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Evergrene, Palm Beach Gardens and all of Palm Beach County.

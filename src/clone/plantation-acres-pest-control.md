@@ -12,7 +12,7 @@ Pest Control • Plantation Acres
 
 # Plantation Acres Pest Control — rural western estates where canals bring the pests.
 
-Bugsy’s protects Plantation Acres’ large western estates from the mosquitoes, no-see-ums, fire ants, iguanas, and wildlife drawn to its canals, open land, and the Everglades edge. Licensed, veteran-owned, local.
+Bugsy’s protects Plantation Acres’ large western estates from the mosquitoes, no-see-ums, fire ants, iguanas, and wildlife drawn to its canals, open land, and the Everglades edge. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Plantation.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Plantation Acres, Plantation and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Plantation Acres, Plantation and across South Florida.

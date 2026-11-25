@@ -104,4 +104,4 @@ Get a free, no-pressure quote from a licensed, veteran-owned team that knows the
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Fort Pierce and the Treasure Coast, from Fort Pierce down to Fort Lauderdale.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Fort Pierce and the Treasure Coast, from Fort Pierce down to Fort Lauderdale.

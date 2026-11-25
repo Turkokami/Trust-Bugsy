@@ -14,7 +14,7 @@ Pest Control • Singer Island, Riviera Beach
 
 ## Singer Island Pest Control — barrier-island living means no-see-ums, roaches & condo rodents.
 
-Bugsy’s protects Singer Island’s oceanfront condos, canal homes, and single-family streets from the biting midges, mosquitoes, roaches, and rodents that come with mangroves, the Intracoastal, and high-rise living. Licensed, veteran-owned, local.
+Bugsy’s protects Singer Island’s oceanfront condos, canal homes, and single-family streets from the biting midges, mosquitoes, roaches, and rodents that come with mangroves, the Intracoastal, and high-rise living. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows barrier-i
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Singer Island, Riviera Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Singer Island, Riviera Beach and all of Palm Beach County.

@@ -25,7 +25,7 @@ Termites cause over $5 billion in property damage annually across the United Sta
 
 Unlike other pest problems that might affect your comfort, termite damage strikes at the structural integrity of your home. These silent destroyers can compromise load-bearing beams, flooring, and even roofing systems before you notice any visible signs of their presence.
 
-## The Real Cost of Delayed Action
+## The Cost of Delayed Action
 
 When homeowners in [Palm Beach Gardens](/palm-beach-gardens-fl-pest-control/) delay addressing termite issues, the costs compound rapidly:
 

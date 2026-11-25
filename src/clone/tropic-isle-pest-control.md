@@ -117,4 +117,4 @@ Get a $99 inspection (applied to the cost of treatment) built for finger-canal, 
 
 [Get a Free Tropic Isle Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Tropic Isle and all of Delray Beach (33444, 33445, 33446, 33483, 33484), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Tropic Isle and all of Delray Beach (33444, 33445, 33446, 33483, 33484), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

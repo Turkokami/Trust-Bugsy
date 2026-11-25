@@ -14,7 +14,7 @@ Pest Library
 
 Anthrenus & Attagenus species
 
-Tiny beetles whose bristly larvae quietly chew holes in wool, silk, and other natural fibers — often blamed on moths, and sometimes mistaken for bed bugs, but the damage is to your fabrics, not you.
+Tiny beetles whose bristly larvae chew holes unnoticed in wool, silk, and other natural fibers — often blamed on moths, and sometimes mistaken for bed bugs, but the damage is to your fabrics, not you.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 

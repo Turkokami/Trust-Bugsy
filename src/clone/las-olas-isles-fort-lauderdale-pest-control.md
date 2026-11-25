@@ -5,14 +5,14 @@ description: "Bugsy’s protects the Las Olas Isles’ luxury waterfront estates
 type: "area"
 h1: "Las Olas Isles Pest Control — yacht-lined finger isles, seawall to seawall."
 image: "https://trustbugsy.com/wp-content/uploads/2025/04/Group-333-min.webp"
-faqs: [{"q": "Do you service the Las Olas Isles?", "a": "Yes — we service the Las Olas Isles and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are no-see-ums and mosquitoes so bad near the water?", "a": "Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for real relief."}, {"q": "Can you help with iguanas on my seawall or dock?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service the Las Olas Isles?", "a": "Yes — we service the Las Olas Isles and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are no-see-ums and mosquitoes so bad near the water?", "a": "Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for relief."}, {"q": "Can you help with iguanas on my seawall or dock?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 Pest Control • Las Olas Isles, Fort Lauderdale
 
 # Las Olas Isles Pest Control — yacht-lined finger isles, seawall to seawall.
 
-Bugsy’s protects the Las Olas Isles’ luxury waterfront estates from the no-see-ums, mosquitoes, iguanas, and roof rats that come with private docks, seawalls, and lush tropical landscaping. Licensed, veteran-owned, discreet.
+Bugsy’s protects the Las Olas Isles’ luxury waterfront estates from the no-see-ums, mosquitoes, iguanas, and roof rats that come with private docks, seawalls, and lush tropical landscaping. We’re licensed, veteran-owned and discreet.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — we service the Las Olas Isles and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available.
 
 ### Why are no-see-ums and mosquitoes so bad near the water?
-Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for real relief.
+Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for relief.
 
 ### Can you help with iguanas on my seawall or dock?
 Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property.
@@ -101,4 +101,4 @@ Free, discreet consultation from a licensed, veteran-owned team that knows water
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving the Las Olas Isles, Fort Lauderdale and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving the Las Olas Isles, Fort Lauderdale and across South Florida.

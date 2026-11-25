@@ -15,9 +15,9 @@ Bird Control & Exclusion
 
 Pigeons, sparrows, and starlings roosting on ledges, signs, and rooflines leave corrosive droppings, clog vents, and carry mites and disease. Bugsy’s removes the birds and their nests, installs exclusion so they can’t come back, and cleans up the mess they left behind.
 
-[Get a Free Estimate](/contact/) DETER • EXCLUDE • CLEAN
+[Get a Free Estimate](/contact/) Deter, exclude and clean.
 
-## Why pest birds are a real problem
+## Why pest birds are a problem
 
 A few birds become a flock fast — and the damage adds up on your roof, your signage, and your reputation.
 

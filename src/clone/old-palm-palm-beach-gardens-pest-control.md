@@ -5,14 +5,14 @@ description: "Bugsy’s protects Old Palm Golf Club’s estates from the mosquit
 type: "area"
 h1: "Old Palm Pest Control — white-glove protection for a private golf estate community."
 image: "https://trustbugsy.com/wp-content/uploads/2026/03/Group-166-2.webp"
-faqs: [{"q": "Do you service the gated community discreetly?", "a": "Yes — we coordinate gate and HOA access, work quietly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available."}, {"q": "Why are mosquitoes bad near the golf course?", "a": "The course lakes and water features are constant breeding sites, so even a spotless yard gets mosquitoes at dusk. We treat resting vegetation and standing water around your home."}, {"q": "Can you keep roof rats out of the landscaping and attic?", "a": "Yes. Dense, manicured planting is a rat highway here. We inspect the roofline and canopy, seal entry points, and maintain control around the property."}, {"q": "How much does service cost?", "a": "It depends on home size and landscaping — we give a clear, no-pressure quote up front. Call (561) 654-8998."}]
+faqs: [{"q": "Do you service the gated community discreetly?", "a": "Yes — we coordinate gate and HOA access, work discreetly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available."}, {"q": "Why are mosquitoes bad near the golf course?", "a": "The course lakes and water features are constant breeding sites, so even a spotless yard gets mosquitoes at dusk. We treat resting vegetation and standing water around your home."}, {"q": "Can you keep roof rats out of the landscaping and attic?", "a": "Yes. Dense, manicured planting is a rat highway here. We inspect the roofline and canopy, seal entry points, and maintain control around the property."}, {"q": "How much does service cost?", "a": "It depends on home size and landscaping — we give a clear, no-pressure quote up front. Call (561) 654-8998."}]
 ---
 
 Pest Control • Old Palm, Palm Beach Gardens
 
 # Old Palm Pest Control — white-glove protection for a private golf estate community.
 
-Bugsy’s protects Old Palm Golf Club’s estates from the mosquitoes, roof rats, ghost ants, termites, and iguanas drawn to its lakes, fairways, and lush estate landscaping. Licensed, veteran-owned, discreet.
+Bugsy’s protects Old Palm Golf Club’s estates from the mosquitoes, roof rats, ghost ants, termites, and iguanas drawn to its lakes, fairways, and lush estate landscaping. We’re licensed, veteran-owned and discreet.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -69,7 +69,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 ## Old Palm pest control — questions we hear
 
 ### Do you service the gated community discreetly?
-Yes — we coordinate gate and HOA access, work quietly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available.
+Yes — we coordinate gate and HOA access, work discreetly around landscaping and pools, and use licensed technicians with low-profile treatments. Same-day service is often available.
 
 ### Why are mosquitoes bad near the golf course?
 The course lakes and water features are constant breeding sites, so even a spotless yard gets mosquitoes at dusk. We treat resting vegetation and standing water around your home.
@@ -103,4 +103,4 @@ Free, discreet consultation from a licensed, veteran-owned team experienced with
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Old Palm, Palm Beach Gardens and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Old Palm, Palm Beach Gardens and all of Palm Beach County.

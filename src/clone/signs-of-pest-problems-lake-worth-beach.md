@@ -157,4 +157,4 @@ Call [(561) 654-8998](tel:(561) 654-8998) or email [contact@trustbugsy.com](mail
 
 We proudly serve Lake Worth Beach, West Palm Beach, Boynton Beach, Delray Beach, and neighboring areas throughout Palm Beach County.
 
-Reliable. Environmentally conscious. Veteran-led.
+Reliable, environmentally conscious and veteran-led.

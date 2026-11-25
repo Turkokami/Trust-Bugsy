@@ -4,7 +4,7 @@ title: "El Cid & Historic District Pest Control, West Palm Beach"
 description: "El Cid, Prospect Park, and the Southland Park historic districts line the Intracoastal with 1920s Mediterranean-Revival and mission homes, mature oak canopy…"
 type: "area"
 h1: "El Cid & Historic District Pest Control (West Palm Beach, FL)"
-faqs: [{"q": "Do older El Cid homes really need termite protection?", "a": "Yes — the original wood framing, trim, and additions in 1920s homes are exactly what drywood and subterranean termites target. A periodic $99 inspection (credited toward treatment) protects irreplaceable historic material."}, {"q": "Why do I get roof rats in an established neighborhood?", "a": "El Cid’s mature oak and ficus canopy touches older eaves and soffits, giving roof rats a direct path to the attic. Trapping plus sealing the roofline is the lasting fix."}, {"q": "Can you treat mosquitoes off the Intracoastal and Flagler Drive?", "a": "Yes — a barrier treatment plus larvicide, with no-see-um targeting, on a recurring wet-season schedule so shaded courtyards and loggias stay usable."}, {"q": "Are treatments safe for my family, pets, and old plaster?", "a": "Yes. We use targeted, low-impact IPM methods chosen with historic finishes and household safety in mind, and explain any brief precautions."}]
+faqs: [{"q": "Do older El Cid homes need termite protection?", "a": "Yes — the original wood framing, trim, and additions in 1920s homes are exactly what drywood and subterranean termites target. A periodic $99 inspection (credited toward treatment) protects irreplaceable historic material."}, {"q": "Why do I get roof rats in an established neighborhood?", "a": "El Cid’s mature oak and ficus canopy touches older eaves and soffits, giving roof rats a direct path to the attic. Trapping plus sealing the roofline is the lasting fix."}, {"q": "Can you treat mosquitoes off the Intracoastal and Flagler Drive?", "a": "Yes — a barrier treatment plus larvicide, with no-see-um targeting, on a recurring wet-season schedule so shaded courtyards and loggias stay usable."}, {"q": "Are treatments safe for my family, pets, and old plaster?", "a": "Yes. We use targeted, low-impact IPM methods chosen with historic finishes and household safety in mind, and explain any brief precautions."}]
 ---
 
 # El Cid & Historic District Pest Control (West Palm Beach, FL)
@@ -65,7 +65,7 @@ Bugsy’s Pest Solutions is a veteran-owned, family-operated company rooted righ
 
 ## El Cid & the Historic Districts pest control — questions we hear
 
-### Do older El Cid homes really need termite protection?
+### Do older El Cid homes need termite protection?
 Yes — the original wood framing, trim, and additions in 1920s homes are exactly what drywood and subterranean termites target. A periodic $99 inspection (credited toward treatment) protects irreplaceable historic material.
 
 ### Why do I get roof rats in an established neighborhood?
@@ -100,4 +100,4 @@ Get a $99 inspection (applied to the cost of treatment) built for a 1920s waterf
 
 [Get a Free El Cid Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving El Cid & the Historic Districts and all of West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving El Cid & the Historic Districts and all of West Palm Beach (33401, 33405, 33407, 33409, 33411, 33413, 33415, 33417), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -39,7 +39,7 @@ Atlantic Ave and Pineapple Grove kitchens, bars, and cafes — discreet cockroac
 
 ### Retail & Storefronts
 
-Boutiques, galleries, and shops where a pest sighting costs you the sale — quiet, scheduled service that keeps the floor clean.
+Boutiques, galleries, and shops where a pest sighting costs you the sale — discreet, scheduled service that keeps the floor clean.
 
 ### Offices & Professional Suites
 
@@ -156,4 +156,4 @@ Get a commercial inspection and a discreet, documented program built for your in
 
 [Get a Free Commercial Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Delray Beach (33444, 33445, 33446, 33483, 33484) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

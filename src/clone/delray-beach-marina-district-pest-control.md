@@ -62,7 +62,7 @@ One local team for waterfront homes, cottages, and condo buildings.
 
 Managing a condo or association building here? Our [commercial and HOA program](/delray-beach-commercial-pest-control/) handles common areas, trash rooms, and shared spaces with documented, board-ready service alongside individual units.
 
-## Balcony or pool deck unusable at dusk? It’s the water.
+## Balcony or pool deck unusable at dusk? The nearby water is the cause.
 
 The Intracoastal and ocean breeze push no-see-ums and mosquitoes onto beachside balconies and patios every evening. A program that treats specifically for biting midges — plus a recurring barrier — is what gives you your outdoor space back.
 
@@ -116,4 +116,4 @@ Get a $99 inspection (applied to the cost of treatment) built for seawall, marin
 
 [Get a Free Beach District Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving the Marina & Beach District and all of Delray Beach (33444, 33445, 33446, 33483, 33484), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving the Marina & Beach District and all of Delray Beach (33444, 33445, 33446, 33483, 33484), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

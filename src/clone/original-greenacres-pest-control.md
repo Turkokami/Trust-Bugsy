@@ -14,7 +14,7 @@ Pest Control • Original Greenacres
 
 ## Original Greenacres Pest Control — older homes, mature trees, more ways in.
 
-Bugsy’s protects the established homes of the original Greenacres core from the roof rats, ants, palmetto bugs, and termites that exploit older construction and mature tree cover. Veteran-owned and local.
+Bugsy’s protects the established homes of the original Greenacres core from the roof rats, ants, palmetto bugs, and termites that exploit older construction and mature tree cover. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows older Sou
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Original Greenacres, Greenacres and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Original Greenacres, Greenacres and all of Palm Beach County.

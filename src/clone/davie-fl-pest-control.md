@@ -5,7 +5,7 @@ description: "Davie is a unique town — a mix of equestrian estates, college ca
 type: "area"
 h1: "Pest Control in Davie, Florida"
 image: "https://trustbugsy.com/wp-content/uploads/2025/03/bugsys-residential-commercial-pest-treatment-action-e1774427410628.webp"
-faqs: [{"q": "Can you treat a horse property or barn in Davie?", "a": "Yes. We use products approved for use around horses and livestock. We treat barn perimeters, grain storage areas, and stall wood for carpenter ants and termites using horse-safe formulations."}, {"q": "Are fire ants dangerous in Davie’s equestrian communities?", "a": "Fire ant stings are a real concern for horses, especially foals, and for children in yards. We treat fire ant mounds with contact bait applied directly to the colony, with a follow-up check included."}, {"q": "How do I know if my Davie home has termites?", "a": "Look for discarded wings near windows or doors, mud tubes along your foundation, or soft or hollow-sounding wood. Call us for a $99 inspection — we’ll identify the species and give you a written recommendation."}]
+faqs: [{"q": "Can you treat a horse property or barn in Davie?", "a": "Yes. We use products approved for use around horses and livestock. We treat barn perimeters, grain storage areas, and stall wood for carpenter ants and termites using horse-safe formulations."}, {"q": "Are fire ants dangerous in Davie’s equestrian communities?", "a": "Fire ant stings are a concern for horses, especially foals, and for children in yards. We treat fire ant mounds with contact bait applied directly to the colony, with a follow-up check included."}, {"q": "How do I know if my Davie home has termites?", "a": "Look for discarded wings near windows or doors, mud tubes along your foundation, or soft or hollow-sounding wood. Call us for a $99 inspection — we’ll identify the species and give you a written recommendation."}]
 ---
 
 # Pest Control in Davie, Florida
@@ -27,7 +27,7 @@ Davie is a unique town — a mix of equestrian estates, college campuses, and de
 
 📞 (561) 654-8998 | ✉ contact@trustbugsy.com
 
-**Veteran-Owned • Eco-Friendly • Pet-Safe • Licensed & Insured • Same-Day Available**
+**Veteran-Owned, Eco-Friendly, Pet-Safe, Licensed & Insured, Same-Day Available**
 
 ## Residential Pest Control in Davie
 
@@ -91,7 +91,7 @@ Bugsy’s offers flexible plans to fit every home and budget. View our [Gold Pac
 Yes. We use products approved for use around horses and livestock. We treat barn perimeters, grain storage areas, and stall wood for carpenter ants and termites using horse-safe formulations.
 
 ### Are fire ants dangerous in Davie’s equestrian communities?
-Fire ant stings are a real concern for horses, especially foals, and for children in yards. We treat fire ant mounds with contact bait applied directly to the colony, with a follow-up check included.
+Fire ant stings are a concern for horses, especially foals, and for children in yards. We treat fire ant mounds with contact bait applied directly to the colony, with a follow-up check included.
 
 ### How do I know if my Davie home has termites?
 Look for discarded wings near windows or doors, mud tubes along your foundation, or soft or hollow-sounding wood. Call us for a $99 inspection — we’ll identify the species and give you a written recommendation.

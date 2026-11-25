@@ -14,7 +14,7 @@ Pest Control • Sherwood Forest, Greenacres
 
 ## Sherwood Forest Pest Control — lakes and shade trees invite mosquitoes, ants & rats.
 
-Bugsy’s keeps Sherwood Forest’s established single-family homes protected from the mosquitoes, ants, palmetto bugs, and roof rats drawn to the community’s lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s keeps Sherwood Forest’s established single-family homes protected from the mosquitoes, ants, palmetto bugs, and roof rats drawn to the community’s lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -104,4 +104,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Greenacres.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Sherwood Forest, Greenacres and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Sherwood Forest, Greenacres and all of Palm Beach County.

@@ -14,7 +14,7 @@ Pest Library
 
 Xylocopa species
 
-Big, bumble-bee-lookalikes with a shiny black abdomen that drill perfectly round holes into wood to nest — the hovering males are all bluff, but the tunneling adds up to real damage over the years.
+Big, bumble-bee-lookalikes with a shiny black abdomen that drill perfectly round holes into wood to nest — the hovering males are all bluff, but the tunneling adds up to costly damage over the years.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 
@@ -26,7 +26,7 @@ Carpenter bees look much like bumble bees but with a shiny, hairless black abdom
 
 Carpenter bees do not eat wood — they excavate it to make nest galleries. Females bore into unpainted or weathered softwood: fascia, eaves, deck railings, fence rails, pergolas, and trim. Inside, they turn and tunnel along the grain, laying eggs in a row of provisioned chambers.
 
-In spring, males hover aggressively around nest sites and will dart at people and pets — but males have no stinger and cannot sting. Females can sting but are docile and rarely do. The real concern is cumulative: bees reuse and expand galleries year after year, and woodpeckers often tear into the wood chasing the larvae, enlarging the damage.
+In spring, males hover aggressively around nest sites and will dart at people and pets — but males have no stinger and cannot sting. Females can sting but are docile and rarely do. The bigger concern is cumulative: bees reuse and expand galleries year after year, and woodpeckers often tear into the wood chasing the larvae, enlarging the damage.
 
 ## Signs of an infestation
 

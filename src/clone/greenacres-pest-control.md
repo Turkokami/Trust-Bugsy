@@ -5,7 +5,7 @@ description: "From River Bridge to the original Greenacres core, Bugsy’s prote
 type: "area"
 h1: "Pest Control in Greenacres, FL | Bugsy’s Pest Solutions"
 image: "https://trustbugsy.com/wp-content/uploads/2025/03/Mask-group-13-min.webp"
-faqs: [{"q": "Do you service all of Greenacres?", "a": "Yes — from River Bridge and Original Greenacres to Sherwood Forest, Woodside, and the communities off Lake Worth Road and Jog. We’re local, so same-day service is often available."}, {"q": "Why so many mosquitoes near the canals?", "a": "The canals and lakes are constant breeding sites. Even a clean yard gets mosquitoes drifting in at dusk. We target resting vegetation and standing water around your home for real relief."}, {"q": "How much does pest control cost in Greenacres?", "a": "It depends on home size and the pests involved. We give a clear, no-pressure quote up front — call (561) 654-8998."}, {"q": "Are treatments safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service all of Greenacres?", "a": "Yes — from River Bridge and Original Greenacres to Sherwood Forest, Woodside, and the communities off Lake Worth Road and Jog. We’re local, so same-day service is often available."}, {"q": "Why so many mosquitoes near the canals?", "a": "The canals and lakes are constant breeding sites. Even a clean yard gets mosquitoes drifting in at dusk. We target resting vegetation and standing water around your home for relief."}, {"q": "How much does pest control cost in Greenacres?", "a": "It depends on home size and the pests involved. We give a clear, no-pressure quote up front — call (561) 654-8998."}, {"q": "Are treatments safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 # Pest Control in Greenacres, FL | Bugsy’s Pest Solutions
@@ -74,7 +74,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — from River Bridge and Original Greenacres to Sherwood Forest, Woodside, and the communities off Lake Worth Road and Jog. We’re local, so same-day service is often available.
 
 ### Why so many mosquitoes near the canals?
-The canals and lakes are constant breeding sites. Even a clean yard gets mosquitoes drifting in at dusk. We target resting vegetation and standing water around your home for real relief.
+The canals and lakes are constant breeding sites. Even a clean yard gets mosquitoes drifting in at dusk. We target resting vegetation and standing water around your home for relief.
 
 ### How much does pest control cost in Greenacres?
 It depends on home size and the pests involved. We give a clear, no-pressure quote up front — call (561) 654-8998.
@@ -105,4 +105,4 @@ Get a free, no-pressure quote from a licensed, veteran-owned team that knows you
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Greenacres, Greenacres and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Greenacres, Greenacres and all of Palm Beach County.

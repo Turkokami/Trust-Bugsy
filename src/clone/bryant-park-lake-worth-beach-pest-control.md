@@ -12,7 +12,7 @@ Pest Control • Bryant Park, Lake Worth Beach
 
 # Bryant Park Pest Control — waterfront-park living beside the lagoon.
 
-Bugsy’s protects Bryant Park’s historic homes along the Intracoastal from the roof rats, termites, ghost ants, and no-see-ums that come with mature trees, old construction, and lagoon-side moisture. Veteran-owned and local.
+Bugsy’s protects Bryant Park’s historic homes along the Intracoastal from the roof rats, termites, ghost ants, and no-see-ums that come with mature trees, old construction, and lagoon-side moisture. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows waterfron
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Bryant Park, Lake Worth Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Bryant Park, Lake Worth Beach and all of Palm Beach County.

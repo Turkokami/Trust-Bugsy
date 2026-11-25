@@ -41,7 +41,7 @@ Tawny crazy ants also displace red imported fire ants and other native insects, 
 
 ## Why they are a problem
 
-Beyond the overwhelming nuisance, tawny crazy ants cause real equipment damage — shorting out electrical and irrigation controls — and their sheer density makes yards nearly unusable at peak season. Because they resist many standard baits, DIY efforts usually fail, letting the colony keep expanding.
+Beyond the overwhelming nuisance, tawny crazy ants cause equipment damage — shorting out electrical and irrigation controls — and their sheer density makes yards nearly unusable at peak season. Because they resist many standard baits, DIY efforts usually fail, letting the colony keep expanding.
 
 ## How Bugsy’s treats tawny crazy ants
 

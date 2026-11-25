@@ -5,14 +5,14 @@ description: "Bugsy’s protects Eagle Trace’s gated golf-course homes from th
 type: "area"
 h1: "Eagle Trace Pest Control — championship-golf living with lake-edge mosquito pressure."
 image: "https://trustbugsy.com/wp-content/uploads/2025/05/Mask-group-8.webp"
-faqs: [{"q": "Do you service Eagle Trace?", "a": "Yes — we service Eagle Trace and coordinate gate access and HOA-friendly exterior treatments. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are mosquitoes so persistent here?", "a": "Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for real relief."}, {"q": "How much does service cost?", "a": "It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service Eagle Trace?", "a": "Yes — we service Eagle Trace and coordinate gate access and HOA-friendly exterior treatments. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are mosquitoes so persistent here?", "a": "Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for relief."}, {"q": "How much does service cost?", "a": "It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 Pest Control • Eagle Trace, Coral Springs
 
 # Eagle Trace Pest Control — championship-golf living with lake-edge mosquito pressure.
 
-Bugsy’s protects Eagle Trace’s gated golf-course homes from the mosquitoes, fire ants, iguanas, and roof rats drawn to its lakes, fairways, and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Eagle Trace’s gated golf-course homes from the mosquitoes, fire ants, iguanas, and roof rats drawn to its lakes, fairways, and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — we service Eagle Trace and coordinate gate access and HOA-friendly exterior treatments. We’re local to South Florida, so same-day service is often available.
 
 ### Why are mosquitoes so persistent here?
-Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for real relief.
+Western Broward’s community lakes, canals, and the Everglades to the west are constant breeding grounds. We treat resting vegetation and standing water around your home for relief.
 
 ### How much does service cost?
 It depends on home size and pests involved — we give a clear, no-pressure quote up front. Call (561) 654-8998.
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Coral Sprin
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Eagle Trace, Coral Springs and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Eagle Trace, Coral Springs and across South Florida.

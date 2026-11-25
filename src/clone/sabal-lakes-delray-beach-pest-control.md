@@ -12,7 +12,7 @@ Pest Control • Sabal Lakes, Delray Beach
 
 # Sabal Lakes Pest Control — a gated family community that mosquitoes love.
 
-Bugsy’s keeps Sabal Lakes’ gated family homes protected from the mosquitoes, ghost ants, roaches, and rodents drawn to the community’s lakes and landscaping in west Delray. Licensed, veteran-owned, local.
+Bugsy’s keeps Sabal Lakes’ gated family homes protected from the mosquitoes, ghost ants, roaches, and rodents drawn to the community’s lakes and landscaping in west Delray. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Delray Beac
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Sabal Lakes, Delray Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Sabal Lakes, Delray Beach and all of Palm Beach County.

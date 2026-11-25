@@ -23,7 +23,7 @@ Here’s everything you need to know about how to get rid of bats naturally, saf
 
 ![Close-up of soffit vent showing how bats enter homes in Florida](https://trustbugsy.com/wp-content/uploads/2025/06/bat-entry-points-roof-soffit-florida.webp)
 
-Bats sneak in through roof gaps, soffits, vents, and chimneys—especially in older Florida homes. Once inside, they roost in attics, eaves, and even walls. They’re quiet, nocturnal, and multiply fast. You may not even know they’re there until:
+Bats sneak in through roof gaps, soffits, vents, and chimneys—especially in older Florida homes. Once inside, they roost in attics, eaves, and even walls. They’re hard to hear, nocturnal, and multiply fast. You may not even know they’re there until:
 
 - You hear fluttering or scratching sounds at night
 - You smell a strong ammonia-like odor (that’s guano—bat poop)

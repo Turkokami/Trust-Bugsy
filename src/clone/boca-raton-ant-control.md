@@ -119,4 +119,4 @@ Get a $99 inspection (applied to the cost of treatment) — we’ll identify the
 
 [Get a Free Ant Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

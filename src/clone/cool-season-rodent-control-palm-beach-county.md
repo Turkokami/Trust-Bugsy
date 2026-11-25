@@ -27,7 +27,7 @@ As nights cool through fall and winter, rats and mice look for warm, dry shelter
 
 When temperatures drop, rodents seek warmth, food, and safe harborage — and homes offer all three. In Palm Beach County the most common invader is the roof rat, an agile climber that travels along fences, tree branches, and utility lines and enters through roofline gaps, soffit and vent openings, and around pipes. Mice and, in some areas, Norway rats also push indoors.
 
-Rodents aren’t just a nuisance. They gnaw wiring (a real fire risk), contaminate insulation and stored items, chew into food, and can carry disease. They also reproduce quickly, so a couple of rats in the attic can become a real infestation over a season. The reliable fix isn’t just traps — it’s finding and sealing the entry points so new rodents can’t follow.
+Rodents aren’t just a nuisance. They gnaw wiring (a fire risk), contaminate insulation and stored items, chew into food, and can carry disease. They also reproduce quickly, so a couple of rats in the attic can become a full infestation over a season. The reliable fix isn’t just traps — it’s finding and sealing the entry points so new rodents can’t follow.
 
 - Scratching or scurrying sounds in the attic or walls, usually at night
 - Droppings in the garage, pantry, or along walls
@@ -149,4 +149,4 @@ $99 inspection (applied to the cost of treatment), trapping, and entry-point exc
 
 [Book My Free Rodent Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Palm Beach County, FL (33401, 33409, 33411, 33426, 33436, 33444, 33458, 33460, 33472, 33477, 33483, 33487, 33496 and surrounding ZIPs). Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Palm Beach County, FL (33401, 33409, 33411, 33426, 33436, 33444, 33458, 33460, 33472, 33477, 33483, 33487, 33496 and surrounding ZIPs). Scope and pricing are confirmed at your free on-site inspection.

@@ -19,7 +19,7 @@ This package is perfect for those who want the highest level of security and cle
 ✅ PLUS Rodent Control (Rats & Mice)
 ✅ Total home protection, year-round
 
-No shortcuts. No surprises. Just total confidence in a pest-free home.
+We take no shortcuts and leave you no surprises, just total confidence in a pest-free home.
 
 [Get Your Free Estimate](/contact/)
 

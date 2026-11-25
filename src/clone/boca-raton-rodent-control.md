@@ -16,7 +16,7 @@ Rodent & Rat Control • Boca Raton, FL
 Roof rats travel the seawalls and canals of Royal Palm Yacht & Country Club, The Sanctuary, and the Intracoastal straight into attics and walls. Bugsy’s traps and removes the rodents, seals the exterior openings they used, and cleans up the mess — because trapping without exclusion just invites the next one.
 
 - ★ Veteran-Owned
-- Trap • Exclude • Sanitize
+- Trap, exclude and sanitize
 - Exclusion Warranty
 - FDACS-Licensed & Insured
 - Attic Cleanup Available
@@ -137,4 +137,4 @@ Get a free rodent inspection — we’ll find how they’re getting in and seal 
 
 [Get a Free Rodent Inspection](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Boca Raton (33427, 33428, 33431, 33432, 33433, 33434, 33486, 33487, 33496, 33498) and Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

@@ -12,7 +12,7 @@ Pest Control • Hunters Run, Boynton Beach
 
 # Hunters Run Pest Control — three courses, chains of lakes, year-round pressure.
 
-Bugsy’s keeps Hunters Run’s homes, villas, and condos protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around its three golf courses and lakes. Licensed, veteran-owned, local.
+Bugsy’s keeps Hunters Run’s homes, villas, and condos protected from the mosquitoes, ghost ants, palmetto bugs, and rodents that thrive around its three golf courses and lakes. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows your comm
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Hunters Run, Boynton Beach and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Hunters Run, Boynton Beach and all of Palm Beach County.

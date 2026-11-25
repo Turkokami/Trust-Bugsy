@@ -12,7 +12,7 @@ Pest Control • Victoria Park, Fort Lauderdale
 
 # Victoria Park Pest Control — historic, tree-lined, and full of ways in.
 
-Bugsy’s protects Victoria Park’s historic homes near downtown Fort Lauderdale from the roof rats, termites, ghost ants, and palmetto bugs drawn to mature tree cover, older construction, and nearby canals. Veteran-owned and local.
+Bugsy’s protects Victoria Park’s historic homes near downtown Fort Lauderdale from the roof rats, termites, ghost ants, and palmetto bugs drawn to mature tree cover, older construction, and nearby canals. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows older Sou
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Victoria Park, Fort Lauderdale and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Victoria Park, Fort Lauderdale and across South Florida.

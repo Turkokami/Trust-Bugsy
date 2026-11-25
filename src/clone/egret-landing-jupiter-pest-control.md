@@ -12,7 +12,7 @@ Pest Control • Egret Landing, Jupiter
 
 # Egret Landing Pest Control — a family community where lake living means mosquitoes.
 
-Bugsy’s keeps Egret Landing’s family homes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to its lakes and mature landscaping near Abacoa. Licensed, veteran-owned, local.
+Bugsy’s keeps Egret Landing’s family homes protected from the mosquitoes, ghost ants, palmetto bugs, and rodents drawn to its lakes and mature landscaping near Abacoa. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -103,4 +103,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Jupiter.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Egret Landing, Jupiter and all of Palm Beach County.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Egret Landing, Jupiter and all of Palm Beach County.

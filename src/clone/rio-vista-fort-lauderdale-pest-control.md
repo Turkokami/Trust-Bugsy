@@ -5,14 +5,14 @@ description: "Bugsy’s protects Rio Vista’s historic waterfront homes along t
 type: "area"
 h1: "Rio Vista Pest Control — historic waterfront estates on the New River."
 image: "https://trustbugsy.com/wp-content/uploads/2026/03/Group-166-2.webp"
-faqs: [{"q": "Do you service Rio Vista?", "a": "Yes — we service Rio Vista and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are no-see-ums and mosquitoes so bad near the water?", "a": "Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for real relief."}, {"q": "Can you help with iguanas on my seawall or dock?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
+faqs: [{"q": "Do you service Rio Vista?", "a": "Yes — we service Rio Vista and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available."}, {"q": "Why are no-see-ums and mosquitoes so bad near the water?", "a": "Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for relief."}, {"q": "Can you help with iguanas on my seawall or dock?", "a": "Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property."}, {"q": "Is it safe for kids and pets?", "a": "Yes — targeted, family-conscious products applied by licensed techs, with simple re-entry steps when needed."}]
 ---
 
 Pest Control • Rio Vista, Fort Lauderdale
 
 # Rio Vista Pest Control — historic waterfront estates on the New River.
 
-Bugsy’s protects Rio Vista’s historic waterfront homes along the New River and Intracoastal from the no-see-ums, mosquitoes, iguanas, roof rats, and termites that come with docks, seawalls, and mature landscaping. Veteran-owned and local.
+Bugsy’s protects Rio Vista’s historic waterfront homes along the New River and Intracoastal from the no-see-ums, mosquitoes, iguanas, roof rats, and termites that come with docks, seawalls, and mature landscaping. We’re veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -72,7 +72,7 @@ Backed by our FDACS license, family-conscious products, and a 5.0-star reputatio
 Yes — we service Rio Vista and all of Fort Lauderdale, from single-family homes and waterfront estates to condos and businesses. We’re local to South Florida, so same-day service is often available.
 
 ### Why are no-see-ums and mosquitoes so bad near the water?
-Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for real relief.
+Fort Lauderdale’s canals, the Intracoastal, and mangroves are constant breeding grounds, and biting midges slip through standard screens. We treat resting areas and standing water and advise on screening and timing for relief.
 
 ### Can you help with iguanas on my seawall or dock?
 Yes — we handle iguana pressure and exclusion around seawalls, canal banks, and landscaping, using the correct, legal approach. Call us to assess your property.
@@ -101,4 +101,4 @@ Free, no-pressure quote from a licensed, veteran-owned team that knows waterfron
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Rio Vista, Fort Lauderdale and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Rio Vista, Fort Lauderdale and across South Florida.

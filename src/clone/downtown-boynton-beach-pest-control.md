@@ -47,7 +47,7 @@ The marina and Intracoastal breed biters that hit patios and balconies — treat
 
 Ghost and white-footed ants trail in from waterfront landscaping — baited at the nest.
 
-## Business by the marina? We treat discreetly.
+## Business by the marina? We treat your business discreetly.
 
 Downtown restaurants and shops need service that never interrupts customers. Our commercial program adds after-hours visits and health-inspection-ready documentation.
 
@@ -102,4 +102,4 @@ Get a $99 inspection (applied to the cost of treatment) built for the marina-dis
 
 [Get a Free Downtown Quote](/contact/)
 
-Bugsy’s Pest Solutions — FDACS License #JF323154 • Serving Downtown & the Marina District and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.
+Bugsy’s Pest Solutions — FDACS License #JF323154, serving Downtown & the Marina District and all of Boynton Beach (33426, 33435, 33436, 33437, 33472, 33473, 33474), Palm Beach County. Scope and pricing are confirmed at your free on-site inspection.

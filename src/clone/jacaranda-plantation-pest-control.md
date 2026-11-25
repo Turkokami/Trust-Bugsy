@@ -12,7 +12,7 @@ Pest Control • Jacaranda, Plantation
 
 # Jacaranda Pest Control — golf-and-lake living with year-round mosquito pressure.
 
-Bugsy’s protects Jacaranda’s golf-course homes in Plantation from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. Licensed, veteran-owned, local.
+Bugsy’s protects Jacaranda’s golf-course homes in Plantation from the mosquitoes, fire ants, palmetto bugs, iguanas, and roof rats drawn to its lakes and mature landscaping. We’re licensed, veteran-owned and local.
 
 - FDACS Licensed #JF323154
 - Veteran-Owned
@@ -100,4 +100,4 @@ Free, no-pressure quote from a licensed, veteran-owned team local to Plantation.
 
 [Get a Free Quote](/contact/)
 
-Bugsy’s Pest Solutions • FDACS Licensed #JF323154 • Serving Jacaranda, Plantation and across South Florida.
+Bugsy’s Pest Solutions, FDACS Licensed #JF323154, serving Jacaranda, Plantation and across South Florida.

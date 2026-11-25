@@ -14,7 +14,7 @@ Pest Library
 
 Tineola bisselliella & Tinea pellionella
 
-Small, light-shy moths that slip into dark closets and storage, where their larvae quietly eat holes in wool, cashmere, silk, and fur — damaging exactly the clothing you save and rarely wear.
+Small, light-shy moths that slip into dark closets and storage, where their larvae eat holes unnoticed in wool, cashmere, silk, and fur — damaging exactly the clothing you save and rarely wear.
 
 [Get a $99 Inspection (applied to the cost of treatment)](/contact/)
 
